@@ -1,0 +1,7 @@
+Inverted Index (II): Each Map processes one line of HTML
+files. For each link it finds, it outputs an intermediate pair with the
+link as the key and the position as the value. Sort is required and
+no reduce stage is required.
+
+GPU = 3.084599000s
+CPU = 0.220000000s 
