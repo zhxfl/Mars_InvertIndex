@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>资源合作-百度百科合作平台</title>
+<link href="css/hezuo.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/nav.js"></script>
+<script type="text/javascript" src="js/ajax.js"></script>
+</head>
+
+<body>
+<div id="box">
+	<div id="head">
+		<div class="left">
+			<a href="http://baike.baidu.com/" target="_blank">百度百科</a><span>合作平台</span>
+		</div>
+		<div id="usrbar">
+			<iframe src="http://baike.baidu.com/list-php/dispose/title.php" allowtransparency="true"  frameborder="0"  height="22" width="100%" scrolling="no" target="_parent" style="overflow:hidden"></iframe>
+		</div>
+	</div>
+	<ul id="nav">
+		<li style="width:90px;"><span><a href="index.html">首页</a></span></li>
+		<li>
+			<span class="select"><a href="javascript:;">合作方式</a></span>
+			<div id="select">
+				<a href="qwbj.html">权威编辑</a>
+				<a href="xmgj.html">项目共建</a>
+				<a href="zyhz.html">资源合作</a>
+				<a href="api.html">API输出</a>
+				<a href="hdhz.html" class="nobg">活动合作</a>
+			</div>
+		</li>
+		<li><span><a href="anli.html">合作案例</a></span></li>
+		<li><span><a href="problem.html">常见问题</a></span></li>
+		<li><span><a href="lxwm.html">联系我们</a></span></li>
+	</ul>
+	<div id="banner"><img src="images/banner_06.jpg" alt="" /></div>
+	<div id="wrap">
+		<div class="wLeft">
+			<dl class="jianjie">
+				<dt>简介</dt>
+				<dd>合作方提供所属领域的优质资源，百科以模块等形式嵌入百度百科词条，为亿万用户丰富各领域的专业知识，在大幅提升网民浏览体验的同时增强用户对资源提供方的品牌认知度，扩大其影响力和美誉度。</dd>
+				<img src="images/img_146.jpg" alt="" />
+			</dl>
+			<h2>合作方式说明</h2>
+			<dl class="shuoming">
+				<dt><strong>合作方提供</strong></dt>
+				<dd>
+					<p>所属领域的优质资源，形式不限（如图片、视频、数据、文字资料等）。</p>
+				</dd>
+			</dl>
+			<dl class="shuoming">
+				<dt><strong>百度百科提供</strong></dt>
+				<dd>
+					<p>优质平台、对合作方优质资源的海量词条展现</p>
+					<p>在引入合作资源的词条页对合作方形象进行独特展示，通过品牌链接模块提高合作方网站流量</p>
+				</dd>
+			</dl>
+			<h2>合作流程介绍</h2>
+			<div class="num">
+				<dl>
+					<dt>注册官方账号</dt>
+					<dd>合作方需要在合作开始前注册能代表合作方身份的百度官方账号</dd>
+				</dl>
+				<dl class="mar">
+					<dt>提交合作申请</dt>
+					<dd>合作方点击页面右侧的“如何申请合作”按钮，按具体要求准备所需资料并提交。</dd>
+				</dl>
+				<dl>
+					<dt>等待评估反馈</dt>
+					<dd>百科工作人员将在15个工作日内将评估结果通过合作方登记的联系邮箱予以反馈。</dd>
+				</dl>
+			</div>
+		</div>
+		<div class="wRight">
+			<div class="data">
+				<h3>数据统计</h3>
+				<p>已开展合作：<strong id="orgCount"></strong> 家</p>
+				<a href="hzsq.html" target="_blank" id="how">如何申请</a>
+			</div>
+			<div class="anli">
+				<a href="anli.html" target="_blank">更多>></a><h3>合作案例</h3>
+			</div>
+			<ul>
+				<li><a href="41.html" target="_blank" title="酷六网"><img src="images/img_84.gif" alt="" /></a><a href="41.html" target="_blank">酷六网</a></li>
+				<li><a href="42.html" target="_blank" title="土豆网"><img src="images/img_85.gif" alt="" /></a><a href="42.html" target="_blank">土豆网</a></li>
+				<li><a href="43.html" target="_blank" title="奇艺"><img src="images/img_86.gif" alt="" /></a><a href="43.html" target="_blank">奇艺</a></li>
+				<li><a href="44.html" target="_blank" title="爱卡汽车"><img src="images/img_87.gif" alt="" /></a><a href="44.html" target="_blank">爱卡汽车</a></li>
+				<li><a href="45.html" target="_blank" title="百度贴吧"><img src="images/img_88.gif" alt="" /></a><a href="45.html" target="_blank">百度贴吧</a></li>
+				<li><a href="46.html" target="_blank" title="新浪体育"><img src="images/img_89.gif" alt="" /></a><a href="46.html" target="_blank">新浪体育</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div id="footer">
+	&copy;<span id="baikeNewYear">2012</span>	Baidu <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a> <a href="http://www.baidu.com/search/baike_help.html" target="_blank">百科协议</a>
+</div>
+<script>document.write('<script src="http://img.baidu.com/img/baike/baikeCMS.js?t='+parseInt(new Date()/864e5)+'"><\/scr' + 'ipt>');</script>
+<script type="text/javascript" src="/static/common/js/base.js?t=20120308120410"></script>
+<script type="text/javascript" src="/js/popup.js"></script>
+<script type="text/javascript" src="js/userLogin.js"></script>
+
+<script type="text/javascript" src="js/inc_nslog.js"></script>
+<script type="text/javascript">
+	nslog(location.href, 10107, { name: "baike_open", page:'zyhz'});
+	document.getElementById('how').onclick=function()
+	{
+		nslog(location.href, 10107, { name: "baike_open", page:'zyhz', btn:'zyhz_shen'});
+	};
+</script>
+</body>
+</html>
+<!--12552760710656814602010819--><!--04566446430979313674092423-->
+<script> var _trace_page_logid = 0456644643; </script>

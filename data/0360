@@ -1,0 +1,1579 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>小游戏,4399小游戏,小游戏大全,双人小游戏大全 - www.4399.com 中国最大的游戏平台</title>
+<meta name="description" content="4399是中国最大的小游戏专业网站,免费为你提供小游戏大全,4399洛克王国小游戏,双人小游戏,连连看小游戏,赛尔号,奥拉星,奥奇传说小游戏,造梦西游3等最新小游戏。" />
+<meta name="keywords" content="小游戏,4399小游戏大全,在线小游戏" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta property="qc:admins" content="5303563577643116375" />
+<meta property="wb:webmaster" content="9a9751c8cd36bccb" />
+<script>
+function check_mobile(){
+    var ua = navigator.userAgent;
+    ua = ua ? ua.toLowerCase().replace(/-/g, "") : "";
+    if (ua.match(/(Android)/i))
+        location.href = "http://a.4399.com/mobile/";
+    if (ua.match(/(iPhone|iPod)/i))
+        location.href = "http://i.4399.com/mobile/";
+    if (ua.match(/(iPad)/i))
+        location.href = "http://i.4399.com/";
+}
+check_mobile();
+</script>
+<link href="/css/index_20130923.css?0903" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/resource5/css/all.css" type="text/css"/>
+<link rel="shortcut icon" href="/favicon.ico" />
+<script language="javascript" src="/jss/index_h20130730.js"></script>
+<base target="_blank">
+</head>
+<body onmousedown="tracking(event);">
+<!--top-->
+<!--top http://imga.4399.cn/upload_pic/2012/4399_logo.gif javascript:addBookmark()  -->
+<div class="top">
+<div class="logo"><a target="_self" rel="nofollow" href="javascript:addBookmark();"><img alt="4399小游戏" src="http://imga.4399.cn/upload_pic/2012/4399_logo.gif"></a></div>
+<div class="top_c">
+<div class="wg_btn"><a href="/special/19.htm"><img alt="4399网页游戏" src="/images/i2012/wg_btn.gif"></a></div>
+<div onclick="return switch_webgame();" class="u_ico"></div>
+<div id="web_logo_1" class="wg_logo">
+<a  href="/flash/12439.htm"><img alt="弹弹堂" src="http://imga1.4399.cn/upload_pic/2012/11/10/4399_14433001226.gif"></a><a  href="/flash/109162.htm"><img alt="古剑奇侠" src="http://imga.4399.cn/upload_pic/2013/7/9/4399_14081907895.gif"></a><a  href="/flash/101943.htm"><img alt="冒险契约" src="http://imga3.4399.cn/upload_pic/2013/7/9/4399_14082969172.gif"></a><a  href="/flash/116721.htm"><img alt="太古遮天" src="http://imga5.4399.cn/upload_pic/2013/9/10/4399_09235160722.gif"></a><a  href="/flash/103152.htm"><img alt="天行剑" src="http://imga.4399.cn/upload_pic/2013/2/27/4399_10465160527.gif"></a><a  href="/flash/103643.htm"><img alt="斗破乾坤" src="http://imga.4399.cn/upload_pic/2013/2/27/4399_10461224144.gif"></a></div>
+<div id="web_logo_2" style="display:none;" class="wg_logo">
+<a href="/flash/100238.htm"><img alt="神将三国" src="http://imga5.4399.cn/upload_pic/2013/7/9/4399_14083965062.gif"></a><a href="/flash/107025.htm"><img alt="神武九天" src="http://imga4.4399.cn/upload_pic/2013/7/9/4399_14090186820.gif"></a><a href="http://my.4399.com/yxxmhzc/"><img alt="新梦幻之城" src="http://imga4.4399.cn/upload_pic/2013/4/24/4399_16423658425.gif"></a><a href="/flash/59107.htm"><img alt="凡人修真2" src="http://imga3.4399.cn/upload_pic/2012/8/28/4399_14495037209.gif"></a><a href="http://my.4399.com/yxsgkd/"><img alt="三国快打" src="http://imga5.4399.cn/upload_pic/2012/12/10/4399_13594488186.gif"></a><a href="/special/19.htm"><img alt="网页游戏大全" src="http://imga1.4399.cn/upload_pic/2012/logo_wyyxj.gif"></a></div>
+<div onclick="return switch_webgame();" class="d_ico"></div>
+<div class="rlogo"> <a href="http://web.4399.com/"><img alt="4399网页游戏" src="/images/i2012/4399_top_logo2.gif"></a> <a href="http://www.hao123.com/"><img src="/images/i2012/hao123_logo.gif"></a> </div>
+</div>
+</div>
+<!--top-end-->
+
+<div class="i_nav">
+<a class="i_on" href="http://www.4399.com/">首页</a>
+<a class="i2" href="/flash_fl/2_1.htm">动作</a>
+<a class="i3" href="/flash_fl/3_1.htm">体育</a>
+<a class="i4" href="/flash_fl/5_1.htm">益智</a>
+<a class="i5" href="/flash_fl/4_1.htm">射击</a>
+<a class="i6" href="/flash_fl/1_1.htm">搞笑</a>
+<a class="i7" href="/flash_fl/6_1.htm">冒险</a>
+<a class="i8" href="/flash_fl/7_1.htm">棋牌</a>
+<a class="i9" href="/flash_fl/8_1.htm">策略</a>
+<a class="i10" href="/flash_fl/11_1.htm">敏捷</a>
+<a class="i11" href="/flash_fl/12_1.htm">休闲</a>
+<a class="i12" href="/special/195.htm">女生</a>
+<a class="i13" href="/flash_fl/16_1.htm">装扮</a>
+<a class="i14" href="/flash_fl/13_1.htm">儿童</a>
+<a class="i15" href="/flash_fl/49_1.htm">经营</a>
+<a class="i16" href="/special/90.htm">过关</a>
+<a class="i17" href="/special/1.htm">双人</a>
+<a class="i18" href="http://dm.4399.com/manhua/">漫画</a>
+<a class="i19" href="http://dm.4399.com/donghua/"><em class="i_hot"></em>动画片</a>
+<a class="i20" href="/special/19.htm">网页游戏</a>
+<a class="i21" href="http://my.4399.com/">游戏吧</a>
+</div>
+<!--导航end-->
+
+<!--搜索-->
+<div id="search">
+<div class="sL">
+<form style="display: inline;" onsubmit="return checksearch(this)" method="get" action="http://so2.4399.com/search/search.php"><input autocomplete="off" name="k" value="搜索小游戏" onclick="document.charset='gb2312';chkSosmart()" class="sh text" id="smart_input"><input class="sec_btn" value="" type="submit"></form>
+<a class="kqcolor" href="/special/8.htm">连连看</a><a class="kqcolor" href="/special/238.htm">CF</a><a class="kqcolor" href="/special/10.htm">CS</a><a class="kqcolor" href="/special/66.htm">祖玛</a><a class="kqcolor" href="/special/260.htm">3D</a>
+</div>
+
+<div id="login_div" class="sR">
+<iframe id="embed_login_frame" frameborder="0" scrolling="no" class="login_embed_iframe_hor" src="/resource5/ptlogin.html?0319"></iframe>
+</div>
+</div>
+<!--搜索结束-->
+
+<div class="clear"></div>
+<!--小分类-->
+<div class="box1">
+<div class="box960_c">
+<div class="middle1">
+<ul>
+<li><a href="/flash/48399.htm"><span class="zt_ico1"></span>卡布西游</a></li>
+<li><a href="/flash/12439.htm"><span class="zt_ico3"></span>4399弹弹堂2</a></li>
+<li><a href="/flash/seer.htm"><span class="zt_ico4"></span>4399赛尔号</a></li>
+<li><a href="/special/1.htm"><span class="zt_ico9"></span>双人小游戏</a></li>
+<li><a href="http://a.4399.com/"><span class="zt_ico8"></span>4399安卓手机游戏</a></li>
+<li><a href="http://i.4399.com/"><span class="zt_ico13"></span>4399苹果手机游戏</a></li>
+<li><a href="http://i.4399.com/ipad/"><span class="zt_ico2"></span>4399苹果iPad游戏</a></li>
+</ul>
+<div class="idesk"><a href="/desk/"><img alt="保存4399.com快捷方式到桌面" src="/images/i_desk.png" /></a><a href="javascript:addBookmark2()" target="_self"><img alt="收藏4399小游戏" src="/images/i_fav.png" /></a></div>
+</div>
+<div class="middle2">
+<p class="bgborder1"> <span><a href="/special/good.htm">专辑</a></span><a href="http://huodong.4399.com/yizhou/">热门活动</a><a class="red" href="http://huodong.4399.com/yizhou/week81/">9.20游戏精选</a><a href="/flash/">最新游戏</a><a class="red" href="/special/1.htm">双人小游戏</a><a href="/flash/zph.htm">游戏月排行</a><a class="red" href="/special/148.htm">无敌版</a><a href="/special/202.htm">学习</a><a href="http://disney.4399.com/">迪士尼</a><a class="red" href="/special/182.htm">朵拉</a><a href="/special/17.htm">海绵宝宝</a><a href="/special/194.htm">巧虎</a><a href="/special/18.htm">超级玛丽</a><a class="red" href="/special/177.htm">铠甲勇士</a><a href="/special/141.htm">二战前线</a><a class="red eol" href="/special/260.htm">3D游戏</a><a class="n_more" href="/special/good.htm">更多>></a></p>
+<p class="bgborder2"> <span><a href="/flash_fl/2_1.htm">动作</a></span><a href="/special/13.htm">格斗</a><a href="/special/67.htm">闪客快打</a><a href="/special/208.htm">狙击手</a><a href="/special/270.htm">男生游戏精选</a><a href="/special/33.htm">三国</a><a class="red" href="/special/26.htm">拳皇</a><a href="/special/139.htm">超人</a><a href="/special/95.htm">变形金刚</a><a href="/special/10.htm">反恐精英</a><a href="/special/131.htm">魂斗罗</a><a href="/special/32.htm">角色扮演</a><a href="/special/89.htm">冒险岛</a><a href="/special/138.htm">七龙珠</a><a class="red" href="/special/136.htm">火柴人</a><a href="/special/134.htm">奥特曼</a><a class="red eol" href="/special/122.htm">僵尸</a><a href="/special/62.htm">泡泡龙</a><a class="n_more" href="/flash_fl/2_1.htm">更多>></a></p>
+<p class="bgborder1"> <span><a href="/flash_fl/5_1.htm">益智</a></span><a class="red" href="/special/8.htm">连连看</a><a href="/special/5.htm">密室逃脱</a><a href="/special/173.htm">拼图</a><a href="/special/63.htm">迷宫</a><a href="/special/66.htm">祖玛</a><a href="/special/188.htm">猫和老鼠</a><a class="red" href="/special/272.htm">熊出没</a><a href="/special/64.htm">消消看</a><a href="/special/87.htm">麻将</a><a class="red" href="/special/59.htm">塔防游戏</a><a href="/special/79.htm">吃豆豆</a><a href="/special/159.htm">五子棋</a><a href="/flash_fl/14_1.htm">测试</a><a href="/special/60.htm">找茬</a><a class="red" href="/special/143.htm">斗地主</a><a href="/special/168.htm">找东西</a><a href="/special/110.htm">打工挣钱</a><a href="/special/15.htm">对对碰</a><a class="n_more" href="/flash_fl/5_1.htm">更多>></a></p>
+<p class="bgborder2"> <span class="g"><a href="/flash_fl/3_1.htm">运动</a></span><a href="/special/28.htm">赛车</a><a href="/special/96.htm">卡丁车</a><a href="/special/164.htm">越野车</a><a href="/special/99.htm">摩托</a><a class="red" href="/special/93.htm">大鱼吃小鱼</a><a href="/special/37.htm">自行车</a><a href="/special/167.htm">汽车</a><a href="/special/100.htm">停车</a><a href="/special/165.htm">四驱车</a><a href="/special/31.htm">台球</a><a href="/special/35.htm">篮球</a><a href="/special/38.htm">足球</a><a href="/special/43.htm">射箭</a><a href="/special/118.htm">过山车</a><a href="/special/218.htm">小火车</a><a href="/special/259.htm">跑酷</a><a href="/special/219.htm">单人</a><a href="/special/152.htm">农场</a><a href="/special/125.htm">直升机</a><a class="red eol" href="/special/90.htm">闯关</a><a class="n_more" href="/flash_fl/3_1.htm">更多>></a></p>
+<p class="bgborder1"> <span class="g"><a href="/special/195.htm">女生</a></span><a href="/top/top-m-16.htm">装扮排行</a><a href="/special/169.htm">公主</a><a href="/special/204.htm">古代换装</a><a href="/special/7.htm">做饭</a><a class="red" href="/special/23.htm">阿Sue</a><a href="/special/94.htm">化妆</a><a href="/special/27.htm">彩甲</a><a href="/special/105.htm">婚纱</a><a href="/special/25.htm">大头妹</a><a href="/special/154.htm">美发</a><a href="/special/112.htm">餐厅</a><a href="/special/108.htm">蛋糕</a><a href="/special/106.htm">礼服</a><a href="/special/107.htm">布置</a><a href="/flash/27924.htm">小花仙</a><a href="http://news.4399.com/aoyazhiguang/">奥雅之光</a><a class="red" href="http://news.4399.com/pikatang/">皮卡堂</a><a href="/special/109.htm">宠物</a><a href="/special/104.htm">约会</a><a class="eol" href="/special/114.htm">芭比娃娃</a><a class="n_more" href="/special/195.htm">更多>></a></p>
+<p class="bgborder2"> <span class="g"><a href="/special/good.htm">合辑</a></span><a class="red" href="http://my.4399.com/yxsgkd/">三国快打</a><a href="/special/20.htm">合金弹头</a><a href="/special/29.htm">坦克</a><a class="red" href="/special/34.htm">矿工</a><a href="/special/16.htm">战斗机</a><a href="/special/121.htm">枪战</a><a class="red" href="http://my.4399.com/yxtouch/"><b>3D炫舞touch</b></a><a href="http://my.4399.com/yxsxd/">神仙道</a><a class="red" href="/flash/13265.htm">开心农场</a><a href="/flash/103643.htm">斗破乾坤</a><a href="/flash/8865.htm">摩尔庄园</a><a class="n_more" href="/special/good.htm">更多>></a></p>
+<div class="scrollDiv" id="s1"><ul><li><a onclick="return tracead('www_index_txt_1');" href='/flash/109162.htm'>4399古剑奇侠 逍遥江湖攀登奇侠巨峰游！</a></li><li><a onclick="return tracead('www_index_txt_2');" href='/flash/107025.htm'>4399神武九天 新西游再续前世缘破斋戒！</a></li><li><a onclick="return tracead('www_index_txt_3');" href='http://my.4399.com/forums-thread-tagid-81247-id-37400438.html'>4399新梦幻之城 斩杀冥界之主！</a></li><li><a onclick="return tracead('www_index_txt_4');" href='http://my.4399.com/forums-thread-tagid-81226-id-37401140.html'>4399三国快打 烽火军团战 点击参与！</a></li></ul></div></div>
+<div class="middle4">
+<p> <a href="http://web.4399.com/" class="d d2">网页游戏</a><a href="http://web.4399.com/ddt/" class="red">4399弹弹堂2</a><a class="green" href="/flash/116721.htm">太古遮天</a><a class="red" href="http://news.4399.com/csbh/">创世兵魂</a><a class="green" href="/flash/107025.htm">神武九天</a><a class="green" href="/flash/59107.htm">凡人修真2</a><a href="/flash/48272.htm" class="red">美食大战老鼠</a><a class="green" href="/flash/100238.htm">神将三国</a><a class="green" href="http://my.4399.com/yxxmhzc/">新梦幻之城</a><a class="green" href="http://news.4399.com/sanguosha/">4399三国杀</a><a class="red mynew" href="http://my.4399.com/yxqh/">4399枪魂</a><a class="green" href="/flash/109012.htm">威武三国</a><a class="red eol" href="http://speed.4399.com/">极速猎人</a><a class="n_more1" href="/special/19.htm" title="网页游戏">更多&gt;&gt;</a></p>
+</div>
+</div>
+<div class="box960_b"></div>
+</div>
+<!--小分类结束-->
+<!--<span style="float:left;color:red;">4399</span>-->
+
+<!--玩过的游戏-->
+<div id="blank_hs" style="display:none;" class="div5"></div>
+<div class="box3" id="myhistory">
+<div class="box3l">
+<div id="hscontent"></div>
+<div id="hsb" style="display:none;">
+<div id="hsl" class="hsl_n"></div>
+<div id="hsr" class="hsr_y"></div>
+</div>
+</div>
+<a target="_self" href="javascript:hsClear()"><span class="gbtn_2 box3r"></span></a> </div>
+<script language="javascript">
+<!--
+showhsgames();
+//-->
+</script>
+<!--玩过的游戏结束-->
+
+<!--两排滚动游戏-->
+<div class="rollgame">
+<div class="t1"></div>
+<div class="c1">
+<div class="g_left" id="mleft"></div>
+<div class="game_list" id="gamesdiv">
+<!--横向滚动条1开始-->
+<div class="g_li">
+<ul>
+<li><a  href="/flash/"><img src="http://imga1.4399.cn/upload_pic/2013/4/9/4399_18021005096.jpg" alt="最新小游戏集">最新小游戏集</a></li>
+<li><a  href="/flash/21674.htm"><img src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_10144393071.jpg" alt="二战前线2无敌版">二战前线2无敌版</a></li>
+<li><a  href="/special/158.htm"><img src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_10155174508.jpg" alt="喜羊羊灰太狼">喜羊羊灰太狼</a></li>
+<li><a  href="/special/28.htm"><img src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_10202254065.jpg" alt="赛车">赛车</a></li>
+<li><a  href="/flash/18012.htm"><img src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_10221326186.jpg" alt="植物大战僵尸">植物大战僵尸</a></li>
+<li><a  href="http://my.4399.com/yxsgkd/"><img src="http://imga3.4399.cn/upload_pic/2013/8/4/4399_08264789040.jpg" alt="4399三国快打">4399三国快打</a></li>
+<li><a  href="http://news.4399.com/aoyazhiguang/"><img src="http://imga1.4399.cn/upload_pic/2013/8/26/4399_15474900382.jpg" alt="奥雅之光">奥雅之光</a></li>
+<li><a  href="http://xp.4399.com/"><img src="http://imga1.4399.cn/upload_pic/2013/5/2/4399_11311945987.gif" alt="西普大陆">西普大陆</a></li>
+<li><a  href="/flash/35538.htm"><img src="http://imga4.4399.cn/upload_pic/2013/9/13/4399_15020919309.jpg" alt="4399奥拉星">4399奥拉星</a></li>
+<li><a  href="/flash/10379.htm"><img src="http://imga5.4399.cn/upload_pic/2013/8/26/4399_15482095854.jpg" alt="4399奥比岛">4399奥比岛</a></li>
+<li><a  href="http://news.4399.com/guaiwushijie/"><img src="http://imga2.4399.cn/upload_pic/2013/9/14/4399_15575290597.jpg" alt="怪物世界">怪物世界</a></li>
+<li><a  href="http://www.4399.com/flash/seer.htm"><img src="http://imga5.4399.cn/upload_pic/2013/8/14/4399_19243177179.jpg" alt="4399赛尔号">4399赛尔号</a></li>
+<li><a  href="/flash/8865.htm"><img name="http://imga1.4399.cn/upload_pic/2013/4/24/4399_08403177177.jpg" alt="4399摩尔庄园">4399摩尔庄园</a></li>
+<li><a  href="/special/93.htm"><img name="http://imga4.4399.cn/upload_pic/2012/3/13/4399_15115695051.jpg" alt="大鱼吃小鱼">大鱼吃小鱼</a></li>
+<li><a  href="/flash/12669.htm"><img name="http://imga5.4399.cn/upload_pic/2012/3/13/4399_15122220895.jpg" alt="果蔬连连看">果蔬连连看</a></li>
+<li><a  href="http://my.4399.com/yxtouch/"><img name="http://imga.4399.cn/upload_pic/2013/5/20/4399_10435268326.jpg" alt="3Dtouch炫舞">3Dtouch炫舞</a></li>
+<li><a  rel="nofollow"  href="http://allyes.nie.163.com/main/adfclick?db=afanie&bid=827504,412444,961&cid=46512,236,1&sid=826241&show=ignore&url=http://jl.163.com/hi/"><img name="http://imga1.4399.cn/upload_pic/2013/8/12/4399_20185996202.jpg" alt="精灵传说">精灵传说</a></li>
+<li><a  href="/flash_fl/7_1.htm"><img name="http://imga2.4399.cn/upload_pic/2013/4/17/4399_10273786718.jpg" alt="棋牌游戏">棋牌游戏</a></li>
+<li><a  href="/special/134.htm"><img name="http://imga5.4399.cn/upload_pic/2012/3/13/4399_15142926697.jpg" alt="奥特曼">奥特曼</a></li>
+<li><a  href="/special/23.htm"><img name="http://imga4.4399.cn/upload_pic/2012/3/13/4399_10320177701.jpg" alt="阿Sue">阿Sue</a></li>
+<li><a  href="http://news.4399.com/jlw/"><img name="http://imga2.4399.cn/upload_pic/2013/8/7/4399_08410278241.jpg" alt="少年精灵王">少年精灵王</a></li>
+<li><a  href="http://news.4399.com/dlzs/"><img name="http://imga5.4399.cn/upload_pic/2012/3/13/4399_15163914943.jpg" alt="斗龙战士">斗龙战士</a></li>
+<li><a  href="/flash/48272.htm"><img name="http://imga3.4399.cn/upload_pic/2012/5/15/4399_14553963946.jpg" alt="美食大战老鼠">美食大战老鼠</a></li>
+<li><a  href="http://news.4399.com/maiji/"><img name="http://imga1.4399.cn/upload_pic/2013/4/1/4399_10505036572.jpg" alt="麦咭小怪兽">麦咭小怪兽</a></li>
+</ul>
+<ul>
+<li><a  href="/special/148.htm"><img src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_10285837204.jpg" alt="无敌版">无敌版</a></li>
+<li><a  href="/special/195.htm"><img src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_10302372251.jpg" alt="女生游戏精选">女生游戏精选</a></li>
+<li><a  href="/flash/27924.htm"><img src="http://imga5.4399.cn/upload_pic/2013/9/9/4399_16025998328.jpg" alt="4399小花仙">4399小花仙</a></li>
+<li><a  href="/flash/32979.htm"><img src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_11074413339.jpg" alt="4399洛克王国">4399洛克王国</a></li>
+<li><a  href="http://news.4399.com/jjxf/"><img src="http://imga4.4399.cn/upload_pic/2013/6/6/4399_16504208896.jpg" alt="4399机甲旋风">4399机甲旋风</a></li>
+<li><a  href="/flash/48399.htm"><img src="http://imga5.4399.cn/upload_pic/2013/9/5/4399_15432584851.jpg" alt="卡布西游">卡布西游</a></li>
+<li><a  href="http://lds.4399.com/"><img src="http://imga5.4399.cn/upload_pic/2013/8/27/4399_09245708012.jpg" alt="龙斗士">龙斗士</a></li>
+<li><a  href="http://kn.4399.com/"><img src="http://imga1.4399.cn/upload_pic/2013/7/11/4399_13521104005.jpg" alt="凯恩战记">凯恩战记</a></li>
+<li><a  href="http://news.4399.com/aoqi/"><img src="http://imga4.4399.cn/upload_pic/2013/8/19/4399_08342618037.jpg" alt="奥奇传说">奥奇传说</a></li>
+<li><a  href="/special/194.htm"><img src="http://imga5.4399.cn/upload_pic/2013/3/22/4399_08451641185.jpg" alt="巧虎">巧虎</a></li>
+<li><a  href="http://news.4399.com/seer2/"><img src="http://imga3.4399.cn/upload_pic/2013/7/15/4399_08280806105.jpg" alt="约瑟传说">约瑟传说</a></li>
+<li><a  href="http://news.4399.com/gongfupai/"><img src="http://imga4.4399.cn/upload_pic/2013/9/10/4399_18013876056.jpg" alt="4399功夫派">4399功夫派</a></li>
+<li><a  href="/flash/13265.htm"><img name="http://imga1.4399.cn/upload_pic/2012/7/3/4399_14544483315.jpg" alt="4399开心农场">4399开心农场</a></li>
+<li><a  href="/special/94.htm"><img name="http://imga5.4399.cn/upload_pic/2013/4/15/4399_14192843463.jpg" alt="化妆">化妆</a></li>
+<li><a  href="http://news.4399.com/zslm/"><img name="http://imga1.4399.cn/upload_pic/2013/7/31/4399_18433129088.jpg" alt="战神联盟">战神联盟</a></li>
+<li><a  href="/special/59.htm"><img name="http://imga5.4399.cn/upload_pic/2013/3/25/4399_15201854448.jpg" alt="塔防游戏">塔防游戏</a></li>
+<li><a  href="/special/7.htm"><img name="http://imga3.4399.cn/upload_pic/2012/3/13/4399_15191576258.jpg" alt="做饭">做饭</a></li>
+<li><a  href="/flash/12439.htm"><img name="http://imga5.4399.cn/upload_pic/2012/11/9/4399_16211030049.jpg" alt="4399弹弹堂2">4399弹弹堂2</a></li>
+<li><a  href="/special/20.htm"><img name="http://imga1.4399.cn/upload_pic/2012/3/13/4399_10205263770.jpg" alt="合金弹头">合金弹头</a></li>
+<li><a  href="/flash/3881.htm"><img name="http://imga2.4399.cn/upload_pic/2012/3/13/4399_11032152307.jpg" alt="Q版泡泡堂">Q版泡泡堂</a></li>
+<li><a  href="http://sjsj.4399.com/"><img name="http://imga2.4399.cn/upload_pic/2013/8/15/4399_17264882781.jpg" alt="神将世界">神将世界</a></li>
+<li><a  href="http://news.4399.com/ygxq/"><img name="http://imga2.4399.cn/upload_pic/2012/11/23/4399_11474826444.jpg" alt="4399阳光星球">4399阳光星球</a></li>
+<li><a  href="http://news.4399.com/aidi/"><img name="http://imga4.4399.cn/upload_pic/2012/11/17/4399_10384652679.jpg" alt="艾迪王国">艾迪王国</a></li>
+<li><a  href="/special/136.htm"><img name="http://imga2.4399.cn/upload_pic/2012/3/13/4399_15175437027.jpg" alt="火柴人">火柴人</a></li>
+</ul>
+</div>
+<!--横向滚动条2结束-->
+</div>
+<div class="g_right" id="mright"></div>
+</div>
+<div class="b1"></div>
+</div>
+
+<!--两排滚动游戏结束-->
+<script type="text/javascript">
+var scrollPic_01 = new ScrollPic();
+scrollPic_01.scrollContId   = "gamesdiv"; //内容容器ID
+scrollPic_01.arrLeftId      = "mleft";//左箭头ID
+scrollPic_01.arrRightId     = "mright"; //右箭头ID
+
+scrollPic_01.frameWidth     = 924;//显示框宽度
+scrollPic_01.pageWidth      = 924; //翻页宽度
+
+scrollPic_01.speed          = 10; //移动速度(单位毫秒，越小越快)
+scrollPic_01.space          = 77; //每次移动像素(单位px，越大越快)
+scrollPic_01.autoPlay       = false; //自动播放
+scrollPic_01.autoPlayTime   = 3; //自动播放间隔时间(秒)
+
+scrollPic_01.initialize(); //初始化
+</script>
+<!--1228s-->
+
+<!--左中右三栏-->
+<div class="box960">
+<!--左侧-->
+<div class="leftside">
+
+<!--今日游戏热点-->
+<div class="web_game_li">
+<div class="wg_t"><a href="http://web.4399.com/">今日游戏热点</a></div>
+<div class="wg_c">
+<div class="wgli"> <a  href="/flash/109162.htm"><img src="http://imga.4399.cn/upload_pic/2013/9/22/4399_10325680332.jpg" alt="4399古剑奇侠"></a>
+<div class="wg_tip">
+<div class="wg_n"><a  href="/flash/109162.htm">4399古剑奇侠</a></div>
+<div class="wg_info"><a  href="/flash/109162.htm">新版古剑传奇创新页游！</a></div>
+</div>
+</div>
+<div class="wgli"> <a  href="http://huodong.4399.com/yizhou/week81/"><img src="http://imga.4399.cn/upload_pic/2013/9/22/4399_08244469747.jpg" alt="9.20一周精选"></a>
+<div class="wg_tip">
+<div class="wg_n"><a  href="http://huodong.4399.com/yizhou/week81/">9.20一周精选</a></div>
+<div class="wg_info"><a  href="http://huodong.4399.com/yizhou/week81/">视频解说最新最好玩的小游戏！</a></div>
+</div>
+</div>
+<div class="wgli"> <a  href="/flash/101943.htm"><img src="http://imga1.4399.cn/upload_pic/2013/8/19/4399_08305849080.jpg" alt="4399冒险契约"></a>
+<div class="wg_tip">
+<div class="wg_n"><a  href="/flash/101943.htm">4399冒险契约</a></div>
+<div class="wg_info"><a  href="/flash/101943.htm">冒险忍者领萌宠破结界！</a></div>
+</div>
+</div>
+<div class="wgli"> <a  href="http://my.4399.com/yxxmhzc/"><img src="http://imga.4399.cn/upload_pic/2013/8/20/4399_08311697836.jpg" alt="4399新梦幻之城"></a>
+<div class="wg_tip">
+<div class="wg_n"><a  href="http://my.4399.com/yxxmhzc/">4399新梦幻之城</a></div>
+<div class="wg_info"><a  href="http://my.4399.com/yxxmhzc/">最萌最浪漫的魔幻之旅开启！</a></div>
+</div>
+</div>
+</div>
+<div class="wg_b"></div>
+</div>
+<!--今日游戏热点结束-->
+
+<!--排行版-->
+<div class="rank">
+<div class="rank_t">
+<ul>
+<li id="zph" class="rt_a"><a onmouseover="ShowTag2('zph')" href="/flash/ph.htm" title="总排行"></a></li>
+<!--加_d表示当前状态，月排行时为rt_b_d-->
+<li id="yph" class="rt_b_d"><a onmouseover="ShowTag2('yph')" href="/flash/zph.htm" title="月排行"></a></li>
+</ul>
+</div>
+
+<!--总排行-->
+<div class="rank_c" id="zphl" style="display:none;">
+<ul>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/48399.htm"><img src="http://imga5.4399.cn/upload_pic/2013/8/3/4399_08314119596.jpg" alt="卡布西游" /></a></div>
+<div class="rightqueue"><a class="rank_1" href="/flash/48399.htm">01</a>
+<p><a href="/flash/48399.htm">卡布西游</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/1382.htm"><img src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_16144169543.jpg" alt="宠物连连看2.5版" /></a></div>
+<div class="rightqueue"><a class="rank_1" href="/flash/1382.htm">02</a>
+<p><a href="/flash/1382.htm">宠物连连看2.5版</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/78072.htm"><img src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_18110744071.jpg" alt="造梦西游3" /></a></div>
+<div class="rightqueue"><a class="rank_1" href="/flash/78072.htm">03</a>
+<p><a href="/flash/78072.htm">造梦西游3</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/18012.htm"><img src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_16340533896.jpg" alt="植物大战僵尸" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/18012.htm">04</a>
+<p><a href="/flash/18012.htm">植物大战僵尸</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/72550.htm"><img src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_16155820436.jpg" alt="三国小镇" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/72550.htm">05</a>
+<p><a href="/flash/72550.htm">三国小镇</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/13265.htm"><img src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_16133144808.jpg" alt="4399开心农场" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/13265.htm">06</a>
+<p><a href="/flash/13265.htm">4399开心农场</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/10379.htm"><img src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_16115440165.jpg" alt="4399奥比岛" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/10379.htm">07</a>
+<p><a href="/flash/10379.htm">4399奥比岛</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/35538.htm"><img src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_16125024633.jpg" alt="4399奥拉星" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/35538.htm">08</a>
+<p><a href="/flash/35538.htm">4399奥拉星</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="http://news.4399.com/guaiwushijie/"><img src="http://imga2.4399.cn/upload_pic/2013/9/14/4399_15582492008.jpg" alt="怪物世界" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="http://news.4399.com/guaiwushijie/">09</a>
+<p><a href="http://news.4399.com/guaiwushijie/">怪物世界</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/32979.htm"><img src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_16134491507.jpg" alt="4399洛克王国" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/32979.htm">10</a>
+<p><a href="/flash/32979.htm">4399洛克王国</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/seer.htm"><img src="http://imga5.4399.cn/upload_pic/2013/9/4/4399_17343711970.jpg" alt="4399赛尔号" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/seer.htm">11</a>
+<p><a href="/flash/seer.htm">4399赛尔号</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/12439.htm"><img src="http://imga5.4399.cn/upload_pic/2012/11/9/4399_19571927592.jpg" alt="4399弹弹堂2" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/12439.htm">12</a>
+<p><a href="/flash/12439.htm">4399弹弹堂2</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/8865.htm"><img src="http://imga1.4399.cn/upload_pic/2012/3/17/4399_11380793604.jpg" alt="4399摩尔庄园" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/8865.htm">13</a>
+<p><a href="/flash/8865.htm">4399摩尔庄园</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/27924.htm"><img src="http://imga5.4399.cn/upload_pic/2013/9/9/4399_16225928943.jpg" alt="4399小花仙" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/27924.htm">14</a>
+<p><a href="/flash/27924.htm">4399小花仙</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/3881.htm"><img src="http://imga2.4399.cn/upload_pic/2012/8/18/4399_11301386699.jpg" alt="Q版泡泡堂" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/3881.htm">15</a>
+<p><a href="/flash/3881.htm">Q版泡泡堂</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/52134.htm"><img src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_16145525333.jpg" alt="愤怒的小鸟" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/52134.htm">16</a>
+<p><a href="/flash/52134.htm">愤怒的小鸟</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/48504.htm"><img src="http://imga5.4399.cn/upload_pic/2012/3/19/4399_13563748027.jpg" alt="植物大战僵尸无敌版" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/48504.htm">17</a>
+<p><a href="/flash/48504.htm">植物大战僵尸无敌版</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/21674.htm"><img src="http://imga5.4399.cn/upload_pic/2012/12/17/4399_14551277963.jpg" alt="二战前线2无敌版" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/21674.htm">18</a>
+<p><a href="/flash/21674.htm">二战前线2无敌版</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/12669.htm"><img src="http://imga5.4399.cn/upload_pic/2012/3/17/4399_11252319060.jpg" alt="果蔬连连看" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/12669.htm">19</a>
+<p><a href="/flash/12669.htm">果蔬连连看</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/110116.htm"><img src="http://imga2.4399.cn/upload_pic/2013/2/18/4399_20375059604.jpg" alt="拳皇wing1.85无敌版" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/110116.htm">20</a>
+<p><a href="/flash/110116.htm">拳皇wing1.85无敌版</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/100897.htm"><img src="http://imga3.4399.cn/upload_pic/2012/10/29/4399_19341674982.jpg" alt="西游大战僵尸2" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/100897.htm">21</a>
+<p><a href="/flash/100897.htm">西游大战僵尸2</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/104513.htm"><img src="http://imga4.4399.cn/upload_pic/2012/11/26/4399_15191666600.jpg" alt="Q版泡泡堂5" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/104513.htm">22</a>
+<p><a href="/flash/104513.htm">Q版泡泡堂5</a></p>
+</div></div>
+</li>
+</ul>
+<div class="more1"><a href="/flash/ph.htm">更多排行&gt;&gt;</a></div>
+</div>
+<!--总排行结束-->
+
+<!--月排行-->
+<div class="rank_c" id="yphl">
+<ul>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/78072.htm"><img src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_18110744071.jpg" alt="造梦西游3" /></a></div>
+<div class="rightqueue"><a class="rank_1" href="/flash/78072.htm">01</a>
+<p><a href="/flash/78072.htm">造梦西游3</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/48399.htm"><img src="http://imga5.4399.cn/upload_pic/2013/8/3/4399_08314119596.jpg" alt="卡布西游" /></a></div>
+<div class="rightqueue"><a class="rank_1" href="/flash/48399.htm">02</a>
+<p><a href="/flash/48399.htm">卡布西游</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/18012.htm"><img src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_16340533896.jpg" alt="植物大战僵尸" /></a></div>
+<div class="rightqueue"><a class="rank_1" href="/flash/18012.htm">03</a>
+<p><a href="/flash/18012.htm">植物大战僵尸</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/seer.htm"><img src="http://imga5.4399.cn/upload_pic/2013/9/4/4399_17343711970.jpg" alt="4399赛尔号" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/seer.htm">04</a>
+<p><a href="/flash/seer.htm">4399赛尔号</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/32979.htm"><img src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_16134491507.jpg" alt="4399洛克王国" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/32979.htm">05</a>
+<p><a href="/flash/32979.htm">4399洛克王国</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/12439.htm"><img src="http://imga5.4399.cn/upload_pic/2012/11/9/4399_19571927592.jpg" alt="4399弹弹堂2" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/12439.htm">06</a>
+<p><a href="/flash/12439.htm">4399弹弹堂2</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="http://news.4399.com/csbh/"><img src="http://imga3.4399.cn/upload_pic/2013/5/25/4399_11070147983.jpg" alt="4399创世兵魂" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="http://news.4399.com/csbh/">07</a>
+<p><a href="http://news.4399.com/csbh/">4399创世兵魂</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/52134.htm"><img src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_16145525333.jpg" alt="愤怒的小鸟" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/52134.htm">08</a>
+<p><a href="/flash/52134.htm">愤怒的小鸟</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="http://news.4399.com/guaiwushijie/"><img src="http://imga2.4399.cn/upload_pic/2013/9/14/4399_15582492008.jpg" alt="怪物世界" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="http://news.4399.com/guaiwushijie/">09</a>
+<p><a href="http://news.4399.com/guaiwushijie/">怪物世界</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="http://sjsj.4399.com/"><img src="http://imga2.4399.cn/upload_pic/2013/8/3/4399_08374511608.jpg" alt="神将世界" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="http://sjsj.4399.com/">10</a>
+<p><a href="http://sjsj.4399.com/">神将世界</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/35538.htm"><img src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_16125024633.jpg" alt="4399奥拉星" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/35538.htm">11</a>
+<p><a href="/flash/35538.htm">4399奥拉星</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="http://xp.4399.com/"><img src="http://imga1.4399.cn/upload_pic/2013/5/2/4399_13460629347.gif" alt="西普大陆" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="http://xp.4399.com/">12</a>
+<p><a href="http://xp.4399.com/">西普大陆</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/10379.htm"><img src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_16115440165.jpg" alt="4399奥比岛" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/10379.htm">13</a>
+<p><a href="/flash/10379.htm">4399奥比岛</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/72550.htm"><img src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_16155820436.jpg" alt="三国小镇" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/72550.htm">14</a>
+<p><a href="/flash/72550.htm">三国小镇</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="http://news.4399.com/gongfupai/"><img src="http://imga4.4399.cn/upload_pic/2013/9/10/4399_17463762975.jpg" alt="4399功夫派" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="http://news.4399.com/gongfupai/">15</a>
+<p><a href="http://news.4399.com/gongfupai/">4399功夫派</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/27924.htm"><img src="http://imga5.4399.cn/upload_pic/2013/9/9/4399_16225928943.jpg" alt="4399小花仙" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/27924.htm">16</a>
+<p><a href="/flash/27924.htm">4399小花仙</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="http://my.4399.com/yxtouch/"><img src="http://imga5.4399.cn/upload_pic/2013/5/7/4399_10010905085.jpg" alt="4399touch炫舞" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="http://my.4399.com/yxtouch/">17</a>
+<p><a href="http://my.4399.com/yxtouch/">4399touch炫舞</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/100897.htm"><img src="http://imga3.4399.cn/upload_pic/2012/10/29/4399_19341674982.jpg" alt="西游大战僵尸2" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/100897.htm">18</a>
+<p><a href="/flash/100897.htm">西游大战僵尸2</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/104513.htm"><img src="http://imga4.4399.cn/upload_pic/2012/11/26/4399_15191666600.jpg" alt="Q版泡泡堂5" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/104513.htm">19</a>
+<p><a href="/flash/104513.htm">Q版泡泡堂5</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="http://kn.4399.com/"><img src="http://imga3.4399.cn/upload_pic/2013/4/24/4399_11462538568.jpg" alt="凯恩战记" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="http://kn.4399.com/">20</a>
+<p><a href="http://kn.4399.com/">凯恩战记</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/47931.htm"><img src="http://imga2.4399.cn/upload_pic/2012/3/19/4399_11284128955.jpg" alt="勇者之路精灵物语速升版" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/47931.htm">21</a>
+<p><a href="/flash/47931.htm">勇者之路精灵物语速升版</a></p>
+</div></div>
+</li>
+<li>
+<div class="n95">
+<div class="leftimg"><a href="/flash/80727.htm"><img src="http://imga3.4399.cn/upload_pic/2012/3/19/4399_10074107456.jpg" alt="勇士的信仰" /></a></div>
+<div class="rightqueue"><a class="rank_2" href="/flash/80727.htm">22</a>
+<p><a href="/flash/80727.htm">勇士的信仰</a></p>
+</div></div>
+</li>
+</ul>
+<div class="more1"><a href="/flash/zph.htm">更多排行&gt;&gt;</a></div>
+</div>
+<!--月排行结束-->
+
+<div class="rank_b"></div>
+</div>
+<!--排行版结束-->
+
+<!--本周看点12-06-20-->
+<div class="n_kd_t"></div>
+<div class="n_kd_c">
+<ul>
+<li><a href="http://dm.4399.com/donghua/"><img alt="4399动画片" src="http://imga1.4399.cn/upload_pic/2013/9/16/4399_16043930089.jpg" /></a></li>
+</ul>
+</div>
+<div class="n_kd_b"></div>
+<!--本周看点12-06-20end-->
+
+<!--4399本期活动-->
+<div class="now_hd">
+<div class="hd_t"><a href="http://huodong.4399.com/yizhou/"></a></div>
+<div class="hd_c">
+<ul>
+<li><a  href="http://huodong.4399.com/yizhou/week81/"><img src="http://imga2.4399.cn/upload_pic/2013/9/20/4399_10582991162.jpg" alt="一周精选游戏第81期" />一周精选游戏第81期</a></li>
+<li><a  href="http://huodong.4399.com/chahuahui/week10/"><img src="http://imga4.4399.cn/upload_pic/2013/9/23/4399_08340459449.jpg" alt="女生茶话会第10期" />女生茶话会第10期</a></li>
+<li><a  href="http://www.4399.com/special/214.htm"><img src="http://imga.4399.com/upload_pic/2012/11/13/4399_10442616271.jpg" alt="玩勋章小游戏赢勋章得积分" />玩勋章小游戏赢勋章得积分</a></li>
+<li><a  href="http://abc.4399.com/"><img src="http://imga.4399.com/upload_pic/2013/9/23/4399_15315649524.jpg" alt="4399儿歌故事大全" />4399儿歌故事大全</a></li>
+</ul>
+</div>
+<div class="rank_b"></div>
+</div>
+<!--4399本期活动结束-->
+
+</div>
+<!--左侧结束-->
+
+<!--中间最新小游戏-->
+<div class="new_game">
+<div class="ng_t">
+<div class="title_1">
+<div class="ng_l_1"><a href="/flash/gamehw.htm">最新好玩小游戏列表</a></div>
+<div class="ng_tip"><a href="/flash/"><span class="new_game_ico"></span>今日已更新小游戏&nbsp;<span>85</span>&nbsp;款</a>&nbsp;|&nbsp;<a href="#new" target="_self">最新推荐游戏</a>&nbsp;|&nbsp;<a href="/flash/gamehw.htm">更多&gt;&gt;</a></div>
+</div>
+</div>
+<div class="ng_c">
+
+<!--li-->
+<div class="ng_li">
+<ul>
+<li><a href="/flash/123832.htm"><span class="new"></span><img  src="http://imga3.4399.cn/upload_pic/2013/9/24/4399_10070035159.jpg" alt="帮助我飞" />帮助我飞</a></li>
+<li><a href="/flash/123659.htm"><span class="new"></span><img  src="http://imga5.4399.cn/upload_pic/2013/9/19/4399_17483138189.jpg" alt="惊天战警" />惊天战警</a></li>
+<li><a href="/flash/123611.htm"><img  src="http://imga2.4399.cn/upload_pic/2013/9/19/4399_15003411437.jpg" alt="小汽车的爱情梦" />小汽车的爱情梦</a></li>
+<li><a href="http://news.4399.com/csbh/"><img  src="http://imga3.4399.cn/upload_pic/2013/5/27/4399_09245468126.jpg" alt="4399创世兵魂" />4399创世兵魂</a></li>
+<li><a href="http://sjsj.4399.com/"><img  src="http://imga2.4399.cn/upload_pic/2013/8/15/4399_17260176238.jpg" alt="神将世界" />神将世界</a></li>
+<li><a href="/flash/78072.htm"><img  src="http://imga3.4399.cn/upload_pic/2013/9/17/4399_18520590061.jpg" alt="造梦西游3" />造梦西游3</a></li>
+<li><a href="/flash/123259.htm"><img  src="http://imga5.4399.cn/upload_pic/2013/9/12/4399_10145043650.jpg" alt="萌波波空间穿越" />萌波波空间穿越</a></li>
+<li><a href="/flash/122903.htm"><img  src="http://imga4.4399.cn/upload_pic/2013/9/17/4399_17364528318.jpg" alt="外星人爱牛奶" />外星人爱牛奶</a></li>
+<li><a href="/flash/123374.htm"><img  src="http://imga5.4399.cn/upload_pic/2013/9/13/4399_17551150558.jpg" alt="Q版泡泡堂6" />Q版泡泡堂6</a></li>
+<li><a href="http://kbxz.4399.com/"><img  src="http://imga5.4399.cn/upload_pic/2013/8/2/4399_17204677594.jpg" alt="卡布仙踪" />卡布仙踪</a></li>
+<li><a href="/flash/100897.htm"><img  src="http://imga3.4399.cn/upload_pic/2013/9/16/4399_19210210781.jpg" alt="西游大战僵尸2" />西游大战僵尸2</a></li>
+<li><a href="http://my.4399.com/yxtouch/"><img  src="http://imga5.4399.cn/upload_pic/2013/9/7/4399_11002058808.jpg" alt="4399touch炫舞" />4399touch炫舞</a></li>
+<li><a href="/flash/123521.htm"><img  src="http://imga2.4399.cn/upload_pic/2013/9/17/4399_10304416507.jpg" alt="胶囊机器人" />胶囊机器人</a></li>
+<li><a href="/flash/122587.htm"><img  src="http://imga3.4399.cn/upload_pic/2013/8/30/4399_11320778810.jpg" alt="割绳子电脑版" />割绳子电脑版</a></li>
+<li><a href="/flash/119731.htm"><img  src="http://imga2.4399.cn/upload_pic/2013/7/12/4399_17190628680.jpg" alt="保卫萝卜电脑版" />保卫萝卜电脑版</a></li>
+<li><a href="/flash/115225.htm"><img  src="http://imga1.4399.cn/upload_pic/2013/9/6/4399_17250869661.jpg" alt="机甲小子" />机甲小子</a></li>
+<li><a href="http://my.4399.com/yxqh/"><span class="hot"></span><img  src="http://imga4.4399.cn/upload_pic/2013/9/23/4399_12523289431.gif" alt="4399枪魂" />4399枪魂</a></li>
+<li><a href="/flash/80727.htm"><img  src="http://imga3.4399.cn/upload_pic/2013/9/18/4399_12295122237.jpg" alt="勇士的信仰" />勇士的信仰</a></li>
+<li><a href="/flash/123256.htm"><img  src="http://imga2.4399.cn/upload_pic/2013/9/12/4399_14322331231.jpg" alt="僵尸守卫军" />僵尸守卫军</a></li>
+<li><a href="/flash/90302.htm"><img  src="http://imga3.4399.cn/upload_pic/2012/5/30/4399_14205331920.jpg" alt="火柴人打羽毛球2" />火柴人打羽毛球2</a></li>
+<li><a href="/flash/122050.htm"><img  src="http://imga1.4399.cn/upload_pic/2013/8/21/4399_17314845702.jpg" alt="死神VS火影1.68" />死神VS火影1.68</a></li>
+<li><a href="/flash/112585.htm"><img  src="http://imga1.4399.cn/upload_pic/2013/3/23/4399_10544715263.jpg" alt="穿越火线之终结幽灵" />穿越火线之终结幽灵</a></li>
+<li><a href="/flash/93551.htm"><img  src="http://imga2.4399.cn/upload_pic/2012/7/17/4399_09483612600.jpg" alt="小鳄鱼爱洗澡中文版" />小鳄鱼爱洗澡中文版</a></li>
+<li><a href="http://news.4399.com/aidi/"><img  src="http://imga4.4399.cn/upload_pic/2012/11/17/4399_10383543295.jpg" alt="艾迪王国" />艾迪王国</a></li>
+<li><a href="/flash/123305.htm"><img  src="http://imga1.4399.cn/upload_pic/2013/9/12/4399_16461262501.jpg" alt="龙珠激斗2.2" />龙珠激斗2.2</a></li>
+<li><a href="/flash/120247.htm"><img  src="http://imga3.4399.cn/upload_pic/2013/7/20/4399_12193826669.jpg" alt="愤怒的老奶奶玩酷跑1.6" />愤怒的老奶奶玩酷跑1.6</a></li>
+<li><a href="/flash/110116.htm"><img  src="http://imga2.4399.cn/upload_pic/2013/2/6/4399_19263325447.jpg" alt="拳皇wing1.85无敌版" />拳皇wing1.85无敌版</a></li>
+<li><a href="/flash/117227.htm"><img  src="http://imga3.4399.cn/upload_pic/2013/5/31/4399_09274231805.jpg" alt="粘液实验室2" />粘液实验室2</a></li>
+<li><a href="/flash/95286.htm"><img  src="http://imga2.4399.cn/upload_pic/2013/8/2/4399_09265399800.jpg" alt="超合金战记2.5" />超合金战记2.5</a></li>
+<li><a href="/flash/73386.htm"><img  src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_16491828040.jpg" alt="快刀切水果3" />快刀切水果3</a></li>
+<li><a href="/flash/123197.htm"><img  src="http://imga3.4399.cn/upload_pic/2013/9/11/4399_09583807829.jpg" alt="镭射眼超人" />镭射眼超人</a></li>
+<li><a href="/flash/113859.htm"><img  src="http://imga5.4399.cn/upload_pic/2013/4/9/4399_17212539066.jpg" alt="战火英雄2中文无敌版" />战火英雄2中文无敌版</a></li>
+<li><a href="/flash/116259.htm"><img  src="http://imga5.4399.cn/upload_pic/2013/5/16/4399_11102673521.jpg" alt="熊出没大冒险3" />熊出没大冒险3</a></li>
+<li><a href="/flash/20660.htm"><img  src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_16064659687.jpg" alt="森林冰火人中文版" />森林冰火人中文版</a></li>
+<li><a href="/flash/52134.htm"><img  src="http://imga5.4399.cn/upload_pic/2012/6/15/4399_15145294307.jpg" alt="愤怒的小鸟" />愤怒的小鸟</a></li>
+<li><a href="http://news.4399.com/guaiwushijie/"><img  src="http://imga2.4399.cn/upload_pic/2013/9/14/4399_15521162529.jpg" alt="怪物世界" />怪物世界</a></li>
+<li><a href="/flash/122823.htm"><img  src="http://imga4.4399.cn/upload_pic/2013/9/4/4399_11274284576.jpg" alt="花儿朵朵" />花儿朵朵</a></li>
+<li><a href="/flash/119152.htm"><img  src="http://imga3.4399.cn/upload_pic/2013/7/20/4399_12200414539.jpg" alt="开心宝贝卡丁船" />开心宝贝卡丁船</a></li>
+<li><a href="/flash/71403.htm"><span class="hot"></span><img  src="http://imga4.4399.cn/upload_pic/2013/9/18/4399_15554625092.jpg" alt="4399涂鸦画板" />4399涂鸦画板</a></li>
+<li><a href="/flash/99976.htm"><img  src="http://imga2.4399.cn/upload_pic/2012/10/2/4399_11043090457.jpg" alt="勇闯地下城2.8无敌版" />勇闯地下城2.8无敌版</a></li>
+<li><a href="/flash/112689.htm"><img  src="http://imga5.4399.cn/upload_pic/2013/3/21/4399_14193544872.jpg" alt="皇城突袭1.13无敌版" />皇城突袭1.13无敌版</a></li>
+<li><a href="/flash/72550.htm"><img  src="http://imga1.4399.cn/upload_pic/2013/3/28/4399_11421029499.jpg" alt="三国小镇" />三国小镇</a></li>
+<li><a href="/flash/122521.htm"><img name="lzimg_1" lz_src="http://imga2.4399.cn/upload_pic/2013/8/29/4399_09422768096.jpg" alt="逗小猴开心8" />逗小猴开心8</a></li>
+<li><a href="/flash/64162.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_15212426275.jpg" alt="造梦西游2" />造梦西游2</a></li>
+<li><a href="/flash/107177.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2012/12/27/4399_16275298582.jpg" alt="极限越野5" />极限越野5</a></li>
+<li><a href="/flash/83914.htm"><img name="lzimg_1" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_17540996597.jpg" alt="二战前线3无敌选关版" />二战前线3无敌选关版</a></li>
+<li><a href="/flash/39526.htm"><img name="lzimg_1" lz_src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_10250433013.jpg" alt="狙击小日本" />狙击小日本</a></li>
+<li><a href="/flash/79068.htm"><img name="lzimg_1" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_17413298989.jpg" alt="高楼爆破3无敌版" />高楼爆破3无敌版</a></li>
+<li><a href="/flash/3881.htm"><img name="lzimg_1" lz_src="http://imga2.4399.cn/upload_pic/2012/10/26/4399_17501050008.jpg" alt="Q版泡泡堂" />Q版泡泡堂</a></li>
+<li><a href="/flash/56259.htm"><img name="lzimg_1" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20013536781.jpg" alt="超级马里奥水上摩托" />超级马里奥水上摩托</a></li>
+<li><a href="/flash/100030.htm"><img name="lzimg_1" lz_src="http://imga1.4399.cn/upload_pic/2012/10/10/4399_20513673848.jpg" alt="炫酷旋转忍者2" />炫酷旋转忍者2</a></li>
+<li><a href="/flash/69830.htm"><span class="hot"></span><img name="lzimg_1" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20034102418.jpg" alt="铠甲勇士激斗传炎龙登场无敌版" />铠甲勇士激斗传炎龙登场无敌版</a></li>
+<li><a href="/flash/47931.htm"><img name="lzimg_1" lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_19591204196.jpg" alt="勇者之路精灵物语速升版" />勇者之路精灵物语速升版</a></li>
+<li><a href="/flash/100942.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2012/10/15/4399_16285295944.jpg" alt="机器人攻城战无敌版" />机器人攻城战无敌版</a></li>
+<li><a href="/flash/102670.htm"><img name="lzimg_1" lz_src="http://imga1.4399.cn/upload_pic/2012/11/1/4399_14520737267.jpg" alt="城邦争霸1.1.2" />城邦争霸1.1.2</a></li>
+<li><a href="/flash/6232.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2012/12/17/4399_19485250438.jpg" alt="疯狂小人战斗" />疯狂小人战斗</a></li>
+<li><a href="/flash/117621.htm"><img name="lzimg_1" lz_src="http://imga2.4399.cn/upload_pic/2013/6/6/4399_10234893517.jpg" alt="老爹汉堡店历险记" />老爹汉堡店历险记</a></li>
+<li><a href="/flash/119847.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2013/7/15/4399_09481883982.jpg" alt="3D巴士停车" />3D巴士停车</a></li>
+<li><a href="/flash/91800.htm"><img name="lzimg_1" lz_src="http://imga1.4399.cn/upload_pic/2013/8/21/4399_18300970853.jpg" alt="封神太子2" />封神太子2</a></li>
+<li><a href="/flash/70412.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_19544233628.jpg" alt="奥特曼激斗传1.2无敌版" />奥特曼激斗传1.2无敌版</a></li>
+<li><a href="/flash/40242.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20085695208.jpg" alt="打屁股" />打屁股</a></li>
+<li><a href="/flash/115681.htm"><img name="lzimg_1" lz_src="http://imga2.4399.cn/upload_pic/2013/5/8/4399_10033463377.jpg" alt="帮鸟儿解冻2" />帮鸟儿解冻2</a></li>
+<li><a href="/flash/48504.htm"><img name="lzimg_1" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20323933014.jpg" alt="植物大战僵尸无敌版" />植物大战僵尸无敌版</a></li>
+<li><a href="/flash/3883.htm"><img name="lzimg_1" lz_src="http://imga4.4399.cn/upload_pic/2012/7/5/4399_14524371796.jpg" alt="黄金矿工双人版" />黄金矿工双人版</a></li>
+<li><a href="/flash/17403.htm"><img name="lzimg_1" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20141018727.jpg" alt="青蛙祖玛" />青蛙祖玛</a></li>
+<li><a href="/flash/71489.htm"><span class="hot"></span><img name="lzimg_1" lz_src="http://imga5.4399.cn/upload_pic/2013/2/7/4399_16472959667.jpg" alt="捕鱼达人" />捕鱼达人</a></li>
+<li><a href="/flash/34974.htm"><img name="lzimg_1" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20370868083.jpg" alt="大便超人" />大便超人</a></li>
+<li><a href="/flash/46972.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20381793821.jpg" alt="4399画板" />4399画板</a></li>
+<li><a href="/flash/113377.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2013/4/3/4399_17171314969.jpg" alt="森林冰火人4无敌版" />森林冰火人4无敌版</a></li>
+<li><a href="/flash/19063.htm"><img name="lzimg_1" lz_src="http://imga4.4399.cn/upload_pic/2012/7/5/4399_14561065257.jpg" alt="制作美味蛋糕" />制作美味蛋糕</a></li>
+<li><a href="/flash/63957.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2012/7/5/4399_15404321992.jpg" alt="黄金沙鹰无敌版" />黄金沙鹰无敌版</a></li>
+<li><a href="/flash/10305.htm"><img name="lzimg_1" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20421848857.jpg" alt="双人旋转赛车" />双人旋转赛车</a></li>
+<li><a href="/flash/60369.htm"><img name="lzimg_1" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20301740111.jpg" alt="王子公主回家记" />王子公主回家记</a></li>
+<li><a href="/flash/122380.htm"><img name="lzimg_1" lz_src="http://imga1.4399.cn/upload_pic/2013/8/27/4399_09394630328.jpg" alt="勇闯僵尸洞穴2时光机器" />勇闯僵尸洞穴2时光机器</a></li>
+<li><a href="/flash/120945.htm"><img name="lzimg_1" lz_src="http://imga1.4399.cn/upload_pic/2013/8/2/4399_10032379604.jpg" alt="激光炮轰小怪3" />激光炮轰小怪3</a></li>
+<li><a href="/flash/121555.htm"><img name="lzimg_1" lz_src="http://imga1.4399.cn/upload_pic/2013/8/13/4399_10312198071.jpg" alt="忍者斩铁剑1.6" />忍者斩铁剑1.6</a></li>
+<li><a href="/flash/123007.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2013/9/7/4399_11070814303.jpg" alt="切割小怪物" />切割小怪物</a></li>
+<li><a href="/flash/45859.htm"><img name="lzimg_1" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20361389205.jpg" alt="奥特曼打怪兽2" />奥特曼打怪兽2</a></li>
+<li><a href="/flash/54998.htm"><img name="lzimg_1" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20431948210.jpg" alt="炮打笑脸集合版" />炮打笑脸集合版</a></li>
+<li><a href="/flash/111798.htm"><img name="lzimg_1" lz_src="http://imga4.4399.cn/upload_pic/2013/3/8/4399_09175889405.jpg" alt="西游记悟空传2" />西游记悟空传2</a></li>
+<li><a href="/flash/81832.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_16014077324.jpg" alt="倒霉熊逃离房间" />倒霉熊逃离房间</a></li>
+<li><a href="/flash/122215.htm"><img name="lzimg_1" lz_src="http://imga1.4399.cn/upload_pic/2013/8/23/4399_11300434281.jpg" alt="小企鹅爱吃鱼2" />小企鹅爱吃鱼2</a></li>
+<li><a href="/flash/97554.htm"><img name="lzimg_1" lz_src="http://imga5.4399.cn/upload_pic/2012/9/4/4399_09461864747.jpg" alt="极速飞车3" />极速飞车3</a></li>
+<li><a href="/flash/92718.htm"><img name="lzimg_1" lz_src="http://imga4.4399.cn/upload_pic/2013/1/1/4399_17512253693.jpg" alt="奥特曼迪迦进化" />奥特曼迪迦进化</a></li>
+<li><a href="/flash/83358.htm"><img name="lzimg_1" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_15105573771.jpg" alt="会说话的汤姆猫3" />会说话的汤姆猫3</a></li>
+<li><a href="/flash/119418.htm"><img name="lzimg_1" lz_src="http://imga4.4399.cn/upload_pic/2013/7/8/4399_09252052306.jpg" alt="五星战队之永不屈服2无敌版" />五星战队之永不屈服2无敌版</a></li>
+<li><a href="/flash/110352.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2013/2/17/4399_09550134640.jpg" alt="鸭嘴兽的逆袭2" />鸭嘴兽的逆袭2</a></li>
+<li><a href="/flash/96275.htm"><img name="lzimg_1" lz_src="http://imga1.4399.cn/upload_pic/2012/8/18/4399_10080502477.jpg" alt="快乐美发师3" />快乐美发师3</a></li>
+<li><a href="/flash/98781.htm"><img name="lzimg_1" lz_src="http://imga2.4399.cn/upload_pic/2012/9/19/4399_11031699275.jpg" alt="骇客大战外星人" />骇客大战外星人</a></li>
+<li><a href="/flash/90742.htm"><img name="lzimg_1" lz_src="http://imga3.4399.cn/upload_pic/2012/6/5/4399_12463564431.jpg" alt="战火英雄无敌版" />战火英雄无敌版</a></li>
+<li><a href="/flash/100125.htm"><img name="lzimg_2" lz_src="http://imga1.4399.cn/upload_pic/2012/10/5/4399_08502085457.jpg" alt="装载卡车4" />装载卡车4</a></li>
+<li><a href="/flash/116737.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2013/5/23/4399_18251172973.jpg" alt="红球与绿球2" />红球与绿球2</a></li>
+<li><a href="/flash/43689.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_09241464704.jpg" alt="逃命的火鸡" />逃命的火鸡</a></li>
+<li><a href="/flash/121217.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2013/8/6/4399_17332493324.jpg" alt="小鳄鱼寻鸭之旅" />小鳄鱼寻鸭之旅</a></li>
+<li><a href="/flash/44667.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2012/7/5/4399_15065080875.jpg" alt="挖地小子无敌版" />挖地小子无敌版</a></li>
+<li><a href="/flash/123005.htm"><img name="lzimg_2" lz_src="http://imga1.4399.cn/upload_pic/2013/9/7/4399_09592154003.jpg" alt="惊醒小象3" />惊醒小象3</a></li>
+<li><a href="/flash/103771.htm"><img name="lzimg_2" lz_src="http://imga2.4399.cn/upload_pic/2012/11/16/4399_18392093912.jpg" alt="战车撞僵尸2.0" />战车撞僵尸2.0</a></li>
+<li><a href="/flash/110022.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2013/2/5/4399_15391628052.jpg" alt="过年吓唬人2" />过年吓唬人2</a></li>
+<li><a href="/flash/80714.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_15222598486.jpg" alt="冰火人冒险双人无敌版" />冰火人冒险双人无敌版</a></li>
+<li><a href="/flash/122300.htm"><img name="lzimg_2" lz_src="http://imga1.4399.cn/upload_pic/2013/8/24/4399_14353467328.jpg" alt="黄金高校" />黄金高校</a></li>
+<li><a href="/flash/42760.htm"><span class="hot"></span><img name="lzimg_2" lz_src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_10003256635.jpg" alt="突击对决无敌版" />突击对决无敌版</a></li>
+<li><a href="/flash/118615.htm"><img name="lzimg_2" lz_src="http://imga1.4399.cn/upload_pic/2013/6/25/4399_10051937873.jpg" alt="热血狂飙2" />热血狂飙2</a></li>
+<li><a href="/flash/115130.htm"><img name="lzimg_2" lz_src="http://imga1.4399.cn/upload_pic/2013/4/28/4399_15105840458.jpg" alt="城堡风云无敌版" />城堡风云无敌版</a></li>
+<li><a href="/flash/116264.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2013/5/16/4399_11270811762.jpg" alt="蜗牛鲍勃太空版" />蜗牛鲍勃太空版</a></li>
+<li><a href="/flash/99810.htm"><img name="lzimg_2" lz_src="http://imga1.4399.cn/upload_pic/2012/9/29/4399_08244278677.jpg" alt="印第安冒险" />印第安冒险</a></li>
+<li><a href="/flash/115756.htm"><img name="lzimg_2" lz_src="http://imga2.4399.cn/upload_pic/2013/5/8/4399_19465057978.jpg" alt="美人鱼寻爱之旅" />美人鱼寻爱之旅</a></li>
+<li><a href="/flash/115251.htm"><img name="lzimg_2" lz_src="http://imga2.4399.cn/upload_pic/2013/4/30/4399_11153385274.jpg" alt="迷你冲撞" />迷你冲撞</a></li>
+<li><a href="/flash/103299.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2012/11/9/4399_16370932724.jpg" alt="五星战队之超级武士加强无敌版2" />五星战队之超级武士加强无敌版2</a></li>
+<li><a href="/flash/51187.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_10081434092.jpg" alt="奥特曼大战僵尸0.6" />奥特曼大战僵尸0.6</a></li>
+<li><a href="/flash/84516.htm"><img name="lzimg_2" lz_src="http://imga2.4399.cn/upload_pic/2012/3/15/4399_14172503234.jpg" alt="豪华越野车" />豪华越野车</a></li>
+<li><a href="/flash/64346.htm"><img name="lzimg_2" lz_src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_10160170232.jpg" alt="灰太狼潜入羊村" />灰太狼潜入羊村</a></li>
+<li><a href="/flash/42828.htm"><img name="lzimg_2" lz_src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_09591028092.jpg" alt="小灰狼吃小羊" />小灰狼吃小羊</a></li>
+<li><a href="/flash/68259.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_10164095141.jpg" alt="河马饲养员" />河马饲养员</a></li>
+<li><a href="/flash/116267.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2013/5/16/4399_11483168018.jpg" alt="鸡鸭兄弟" />鸡鸭兄弟</a></li>
+<li><a href="/flash/74394.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2013/1/9/4399_14313567517.jpg" alt="大嘴怪冒险无敌版" />大嘴怪冒险无敌版</a></li>
+<li><a href="/flash/47919.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_10190561887.jpg" alt="拯救恐龙" />拯救恐龙</a></li>
+<li><a href="/flash/87425.htm"><img name="lzimg_2" lz_src="http://imga1.4399.cn/upload_pic/2012/4/18/4399_19330227938.jpg" alt="钢铁蜘蛛侠" />钢铁蜘蛛侠</a></li>
+<li><a href="/flash/115691.htm"><img name="lzimg_2" lz_src="http://imga2.4399.cn/upload_pic/2013/5/8/4399_14223258710.jpg" alt="蓝色药水终极版" />蓝色药水终极版</a></li>
+<li><a href="/flash/71199.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2012/8/20/4399_09385453174.jpg" alt="猫和老鼠摩托大赛" />猫和老鼠摩托大赛</a></li>
+<li><a href="/flash/117252.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2013/5/31/4399_11560339515.jpg" alt="乐高游戏嘉年华3" />乐高游戏嘉年华3</a></li>
+<li><a href="/flash/71883.htm"><img name="lzimg_2" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20024340347.jpg" alt="投篮挑战选关版" />投篮挑战选关版</a></li>
+<li><a href="/flash/88901.htm"><img name="lzimg_2" lz_src="http://imga2.4399.cn/upload_pic/2012/5/10/4399_14425307759.jpg" alt="帕拉狗骑士" />帕拉狗骑士</a></li>
+<li><a href="/flash/115389.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2013/5/3/4399_11164670405.jpg" alt="阿狸方块岛历险2" />阿狸方块岛历险2</a></li>
+<li><a href="/flash/59799.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_10201650031.jpg" alt="愤怒的僵尸" />愤怒的僵尸</a></li>
+<li><a href="/flash/40779.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_10222947404.jpg" alt="3D极速飙车" />3D极速飙车</a></li>
+<li><a href="/flash/103175.htm"><img name="lzimg_2" lz_src="http://imga1.4399.cn/upload_pic/2012/11/8/4399_17510478426.jpg" alt="送小羊回家2地底历险篇" />送小羊回家2地底历险篇</a></li>
+<li><a href="/flash/67208.htm"><img name="lzimg_2" lz_src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_10181031796.jpg" alt="猫和老鼠炸弹堂" />猫和老鼠炸弹堂</a></li>
+<li><a href="/flash/48574.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_10085999585.jpg" alt="梦幻超人精装无敌版" />梦幻超人精装无敌版</a></li>
+<li><a href="/flash/59249.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20553935547.jpg" alt="皇后成长计划" />皇后成长计划</a></li>
+<li><a href="/flash/35156.htm"><img name="lzimg_2" lz_src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_10261900753.jpg" alt="拳皇大战八神版" />拳皇大战八神版</a></li>
+<li><a href="/flash/68347.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_09415694044.jpg" alt="变形金刚之猛龙过江" />变形金刚之猛龙过江</a></li>
+<li><a href="/flash/110952.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2013/2/25/4399_17281059989.jpg" alt="混斗兄弟" />混斗兄弟</a></li>
+<li><a href="/flash/56667.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_10280636648.jpg" alt="屁王兄弟无敌版" />屁王兄弟无敌版</a></li>
+<li><a href="/flash/44911.htm"><img name="lzimg_2" lz_src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_10283893192.jpg" alt="建筑队大战僵尸疯狂版" />建筑队大战僵尸疯狂版</a></li>
+<li><a href="/flash/107749.htm"><img name="lzimg_2" lz_src="http://imga5.4399.cn/upload_pic/2013/1/4/4399_14183223948.jpg" alt="水果大战害虫加强版" />水果大战害虫加强版</a></li>
+<li><a href="/flash/38351.htm"><img name="lzimg_2" lz_src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_10294310437.jpg" alt="敌对狙击中文版" />敌对狙击中文版</a></li>
+<li><a href="/flash/58722.htm"><img name="lzimg_2" lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_09232888608.jpg" alt="霸气的蠕虫" />霸气的蠕虫</a></li>
+<li><a href="/flash/106748.htm"><img name="lzimg_2" lz_src="http://imga4.4399.cn/upload_pic/2012/12/21/4399_14210798168.jpg" alt="守卫坚果2" />守卫坚果2</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<!--li-end-->
+</div>
+<div class="ng_b"></div>
+</div>
+<!--中间最新小游戏结束-->
+
+<!--右边-->
+<div class="rightside">
+<div class="rbox_1">
+<div class="right_t">
+<ul>
+<li class="title_info"><a href="/special/good.htm"><b>推荐专题</b></a> </li>
+<li class="more2"><a href="/special/good.htm">更多&gt;&gt;</a> </li>
+</ul>
+</div>
+<div class="right_c">
+<div class="zt_tj">
+<ul>
+<li><a href="/special/1.htm"> <IMG alt=双人小游戏  src="http://imga2.4399.cn/upload_pic/2013/5/27/4399_10324686347.gif">双人小游戏</a></li>
+<li><a href="/special/8.htm"> <IMG alt=连连看全集  src="http://imga4.4399.cn/upload_pic/2013/3/29/4399_17375523535.jpg">连连看全集</a></li>
+<li><a href="/special/272.htm"> <IMG alt=熊出没  src="http://imga3.4399.cn/upload_pic/2013/4/26/4399_11200618403.jpg">熊出没</a></li>
+<li><a href="/special/260.htm"> <IMG alt=3D游戏  src="http://imga1.4399.cn/upload_pic/2012/12/12/4399_20391498272.jpg">3D游戏</a></li>
+<li><a href="/special/122.htm"> <IMG alt=僵尸  src="http://imga3.4399.cn/upload_pic/2013/6/6/4399_11201784902.jpg">僵尸</a></li>
+<li><a href="/special/17.htm"> <IMG alt=海绵宝宝  src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_15201009096.jpg">海绵宝宝</a></li>
+<li><a href="/special/182.htm"> <IMG alt=朵拉  src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_15182622447.jpg">朵拉</a></li>
+<li><a href="/special/177.htm"> <IMG alt=铠甲勇士  src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_15213450731.jpg">铠甲勇士</a></li>
+<li><a href="/special/19.htm"> <IMG alt=网页游戏大全  src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_15471778838.jpg">网页游戏大全</a></li>
+<li><a href="/special/29.htm"> <IMG alt=坦克  src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_15244867979.jpg">坦克</a></li>
+<li><a href="/special/194.htm"> <IMG alt=巧虎  src="http://imga5.4399.cn/upload_pic/2013/3/25/4399_10441987744.jpg">巧虎</a></li>
+<li><a href="/special/23.htm"> <IMG alt=阿Sue  src="http://imga4.4399.cn/upload_pic/2012/3/22/4399_09552726533.jpg">阿Sue</a></li>
+<li><a href="/special/34.htm"> <IMG alt=黄金矿工集  src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_15203959182.jpg">黄金矿工集</a></li>
+<li><a href="/special/16.htm"> <IMG alt=战斗机  src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_15260141506.jpg">战斗机</a></li>
+<li><a href="/special/67.htm"> <IMG alt=闪客快打  src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_15240652848.jpg">闪客快打</a></li>
+<li><a href="/special/110.htm"> <IMG alt=打工挣钱  src="http://imga1.4399.cn/upload_pic/2012/6/6/4399_09460069490.jpg">打工挣钱</a></li>
+<li><a href="/special/90.htm"> <IMG alt=闯关 name='lzimg_1' lz_src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_15172298396.jpg">闯关</a></li>
+<li><a href="/special/169.htm"> <IMG alt=公主 name='lzimg_1' lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_15191318466.jpg">公主</a></li>
+<li><a href="/special/270.htm"> <IMG alt=男生游戏精选 name='lzimg_1' lz_src="http://imga1.4399.cn/upload_pic/2013/3/25/4399_15562765272.jpg">男生游戏精选</a></li>
+<li><a href="/special/10.htm"> <IMG alt=反恐精英 name='lzimg_1' lz_src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_15184846039.jpg">反恐精英</a></li>
+<li><a href="/special/7.htm"> <IMG alt=做饭 name='lzimg_1' lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_15261691448.jpg">做饭</a></li>
+<li><a href="/special/134.htm"> <IMG alt=奥特曼 name='lzimg_1' lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_15162946529.jpg">奥特曼</a></li>
+<li><a href="/special/109.htm"> <IMG alt=宠物 name='lzimg_1' lz_src="http://imga5.4399.cn/upload_pic/2012/12/17/4399_18463206129.jpg">宠物</a></li>
+<li><a href="/special/18.htm"> <IMG alt=超级玛丽 name='lzimg_1' lz_src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_15170899092.jpg">超级玛丽</a></li>
+<li><a href="/special/93.htm"> <IMG alt=大鱼吃小鱼 name='lzimg_1' lz_src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_15173747671.jpg">大鱼吃小鱼</a></li>
+<li><a href="/special/164.htm"> <IMG alt=越野车 name='lzimg_1' lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_15255010761.jpg">越野车</a></li>
+<li><a href="/special/64.htm"> <IMG alt=消消看 name='lzimg_1' lz_src="http://imga5.4399.cn/upload_pic/2012/6/6/4399_09375473261.jpg">消消看</a></li>
+<li><a href="/special/26.htm"> <IMG alt=拳皇 name='lzimg_1' lz_src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_15215699722.jpg">拳皇</a></li>
+<li><a href="/special/202.htm"> <IMG alt=学习类 name='lzimg_1' lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_15253853454.jpg">学习类</a></li>
+<li><a href="/special/100.htm"> <IMG alt=停车 name='lzimg_1' lz_src="http://imga1.4399.cn/upload_pic/2012/12/14/4399_20120562052.jpg">停车</a></li>
+<li><a href="/special/108.htm"> <IMG alt=蛋糕&汉堡 name='lzimg_1' lz_src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_15175887910.jpg">蛋糕&汉堡</a></li>
+<li><a href="/special/106.htm"> <IMG alt=礼服 name='lzimg_1' lz_src="http://imga2.4399.cn/upload_pic/2013/1/31/4399_17291128704.jpg">礼服</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right_b"></div>
+</div>
+<div class="rbox_2">
+<div class="right_t">
+<ul>
+<li class="title_info"><a href="/special/19.htm"><b>推荐网页游戏</b></a> </li>
+<li class="more2"><a href="/special/19.htm">更多&gt;&gt;</a> </li>
+</ul>
+</div>
+<div class="right_c">
+
+<div class="n_game">
+
+<div class="wgli2"> <a href="/flash/103152.htm"><img name='lzimg_1' lz_src="http://imga2.4399.cn/upload_pic/2013/3/27/4399_08302941419.jpg" alt="4399天行剑"></a>
+<div class="wg_tip">
+<div class="wg_n"><a href="/flash/103152.htm">
+4399天行剑</a></div>
+<div class="wg_info"><a href="/flash/103152.htm">
+网页游戏精品</a></div>
+</div>
+</div>
+<div class="wgli2"> <a href="http://my.4399.com/yxsgkd/"><img name='lzimg_2' lz_src="http://imga3.4399.cn/upload_pic/2013/8/4/4399_08273055058.jpg" alt="4399三国快打"></a>
+<div class="wg_tip">
+<div class="wg_n"><a href="http://my.4399.com/yxsgkd/">
+4399三国快打</a></div>
+<div class="wg_info"><a href="http://my.4399.com/yxsgkd/">
+超爽无限连击</a></div>
+</div>
+</div>
+
+</div>
+
+<div class="x_game">
+<ul>
+<li><a href="http://my.4399.com/yxtouch/"><img alt="4399touch炫舞" name='lzimg_2' lz_src="http://imga5.4399.cn/upload_pic/2013/9/12/4399_15423611641.jpg">4399touch炫舞</a></li>
+<li><a href="http://my.4399.com/yxxmhzc/"><img alt="4399新梦幻之城" name='lzimg_2' lz_src="http://imga5.4399.cn/upload_pic/2013/8/20/4399_09070520139.jpg">4399新梦幻之城</a></li>
+<li><a href="/flash/103643.htm"><img alt="4399斗破乾坤" name='lzimg_2' lz_src="http://imga4.4399.cn/upload_pic/2013/2/19/4399_09360840651.jpg">4399斗破乾坤</a></li>
+<li><a href="/flash/100238.htm"><img alt="神将三国" name='lzimg_2' lz_src="http://imga4.4399.cn/upload_pic/2013/5/14/4399_08345215146.jpg">神将三国</a></li>
+<li><a href="/flash/107025.htm"><img alt="神武九天" name='lzimg_2' lz_src="http://imga1.4399.cn/upload_pic/2013/8/2/4399_10564015717.jpg">神武九天</a></li>
+<li><a href="/flash/101943.htm"><img alt="4399冒险契约" name='lzimg_2' lz_src="http://imga4.4399.cn/upload_pic/2013/8/19/4399_08184871328.jpg">4399冒险契约</a></li>
+<li><a href="http://my.4399.com/yxrxhzw/"><img alt="4399热血海贼王" name='lzimg_2' lz_src="http://imga1.4399.cn/upload_pic/2013/7/12/4399_14421366061.jpg">4399热血海贼王</a></li>
+<li><a href="http://kbmj.4399.com/"><img alt="卡布魔境" name='lzimg_2' lz_src="http://imga1.4399.cn/upload_pic/2013/6/28/4399_17195832032.jpg">卡布魔境</a></li>
+<li><a href="/flash/109162.htm"><img alt="古剑奇侠" name='lzimg_2' lz_src="http://imga3.4399.cn/upload_pic/2013/9/22/4399_09542835699.jpg">古剑奇侠</a></li>
+<li><a href="/flash/59107.htm"><img alt="凡人修真2" name='lzimg_2' lz_src="http://imga3.4399.cn/upload_pic/2012/11/28/4399_19584421674.jpg">凡人修真2</a></li>
+<li><a href="/flash/109012.htm"><img alt="威武三国" name='lzimg_2' lz_src="http://imga3.4399.cn/upload_pic/2013/8/19/4399_08195805017.jpg">威武三国</a></li>
+<li><a href="/flash/116721.htm"><img alt="4399太古遮天" name='lzimg_2' lz_src="http://imga2.4399.cn/upload_pic/2013/8/26/4399_08120030691.jpg">4399太古遮天</a></li>
+<li><a href="/flash/117635.htm"><img alt="苍空" name='lzimg_2' lz_src="http://imga1.4399.cn/upload_pic/2013/7/31/4399_11374988872.jpg">苍空</a></li>
+<li><a href="/flash/116773.htm"><img alt="御剑飞天" name='lzimg_2' lz_src="http://imga4.4399.cn/upload_pic/2013/9/6/4399_08293052210.jpg">御剑飞天</a></li>
+<li><a href="http://news.4399.com/pikatang/"><img alt="皮卡堂过家家" name='lzimg_2' lz_src="http://imga2.4399.cn/upload_pic/2013/5/28/4399_11505629717.jpg">皮卡堂过家家</a></li>
+<li><a href="http://my.4399.com/yxyx/"><img alt="4399游仙" name='lzimg_2' lz_src="http://imga2.4399.cn/upload_pic/2013/9/10/4399_09550283570.jpg">4399游仙</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right_b"></div>
+</div>
+</div>
+<!--右边结束-->
+</div>
+<!--左中右三栏结束-->
+<!--最新推荐游戏-->
+<div class="box960">
+<a name="new"></a>
+<div class="t4">
+<div class="title_t"><a href="/flash/game100.htm" title="最新推荐游戏"></a></div>
+<div class="more3"><a href="/flash/game100.htm">更多&gt;&gt;</a></div>
+</div>
+<div class="c4">
+<!--li-->
+<div class="ng_li2">
+<ul>
+<li><a href="/flash/123765.htm"><span class="new"></span><img alt="蜡笔小新之格斗物语" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2013/9/23/4399_10405128871.jpg" />蜡笔小新之格斗物语</a></li>
+<li><a href="/flash/121082.htm"><span class="new"></span><img alt="4399作品书" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/9/5/4399_17030284616.jpg" />4399作品书</a></li>
+<li><a href="/flash/123789.htm"><span class="new"></span><img alt="恐龙觅食" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/9/23/4399_15000147906.jpg" />恐龙觅食</a></li>
+<li><a href="/flash/123754.htm"><span class="new"></span><img alt="主题酒店中文版" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/9/23/4399_09362035440.jpg" />主题酒店中文版</a></li>
+<li><a href="/flash/123733.htm"><span class="new"></span><img alt="TH穿越火线1.3" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2013/9/22/4399_15151749101.jpg" />TH穿越火线1.3</a></li>
+<li><a href="/flash/123617.htm"><span class="new"></span><img alt="摘星小松鼠" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/9/19/4399_10053640286.jpg" />摘星小松鼠</a></li>
+<li><a href="/flash/123700.htm"><span class="new"></span><img alt="坚果小医仙" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2013/9/22/4399_10431019206.jpg" />坚果小医仙</a></li>
+<li><a href="http://speed.4399.com/"><img alt="4399极速猎人" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/9/10/4399_16224244562.jpg" />4399极速猎人</a></li>
+<li><a href="http://duoluo.4399.com/"><img alt="多洛战纪" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2013/8/24/4399_08333981220.jpg" />多洛战纪</a></li>
+<li><a href="/flash/112909.htm"><img alt="神庙逃亡2" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/3/26/4399_14103703309.jpg" />神庙逃亡2</a></li>
+<li><a href="/flash/123696.htm"><span class="new"></span><img alt="甜蜜大陆" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/9/22/4399_09063418619.jpg" />甜蜜大陆</a></li>
+<li><a href="/flash/123630.htm"><span class="new"></span><img alt="火爆冲锋车" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2013/9/19/4399_11075041551.jpg" />火爆冲锋车</a></li>
+<li><a href="/flash/123641.htm"><span class="new"></span><img alt="勇闯精灵大陆3" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/9/19/4399_15331974107.jpg" />勇闯精灵大陆3</a></li>
+<li><a href="/flash/123667.htm"><span class="new"></span><img alt="绵羊末日行动" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/9/20/4399_11444780845.jpg" />绵羊末日行动</a></li>
+<li><a href="/flash/123634.htm"><span class="new"></span><img alt="调皮龙蛋回家记" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/9/19/4399_11263501345.jpg" />调皮龙蛋回家记</a></li>
+<li><a href="/flash/123627.htm"><span class="new"></span><img alt="中秋做月饼" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/9/19/4399_10542992799.jpg" />中秋做月饼</a></li>
+<li><a href="/flash/123483.htm"><span class="new"></span><img alt="熊大熊二吃月饼" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2013/9/16/4399_15370639191.jpg" />熊大熊二吃月饼</a></li>
+<li><a href="/flash/118550.htm"><img alt="伟大航线" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2013/9/19/4399_15432432269.jpg" />伟大航线</a></li>
+<li><a href="/flash/113790.htm"><img alt="找你妹正式版" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2013/4/8/4399_19153110695.jpg" />找你妹正式版</a></li>
+<li><a href="/flash/122374.htm"><img alt="打飞机" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/8/26/4399_17095761429.jpg" />打飞机</a></li>
+<li><a href="/flash/122605.htm"><img alt="30道门" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2013/8/30/4399_14244476540.jpg" />30道门</a></li>
+<li><a href="/flash/122772.htm"><img alt="天天连萌" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/9/3/4399_10470329383.jpg" />天天连萌</a></li>
+<li><a href="/flash/123235.htm"><img alt="穿越火线之全面开战" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2013/9/11/4399_19235844370.jpg" />穿越火线之全面开战</a></li>
+<li><a href="/flash/123272.htm"><img alt="绿豆蛙吃糖果" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/9/12/4399_11240392881.jpg" />绿豆蛙吃糖果</a></li>
+<li><a href="/flash/123389.htm"><img alt="城市赛道2" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/9/14/4399_09590111545.jpg" />城市赛道2</a></li>
+<li><a href="/flash/123407.htm"><img alt="火影忍界风暴2" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/9/14/4399_15243660776.jpg" />火影忍界风暴2</a></li>
+<li><a href="/flash/109522.htm"><img alt="造梦江湖" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/8/19/4399_19171625240.jpg" />造梦江湖</a></li>
+<li><a href="/flash/121552.htm"><img alt="光头强照顾小鳄鱼" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/8/15/4399_10205575946.jpg" />光头强照顾小鳄鱼</a></li>
+<li><a href="/flash/122424.htm"><img alt="西班牙夹心饼" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/8/27/4399_15225459982.jpg" />西班牙夹心饼</a></li>
+<li><a href="/flash/120752.htm"><img alt="吸血鬼学院" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/7/30/4399_10381910921.jpg" />吸血鬼学院</a></li>
+<li><a href="/flash/120031.htm"><img alt="穿越火线打鬼子" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/7/16/4399_17375384342.jpg" />穿越火线打鬼子</a></li>
+<li><a href="/flash/122189.htm"><img alt="史上最贱小游戏3" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/8/23/4399_11052840655.jpg" />史上最贱小游戏3</a></li>
+<li><a href="/flash/120684.htm"><img alt="爆转陀螺" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/7/29/4399_13485945362.jpg" />爆转陀螺</a></li>
+<li><a href="/flash/123569.htm"><img alt="方块进门" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/9/18/4399_10115204926.jpg" />方块进门</a></li>
+<li><a href="/flash/123623.htm"><img alt="逃生的法老王" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2013/9/19/4399_10303535169.jpg" />逃生的法老王</a></li>
+<li><a href="/flash/117611.htm"><img alt="封神太子外传2" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/6/5/4399_17422092005.jpg" />封神太子外传2</a></li>
+<li><a href="/flash/108641.htm"><img alt="爆笑变形金刚大结局" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/1/15/4399_16191823731.jpg" />爆笑变形金刚大结局</a></li>
+<li><a href="/flash/119444.htm"><img alt="送熊大回家2" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/7/8/4399_11070236957.jpg" />送熊大回家2</a></li>
+<li><a href="/flash/120348.htm"><img alt="为棒球搭桥" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2013/7/22/4399_19320644787.jpg" />为棒球搭桥</a></li>
+<li><a href="/flash/122196.htm"><img alt="可爱宝贝园游会" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/8/23/4399_11151114382.jpg" />可爱宝贝园游会</a></li>
+<li><a href="/flash/119779.htm"><img alt="金刚狼地铁跑酷" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/7/13/4399_10043476881.jpg" />金刚狼地铁跑酷</a></li>
+<li><a href="/flash/122036.htm"><img alt="芭比开车偷懒" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/8/20/4399_16442369034.jpg" />芭比开车偷懒</a></li>
+<li><a href="/flash/121768.htm"><img alt="3D超级漂移2" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2013/8/16/4399_10300062515.jpg" />3D超级漂移2</a></li>
+<li><a href="/flash/123267.htm"><img alt="可爱宝贝两小无猜" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/9/12/4399_10553475948.jpg" />可爱宝贝两小无猜</a></li>
+<li><a href="/flash/117612.htm"><img alt="深海捕鱼大师" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/6/5/4399_19144011591.jpg" />深海捕鱼大师</a></li>
+<li><a href="/flash/80223.htm"><img alt="梦幻三国" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2013/7/16/4399_16011069684.jpg" />梦幻三国</a></li>
+<li><a href="/flash/118482.htm"><img alt="拳皇wing1.9" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/6/21/4399_19545292616.jpg" />拳皇wing1.9</a></li>
+<li><a href="/flash/117462.htm"><img alt="孤城神箭" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/6/4/4399_15381637260.jpg" />孤城神箭</a></li>
+<li><a href="/flash/122581.htm"><img alt="摩托驾驶测试4" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/8/30/4399_09555865168.jpg" />摩托驾驶测试4</a></li>
+<li><a href="/flash/114606.htm"><img alt="炸开前方的路" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/4/20/4399_09065828000.jpg" />炸开前方的路</a></li>
+<li><a href="/flash/116152.htm"><img alt="养只宠物球" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/5/15/4399_09560143160.jpg" />养只宠物球</a></li>
+<li><a href="/flash/116611.htm"><img alt="乐高忍者最终之战" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/7/20/4399_14373965317.jpg" />乐高忍者最终之战</a></li>
+<li><a href="/flash/123010.htm"><img alt="疯狂僵尸大逃杀" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2013/9/7/4399_10505671675.jpg" />疯狂僵尸大逃杀</a></li>
+<li><a href="/flash/116102.htm"><img alt="灰太狼大冒险" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/5/14/4399_14135423540.jpg" />灰太狼大冒险</a></li>
+<li><a href="/flash/95628.htm"><img alt="捏橘子" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2012/8/10/4399_14451850635.jpg" />捏橘子</a></li>
+<li><a href="/flash/103568.htm"><img alt="大炮篮球" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2012/11/13/4399_10344003713.jpg" />大炮篮球</a></li>
+<li><a href="/flash/97941.htm"><img alt="暴风摩托撞丧尸" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2012/9/7/4399_20503526253.jpg" />暴风摩托撞丧尸</a></li>
+<li><a href="/flash/122497.htm"><img alt="魔法铅笔2" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2013/8/28/4399_15474819211.jpg" />魔法铅笔2</a></li>
+<li><a href="/flash/107441.htm"><img alt="光影战斗机" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2012/12/31/4399_11453032604.jpg" />光影战斗机</a></li>
+<li><a href="/flash/114839.htm"><img alt="芭比布置新房" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/4/24/4399_10281015522.jpg" />芭比布置新房</a></li>
+<li><a href="/flash/106202.htm"><span class="hot"></span><img alt="消灭星星中文版" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2012/12/14/4399_17143645229.jpg" />消灭星星中文版</a></li>
+<li><a href="/flash/121516.htm"><img alt="捣蛋猪3.4" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/8/12/4399_15214751864.jpg" />捣蛋猪3.4</a></li>
+<li><a href="/flash/112621.htm"><img alt="数码宝贝5" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/3/20/4399_11360471057.jpg" />数码宝贝5</a></li>
+<li><a href="/flash/54185.htm"><img alt="爆发的小火山" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/7272/9/54185.jpg" />爆发的小火山</a></li>
+<li><a href="/flash/112444.htm"><img alt="3D职业滑板" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/7/20/4399_14360699954.jpg" />3D职业滑板</a></li>
+<li><a href="/flash/89141.htm"><img alt="两人打麻将" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2012/5/16/4399_20344982286.jpg" />两人打麻将</a></li>
+<li><a href="/flash/103317.htm"><img alt="喜羊羊大冒险" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2012/11/9/4399_15130287753.jpg" />喜羊羊大冒险</a></li>
+<li><a href="/flash/100475.htm"><img alt="红军射苹果2" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2012/10/10/4399_11130733692.jpg" />红军射苹果2</a></li>
+<li><a href="/flash/103266.htm"><img alt="炮兵突击" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2012/11/9/4399_11290114686.jpg" />炮兵突击</a></li>
+<li><a href="/flash/97646.htm"><img alt="偷袭敌人阵地3" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2012/9/5/4399_07592828047.jpg" />偷袭敌人阵地3</a></li>
+<li><a href="/flash/121308.htm"><img alt="老爹蛋糕店" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2013/8/8/4399_10042976496.jpg" />老爹蛋糕店</a></li>
+<li><a href="/flash/91329.htm"><img alt="皇帝成长计划" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2012/6/13/4399_15582065490.jpg" />皇帝成长计划</a></li>
+<li><a href="/flash/105552.htm"><img alt="会说话的金杰" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2012/12/7/4399_11232024571.jpg" />会说话的金杰</a></li>
+<li><a href="/flash/107884.htm"><img alt="天天军棋" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2013/1/5/4399_15221143165.jpg" />天天军棋</a></li>
+<li><a href="/flash/70215.htm"><img alt="闪翼双星无敌版" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20294361633.jpg" />闪翼双星无敌版</a></li>
+<li><a href="/flash/96342.htm"><img alt="大鱼吃小鱼2012" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2012/8/23/4399_14121479797.jpg" />大鱼吃小鱼2012</a></li>
+<li><a href="/flash/90009.htm"><img alt="愤怒的冰人火人" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2012/5/25/4399_14054375681.jpg" />愤怒的冰人火人</a></li>
+<li><a href="/flash/89614.htm"><img alt="托马斯过河" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2012/5/21/4399_09490863517.jpg" />托马斯过河</a></li>
+<li><a href="/flash/101285.htm"><img alt="江南style动态拼图" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2012/10/17/4399_17510612958.jpg" />江南style动态拼图</a></li>
+<li><a href="/flash/109136.htm"><img alt="巧虎小马快快跑" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2013/1/22/4399_15052947673.jpg" />巧虎小马快快跑</a></li>
+<li><a href="/flash/112573.htm"><img alt="狼牙特种部队" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2013/3/19/4399_15074343630.jpg" />狼牙特种部队</a></li>
+<li><a href="/flash/89719.htm"><img alt="狂扁小豆丁无敌版" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2012/5/22/4399_10083355284.jpg" />狂扁小豆丁无敌版</a></li>
+<li><a href="/flash/96792.htm"><img alt="抓捕大公鸡" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2012/8/24/4399_15523581433.jpg" />抓捕大公鸡</a></li>
+<li><a href="/flash/86544.htm"><img alt="鸡蛋大逃亡2" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2012/4/5/4399_16545250104.jpg" />鸡蛋大逃亡2</a></li>
+<li><a href="/flash/85646.htm"><img alt="植物大战僵尸无敌战略版2" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2012/3/23/4399_09135606291.jpg" />植物大战僵尸无敌战略版2</a></li>
+<li><a href="/flash/89107.htm"><img alt="黑太狼吃羊2" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2012/5/14/4399_14314920831.jpg" />黑太狼吃羊2</a></li>
+<li><a href="/flash/80868.htm"><img alt="4399画板2" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_17012638735.jpg" />4399画板2</a></li>
+<li><a href="/flash/96689.htm"><img alt="愤怒的小鸟太空版HD" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2012/8/24/4399_09344972231.jpg" />愤怒的小鸟太空版HD</a></li>
+<li><a href="/flash/102374.htm"><img alt="喜羊羊弹钢琴2" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2012/10/30/4399_14542704757.jpg" />喜羊羊弹钢琴2</a></li>
+<li><a href="/flash/86676.htm"><img alt="恐龙保护家园无敌版" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2012/4/7/4399_11493613277.jpg" />恐龙保护家园无敌版</a></li>
+<li><a href="/flash/74642.htm"><img alt="光剑战士无敌版" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_19303310355.jpg" />光剑战士无敌版</a></li>
+<li><a href="/flash/71760.htm"><img alt="小婴儿逃出系列3" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2012/6/4/4399_14384329304.jpg" />小婴儿逃出系列3</a></li>
+<li><a href="/flash/66922.htm"><img alt="亚当找夏娃中文版" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_09512496287.jpg" />亚当找夏娃中文版</a></li>
+<li><a href="/flash/49853.htm"><img alt="打屁股2升级版" name='lzimg_3' lz_src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_09514547230.jpg" />打屁股2升级版</a></li>
+<li><a href="/flash/50350.htm"><img alt="唤醒嗜睡的小人" name='lzimg_3' lz_src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_09520846310.jpg" />唤醒嗜睡的小人</a></li>
+<li><a href="/flash/73311.htm"><img alt="破蛋专家" name='lzimg_3' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20434504727.jpg" />破蛋专家</a></li>
+<li><a href="/flash/62002.htm"><img alt="疯狂过山车2" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_10062875297.jpg" />疯狂过山车2</a></li>
+<li><a href="/flash/64592.htm"><img alt="钻头车挖宝石" name='lzimg_3' lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_10065282734.jpg" />钻头车挖宝石</a></li>
+<li><a href="/flash/75749.htm"><img alt="腾飞吧！铠甲勇士" name='lzimg_3' lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_09345451538.jpg" />腾飞吧！铠甲勇士</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<!--li-end-->
+</div>
+<div class="b4"></div>
+</div>
+<!--最新推荐游戏结束-->
+
+<!--老游戏推荐-->
+<div class="box960">
+<div class="t5">
+<div class="title_t"><a href="/flash/tj.htm" title="老游戏推荐"></a></div>
+<div class="more4"><a href="/flash/tj.htm">更多&gt;&gt;</a></div>
+</div>
+<div class="c5">
+<!--li-->
+<div class="ng_li2">
+<ul>
+<li><a href="/flash/27237.htm"><img alt="彩8对战" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_19531805066.jpg" />彩8对战</a></li>
+<li><a href="/flash/70126.htm"><img alt="生化战士中文无敌版" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_19573698494.jpg" />生化战士中文无敌版</a></li>
+<li><a href="/flash/73240.htm"><img alt="祖玛的复仇" name='lzimg_4' lz_src="http://imga1.4399.cn/upload_pic/7272/8/73240.jpg" />祖玛的复仇</a></li>
+<li><a href="/flash/38862.htm"><img alt="BBQ烧肉店" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20010214563.jpg" />BBQ烧肉店</a></li>
+<li><a href="/flash/25169.htm"><img alt="跟小美医生学打针" name='lzimg_4' lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20021626481.jpg" />跟小美医生学打针</a></li>
+<li><a href="/flash/54423.htm"><img alt="4399打豆豆" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/2012/11/9/4399_21034527748.jpg" />4399打豆豆</a></li>
+<li><a href="/flash/38031.htm"><img alt="警察灭僵尸中文版" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20061137093.jpg" />警察灭僵尸中文版</a></li>
+<li><a href="/flash/49941.htm"><img alt="手工爱心蛋糕" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20070242214.jpg" />手工爱心蛋糕</a></li>
+<li><a href="/flash/42400.htm"><img alt="控制龙卷风中文版" name='lzimg_4' lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20080750021.jpg" />控制龙卷风中文版</a></li>
+<li><a href="/flash/111828.htm"><img alt="保卫萝卜中文版" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/2013/3/8/4399_10551901042.jpg" />保卫萝卜中文版</a></li>
+<li><a href="/flash/38586.htm"><img alt="学写钢笔字" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20112619395.jpg" />学写钢笔字</a></li>
+<li><a href="/flash/65686.htm"><img alt="狂野推土机2" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20121946547.jpg" />狂野推土机2</a></li>
+<li><a href="/flash/72445.htm"><img alt="喜羊羊画板3" name='lzimg_4' lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_19225848718.jpg" />喜羊羊画板3</a></li>
+<li><a href="/flash/34736.htm"><img alt="小怪物探险" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20131583233.jpg" />小怪物探险</a></li>
+<li><a href="/flash/33892.htm"><img alt="乐园过山车中文版" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20163825542.jpg" />乐园过山车中文版</a></li>
+<li><a href="/flash/64131.htm"><img alt="勇者之路2加强版" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_19215875281.jpg" />勇者之路2加强版</a></li>
+<li><a href="/flash/55549.htm"><img alt="造梦西游" name='lzimg_4' lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20183749703.jpg" />造梦西游</a></li>
+<li><a href="/flash/78828.htm"><img alt="益智乐高2中文版" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/2012/5/8/4399_15515617564.jpg" />益智乐高2中文版</a></li>
+<li><a href="/flash/8068.htm"><img alt="飞天忍者猫" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20085834901.jpg" />飞天忍者猫</a></li>
+<li><a href="/flash/97116.htm"><img alt="英雄大作战V0.65无敌版" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/8/29/4399_10352400283.jpg" />英雄大作战V0.65无敌版</a></li>
+<li><a href="/flash/23932.htm"><img alt="幼儿园照顾小宝宝" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20224763959.jpg" />幼儿园照顾小宝宝</a></li>
+<li><a href="/flash/91402.htm"><img alt="保护橙子增强版3" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/6/14/4399_14352004367.jpg" />保护橙子增强版3</a></li>
+<li><a href="/flash/41285.htm"><img alt="朵拉的迷你高尔夫" name='lzimg_4' lz_src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_10304703380.jpg" />朵拉的迷你高尔夫</a></li>
+<li><a href="/flash/37914.htm"><img alt="菠萝芒果汁" name='lzimg_4' lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20255349088.jpg" />菠萝芒果汁</a></li>
+<li><a href="/flash/8347.htm"><img alt="金刚葫芦娃" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20300407172.jpg" />金刚葫芦娃</a></li>
+<li><a href="/flash/102831.htm"><img alt="变形金刚拯救星球无敌版" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/11/3/4399_11155592830.jpg" />变形金刚拯救星球无敌版</a></li>
+<li><a href="/flash/96045.htm"><img alt="懒羊羊飞碟保羊村" name='lzimg_4' lz_src="http://imga1.4399.cn/upload_pic/2012/8/15/4399_19173083915.jpg" />懒羊羊飞碟保羊村</a></li>
+<li><a href="/flash/68901.htm"><img alt="双刃战士无敌版" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20345922007.jpg" />双刃战士无敌版</a></li>
+<li><a href="/flash/57317.htm"><img alt="激光炮轰小怪2" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_21015347411.jpg" />激光炮轰小怪2</a></li>
+<li><a href="/flash/28702.htm"><img alt="无敌变形金刚" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20365855097.jpg" />无敌变形金刚</a></li>
+<li><a href="/flash/31836.htm"><img alt="战争进化史2无敌版" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20385798275.jpg" />战争进化史2无敌版</a></li>
+<li><a href="/flash/70231.htm"><img alt="勇士屠龙无敌版" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20250153369.jpg" />勇士屠龙无敌版</a></li>
+<li><a href="/flash/10736.htm"><img alt="极限跑酷" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20404337759.jpg" />极限跑酷</a></li>
+<li><a href="/flash/47951.htm"><img alt="枕头大战中文版" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20414362477.jpg" />枕头大战中文版</a></li>
+<li><a href="/flash/58993.htm"><img alt="超级玛丽中文版" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/7272/6/58993.jpg" />超级玛丽中文版</a></li>
+<li><a href="/flash/34789.htm"><img alt="坦克动荡" name='lzimg_4' lz_src="http://imga5.4399.cn/upload_pic/7272/4/34789.jpg" />坦克动荡</a></li>
+<li><a href="/flash/51731.htm"><img alt="钻头小子2" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20333789715.jpg" />钻头小子2</a></li>
+<li><a href="/flash/40636.htm"><img alt="小蜗牛的复仇" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20462381989.jpg" />小蜗牛的复仇</a></li>
+<li><a href="/flash/10773.htm"><img alt="狗狗养成大作战" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20472523152.jpg" />狗狗养成大作战</a></li>
+<li><a href="/flash/39952.htm"><img alt="奶油鸡食谱" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20481616618.jpg" />奶油鸡食谱</a></li>
+<li><a href="/flash/77652.htm"><img alt="送小羊回家2无敌版" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20395737023.jpg" />送小羊回家2无敌版</a></li>
+<li><a href="/flash/37518.htm"><img alt="高塔吃钻石" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/2012/3/15/4399_10104490287.jpg" />高塔吃钻石</a></li>
+<li><a href="/flash/8111.htm"><img alt="新车试驾" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20520332554.jpg" />新车试驾</a></li>
+<li><a href="/flash/37529.htm"><img alt="小火车过隧道无敌版" name='lzimg_4' lz_src="http://imga5.4399.cn/upload_pic/2012/5/29/4399_11401498094.jpg" />小火车过隧道无敌版</a></li>
+<li><a href="/flash/2872.htm"><img alt="悄悄放屁" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20552726025.jpg" />悄悄放屁</a></li>
+<li><a href="/flash/24250.htm"><img alt="图图快快跑" name='lzimg_4' lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20561215447.jpg" />图图快快跑</a></li>
+<li><a href="/flash/72313.htm"><img alt="大雄拯救机器猫无敌版" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20570658432.jpg" />大雄拯救机器猫无敌版</a></li>
+<li><a href="/flash/9840.htm"><img alt="在线弹钢琴" name='lzimg_4' lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20573811118.jpg" />在线弹钢琴</a></li>
+<li><a href="/flash/39077.htm"><img alt="疯狂的战车中文版" name='lzimg_4' lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20582580963.jpg" />疯狂的战车中文版</a></li>
+<li><a href="/flash/20468.htm"><img alt="无敌小坦克" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20490813109.jpg" />无敌小坦克</a></li>
+<li><a href="/flash/61438.htm"><img alt="闪客快打6无敌版" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_21004012054.jpg" />闪客快打6无敌版</a></li>
+<li><a href="/flash/71258.htm"><img alt="恐龙快打双人选关版" name='lzimg_4' lz_src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_09411379004.jpg" />恐龙快打双人选关版</a></li>
+<li><a href="/flash/50306.htm"><img alt="奇妙水世界" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/12/14/4399_13251196826.jpg" />奇妙水世界</a></li>
+<li><a href="/flash/40566.htm"><img alt="米拉奇战记" name='lzimg_4' lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_21030663161.jpg" />米拉奇战记</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<!--li-end-->
+</div>
+<div class="b5"></div>
+</div>
+<!--老游戏推荐结束-->
+
+<!--女生游戏-->
+<div class="box960">
+<div class="t6">
+<div class="title_t"><a href="/special/195.htm" title="女生游戏专区"></a></div>
+<div class="more5"><a href="/special/195.htm">更多&gt;&gt;</a></div>
+</div>
+<div class="c6">
+<!--分类-->
+<div class="ns_box_c_btn"> <a href="/flash_fl/16_1.htm">装 扮</a> <a href="/special/23.htm">阿Sue</a> <a href="/special/94.htm">化 妆</a> <a href="/special/7.htm">做 饭</a> <a href="/special/169.htm">公 主</a> <a href="/special/182.htm">朵 拉</a> <a href="/special/104.htm">约会恋爱</a> <a href="/special/108.htm">蛋糕汉堡</a> <a href="/special/154.htm">美 发</a> <a href="/special/107.htm">布 置</a> <a href="/special/112.htm">餐 厅</a> <a href="/special/105.htm">婚纱婚礼</a> <a href="/special/110.htm">打工挣钱</a> <a href="/special/114.htm">芭比娃娃</a> <a href="/special/106.htm">礼 服</a> <a href="/special/25.htm">大头妹</a> <a href="/special/173.htm">拼 图</a> <a href="/special/109.htm">宠 物</a> <a href="/special/153.htm">宝 贝</a> <a href="/special/27.htm">美 甲</a> <a href="/special/115.htm">时 尚</a> <a href="/special/171.htm">制 作</a> <a href="/special/151.htm">小黑花花</a> <a href="/special/103.htm">购 物</a> <a href="/special/113.htm">星 座</a> <a href="/special/4.htm">MM系列</a> <a href="/special/192.htm">守护甜心</a> <a href="/special/145.htm">樱宝宝</a> <a href="/special/198.htm">Judy</a> <a href="/special/199.htm">小 美</a> <a href="/special/8.htm">连连看</a> <a href="/special/66.htm">祖玛</a> <a href="/flash_fl/14_1.htm">测试类</a> <a href="/special/18.htm">超级玛丽</a> <a href="/special/93.htm">大鱼小鱼</a> <a href="/special/60.htm">找 茬</a> <a href="/special/204.htm">古代换装</a> <a href="/special/14.htm">泡泡堂</a> <a href="/special/64.htm">消消看</a> </div>
+<!--分类结束-->
+
+<!--li-->
+<div class="ng_li2">
+<ul>
+<li><a href="/flash/71403.htm"><span class="hot"></span><img alt="4399涂鸦画板" name='lzimg_5' lz_src="http://imga4.4399.cn/upload_pic/2013/9/18/4399_15554625092.jpg">4399涂鸦画板</a></li>
+<li><a href="/flash/123649.htm"><span class="new"></span><img alt="漫步城市" name='lzimg_5' lz_src="http://imga5.4399.cn/upload_pic/2013/9/19/4399_16305864241.jpg">漫步城市</a></li>
+<li><a href="/flash/123691.htm"><span class="new"></span><img alt="爱美的美羊羊2" name='lzimg_5' lz_src="http://imga2.4399.cn/upload_pic/2013/9/20/4399_16163964005.jpg">爱美的美羊羊2</a></li>
+<li><a href="/flash/123547.htm"><img alt="小爸爸亲子换装" name='lzimg_5' lz_src="http://imga3.4399.cn/upload_pic/2013/9/17/4399_14455766692.jpg">小爸爸亲子换装</a></li>
+<li><a href="/flash/122800.htm"><img alt="公主婚纱设计师" name='lzimg_5' lz_src="http://imga1.4399.cn/upload_pic/2013/9/4/4399_15520967066.jpg">公主婚纱设计师</a></li>
+<li><a href="/flash/119926.htm"><img alt="巴拉拉小魔仙真人装扮" name='lzimg_5' lz_src="http://imga2.4399.cn/upload_pic/2013/7/16/4399_10403337886.jpg">巴拉拉小魔仙真人装扮</a></li>
+<li><a href="/flash/27924.htm"><img alt="4399小花仙" name='lzimg_5' lz_src="http://imga5.4399.cn/upload_pic/2013/7/16/4399_09451858419.jpg">4399小花仙</a></li>
+<li><a href="http://news.4399.com/pikatang/"><img alt="皮卡堂过家家" name='lzimg_5' lz_src="http://imga2.4399.cn/upload_pic/2013/5/28/4399_11503716287.jpg">皮卡堂过家家</a></li>
+<li><a href="http://huodong.4399.com/chahuahui/week10/"><img alt="女生茶话会第10期" name='lzimg_5' lz_src="http://imga5.4399.cn/upload_pic/2013/9/19/4399_08340886745.jpg">女生茶话会第10期</a></li>
+<li><a href="/flash/122513.htm"><img alt="兔兔冰淇淋店" name='lzimg_5' lz_src="http://imga4.4399.cn/upload_pic/2013/8/28/4399_19193023720.jpg">兔兔冰淇淋店</a></li>
+<li><a href="/flash/123299.htm"><img alt="璀璨人生李沁装扮" name='lzimg_5' lz_src="http://imga5.4399.cn/upload_pic/2013/9/13/4399_13203106944.jpg">璀璨人生李沁装扮</a></li>
+<li><a href="/flash/123564.htm"><img alt="卧室自拍" name='lzimg_5' lz_src="http://imga5.4399.cn/upload_pic/2013/9/18/4399_09302340770.jpg">卧室自拍</a></li>
+<li><a href="/flash/123548.htm"><img alt="蛋糕美甲" name='lzimg_5' lz_src="http://imga4.4399.cn/upload_pic/2013/9/18/4399_11351718451.jpg">蛋糕美甲</a></li>
+<li><a href="/flash/122195.htm"><img alt="美甲指甲油" name='lzimg_5' lz_src="http://imga1.4399.cn/upload_pic/2013/8/23/4399_16063389547.jpg">美甲指甲油</a></li>
+<li><a href="/flash/121838.htm"><img alt="做Spa也偷懒" name='lzimg_5' lz_src="http://imga4.4399.cn/upload_pic/2013/8/17/4399_15133809384.jpg">做Spa也偷懒</a></li>
+<li><a href="http://news.4399.com/aoyazhiguang/"><img alt="奥雅之光" name='lzimg_5' lz_src="http://imga1.4399.cn/upload_pic/2012/3/14/4399_16253829529.jpg">奥雅之光</a></li>
+<li><a href="/flash/121315.htm"><img alt="惊喜生日大蛋糕" name='lzimg_5' lz_src="http://imga1.4399.cn/upload_pic/2013/8/8/4399_10343171789.jpg">惊喜生日大蛋糕</a></li>
+<li><a href="/flash/33636.htm"><img alt="奥特曼娶新娘" name='lzimg_5' lz_src="http://imga2.4399.cn/upload_pic/2012/3/15/4399_15345244582.jpg">奥特曼娶新娘</a></li>
+<li><a href="/flash/119420.htm"><img alt="天天有喜穆婷婷装扮" name='lzimg_5' lz_src="http://imga1.4399.cn/upload_pic/2013/7/8/4399_10523647419.jpg">天天有喜穆婷婷装扮</a></li>
+<li><a href="/flash/119293.htm"><img alt="熊出没换装3之翠花" name='lzimg_5' lz_src="http://imga4.4399.cn/upload_pic/2013/7/4/4399_16233895501.jpg">熊出没换装3之翠花</a></li>
+<li><a href="/flash/123416.htm"><img alt="可爱萝莉贺中秋" name='lzimg_5' lz_src="http://imga2.4399.cn/upload_pic/2013/9/16/4399_10584837053.jpg">可爱萝莉贺中秋</a></li>
+<li><a href="/flash/123400.htm"><img alt="时尚花季女孩" name='lzimg_5' lz_src="http://imga1.4399.cn/upload_pic/2013/9/14/4399_11012803768.jpg">时尚花季女孩</a></li>
+<li><a href="/flash/122066.htm"><img alt="兰陵王林依晨化妆" name='lzimg_5' lz_src="http://imga2.4399.cn/upload_pic/2013/8/21/4399_16092713432.jpg">兰陵王林依晨化妆</a></li>
+<li><a href="/flash/121222.htm"><img alt="小魔仙与白马王子" name='lzimg_5' lz_src="http://imga3.4399.cn/upload_pic/2013/8/8/4399_15115722878.jpg">小魔仙与白马王子</a></li>
+<li><a href="/flash/121778.htm"><img alt="莉莉的夏季造型" name='lzimg_5' lz_src="http://imga4.4399.cn/upload_pic/2013/8/16/4399_11025100823.jpg">莉莉的夏季造型</a></li>
+<li><a href="/flash/91687.htm"><img alt="美少女成长计划5.2版本" name='lzimg_5' lz_src="http://imga3.4399.cn/upload_pic/2013/4/27/4399_17071833788.jpg">美少女成长计划5.2版本</a></li>
+<li><a href="/flash/36568.htm"><img alt="做奶酪汉堡包" name='lzimg_5' lz_src="http://imga4.4399.cn/upload_pic/2012/3/15/4399_15512695049.jpg">做奶酪汉堡包</a></li>
+<li><a href="/flash/60580.htm"><img alt="吻新娘" name='lzimg_5' lz_src="http://imga1.4399.cn/upload_pic/2012/3/15/4399_16015358973.jpg">吻新娘</a></li>
+<li><a href="/flash/119603.htm"><img alt="礼服服装店" name='lzimg_5' lz_src="http://imga4.4399.cn/upload_pic/2013/7/10/4399_10250069052.jpg">礼服服装店</a></li>
+<li><a href="/flash/122197.htm"><img alt="精美手机壳" name='lzimg_5' lz_src="http://imga3.4399.cn/upload_pic/2013/8/23/4399_10062316076.jpg">精美手机壳</a></li>
+<li><a href="/flash/123106.htm"><img alt="美丽的秘密" name='lzimg_5' lz_src="http://imga2.4399.cn/upload_pic/2013/9/11/4399_15360143972.jpg">美丽的秘密</a></li>
+<li><a href="/flash/123030.htm"><img alt="打扫公主闺房" name='lzimg_5' lz_src="http://imga1.4399.cn/upload_pic/2013/9/9/4399_11045934391.jpg">打扫公主闺房</a></li>
+<li><a href="/flash/121348.htm"><img alt="可爱公主美发师" name='lzimg_5' lz_src="http://imga4.4399.cn/upload_pic/2013/8/9/4399_15515720516.jpg">可爱公主美发师</a></li>
+<li><a href="/flash/114768.htm"><img alt="电话情缘2" name='lzimg_5' lz_src="http://imga4.4399.cn/upload_pic/2013/4/23/4399_10091941481.jpg">电话情缘2</a></li>
+<li><a href="/flash/119121.htm"><img alt="精美婚纱设计" name='lzimg_5' lz_src="http://imga2.4399.cn/upload_pic/2013/7/3/4399_08570456063.jpg">精美婚纱设计</a></li>
+<li><a href="/flash/11469.htm"><img alt="打扮双胞胎姐妹" name='lzimg_5' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_15554890603.jpg">打扮双胞胎姐妹</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<!--li-end-->
+</div>
+<div class="b6"></div>
+</div>
+<!--女生游戏结束-->
+
+<div class="box960">
+<div class="box475_l">
+<div class="t7">
+<div class="title_t1"><a href="/top/top-m-4.htm">射击类月排行</a></div>
+<div class="more6"><a href="/top/top-m-4.htm"></a></div>
+</div>
+<div class="c7">
+<div class="ng_li3">
+<ul>
+<li><a href="/flash/28869.htm"><img alt="二战前线2中文无敌版" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16045339319.jpg" />二战前线2中文无敌版</a></li>
+<li><a href="/flash/68203.htm"><img alt="僵尸危机3无敌版" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_14463760594.jpg" />僵尸危机3无敌版</a></li>
+<li><a href="http://news.4399.com/csbh/"><img alt="4399创世兵魂" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2013/5/27/4399_09245468126.jpg" />4399创世兵魂</a></li>
+<li><a href="/flash/10740.htm"><img alt="穿越火线" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_14473976483.jpg" />穿越火线</a></li>
+<li><a href="/flash/59630.htm"><img alt="魂斗罗完美版" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/15/4399_16172096084.jpg" />魂斗罗完美版</a></li>
+<li><a href="http://huodong.4399.com/2013/sjxyx/"><img alt="必玩射击小游戏" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2013/8/17/4399_16125137479.jpg" />必玩射击小游戏</a></li>
+<li><a href="/flash/12786.htm"><img alt="超时空战士" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_14491188957.jpg" />超时空战士</a></li>
+<li><a href="/flash/44796.htm"><img alt="偷袭敌人阵地" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_14493496316.jpg" />偷袭敌人阵地</a></li>
+<li><a href="/flash/4963.htm"><img alt="经典90坦克大战" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/3/15/4399_16055981233.jpg" />经典90坦克大战</a></li>
+<li><a href="/flash/87474.htm"><img alt="炮打愤怒鸭子太空版" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/4/19/4399_15314223037.jpg" />炮打愤怒鸭子太空版</a></li>
+<li><a href="/flash/97733.htm"><img alt="混乱大枪战2中文版" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/9/6/4399_14313939527.jpg" />混乱大枪战2中文版</a></li>
+<li><a href="/flash/2472.htm"><img alt="特种任务" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2013/1/16/4399_11032298849.jpg" />特种任务</a></li>
+<li><a href="/flash/81929.htm"><img alt="愤怒小鸟炮弹球3" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_17243974393.jpg" />愤怒小鸟炮弹球3</a></li>
+<li><a href="/flash/1060.htm"><img alt="抢滩登陆战" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_14521823574.jpg" />抢滩登陆战</a></li>
+<li><a href="/flash/47057.htm"><img alt="CS挑战赛中文版" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_14523768611.jpg" />CS挑战赛中文版</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="b7"></div>
+</div>
+<div class="box475_r">
+<div class="box475_l">
+<div class="t7">
+<div class="title_t1"><a href="/top/top-m-2.htm">动作类月排行</a></div>
+<div class="more6"><a href="/top/top-m-2.htm"></a></div>
+</div>
+<div class="c7">
+<div class="ng_li3">
+<ul>
+<li><a href="/flash/108889.htm"><img alt="数码宝贝格斗版5" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2013/1/18/4399_14541030601.jpg" />数码宝贝格斗版5</a></li>
+<li><a href="/flash/68805.htm"><img alt="拳皇大战之饿狼来袭" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/13/4399_09395298190.jpg" />拳皇大战之饿狼来袭</a></li>
+<li><a href="/flash/71840.htm"><img alt="超级五星战队3" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20461445864.jpg" />超级五星战队3</a></li>
+<li><a href="/flash/93336.htm"><img alt="国王的勇士4" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2013/7/5/4399_16583739689.jpg" />国王的勇士4</a></li>
+<li><a href="/flash/43944.htm"><img alt="神勇蜘蛛侠2" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_10123100882.jpg" />神勇蜘蛛侠2</a></li>
+<li><a href="/flash/95957.htm"><img alt="火柴人勇者试炼" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/8/15/4399_09373039295.jpg" />火柴人勇者试炼</a></li>
+<li><a href="/flash/33099.htm"><img alt="夏季动漫武道会" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16141871510.jpg" />夏季动漫武道会</a></li>
+<li><a href="/flash/92603.htm"><img alt="乐高格斗忍者" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/7/3/4399_15182669631.jpg" />乐高格斗忍者</a></li>
+<li><a href="/flash/50123.htm"><img alt="超人奥特曼0.7" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_09293104961.jpg" />超人奥特曼0.7</a></li>
+<li><a href="/flash/53494.htm"><img alt="大便超人保卫战" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16163862601.jpg" />大便超人保卫战</a></li>
+<li><a href="/flash/52596.htm"><img alt="奥特曼狂扁小怪兽" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_10301554240.jpg" />奥特曼狂扁小怪兽</a></li>
+<li><a href="/flash/62787.htm"><img alt="火车牛仔大战无敌版" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/10/19/4399_16321422673.jpg" />火车牛仔大战无敌版</a></li>
+<li><a href="/flash/66195.htm"><img alt="变形金刚之战无敌版" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/7/5/4399_15022700053.jpg" />变形金刚之战无敌版</a></li>
+<li><a href="/flash/1378.htm"><img alt="真人快打" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2013/1/4/4399_16044055727.jpg" />真人快打</a></li>
+<li><a href="/flash/20669.htm"><img alt="奥特曼追杀罪犯" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16193319624.jpg" />奥特曼追杀罪犯</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="b7"></div>
+</div>
+</div>
+</div>
+<div class="box960">
+<div class="box475_l">
+<div class="t7">
+<div class="title_t1"><a href="/top/top-m-3.htm">体育类&益智类&休闲类月排行</a></div>
+<div class="more6"><a href="/top/top-m-3.htm"></a></div>
+</div>
+<div class="c7">
+<div class="ng_li3">
+<ul>
+<li><a href="/flash/1382.htm"><img alt="宠物连连看2.5版" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/3/15/4399_16210762932.jpg" />宠物连连看2.5版</a></li>
+<li><a href="/flash/12669.htm"><img alt="果蔬连连看" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/16/4399_09291367604.jpg" />果蔬连连看</a></li>
+<li><a href="/flash/1602.htm"><img alt="黄金矿工中文版" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/3/15/4399_16295222433.jpg" />黄金矿工中文版</a></li>
+<li><a href="/flash/10393.htm"><img alt="石头连连看" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/3/15/4399_16303074490.jpg" />石头连连看</a></li>
+<li><a href="/flash/853.htm"><img alt="五子连珠" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2013/2/4/4399_11284781762.jpg" />五子连珠</a></li>
+<li><a href="/flash/32512.htm"><img alt="彩色泡泡龙" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/3/15/4399_16274908904.jpg" />彩色泡泡龙</a></li>
+<li><a href="/flash/14316.htm"><img alt="美羊羊卡丁车" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2012/3/15/4399_16271837650.jpg" />美羊羊卡丁车</a></li>
+<li><a href="/flash/12164.htm"><img alt="暴力摩托" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/7272/9/12164.jpg" />暴力摩托</a></li>
+<li><a href="/flash/74213.htm"><img alt="3D双人极速飙车" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/7272/9/74213.jpg" />3D双人极速飙车</a></li>
+<li><a href="/flash/41193.htm"><img alt="热血狂飙无敌版" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/3/15/4399_16251968046.jpg" />热血狂飙无敌版</a></li>
+<li><a href="/flash/13608.htm"><img alt="极限越野" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/3/15/4399_16243365228.jpg" />极限越野</a></li>
+<li><a href="/flash/61044.htm"><img alt="街头暴扣" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_10254146241.jpg" />街头暴扣</a></li>
+<li><a href="/flash/42.htm"><img alt="炸弹台球" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/3/13/4399_14285672697.jpg" />炸弹台球</a></li>
+<li><a href="/flash/45997.htm"><img alt="拯救慢羊羊" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/7272/9/45997.jpg" />拯救慢羊羊</a></li>
+<li><a href="/flash/34716.htm"><img alt="极品赛车" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2012/3/15/4399_16220382827.jpg" />极品赛车</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="b7"></div>
+</div>
+<div class="box475_r">
+<div class="box475_l">
+<div class="t7">
+<div class="title_t1"><a href="/top/top-m-6.htm">冒险类月排行</a></div>
+<div class="more6"><a href="/top/top-m-6.htm"></a></div>
+</div>
+<div class="c7">
+<div class="ng_li3">
+<ul>
+<li><a href="/flash/37033.htm"><img alt="冰火小人闯关" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/3/15/4399_16202277425.jpg" />冰火小人闯关</a></li>
+<li><a href="/flash/85206.htm"><img alt="森林冰火人3无敌版" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2012/8/20/4399_09392296026.jpg" />森林冰火人3无敌版</a></li>
+<li><a href="/flash/37925.htm"><img alt="朵拉摘星" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/15/4399_16221004647.jpg" />朵拉摘星</a></li>
+<li><a href="/flash/40544.htm"><img alt="朵拉救狗狗" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16225941833.jpg" />朵拉救狗狗</a></li>
+<li><a href="/flash/43139.htm"><img alt="冰火熊猫大冒险" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16234479893.jpg" />冰火熊猫大冒险</a></li>
+<li><a href="/flash/104357.htm"><img alt="外星兄妹2" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/11/22/4399_15021684933.jpg" />外星兄妹2</a></li>
+<li><a href="/flash/86392.htm"><img alt="变色小恐龙" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/4/3/4399_09404121752.jpg" />变色小恐龙</a></li>
+<li><a href="/flash/94659.htm"><img alt="猫和老鼠大侦探" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/7/30/4399_14480058908.jpg" />猫和老鼠大侦探</a></li>
+<li><a href="/flash/118422.htm"><img alt="冰娃火娃闯天关中文版" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2013/6/21/4399_09501736006.jpg" />冰娃火娃闯天关中文版</a></li>
+<li><a href="/flash/8734.htm"><img alt="海绵宝宝海底清洁工" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/7272/9/8734.jpg" />海绵宝宝海底清洁工</a></li>
+<li><a href="/flash/100667.htm"><img alt="阿狸桃子大冒险" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/10/11/4399_14325892087.jpg" />阿狸桃子大冒险</a></li>
+<li><a href="/flash/45329.htm"><img alt="灰太狼地下城" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_10014074080.jpg" />灰太狼地下城</a></li>
+<li><a href="/flash/1304.htm"><img alt="XEVOZ变种战士" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2013/1/5/4399_14404459486.jpg" />XEVOZ变种战士</a></li>
+<li><a href="/flash/15548.htm"><img alt="铁头小子" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/3/15/4399_16363018782.jpg" />铁头小子</a></li>
+<li><a href="/flash/36109.htm"><img alt="超级玛丽完美版" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/13/4399_14452046189.jpg" />超级玛丽完美版</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="b7"></div>
+</div>
+</div>
+</div>
+<div class="box960">
+<div class="box475_l">
+<div class="t7">
+<div class="title_t1"><a href="/top/top-m-7.htm">棋牌类&敏捷篇月排行</a></div>
+<div class="more6"><a href="/top/top-m-7.htm"></a></div>
+</div>
+<div class="c7">
+<div class="ng_li3">
+<ul>
+<li><a href="/flash/10235.htm"><img alt="奥维斗地主" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/15/4399_16340527809.jpg" />奥维斗地主</a></li>
+<li><a href="/flash/36944.htm"><img alt="中国象棋" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16395132510.jpg" />中国象棋</a></li>
+<li><a href="http://news.4399.com/sanguosha/"><img alt="4399三国杀" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2013/8/5/4399_20434878884.jpg" />4399三国杀</a></li>
+<li><a href="http://my.4399.com/game_hlddz/"><img alt="4399欢乐斗地主" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/4/24/4399_15460368923.jpg" />4399欢乐斗地主</a></li>
+<li><a href="/flash/14755.htm"><img alt="海绵宝宝大富翁" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/15/4399_16383066053.jpg" />海绵宝宝大富翁</a></li>
+<li><a href="/flash/4406.htm"><img alt="奥维五子棋" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2012/3/15/4399_16385622769.jpg" />奥维五子棋</a></li>
+<li><a href="/flash/69378.htm"><img alt="拯救美羊羊过山车" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/4/20/4399_09342495047.jpg" />拯救美羊羊过山车</a></li>
+<li><a href="/flash/10236.htm"><img alt="拖拉机" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2012/3/15/4399_16402197191.jpg" />拖拉机</a></li>
+<li><a href="/flash/31157.htm"><img alt="黄金矿工双人无敌版" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/5/29/4399_11380033107.jpg" />黄金矿工双人无敌版</a></li>
+<li><a href="/flash/93398.htm"><img alt="大鱼吃小鱼双人版" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/11/12/4399_17365881500.jpg" />大鱼吃小鱼双人版</a></li>
+<li><a href="/flash/76713.htm"><img alt="灰太狼滑板大冒险" name='lzimg_6' lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_19573542495.jpg" />灰太狼滑板大冒险</a></li>
+<li><a href="/flash/1566.htm"><img alt="多拉A梦来钓鱼" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2012/3/15/4399_16351137769.jpg" />多拉A梦来钓鱼</a></li>
+<li><a href="/flash/8124.htm"><img alt="双人麻将" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16374893752.jpg" />双人麻将</a></li>
+<li><a href="/flash/88979.htm"><img alt="奔跑彩虹马百变版" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/5/11/4399_15103622177.jpg" />奔跑彩虹马百变版</a></li>
+<li><a href="/flash/103669.htm"><img alt="功夫熊猫勇闯恶龙潭" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/11/14/4399_10503311545.jpg" />功夫熊猫勇闯恶龙潭</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="b7"></div>
+</div>
+<div class="box475_r">
+<div class="box475_l">
+<div class="t7">
+<div class="title_t1"><a href="/top/top-m-13.htm">儿童类月排行</a></div>
+<div class="more6"><a href="/top/top-m-13.htm"></a></div>
+</div>
+<div class="c7">
+<div class="ng_li3">
+<ul>
+<li><a href="/flash/121721.htm"><img alt="可爱宝贝兔宝宝" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2013/8/15/4399_10400047254.jpg" />可爱宝贝兔宝宝</a></li>
+<li><a href="http://abc.4399.com/"><img alt="儿歌视频大全" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2013/9/4/4399_10452384668.jpg" />儿歌视频大全</a></li>
+<li><a href="/flash/105607.htm"><img alt="美羊羊煮意粉" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/12/7/4399_16564608034.jpg" />美羊羊煮意粉</a></li>
+<li><a href="/flash/24655.htm"><img alt="迪迦奥特曼拼图" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/15/4399_16411036671.jpg" />迪迦奥特曼拼图</a></li>
+<li><a href="/flash/40724.htm"><img alt="红太狼逼婚2" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16415513736.jpg" />红太狼逼婚2</a></li>
+<li><a href="/flash/57875.htm"><img alt="巧虎料理小帮手" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/15/4399_16430495111.jpg" />巧虎料理小帮手</a></li>
+<li><a href="/flash/40514.htm"><img alt="朵拉美人鱼" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16371537200.jpg" />朵拉美人鱼</a></li>
+<li><a href="/flash/91190.htm"><img alt="乐高积木岛" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/6/11/4399_19283776191.jpg" />乐高积木岛</a></li>
+<li><a href="/flash/36760.htm"><img alt="送货货车" name='lzimg_6' lz_src="http://imga1.4399.cn/upload_pic/2012/3/15/4399_16472064063.jpg" />送货货车</a></li>
+<li><a href="/flash/36504.htm"><img alt="米奇的机器人实验室" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16480375947.jpg" />米奇的机器人实验室</a></li>
+<li><a href="/flash/59304.htm"><img alt="巧虎甜品店" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16484441444.jpg" />巧虎甜品店</a></li>
+<li><a href="/flash/26174.htm"><img alt="奥特曼变身" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_16440336461.jpg" />奥特曼变身</a></li>
+<li><a href="/flash/89812.htm"><img alt="乐高游戏嘉年华" name='lzimg_6' lz_src="http://imga3.4399.cn/upload_pic/2012/5/24/4399_10011130813.jpg" />乐高游戏嘉年华</a></li>
+<li><a href="/flash/24434.htm"><img alt="图图找茬" name='lzimg_6' lz_src="http://imga5.4399.cn/upload_pic/7272/3/24434.jpg" />图图找茬</a></li>
+<li><a href="/flash/52666.htm"><img alt="照顾可爱小狗" name='lzimg_6' lz_src="http://imga2.4399.cn/upload_pic/2012/3/15/4399_16512271986.jpg" />照顾可爱小狗</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="b7"></div>
+</div>
+</div>
+</div>
+
+<!--最底部的分类-->
+<div class="box960">
+<div class="t3">
+<div class="bt_game">
+<ul id="i_tab">
+<li class="iso_1" id="tb1" onClick="ShowTab('5Star',1)">五星</li>
+<li class="based" id="tb2" onClick="ShowTab('UserCommend',2)">四星</li>
+<li class="based" id="tb3" onClick="ShowTab('12',3)">休闲</li>
+<li class="based" id="tb4" onClick="ShowTab('2',4)">动作</li>
+<li class="based" id="tb5" onClick="ShowTab('6',5)">冒险</li>
+<li class="based" id="tb6" onClick="ShowTab('16',6)">装扮</li>
+<li class="based" id="tb7" onClick="ShowTab('11',7)">敏捷</li>
+<li class="based" id="tb8" onClick="ShowTab('4',8)">射击</li>
+<li class="based" id="tb9" onClick="ShowTab('5',9)">益智</li>
+<li class="based" id="tb10" onClick="ShowTab('3',10)">体育</li>
+<li class="based" id="tb11" onClick="ShowTab('13',11)">儿童</li>
+<li class="based" id="tb12" onClick="ShowTab('9',12)">综合</li>
+<li class="based" id="tb13" onClick="ShowTab('8',13)">策略</li>
+<li class="based" id="tb14" onClick="ShowTab('Dual',14)">双人</li>
+<li class="based" id="tb15" onClick="ShowTab('Challenge',15)">过关</li>
+</ul>
+</div>
+</div>
+<div class="c1">
+<!--li-->
+<div class="ng_li2">
+<ul id="tabs">
+<ul><li><a href="/flash/106834.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/12/23/4399_08530058695.jpg" alt="气球塔防5无敌版"/>气球塔防5无敌版</a></li>
+<li><a href="/flash/46061.htm"><img name="lzimg_7" lz_src="http://imga2.4399.cn/upload_pic/2012/3/13/4399_09311555122.jpg" alt="保卫花园2无敌版"/>保卫花园2无敌版</a></li>
+<li><a href="/flash/89377.htm"><img name="lzimg_7" lz_src="http://imga3.4399.cn/upload_pic/2012/5/17/4399_09132540499.jpg" alt="变形金刚赛车"/>变形金刚赛车</a></li>
+<li><a href="/flash/46144.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20004982113.jpg" alt="大炮色彩毛绒球"/>大炮色彩毛绒球</a></li>
+<li><a href="/flash/49135.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20194643768.jpg" alt="双偷盗宝"/>双偷盗宝</a></li>
+<li><a href="/flash/52010.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20044964338.jpg" alt="超人奥特曼0.8"/>超人奥特曼0.8</a></li>
+<li><a href="/flash/32994.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20073414419.jpg" alt="世界功夫足球"/>世界功夫足球</a></li>
+<li><a href="/flash/43728.htm"><span class="hot"></span><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/3/15/4399_16504592667.jpg" alt="老爹汉堡店"/>老爹汉堡店</a></li>
+<li><a href="/flash/46279.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2013/1/19/4399_15434876633.jpg" alt="婴儿洗澡豪华版"/>婴儿洗澡豪华版</a></li>
+</ul><ul><li><a href="/flash/31316.htm"><img name="lzimg_7" lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20390777049.jpg" alt="闪客快打3中文版无敌版"/>闪客快打3中文版无敌版</a></li>
+<li><a href="/flash/5147.htm"><img name="lzimg_7" lz_src="http://imga3.4399.cn/upload_pic/2012/3/15/4399_16234986047.jpg" alt="疯狂越野摩托"/>疯狂越野摩托</a></li>
+<li><a href="/flash/87345.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/4/18/4399_09503799696.jpg" alt="鬼子进村终结无敌版"/>鬼子进村终结无敌版</a></li>
+<li><a href="/flash/106849.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/12/24/4399_11190481086.jpg" alt="坏蛋冰淇淋2"/>坏蛋冰淇淋2</a></li>
+<li><a href="/flash/28876.htm"><img name="lzimg_7" lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20040878459.jpg" alt="狂扁恶霸"/>狂扁恶霸</a></li>
+<li><a href="/flash/75133.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/3/16/4399_09164914951.jpg" alt="魔塔60层无敌版"/>魔塔60层无敌版</a></li>
+<li><a href="/flash/37347.htm"><img name="lzimg_7" lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20175153429.jpg" alt="引小球回家2"/>引小球回家2</a></li>
+<li><a href="/flash/74254.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_17160535411.jpg" alt="喜羊羊切水果"/>喜羊羊切水果</a></li>
+<li><a href="/flash/39410.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/15/4399_16500720237.jpg" alt="买文具"/>买文具</a></li>
+</ul><ul><li><a href="/flash/74794.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20113523518.jpg" alt="杰瑞的摩托车"/>杰瑞的摩托车</a></li>
+<li><a href="/flash/24370.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20221013024.jpg" alt="电波小子闯关"/>电波小子闯关</a></li>
+<li><a href="/flash/47454.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20232207919.jpg" alt="功夫成龙无敌版"/>功夫成龙无敌版</a></li>
+<li><a href="/flash/49273.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/3/13/4399_09300460988.jpg" alt="植物大战僵尸2"/>植物大战僵尸2</a></li>
+<li><a href="/flash/40451.htm"><img name="lzimg_7" lz_src="http://imga2.4399.cn/upload_pic/2012/3/15/4399_16380243238.jpg" alt="朵拉农场"/>朵拉农场</a></li>
+<li><a href="/flash/41546.htm"><img name="lzimg_7" lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20260498115.jpg" alt="装卸运煤火车3"/>装卸运煤火车3</a></li>
+<li><a href="/flash/41483.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20270085081.jpg" alt="装载卡车"/>装载卡车</a></li>
+<li><a href="/flash/73935.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20281292752.jpg" alt="合金弹头峡谷战2无敌版"/>合金弹头峡谷战2无敌版</a></li>
+<li><a href="/flash/35965.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20290962910.jpg" alt="直升机打气球"/>直升机打气球</a></li>
+</ul><ul><li><a href="/flash/95894.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/8/14/4399_14571057227.jpg" alt="王牌卡车司机"/>王牌卡车司机</a></li>
+<li><a href="/flash/29312.htm"><img name="lzimg_7" lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20310623124.jpg" alt="恐龙大战火箭车"/>恐龙大战火箭车</a></li>
+<li><a href="/flash/18173.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/7272/9/18173.jpg" alt="海盗军团抢宝藏"/>海盗军团抢宝藏</a></li>
+<li><a href="/flash/33249.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20342675458.jpg" alt="帮小狗取手绢"/>帮小狗取手绢</a></li>
+<li><a href="/flash/38870.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20355404395.jpg" alt="双猫战士修改版"/>双猫战士修改版</a></li>
+<li><a href="/flash/42075.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20364318535.jpg" alt="光头小子找出口"/>光头小子找出口</a></li>
+<li><a href="/flash/105463.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/12/6/4399_16533262838.jpg" alt="蜗牛鲍勃3"/>蜗牛鲍勃3</a></li>
+<li><a href="/flash/122600.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2013/8/30/4399_14141175749.jpg" alt="猫咪蠕虫入侵"/>猫咪蠕虫入侵</a></li>
+<li><a href="/flash/88808.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/5/9/4399_15504185973.jpg" alt="植物大战僵尸塔防版无敌版"/>植物大战僵尸塔防版无敌版</a></li>
+</ul><ul><li><a href="/flash/106683.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/12/20/4399_17060243786.jpg" alt="无敌流浪汉7无敌版"/>无敌流浪汉7无敌版</a></li>
+<li><a href="/flash/78239.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/15/4399_15264150922.jpg" alt="忍者神龟之王者归来"/>忍者神龟之王者归来</a></li>
+<li><a href="/flash/36996.htm"><img name="lzimg_7" lz_src="http://imga2.4399.cn/upload_pic/2012/3/12/4399_20415271893.jpg" alt="奥特曼大战怪兽2"/>奥特曼大战怪兽2</a></li>
+<li><a href="/flash/42595.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20424492225.jpg" alt="原色中文版"/>原色中文版</a></li>
+<li><a href="/flash/24485.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20433945270.jpg" alt="猫和老鼠过河"/>猫和老鼠过河</a></li>
+<li><a href="/flash/22303.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20090416266.jpg" alt="星球突击队4"/>星球突击队4</a></li>
+<li><a href="/flash/34623.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20452087209.jpg" alt="饥饿的鲨鱼"/>饥饿的鲨鱼</a></li>
+<li><a href="/flash/39089.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20461958031.jpg" alt="复仇的鲨鱼中文版"/>复仇的鲨鱼中文版</a></li>
+<li><a href="/flash/48349.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20470807716.jpg" alt="爱吃水果的虫子"/>爱吃水果的虫子</a></li>
+</ul><ul><li><a href="/flash/7495.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20481442438.jpg" alt="Ben10_变身男孩"/>Ben10_变身男孩</a></li>
+<li><a href="/flash/19028.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20490824538.jpg" alt="Ben10_异能释放"/>Ben10_异能释放</a></li>
+<li><a href="/flash/35280.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20495687850.jpg" alt="高速抢车"/>高速抢车</a></li>
+<li><a href="/flash/36138.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20504361099.jpg" alt="恐龙大营救"/>恐龙大营救</a></li>
+<li><a href="/flash/71894.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20514173736.jpg" alt="毒蛙王子无敌版"/>毒蛙王子无敌版</a></li>
+<li><a href="/flash/21223.htm"><img name="lzimg_7" lz_src="http://imga4.4399.cn/upload_pic/2012/3/12/4399_20523445065.jpg" alt="小球进洞"/>小球进洞</a></li>
+<li><a href="/flash/33765.htm"><img name="lzimg_7" lz_src="http://imga1.4399.cn/upload_pic/2012/3/12/4399_20382708764.jpg" alt="蜘蛛回巢"/>蜘蛛回巢</a></li>
+<li><a href="/flash/47634.htm"><img name="lzimg_7" lz_src="http://imga5.4399.cn/upload_pic/2012/3/12/4399_20545569011.jpg" alt="让子弹飞"/>让子弹飞</a></li>
+<li><a href="/flash/8097.htm"><img name="lzimg_7" lz_src="http://imga3.4399.cn/upload_pic/2012/3/12/4399_20555330876.jpg" alt="蜘蛛吃苍蝇"/>蜘蛛吃苍蝇</a></li>
+</ul></ul>
+<div class="clear"></div>
+</div>
+<!--li-end-->
+</div>
+<div class="b1"></div>
+</div>
+<!--最底部的分类结束-->
+
+<div class="fb960 c2">
+<a class="n1_game" href="/flash/">最新小游戏</a>
+<div class="t1"></div>
+<div class="c1">
+<ul class="ul_1">
+<li></li>
+<li><a href="/flash/23772.htm">企鹅飞行</a></li>
+<li><a href="/flash/123771.htm">绿豆蛙吃糖果无敌版</a></li>
+<li><a href="/flash/123770.htm">米娅公主美容</a></li>
+<li><a href="/flash/123769.htm">小绿绿回家记3</a></li>
+<li><a href="/flash/123768.htm">裁制精美礼服</a></li>
+<li><a href="/flash/123767.htm">小绿绿回家记2</a></li>
+<li><a href="/flash/123766.htm">滑雪障碍赛中文版</a></li>
+<li style="border:0px" ><a href="/flash/123764.htm">泰式炒粉</a></li>
+<li><a href="/flash/123763.htm">小绿绿回家记</a></li>
+<li><a href="/flash/123762.htm">候达峡谷</a></li>
+<li><a href="/flash/123761.htm">双胞胎指甲装扮</a></li>
+<li><a href="/flash/123760.htm">哈密瓜冰棒</a></li>
+<li><a href="/flash/123759.htm">耀眼的摇滚女孩</a></li>
+<li><a href="/flash/123758.htm">芭比美容秘密</a></li>
+<li><a href="/flash/123757.htm">穆萨的郊游装扮</a></li>
+<li style="border:0px" ><a href="/flash/123756.htm">姐妹下午茶时间</a></li>
+<li><a href="/flash/123755.htm">逃离单身公寓3</a></li>
+<li><a href="/flash/123754.htm">主题酒店中文版</a></li>
+<li><a href="/flash/123753.htm">女孩的一天换装</a></li>
+<li><a href="/flash/123752.htm">油性皮肤自然护理</a></li>
+<li><a href="/flash/123751.htm">芭比童话蝴蝶公主</a></li>
+<li><a href="/flash/123750.htm">帮朵拉找数字</a></li>
+<li><a href="/flash/123749.htm">四色奶酪批萨</a></li>
+<li style="border:0px" ><a href="/flash/123748.htm">椰子公主美容</a></li>
+<li><a href="/flash/123747.htm">大卡车吃小汽车2加强无敌版</a></li>
+<li><a href="/flash/123746.htm">学院芭比</a></li>
+<li><a href="/flash/123745.htm">索尼克的幸福摩托</a></li>
+<li><a href="/flash/123744.htm">别致的肘部补丁</a></li>
+<li><a href="/flash/123743.htm">方块进门选关版</a></li>
+<li><a href="/flash/123742.htm">牛排料理</a></li>
+<li><a href="/flash/123741.htm">泥泞道路赛</a></li>
+<li style="border:0px" ><a href="/flash/123740.htm">制作午餐便当</a></li>
+<li><a href="/flash/123739.htm">超级护士长</a></li>
+<li><a href="/flash/123738.htm">自制面包</a></li>
+<li><a href="/flash/123737.htm">夏日假期找东西</a></li>
+<li><a href="/flash/123736.htm">小汽车的爱情梦选关版</a></li>
+<li><a href="/flash/123735.htm">改造超级跑车</a></li>
+<li><a href="/flash/123734.htm">和芭比作猪排大餐</a></li>
+<li><a href="/flash/123732.htm">迪迪烹饪大师之蔬菜杂烩</a></li>
+<li style="border:0px" ><a href="/flash/123589.htm">激光光线</a></li>
+<li><a href="/flash/123588.htm">镭射眼超人选关版</a></li>
+<li><a href="/flash/123250.htm">急速劲爆摩托</a></li>
+<li><a href="/flash/123247.htm">现代空中战争</a></li>
+<li><a href="/flash/123254.htm">农场小鸡自行车</a></li>
+<li><a href="/flash/123059.htm">算术交通</a></li>
+<li><a href="/flash/122625.htm">奥特曼太空传奇</a></li>
+<li><a href="/flash/122963.htm">朵拉的朋友布茨</a></li>
+<li style="border:0px" ><a href="/flash/123097.htm">熊猫摇摆数学</a></li>
+<li><a href="/flash/122828.htm">让子弹飞3</a></li>
+<li><a href="/flash/122941.htm">星之卡比超级大冒险2</a></li>
+<li><a href="/flash/122289.htm">千年杀</a></li>
+<li><a href="/flash/122919.htm">光头强灭熊大</a></li>
+<li><a href="/flash/123031.htm">大脚车撞僵尸</a></li>
+<li><a href="/flash/122819.htm">保卫海岛</a></li>
+<li><a href="/flash/122603.htm">托马斯的墨西哥之旅</a></li>
+<li style="border:0px" ><a href="/flash/120777.htm">卡西龙之龙传奇速升版</a></li>
+<li><a href="/flash/121866.htm">植牙手术中文版</a></li>
+<li><a href="/flash/121179.htm">武装原型</a></li>
+<li><a href="/flash/120981.htm">光头强大逃亡</a></li>
+<li><a href="/flash/119883.htm">找你姐</a></li>
+<li><a href="/flash/119668.htm">叫美女起床</a></li>
+<li><a href="/flash/118890.htm">好爸爸坏爸爸</a></li>
+<li><a href="/flash/115792.htm">熊二开大炮</a></li>
+<li style="border:0px" ><a href="/flash/114616.htm">光头强拉货</a></li>
+<li><a href="/flash/115030.htm">光头强砍树</a></li>
+<li><a href="/flash/114557.htm">假面骑士大乱斗无敌版</a></li>
+<li><a href="/flash/114222.htm">熊二飞飞飞</a></li>
+<li><a href="/flash/113962.htm">开心超人大冒险</a></li>
+<li><a href="/flash/113439.htm">穿越火线之终结幽灵无敌版</a></li>
+<li><a href="/flash/112710.htm">神庙逃亡</a></li>
+<li><a href="/flash/112654.htm">2D黑8台球</a></li>
+</ul>
+</div>
+<div class="b1"></div>
+</div>
+
+<!--footer-->
+<div class="fb960">
+<div class="btbg"></div>
+<div class="bcbg">
+<div class="links">
+<a href="/"><b>4399小游戏</b></a>|<a rel="nofollow" href="http://click.hm.baidu.com/clk?833ec7c8f507d3549e77d28dca91350a"><b>hao123小游戏</b></a>|<a href="/flash/seer.htm"><b>赛尔号</b></a>|<a href="http://dm.4399.com/manhua/">漫画网</a>|<a href="http://www.uuu9.com/">游久网</a>|<a href="http://news.4399.com/luoke/luokechongwu/">洛克王国宠物大全</a>|<a href="http://news.4399.com/aoqi/">奥奇传说</a>|<a href="special/7.htm">做饭小游戏</a>|<a href="/flash/38310.htm">奥特曼兄弟</a>|<a href="http://dm.4399.com/huoying/zuixin/">火影忍者最新</a>|<a href="http://game.3533.com/game/">手机游戏</a>|<a href="http://game.3533.com/ringmp3sort/">手机铃声</a>|<a href="http://a.3533.com/youxi/">安卓游戏</a><br>
+<a href="/flash/52134.htm">愤怒的小鸟中文版下载</a>|<a href="/special/26.htm">拳皇97</a>|<a href="http://dm.4399.com/yaojingdeweiba/">妖精的尾巴</a>|<a href="http://frxz2.4399.com/">凡人修真2</a>|<a href="http://web.4399.com/gjqx/">古剑奇侠</a>|<a href="http://web.4399.com/dpqk/">斗破乾坤</a>|<a href="http://web.4399.com/zt2/">遮天2</a>|<a href="http://dm.4399.com/sishen/zuixin/">死神最新</a>|<a href="http://smzt.4399.com/">神魔遮天</a>|<a href="http://speed.4399.com/">极速猎人</a>|<a href="http://news.4399.com/ssjj/">生死狙击</a>|<a href="http://dm.4399.com/haizeiwang/zuixin/">海贼王最新</a>|<a href="http://www.ip138.com/">IP138查询</a>|<a href="http://www.fanxian.com/">返利网</a><br>
+<a href="http://www.youba.com/">游吧</a>|<a href="http://news.4399.com/seer/new/">赛尔号最新</a>|<a href="http://dm.4399.com/donghua/">动画片大全</a>|<a href="http://news.4399.com/lol/">LOL</a>|<a href="http://news.4399.com/luoke/new/">洛克王国最新</a>|<a href="http://news.4399.com/aolaxing/new/">奥拉星最新</a>|<a href="http://news.4399.com/">4399游戏资讯</a>|<a href="http://dm.4399.com/">好看的动漫</a>|<a href="http://news.4399.com/sanguosha/">三国杀</a>|<a href="http://news.4399.com/dnf/">DNF</a>|<a href="http://www.4399.com/">小游戏大全</a>|<a href="http://news.4399.com/csbh/">创世兵魂</a>|<a href="http://abc.4399.com/">儿歌视频大全</a>|<a href="http://dm.4399.com/miaohelaoshu/donghua/">猫和老鼠全集</a>
+</div>
+</div>
+<div class="bbbg"></div>
+</div>
+
+<div class="footer">
+<div class="footer_t">
+<a class="rth" href="" target="_self" onclick="window.scrollTo(0,0);return false;">返回顶部↑</a>
+作品版权归作者所有，如果侵犯了您的版权，请<a href="http://my.4399.com/joinus/contact.html">联系我们</a>，本站将在3个工作日内删除。<br />
+<span>温馨提示：</span>抵制不良游戏，拒绝盗版游戏，注意自我保护，谨防受骗上当，适度游戏益脑，沉迷游戏伤身，合理安排时间，享受健康生活
+</div>
+<div class="footer_c">
+<div class="about">
+<a href="http://my.4399.com/joinus/index.html">关于本站</a> | <a href="http://my.4399.com/joinus/contact.html">联系本站</a> | <a href="/4399web/index.html">网页游戏合作</a> | <a href="/gameupload.htm">FLASH游戏发布</a> | <a href="http://www.4399api.com/">原创平台</a> | <a href="http://my.4399.com/joinus/zhaopin.html">招聘信息</a> | <a class="fk" href="/feedback.htm">问题反馈</a> | 关注：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="a_fx"><a rel="nofollow" href="http://t.qq.com/my4399"><span class="zt_ico12" title="腾讯微博"></span></a><a rel="nofollow" href="http://e.weibo.com/my4399"><span class="zt_ico11" title="新浪微博"></span></a></div><br>
+<a href="http://www.miitbeian.gov.cn/" target=_blank rel="nofollow">ICP证闽B2-20040099</a> | <a href="/zs/chuban.html">新出网证(闽)字06号</a> | <a href="/zs/wenwangwen.html">文网文[2009]245号</a> | <a href="/notice/banquan.htm">版权保护投诉指引</a> | 法律顾问：北京盛峰律师事务所<br>
+文明办网文明上网举报电话：0592-5054399 | 举报邮箱：jubao@4399.com  | <a href="http://web.4399.com/jiazhang/">未成年人家长监护</a> | <a href="http://www.12318.org/help.do?t=companypost"  rel="nofollow">网页游戏行业规范自律联盟</a> | <a href="http://www.cogcpa.org/" rel="nofollow">私服外挂举报中心</a><br>
+Copyright &copy; 2004 - 2013 4399.com All Rights Reserved. 四三九九网络股份有限公司 版权所有
+</div>
+</div>
+<div class="b1"></div>
+</div>
+<!--footer-end-->
+<script type="text/javascript" src="/resource5/ucenter_all.js" charset="utf-8"></script>
+<script language="javascript" src="/jss/index20130312.js"></script>
+<script language="javascript" src="/jss/jquery-1.2.pack.js"></script>
+<script language="javascript" src="/jss/4399.js"></script>
+<script src='http://w.cnzz.com/c.php?id=30039538' language='JavaScript' charset='gb2312'></script>
+<script type="text/javascript">
+	uloginProp = {};
+	uloginProp.divId = "login_div";
+	UniLogin.setUnionLoginProps(uloginProp);
+    UniLogin.defaultShowLogin = function(displayName, showDiv){
+        document.charset='gbk';
+		var div1 = document.getElementById("login_div");
+		var login_message = '';
+		login_message += '<div class="log_in">欢迎您，';
+		login_message += ''+ UniLogin.getDisplayName() +'&nbsp;&nbsp;';
+		login_message += '<a target="_blank" href="http://u.4399.com/user/info">个人中心</a>&nbsp;&nbsp;';
+		login_message += '<a target="_blank" href="http://my.4399.com/">4399游戏吧</a>&nbsp;&nbsp;';
+		login_message += '<a target="_blank" href="/special/19.htm">网页游戏大全</a>&nbsp;&nbsp;';
+	    login_message += '<a target="_blank" href="http://my.4399.com/favorite.php">我的收藏盒</a>&nbsp;&nbsp;';
+		login_message += '<a target="_blank" href="#" onclick="UniLogin.logout();return false;">退出</a></div>';
+		div1.innerHTML = login_message;
+	}
+	if (document.getElementById('username') && typeof(UniLogin.getUname()) != 'undefined')
+	    document.getElementById('username').value = UniLogin.getUname();
+var scroll_timer;
+function AutoScroll(){
+$('#s1').find("ul:first").animate({
+marginTop:"-25px"
+},500,function(){
+$(this).css({marginTop:"0px"}).find("li:first").appendTo(this);
+});
+}
+$(document).ready(function(){
+scroll_timer = setInterval(AutoScroll,3000);
+});
+
+$("#s1 a").mouseover(function(){
+    clearInterval(scroll_timer)
+}).mouseout(function(){
+    scroll_timer = setInterval(AutoScroll,3000)
+ });
+</script>
+</body>
+</html>

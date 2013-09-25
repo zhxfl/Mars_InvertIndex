@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=1.5&ak=8602f23ec3a8a46e19f83dddd12a477c"></script>
+<script type="text/javascript" src="js/dropdownlist.js"></script>
+<script type="text/javascript" src="js/json.js"></script>
+<script src="js/slides.min.jquery.js"></script>
+	<script>
+		$(function(){
+			$('#slides').slides({
+				preload: true,
+				preloadImage: 'img/loading.gif',
+				play: 3000,
+				pause: 2500,
+				hoverPause: true,
+				animationStart: function(){
+					$('.caption').animate({
+						bottom:-35
+					},100);
+				},
+				animationComplete: function(current){
+					$('.caption').animate({
+						bottom:0
+					},200);
+					if (window.console && console.log) {
+						console.log(current);
+					};
+				}
+			});
+		});
+	</script>
+<title>雕刻时光</title>
+</head>
+<body>
+	<div class="top_bg">
+  <div class="top">
+    <div class="logo"><a href="http://tuan.baidu.com" target="_blank"><img src="images/top_logo.gif" alt="百度地图"></a></div>
+    <div class="txt"></div>
+    <div class="share">
+      <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'#约上TA一起雕刻时光# 开学季，最有故事的coffee待你来读，30元or40元任选全场8折优惠代金券，约上你的TA一起漫步在金黄的秋天，细细品味精致的雕刻时光 >>  ','pic':'http://tuan.baidu.com/event/2013dksg/images/banner.jpg','url':'http://tuan.baidu.com/event/2013dksg/'}"><span class="bds_more">分享到：</span><a class="bds_qzone" id="f_qzone" title="分享到QQ空间" href="#"></a> <a class="bds_tsina" id="f_tsina" title="分享到新浪微博" href="#"></a> <a class="bds_tqq" id="f_tqq" title="分享到腾讯微博" href="#"></a> <a class="bds_renren" id="f_renren" title="分享到人人网" href="#"></a></div>
+    </div>
+    <!--share end--> 
+  </div>
+  <!--top end--> 
+</div>
+    <div class="wapper">
+    	<span class="flower"></span>
+        <div class="one_cont">
+        	<div class="item_box">
+        		<a href="http://tuan.baidu.com/selftg/item/detail/2/20209934" title="" target="_blank" onclick="_hmt.push(['_trackEvent', 'pic1', 'click', 'pic1']);"><img src="images/pic1.jpg" alt="" /></a>
+        		<div class="cirle">
+        			<div class="price"><span class="fline">原价50</span><br/>抢先团购：</div>
+        			<span class="pad-left10"><b class="f38">40</b>元</span>
+        		</div><!--cirle end-->
+        		<div class="text_bg"><a href="http://tuan.baidu.com/selftg/item/detail/2/20209934" title="雕刻时光咖啡馆代金券1张" target="_blank" class="white" onclick="_hmt.push(['_trackEvent', '雕刻时光咖啡馆代金券1张', 'click', '雕刻时光咖啡馆代金券1张']);">雕刻时光咖啡馆代金券1张</a></div>
+        		<a href="http://tuan.baidu.com/selftg/item/detail/2/20209934" title="马上团购" class="btn" target="_blank" onclick="_hmt.push(['_trackEvent', '马上团购_1', 'click', '马上团购_1']);">马上团购</a>
+        	</div><!--item_box end-->
+        	<div class="item_box mar-top40">
+        		<a href="http://tuan.baidu.com/selftg/item/detail/2/20209593" title="" target="_blank" onclick="_hmt.push(['_trackEvent', 'pic2', 'click', 'pic2']);"><img src="images/pic2.jpg" alt="" /></a>
+        		<div class="cirle">
+        			<div class="price"><span class="fline">原价38</span><br/>抢先团购：</div>
+        			<span class="pad-left10"><b class="f38">30</b>元</span>
+        		</div><!--cirle end-->
+        		<div class="text_bg"><a href="http://tuan.baidu.com/selftg/item/detail/2/20209593" title="雕刻时光咖啡馆代金券1张" target="_blank" class="white" onclick="_hmt.push(['_trackEvent', '雕刻时光咖啡馆代金券1张_2', 'click', '雕刻时光咖啡馆代金券1张_2']);">雕刻时光咖啡馆代金券1张</a></div>
+        		<a href="http://tuan.baidu.com/selftg/item/detail/2/20209593" title="马上团购" class="btn" target="_blank" onclick="_hmt.push(['_trackEvent', '马上团购_2', 'click', '马上团购_2']);">马上团购</a>
+        	</div><!--item_box end-->
+        </div><!--one_cont end-->
+        <div class="two_cont">
+       		<div id="container">
+				<div id="example">
+					<div id="slides">
+						<div class="slides_container">
+							<div>
+								<a href="http://www.sitcoffee.com/" title="" target="_blank"><img src="images/slide-1.jpg" width="485" height="301" alt="Slide 1"></a>
+							</div>
+							<div>
+								<a href="http://www.sitcoffee.com/main/lifestyle/5" title="" target="_blank"><img src="images/slide-2.jpg" width="485" height="301" alt="Slide 2"></a>
+							</div>
+							<div>
+								<a href="http://www.sitcoffee.com/" title="" target="_blank"><img src="images/slide-3.jpg" width="485" height="301" alt="Slide 3"></a>
+							</div>
+							<div>
+								<a href="http://www.sitcoffee.com/main/lifestyle/5" title="" target="_blank"><img src="images/slide-4.jpg" width="485" height="301" alt="Slide 4"></a>	
+							</div>
+							<div>
+								<a href="http://www.sitcoffee.com/" title="" target="_blank"><img src="images/slide-5.jpg" width="485" height="301" alt="Slide 5"></a>
+							</div>
+						</div>
+						<a href="#" class="prev"><img src="images/arrow-next.png" width="38" height="86" alt="Arrow Prev"></a>
+						<a href="#" class="next"><img src="images/arrow-prev.png" width="38" height="86" alt="Arrow Next"></a>
+					</div>
+				</div>
+			</div><!--container end-->
+        </div><!--two_cont end-->
+        <div class="three_cont">
+        	<div id="xiti" >
+        	<div class="title title-xiti"></div>
+            <div class="cont cont-xiti clearfix">
+            	<div class="cont-xiti-left clearfix">
+            		<div class="select">选择城市:</div>
+                	<div class="select_box">
+            			<div id="city_selected" class="tag_select" currNum="0" px="116.395645" py="39.929986">北京市</div>
+            			<ul class="tag_options">
+                			<li city_code="131" currNum="0" px="116.395645" py="39.929986" class="open">北京市</li>
+                            <li city_code="289" currNum="1" px="121.487899" py="31.249162" class="open">上海市</li>
+                            <li city_code="257" currNum="2" px="113.30765" py="23.120049" class="open">广州市</li>
+                            <li city_code="179" currNum="3" px="120.170387" py="30.25536" class="open">杭州市</li>
+                            <li city_code="340" currNum="4" px="114.025974" py="22.546054" class="open">深圳市</li>
+                            <li city_code="315" currNum="5" px="113.989574" py="22.54404" class="open">南京市</li>
+                            <li city_code="346" currNum="6" px="120.619907" py="31.317987" class="open">扬州市</li>
+                            <li city_code="332"  currNum="7" px="117.161437" py="39.117145" class="open">天津市</li>
+                            <li city_code="233"  currNum="8" px="108.996071" py="34.256923" class="open">西安市</li>
+                            <li city_code="167" currNum="9" px="121.652176" py="38.906498" class="open">大连市</li>
+                            <li city_code="300" currNum="10" px="119.317839" py="26.043279" class="open">福州市</li>
+                            <li city_code="132" currNum="11" px="106.468121" py="29.565576" class="open">重庆市</li>
+            			</ul>
+        			</div>
+                    <div class="select_btn"></div>
+                </div>
+             <div class="map-box"><div id="allmap" class="map"></div></div>   
+            </div>  
+        </div>
+        </div>
+    </div><!--wapper end-->
+
+    <div id="suspension" class="fixed">
+   </div>
+  <script type="text/javascript">
+//初始化地图
+
+var map = null;
+
+var map = null;
+var pointArray = [];
+for(var item in pointObj){   //将json中的数据存起来
+                pointArray.push(pointObj[item]);
+            }
+            	
+function initMap(){
+        map = new BMap.Map("allmap");                        // 创建Map实例
+        map.centerAndZoom(new BMap.Point(116.404, 39.915), 11);     // 初始化地图,设置中心点坐标和地图级别
+        map.addControl(new BMap.NavigationControl());               // 添加平移缩放控件
+       // map.addControl(new BMap.ScaleControl());                    // 添加比例尺控件
+        map.addControl(new BMap.OverviewMapControl());              //添加缩略地图控件
+        map.enableScrollWheelZoom();                            //启用滚轮放大缩小
+        //map.addControl(new BMap.MapTypeControl());          //添加地图类型控件
+        map.setCurrentCity("上海");          // 设置地图显示的城市 此项是必须设置的
+}
+
+initMap();
+
+    $(document).ready(function(){
+        drawMakers(pointArray[0]);
+        $(".tag_options li").on("click",function(){
+            var px = $(this).attr("px");
+            var py = $(this).attr("py");
+            var num = $(this).attr("currNum");
+            $("#city_selected").attr("px",px);
+            $("#city_selected").attr("py",py);
+            $("#city_selected").attr("currNum",num);
+           })
+        $(".select_btn").on("click",function(){
+            var city_name = $("#city_selected").text();
+            var px = $("#city_selected").attr("px"),py=$("#city_selected").attr("py")
+            map.centerAndZoom(new BMap.Point(px,py),10);
+            map.setCurrentCity(city_name);  
+            var num = $("#city_selected").attr("currNum");
+            drawMakers(pointArray[num]);
+        })
+    })
+function drawMakers(val)
+{
+    map.clearOverlays();
+    var pointArr = [];
+
+    for(var i = 0, len = val.length; i < len; i++){
+        pointArr.push(val[i].name);
+    }
+
+    var local = new BMap.LocalSearch(map, {renderOptions: {map: map}});
+    local.setInfoHtmlSetCallback(function(a,b){
+
+        var imgs = b.parentNode.parentNode.parentNode.getElementsByTagName("img");
+
+        for (var i = 0; i < imgs.length; i++) {
+            var img = imgs[i];
+            if(img.src == "http://api.map.baidu.com/images/phone.png"){
+                img.style.display = "none";
+                break;
+            }
+        }
+    })  
+    local.setPageCapacity(20);
+    local.disableFirstResultSelection();
+    local.search(pointArr, map.getBounds());
+}
+</script>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=6599716" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script>
+<script type="text/javascript">
+     var _hmt = _hmt || [];
+</script>
+<div style="display:none;">
+	<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F00347eba0180ad547c67aee4570bed6a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</body>
+</html>

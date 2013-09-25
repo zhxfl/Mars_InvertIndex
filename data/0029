@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>百度团购满减促销</title>
+<meta name="Keywords" content="百度团购满减促销,团购,百度团购,团购大全,团购网站" />
+<meta name="Description" content="百度团购满减促销啦！买就送，满就减！电影、美食、KTV、旅游、酒店……全部参加，应有尽有。团满50立减5元，团满100立减15元" />
+<link rel="icon" type="image/ico" href="favicon.ico" />
+<link rel="shortcut icon" href="favicon.ico" />
+<link href="css/index.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+<div class="logo-area">
+	<a class="logo" href="http://tuan.baidu.com/" target="_blank"></a>
+</div>
+<div class="main">
+
+<div class="header"></div>
+<div class="content">
+	<div class="activity-intro">
+    	<p class="intro-txt">
+        	活动期间购买参加满减的商品，单笔订单满50元<span class="txt-small">（包含50元）</span><br/><span class="txt-emphasis">立减5元</span>，满100元<span class="txt-small">（包含100元）</span><span class="txt-emphasis">立减15元</span>。
+        </p>
+        <div class="sep-dotted"></div>
+        <p class="intro-txt">
+        	每名用户<span class="txt-emphasis">每天</span>只能享受一次满减优惠。
+        </p>
+        <div class="sep-dotted"></div>
+        <p class="intro-txt">
+			<span class="txt-emphasis">订单需在活动期间完成支付</span>，活动结束后支付的订单，不能享受满减优惠。
+        </p>
+        <div class="sep-dotted"></div>
+        <p class="intro-txt has-img">
+        	网站上标注<img src="images/discount.png" />的商品支持优惠活动，手机端全部商品支持。
+        </p>
+        <div class="sep-dotted"></div>
+        <p class="intro-txt">
+        	参与活动的订单，不支持部分退款，只支持全单退款。退款只退实付金额。
+        </p>
+    </div>
+    <p class="intro-add">
+    	百度有最终活动解释权
+    </p>
+    <p class="tuan">
+    	<a href="http://tuan.baidu.com/local/?is_discount=1&from_tp=mj" id="btn-tuan" class="btn-tuan" target="_blank">
+        	立即抢购优惠
+        </a>
+    </p>
+</div>
+<div class="footer"></div>
+
+</div>
+<script type="text/javascript">
+/*
+var btnTuan = document.getElementById("btn-tuan");
+var startTime = new Date(2013,8,5,0,0,0,0);
+var timer = setInterval(checkTime, 1000);
+
+checkTime();
+
+function checkTime() {
+	var now = new Date();
+	if(now.getTime() < startTime.getTime()) {
+		btnTuan.innerHTML = "敬请期待。。。";
+		btnTuan.className = "btn-tuan-wait";
+		btnTuan.onclick = function() {return false;};
+	} else {
+		btnTuan.innerHTML = "立即抢购优惠";
+		btnTuan.className = "btn-tuan";
+		btnTuan.onclick = function() {return true;};		
+		
+		clearInterval(timer);
+	}
+}
+*/
+//PC Monkey
+var pageId = "tuan-event-dacu";
+</script>
+<script type="text/javascript" src="http://img.baidu.com/hunter/tuangoumonkey.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html><html> <head> <meta http-equiv=Content-Type content="text/html;charset=utf-8"> <title>骗子太多傻子明的百度个人主页</title> <script>window.wpo={start:new Date*1,pid:109,page:'princess'}</script> <link type=text/css rel=stylesheet href="http://pr.bdimg.com/static/princess/css/princess_4d3c2d3a.css"> <script>wpo.head=new Date*1;wpo.ready=function(a,b){b=b||document;if(/complete/.test(b.readyState)){a()}else{if(b.addEventListener){if("interactive"==b.readyState){a()}else{b.addEventListener("DOMContentLoaded",a,false)}}else{var c=function(){c=new Function;a()};void function(){try{b.body.doScroll("left")}catch(d){return setTimeout(arguments.callee,10)}c()}();b.attachEvent("onreadystatechange",function(){("complete"==b.readyState)&&c()})}}};wpo.load=function(b){if(window.addEventListener){window.addEventListener("load",b,false)}else{if(document.attachEvent){window.attachEvent("onload",b)}}};wpo.ready(function(){wpo.dom=new Date*1});wpo.load(function(){var a=wpo.load=new Date*1;setTimeout(function(){var d=["pid="+wpo.pid,"jsfileloaded="+(wpo.jsLoaded-wpo.start),"pageletsLoaded="+(wpo.allPageletLoad-wpo.start),"serverCost="+(wpo.serverEnd-wpo.serverStart),"head="+(wpo.head-wpo.start),"tti="+(wpo.tti-wpo.start),"dom="+(wpo.dom-wpo.start),"load="+(wpo.load-wpo.start),"page="+wpo.page,"r="+a],b="wpo_"+a,e=window[b]=new Image;e.onload=(e.onerror=function(){window[b]=null});e.src="http://nsclick.baidu.com/v.gif?type=2009&fn=wpo&"+d.join("&");e=null},0)});</script> </head> <body>  <div id=wrapper> <div class=bground> <div id=banner> <div class=banner-position><div id=banhld class=banner-content><div class=plzhld></div><a href=http://www.baidu.com/ target=_blank><img class=logo-img src="http://pr.bdimg.com/static/princess/img/misc/baidu_logo_c352a179.gif" alt=baidu.com></a></div></div> </div> <div id=head> <div id=headhld> <div class=plzhld></div></div> </div> <div id=content>  <div id=cnthld class="baike"> <ul class=content-tab> <li class=baidu-tab><a id=baidutab href="#" class="tab-title songti tabbtn" hidefocus data-click=baidu><span class=tab-title-tag>TA在</span>百度</a> <li class=reward-tab><a id=rewardtab href="#" class="tab-title songti tabbtn" hidefocus data-click=reward><span class=tab-title-tag>TA在</span>搜索</a> <li class=tieba-tab><a id=tiebatab href="#" class="tab-title songti tabbtn" hidefocus data-click=tieba><span class=tab-title-tag>TA在</span>贴吧</a> <li class=space-tab><a id=spacetab href="#" class="tab-title songti tabbtn" hidefocus data-click=space><span class=tab-title-tag>TA在</span>空间</a> <li class=zhidao-tab><a id=zhidaotab href="#" class="tab-title songti tabbtn" hidefocus data-click=zhidao><span class=tab-title-tag>TA在</span>知道</a>      <li class="wenku-tab"><a id="wenkutab" href="#" class="tab-title songti tabbtn" hidefocus data-click="wenku"><span class=tab-title-tag>TA在</span>文库</a>     <li class="xiangce-tab"><a id="xiangcetab" href="#" class="tab-title songti tabbtn" hidefocus data-click="xiangce"><span class=tab-title-tag>TA在</span>相册</a>     <li class="baike-tab"><a id="baiketab" href="#" class="tab-title songti tabbtn" hidefocus data-click="baike"><span class=tab-title-tag>TA在</span>百科</a>       </ul> <div class="cnthld-main clearfix">  <div class=loadingtpl>LOADING...</div> <div class="col leftside"> <div class=plzhld data-fill=tab_content></div> <div class=plzhld data-fill=feed_content></div> <div class=leftside-shadow></div> </div> <div class="col rightside"> <div class="plzhld p1" data-fill=friend_content></div> </div> </div></div> </div> <div id=foot> <div class=mod-footer> <div class=bottom-line2> <p>© Baidu <a target=_blank href="http://www.baidu.com/duty/">使用百度前必读</a> <a href=http://www.miibeian.gov.cn target=_blank>京ICP证030173号</a> <em class=s-bottom-copyright>&nbsp;&nbsp;&nbsp;&nbsp;</em></p> </div></div> </div> </div> <div class="mod-right-nav nav-narrow nav-normal" id=navhld><div class=plzhld></div></div><a class=mod-go-top-btn href="#" onclick="return false"></a> </div>  <script>wpo.tti=new Date*1;</script> <script src="http://pr.bdimg.com/static/princess/js/index_boot_957720f0.js"></script> <script>
+            wpo.jsLoaded=new Date*1;
+            wpo.serverStart=parseInt("1380035251842.1");
+            F._fileMap({
+                'http://pr.bdimg.com/static/princess/js/tangram_move_6affa469.js':'tangram_move/tangram_move'
+            });
+            App.router.updateGlobal({'domain': {"portrait":"http:\/\/himg.bdimg.com","passport":"http:\/\/passport.baidu.com","passportSsl":"https:\/\/passport.baidu.com","www":"http:\/\/www.baidu.com","zhidao":"http:\/\/zhidao.baidu.com","tieba":"http:\/\/tieba.baidu.com","space":"http:\/\/hi.baidu.com","album":"http:\/\/hi.baidu.com","albumStatic":"http:\/\/hiphotos.baidu.com","static":"http:\/\/pr.bdimg.com","message":"http:\/\/msg.baidu.com"}});
+            App.router.updateGlobal({'token': ''});
+
+                        F.use('products/main', function(prod){
+                prod.loadProductsData('wenku', '').loadProductsData('xiangce', '').loadProductsData('baike', '').loadProductsData('reward', 'http:\/\/www.baidu.com\/ur\/show\/urprincessindex?portrait=a68fe9aa97e5ad90e5a4aae5a49ae582bbe5ad90e6988e8c2e&domain=http%3A%2F%2Fwww.baidu.com%2Fp');
+            });
+                                                                                                        App.router.models['cnthld'].getData({tab: 'baike', part: 'index'});
+                    </script> <script>
+    App.onPageletArrive({"targetId":"headhld", "tplContent":"<div class=mod-head>     <div class=\x22info-left  user-online\x22> <div class=portrait><img class=portrait-img src=\x22http:\/\/himg.bdimg.com\/sys\/portrait\/item\/a68fe9aa97e5ad90e5a4aae5a49ae582bbe5ad90e6988e8c2e.jpg?cdnversion=0731\x22><span><\/span> <\/div> <span class=picicon><\/span> <\/div> <div class=info-right> <div class=\x22user-name clearfix\x22> <h2 class=yahei>骗子太多傻子明<\/h2>    <a href=\x22\/p\/sys\/redirect?login=1&uname=%E9%AA%97%E5%AD%90%E5%A4%AA%E5%A4%9A%E5%82%BB%E5%AD%90%E6%98%8E\x22 class=btn-message hidefocus><\/a>   <\/div> <div class=\x22user-info clearfix\x22>    <div class=info>男<\/div>    <div class=\x22liveaddr info\x22 title=\x22广东-深圳\x22>现居广东-深圳<\/div>    <div class=\x22birthaddr info\x22 title=\x22湖南-邵阳\x22>出生于湖南-邵阳<\/div>    <\/div> <p class=personal-url> <span class=url-desc>个人网址：www.baidu.com\/p\/骗子太多傻子明<\/span> <a class=detail-link href=\x22\/p\/骗子太多傻子明\/detail\x22 target=_blank class=songti>查看更多资料&gt;&gt;<\/a> <\/p>  <\/div><\/div>", "viewType": "Generic",
+        "options": {
+            init: function () {
+                var page_userInfo = {
+                    'username' : '骗子太多傻子明',
+                    'portrait' : 'a68fe9aa97e5ad90e5a4aae5a49ae582bbe5ad90e6988e8c2e',
+                    'sexTitle' : '他',
+                    'username_gbk_path' : '%C6%AD%D7%D3%CC%AB%B6%E0%C9%B5%D7%D3%C3%F7'
+                };
+                this.router.updateGlobal({ 'page_userInfo': page_userInfo });
+                this.router.updateCurrentUserData({"userInfo":{"username":'骗子太多傻子明', "portrait": 'a68fe9aa97e5ad90e5a4aae5a49ae582bbe5ad90e6988e8c2e', "gender": '他'}});
+            }
+        }
+    });
+</script><script>
+    App.onPageletArrive({"targetId":"banhld", "viewType": "Userpanel", "tplContent":"<div id=pUserPanel class=mod-banner> <a href=\x22\/p\/sys\/redirect?login=1&uname=%E9%AA%97%E5%AD%90%E5%A4%AA%E5%A4%9A%E5%82%BB%E5%AD%90%E6%98%8E\x22 class=log-lgin>登录<\/a>|<a href=\x22http:\/\/www.baidu.com\x22 class=log-baidu-homepage>百度首页<\/a> <\/div>", "options":{
+    	"init" : function(){
+    		this.router.updateGlobal({'isLoginUserNoName' : false,
+            'isLoggedIn': false});
+            if(this.router.updateLoginUserData){
+                this.router.updateLoginUserData({"userInfo":{"isLoggedIn":false, "username": "", "isLoginUserNoName": false, "token": '', "portrait": ""}});
+            };
+            this.router.updateGlobal({'login_userInfo':{
+            	portrait : '',
+                uname : ''
+            }});
+    	}
+    }});
+</script><script>
+    App.onPageletArrive({"targetId":"navhld",
+        "viewType": "RightNav",
+        "tplContent":"  <div class=right-nav-issues> <span class=question-mark><\/span> <a href=http:\/\/qingting.baidu.com\/index?pid=17 class=issues target=_blank>意见反馈<\/a> <\/div>"});
+</script><script>
+    F.use("skinchange/skinchange",function (skinchange) {
+        skinchange.init();
+        skinchange.setSkin('3'|0);
+    });
+</script>

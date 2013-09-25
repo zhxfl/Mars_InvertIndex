@@ -1,0 +1,264 @@
+<!DOCTYPE HTML>
+<!--status ok!-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset='utf-8' />
+    <!-- 处理IE8锚点不起作用问题 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+    <title>百度地图国庆酒店促销</title>
+    <link rel="stylesheet" type="text/css" href="./css/all.css" />
+    <link rel="icon" href="http://www.baidu.com/favicon.ico" type="image/icon" />
+</head>
+
+<body>
+<img id="statImg" src="http://map.baidu.com/img/transparent.gif" class="hide" />
+<a name="top" id="top"></a>
+    <div class="gq-topbar">
+        <div class="topbar-wrap">
+            <a href="http://map.baidu.com" target="_blank"><img src="./images/logo.png" /></a>
+            <!-- Baidu Button BEGIN -->
+            <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+                <span class="bds_more"></span>
+                <a class="bds_tieba" title="分享到百度贴吧" href="#"></a>
+                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                <a class="bds_tqq" title="分享到腾讯微博" href="#"></a>
+                <a class="bds_renren" title="分享到人人网" href="#"></a>
+            </div>
+            <!-- Baidu Button END -->
+        </div>
+    </div>
+    <div class="gq-banner">
+        <span>携程旅行网携手百度地图打造酒店行业盛世</span>
+    </div>
+
+    <div class="gq-main">
+        <a name="firstPart" id="firstPart"></a>
+        <div class="gq-doublecash">
+            <div class="module-title">
+                <h2>双重返现</h2>
+                <span class="module-title-info">单价返现，总价满额再返！</span>                
+            </div>
+
+            <div class="module-body">
+                <div class="reguler">                       
+                    <strong>规则说明：</strong>
+                    <ol>
+                        <li>1. 9月2日至10月8日，用户在百度地图活动中预订由“携程旅行网”提供的酒店，在酒店成功入住后即可获得相应房款返现。单笔订单满400元返现25元、700元返现50元、1200元返现100元，单笔订单最多返现100元。
+                        </li>
+                        <li>2. 返现方式：只有携程注册用户才可获得百度地图提供的促销返现，返现金额在用户离店后48个工作日内返至携程账户。
+                        </li>
+                    </ol>                       
+                </div>
+
+                <div class="step-detail clearfix">
+                    <div class="step">
+                        <div class="title1">Step1</div>
+                        <div class="title2">找到心仪的酒店</div>
+                        <img src="./images/step1.png" alt="">
+                    </div>
+                    <div class="sparrow"><img src="./images/sparrow.png" ></div>
+                    <div class="step">
+                        <div class="title1">Step2</div>
+                        <div class="title2">查看房型及对应单价</div>
+                        <img src="./images/step2.png" alt="">
+                    </div>
+                    <div class="sparrow"><img src="./images/sparrow.png" ></div>
+                    <div class="step">
+                        <div class="title1">Step3</div>
+                        <div class="title2">查看下单后总价</div>
+                        <img src="./images/step3.png" alt="">
+                    </div>
+                </div>
+
+                <div class="search-area">
+                    <span style="">目的地</span>  
+                    <span class="select_box" id="select_box">
+                        <span class="select_title">北京</span>
+                        <span class="select_icon"></span>
+                        <ul id="target_city_select">
+                            <li class="select_item" data-city_code="131">北京</li>
+                            <li class="select_item" data-city_code="289">上海</li>
+                            <li class="select_item" data-city_code="257">广州</li>
+                            <li class="select_item" data-city_code="340">深圳</li>
+                            <li class="select_item" data-city_code="218">武汉</li>
+                            <li class="select_item" data-city_code="179">杭州</li>
+                            <li class="select_item" data-city_code="315">南京</li>
+                            <li class="select_item" data-city_code="224">苏州</li>
+                            <li class="select_item" data-city_code="104">昆明</li> 
+                            <li class="select_item" data-city_code="194">厦门</li>  
+                            <li class="select_item" data-city_code="121">三亚</li> 
+                            <li class="select_item" data-city_code="158">长沙</li> 
+                            <li class="select_item" data-city_code="75">成都</li> 
+                            <li class="select_item" data-city_code="132">重庆</li> 
+                            <li class="select_item" data-city_code="233">西安</li> 
+                            <li class="select_item" data-city_code="167">大连</li> 
+                            <li class="select_item" data-city_code="332">天津</li> 
+                            <li class="select_item" data-city_code="58">沈阳</li> 
+                            <li class="select_item" data-city_code="236">青岛</li> 
+                            <li class="select_item" data-city_code="2912">香港</li> 
+                        </ul>       
+                    </span>   
+                    <span>关键字</span>
+                    <input type="text" id="keyword_input" value="输入 位置 酒店名 或品牌" onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue;this.style.color='#999'}" style="color:#999999"/>
+                    <a id="search-button" class="search-button" href="javascript:void(0);" onclick="addStat('gqHotel', {'area':'search'})">搜索</a>
+                </div>
+                </div>    
+        </div><!-- doublecash-main end -->
+
+        <a name="secondPart" id="secondPart"></a>
+        <div class="gq-halfcount">
+            <div class="module-title">
+                <h2>豪华酒店9元起疯抢团</h2>
+                <span class="module-title-info">抽奖赢smart<a href="http://tuan.baidu.com/event/2013jiudian/index.html
+" class="more-hotel" target="_blank">更多特价酒店</a></span>
+                <div class="tit-right">
+                    <div class="tit-right-bg">距离下一次开始时间还剩：</div>
+                    <div class="date-bg">
+                        <span>15</span>时
+                        <span>56</span>分
+                        <span>10</span>秒
+                    </div>
+                </div>
+            </div>
+            <div class="module-body">
+                <div class="reguler">
+                    <strong>活动规则：</strong>
+                    <ol>
+                        <li>1. 9月2日-9月26日，每天10:00准时开抢，数量有限，抢完为止。</li>
+                        <li>2. 9月6日，用户在百度团购购买由“百度团购”提供的酒店团单，支付成功且在10月8日前使用，即可参与抽奖，有机会赢取奔驰Smart、索尼微单套机、索尼数码相机、富士拍立得相机。</li>
+                        <li>3. 以下酒店由携程团购提供。</li>
+                    </ol>
+                </div>
+                <div>
+                    <div id="tuangouSwitch">
+                        <span id="switchA">今日10:00 蓄势待发<s>◆</s></span>
+                        <span class="tSpan" id="switchB">明日10:00 蓄势待发<s>◆</s></span>
+                    </div>
+                    <div id="tuanBlockWrapToday"></div>
+                    <div id="tuanBlockWrapTomorrow"></div>
+                </div>
+            </div>
+        </div><!-- halfcount-main end -->
+    
+        <a name="thirdPart" id="thirdPart"></a>
+        <div class="gq-share">
+            <div class="module-title">
+                <h2>分享微博</h2>
+                <span class="module-title-info">抽奖赢豪礼</span>                   
+            </div>
+            <div class="share-main">
+                <div class="reguler reguler-share">                       
+                    <strong>活动规则：</strong>
+                    <ol style="margin-right:10px;">
+                        <li>1. 9月2日至9月26日，用户分享下列微博，即可参与抽奖，有机会赢取丰厚礼品，每人每天三次机会。特等奖至四等奖将在每天11:30公布前一天的中奖名单，请您注意查看。
+                        </li>
+                        <li>2. 10月16日前，百度地图工作人员将会与中奖用户进行电话联系，届时烦请您提供邮寄信息，10月30日前，我们将为您邮寄奖品。
+                        </li>
+                    </ol>                       
+                </div>
+                <div class="share-box clearfix">
+                    <div class="share-left">
+                        <div class="share-txt">
+                            <h3>奖品设置：</h3>
+                            <div class="share-detail">
+                                <p>特等奖：携程旅行网提供双人马尔代夫喜来登满月岛自由行，共1个</p>
+                                <p>一等奖：索尼NEX-3NL微单单镜套机, 共3个</p>
+                                <p>二等奖：探路者TOREAD户外50升背包，共50个</p>
+                                <p>三等奖：EMINENT雅士全拉杆箱配TSA海关锁，共100个</p>
+                                <p>四等奖：TP-LINK 300M迷你型无线路由器, 共200个</p>
+                                <p>五等奖：携程旅行网20元抵用券，共10000张</p>
+                                <p>六等奖：携程旅行网10元抵用券，共10000张</p>
+                                <p>七等奖：携程旅行网5元抵用券，共10000张</p>
+                            </div>
+                        </div>
+
+                        <div class="happy_list" id="HappyList">
+                            <h3 style="margin-bottom:10px;"></h3>
+                            <marquee scrollamount="2" width="380" onmouseover="this.stop()" onmouseout="this.start()" direction="up" height="50" hspace="3">
+                            </marquee>
+                        </div>
+                    </div>
+                                
+                    <ul class="share_right clearfix">
+                        <li><img width=112 height=111 src="./images/prize1.png" alt="" /><h4>双人马尔代夫喜来登满月岛自由行</h4></li>
+                        <li><img width=112 height=111 src="./images/prize2.png" alt="" /><h4>索尼NEX-3NL微单单镜套机</h4></li>
+                        <li><img width=112 height=111 src="./images/prize3.png" alt="" /><h4>探路者TOREAD户外背包</h4></li>
+                        <li><img width=112 height=111 src="./images/prize4.png" alt="" /><h4>EMINENT雅士全拉杆箱</h4></li>
+                        <li><img width=112 height=111 src="./images/prize5.png" alt="" /><h4>TP-LINK无线路由器</h4></li>
+                        <li><img width=112 height=111 src="./images/prize6.png" alt="" /><h4>携程旅行网20元抵用券</h4></li>
+                        <li><img width=112 height=111 src="./images/prize7.png" alt="" /><h4>携程旅行网10元抵用券</h4></li>
+                        <li><img width=112 height=111 src="./images/prize8.png" alt="" /><h4>携程旅行网5元抵用券</h4></li>
+                    </ul><!--share_right end-->
+
+                </div>
+                <div class="chou-box clearfix">
+                    <div class="chou">
+                        <p>#百度地图96酒店节#我勒个去！不但低价还返钱？金秋9月，百度地图半价订酒店，史无前例全网最低价！！！我和我的小伙伴都上床了，那你呢？猛击链接就会有好事发生！<br /><br />
+                        </p>
+                        <a href="http://service.weibo.com/share/share.php?appkey=962772401&url=http%3A%2F%2Fmap.baidu.com%2Fzt%2Fhotel_shiyi%2F%3Ffrom_weibo%3D1&%20title=%23%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE96%E9%85%92%E5%BA%97%E8%8A%82%23%E6%88%91%E5%8B%92%E4%B8%AA%E5%8E%BB%EF%BC%81%E4%B8%8D%E4%BD%86%E4%BD%8E%E4%BB%B7%E8%BF%98%E8%BF%94%E9%92%B1%EF%BC%9F%E9%87%91%E7%A7%8B9%E6%9C%88%EF%BC%8C%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%8D%8A%E4%BB%B7%E8%AE%A2%E9%85%92%E5%BA%97%EF%BC%8C%E5%8F%B2%E6%97%A0%E5%89%8D%E4%BE%8B%E5%85%A8%E7%BD%91%E6%9C%80%E4%BD%8E%E4%BB%B7%EF%BC%81%EF%BC%81%EF%BC%81%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E5%B0%8F%E4%BC%99%E4%BC%B4%E9%83%BD%E4%B8%8A%E5%BA%8A%E4%BA%86%EF%BC%8C%E9%82%A3%E4%BD%A0%E5%91%A2%EF%BC%9F%E7%8C%9B%E5%87%BB%E9%93%BE%E6%8E%A5%E5%B0%B1%E4%BC%9A%E6%9C%89%E5%A5%BD%E4%BA%8B%E5%8F%91%E7%94%9F%EF%BC%81 &source=111&sourceUrl=222&%20content=utf-8&pic=http%3A%2F%2Fmap.baidu.com%2Ffwmap%2Fupload%2Fr%2Fimage%2F2013-09-02%2Fa7e21a568c96784b5b8df7e3ea8a1dc0.jpg" class="chou-btn" target="_blank" data-index=1 onclick="addStat('gqHotel', {'area':'share'})">分享抽奖</a>                   
+                    </div><!--chou end-->
+                    <div class="chou">
+                        <p>#百度地图96酒店节#我勒个去！百度地图订酒店，双重满额返现金，史无前例的全网最低价！！！分享微博还能抽马代双人自由行，索尼微单套机。我和我的小伙伴都上床了，那你呢？猛击链接就会有好事发生！</p>
+                        <a href="http://service.weibo.com/share/share.php?appkey=962772401&url=http%3A%2F%2Fmap.baidu.com%2Fzt%2Fhotel_shiyi%2F%3Ffrom_weibo%3D1&%20title=%23%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE96%E9%85%92%E5%BA%97%E8%8A%82%23%E6%88%91%E5%8B%92%E4%B8%AA%E5%8E%BB%EF%BC%81%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E8%AE%A2%E9%85%92%E5%BA%97%EF%BC%8C%E5%8F%8C%E9%87%8D%E6%BB%A1%E9%A2%9D%E8%BF%94%E7%8E%B0%E9%87%91%EF%BC%8C%E5%8F%B2%E6%97%A0%E5%89%8D%E4%BE%8B%E7%9A%84%E5%85%A8%E7%BD%91%E6%9C%80%E4%BD%8E%E4%BB%B7%EF%BC%81%EF%BC%81%EF%BC%81%E5%88%86%E4%BA%AB%E5%BE%AE%E5%8D%9A%E8%BF%98%E8%83%BD%E6%8A%BD%E9%A9%AC%E4%BB%A3%E5%8F%8C%E4%BA%BA%E8%87%AA%E7%94%B1%E8%A1%8C%EF%BC%8C%E7%B4%A2%E5%B0%BC%E5%BE%AE%E5%8D%95%E5%A5%97%E6%9C%BA%E3%80%82%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E5%B0%8F%E4%BC%99%E4%BC%B4%E9%83%BD%E4%B8%8A%E5%BA%8A%E4%BA%86%EF%BC%8C%E9%82%A3%E4%BD%A0%E5%91%A2%EF%BC%9F%E7%8C%9B%E5%87%BB%E9%93%BE%E6%8E%A5%E5%B0%B1%E4%BC%9A%E6%9C%89%E5%A5%BD%E4%BA%8B%E5%8F%91%E7%94%9F%EF%BC%81 &source=111&sourceUrl=222&%20content=utf-8&pic=http%3A%2F%2Fmap.baidu.com%2Ffwmap%2Fupload%2Fr%2Fimage%2F2013-09-02%2Fa7e21a568c96784b5b8df7e3ea8a1dc0.jpg" class="chou-btn" target="_blank" data-index=2 onclick="addStat('gqHotel', {'area':'share'})">分享抽奖</a>
+                    </div><!--chou end-->
+                    <div class="chou mar0">
+                        <p>#百度地图96酒店节#十一旅行全价订酒店，臣妾舍不得啊！！！9月2日-10月8日，单笔订单满400返现50，满700返现100，满1200返现200，单笔订单最多返现200……花多省多，各位喜大普奔吧~猛戳链接获得丰富好礼！</p>
+                        <a href="http://service.weibo.com/share/share.php?appkey=962772401&url=http%3A%2F%2Fmap.baidu.com%2Fzt%2Fhotel_shiyi%2F%3Ffrom_weibo%3D1&%20title=%23%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE96%E9%85%92%E5%BA%97%E8%8A%82%23%E5%8D%81%E4%B8%80%E6%97%85%E8%A1%8C%E5%85%A8%E4%BB%B7%E8%AE%A2%E9%85%92%E5%BA%97%EF%BC%8C%E8%87%A3%E5%A6%BE%E8%88%8D%E4%B8%8D%E5%BE%97%E5%95%8A%EF%BC%81%EF%BC%81%EF%BC%819%E6%9C%882%E6%97%A5-10%E6%9C%888%E6%97%A5%EF%BC%8C%E5%8D%95%E7%AC%94%E8%AE%A2%E5%8D%95%E6%BB%A1400%E8%BF%94%E7%8E%B050%EF%BC%8C%E6%BB%A1700%E8%BF%94%E7%8E%B0100%EF%BC%8C%E6%BB%A11200%E8%BF%94%E7%8E%B0200%EF%BC%8C%E5%8D%95%E7%AC%94%E8%AE%A2%E5%8D%95%E6%9C%80%E5%A4%9A%E8%BF%94%E7%8E%B0200%E2%80%A6%E2%80%A6%E8%8A%B1%E5%A4%9A%E7%9C%81%E5%A4%9A%EF%BC%8C%E5%90%84%E4%BD%8D%E5%96%9C%E5%A4%A7%E6%99%AE%E5%A5%94%E5%90%A7~%E7%8C%9B%E6%88%B3%E9%93%BE%E6%8E%A5%E8%8E%B7%E5%BE%97%E4%B8%B0%E5%AF%8C%E5%A5%BD%E7%A4%BC%EF%BC%81&source=111&sourceUrl=222&%20content=utf-8&pic=http%3A%2F%2Fmap.baidu.com%2Ffwmap%2Fupload%2Fr%2Fimage%2F2013-09-02%2Fa7e21a568c96784b5b8df7e3ea8a1dc0.jpg" target="_blank" data-index=3 class="chou-btn" onclick="addStat('gqHotel', {'area':'share'})">分享抽奖</a>
+                    </div>
+                </div>
+            </div> 
+            <a href="http://shouji.baidu.com/map/map_download.html" target="_blank" class="bottom-ad" onclick="addStat('gqHotel',{area: 'mobile_ad'})"><img src="./images/bottom_ad.jpg" /></a>
+        </div><!-- share-main end -->
+
+
+        <div class="gq-nav" id="gqNav">
+            <ul class="gq-nav-list">
+                <li><a href="#firstPart">双重返现</a></li>
+                <li><a href="#secondPart">团购疯抢</a></li>
+                <li><a href="#thirdPart">分享抽奖</a></li>
+            </ul>
+            <a href="#top" id="toTop">回到顶部</a>
+        </div><!-- nav-main end -->
+    </div>
+
+<!--city hotels-->
+<script type="text/html" id="tuanBlock">
+    <ul class="tuan-list">
+    <%for(var i = 0; i < tuangou.length; i++) {
+        var item = tuangou[i],
+            title = item.title.length > 45 ? item.title.slice(0, 45) + "..." : item.title; %> 
+        <li hid="<%=item.id%>">
+            <a href="<%=item.link%>" target="_blank" onclick="addStat('gqHotel', {'module':'tuangou', 'area': 'tuangou-pic', 'hid': '<%=item.id%>'})" class="tuan-img"><img src="./images/tuangou/<%=item.pic%>" /></a>
+            <p title="<%=item.title%>"><%=title%></p>
+            <div>
+                <span class="market-price">
+                    <span>市场价<%=item.m_price%></span><br />
+                    <em>秒杀价<s></s></em>
+                </span>
+                <span class="tuan-price"><strong>￥</strong><%=item.s_price%></span>
+                <a href="<%=item.link%>" onclick="addStat('gqHotel', {'module':'tuangou', 'area': 'tuangou-link', 'hid': '<%=item.id%>'})" target="_blank" class="tuan-btn tuan-btn-waiting">蓄势待发</a>
+            </div>
+            <span class="tuan-count"><%=item.discount%>折</span>
+        </li>
+    <%}%>
+    </ul>
+</script>
+
+<!-- dialogTmpl -->
+<script type="text/template" id="dialogTmpl">
+<div class="drop_box">
+    <div class="drop_title">
+        <a href="javascript:;" title="关闭" class="drop_closed simplemodal-close"></a><h3>温馨提示</h3>
+    </div><!--drop_title end-->
+    <div class="drop_contBox">
+        <{content}>
+    </div><!--drop_contBox end-->
+</div><!--drop_box end-->
+</script>
+
+<script type="text/javascript" src="./js/all.js"></script>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=5901351"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+</body>
+</html>

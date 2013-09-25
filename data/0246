@@ -1,0 +1,396 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">技术</span> <span class="f14">分类下的开放分类共有72个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34572">互联网</a>(18)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34573">数码</a>(12)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34574">软件</a>(12)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34575">硬件</a>(18)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34649">工程</a>(6)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34650">通信</a>(6)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34572" id="34572"></a>
+<div class="dirtit">互联网</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=IT"target="_blank">IT</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=web"target="_blank">web</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%E0%B3%CC"target="_blank">编程</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%BE%C2%ED"target="_blank">木马</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%C2%D4%D8"target="_blank">下载</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%F2%C3%FB"target="_blank">域名</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%ED%B4%F8"target="_blank">宽带</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%FD%BE%DD%BF%E2"target="_blank">数据库</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=IP%B5%D8%D6%B7"target="_blank">IP地址</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C2%E7%B5%E7%BB%B0"target="_blank">网络电话</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%D1%CB%F7%D2%FD%C7%E6"target="_blank">搜索引擎</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%D7%D3%C9%CC%CE%F1"target="_blank">电子商务</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C2%E7"target="_blank">网络</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%C6%CB%E3%BB%FA%B2%A1%B6%BE"target="_blank">计算机病毒</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%C6%CB%E3%BB%FA%B0%B2%C8%AB"target="_blank">计算机安全</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%A5%C1%AA%CD%F8"target="_blank">互联网</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%C4%D4%B2%A1%B6%BE"target="_blank">电脑病毒</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%C6%CB%E3%BB%FA%BC%BC%CA%F5"target="_blank">计算机技术</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34573" id="34573"></a>
+<div class="dirtit">数码</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=DV"target="_blank">DV</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=mp3"target="_blank">mp3</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=mp4"target="_blank">mp4</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=DVD"target="_blank">DVD</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=VCD"target="_blank">VCD</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%BB%B0"target="_blank">电话</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%CC%C2%BC%BB%FA"target="_blank">刻录机</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%C6%B6%AF%B5%E7%BB%B0"target="_blank">移动电话</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%FD%C2%EB%CF%E0%BB%FA"target="_blank">数码相机</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%D7%D3"target="_blank">电子</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D6%BB%FA"target="_blank">手机</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%FD%C2%EB"target="_blank">数码</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34574" id="34574"></a>
+<div class="dirtit">软件</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%B1%B6%BE"target="_blank">杀毒</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%E4%AF%C0%C0%C6%F7"target="_blank">浏览器</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%D9%D7%F7%CF%B5%CD%B3"target="_blank">操作系统</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B5%CD%B3%BD%F8%B3%CC"target="_blank">系统进程</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C4%BC%FE%B8%F1%CA%BD"target="_blank">文件格式</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%EC%B9%AB%C8%ED%BC%FE"target="_blank">办公软件</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%ED%BC%FE%BD%E2%C2%EB"target="_blank">软件解码</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%E0%C3%BD%CC%E5%D3%A6%D3%C3"target="_blank">多媒体应用</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%CC%D0%F2"target="_blank">程序</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%F8%B3%CC"target="_blank">进程</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A6%D3%C3%C8%ED%BC%FE"target="_blank">应用软件</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B5%CD%B3%B9%A4%BE%DF"target="_blank">系统工具</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34575" id="34575"></a>
+<div class="dirtit">硬件</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%C4%D4"target="_blank">电脑</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=CPU"target="_blank">CPU</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%F7%B0%E5"target="_blank">主板</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%D4%BF%A8"target="_blank">显卡</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%E2%C7%FD"target="_blank">光驱</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%F3%B1%EA"target="_blank">鼠标</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%DA%B4%E6"target="_blank">内存</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%F9%BF%A8"target="_blank">声卡</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%BF%A8"target="_blank">网卡</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%FC%C5%CC"target="_blank">键盘</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%B2%C5%CC"target="_blank">硬盘</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=U%C5%CC"target="_blank">U盘</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%D4%CA%BE%C6%F7"target="_blank">显示器</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%E3%CF%F1%CD%B7"target="_blank">摄像头</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%C6%B6%AF%D3%B2%C5%CC"target="_blank">移动硬盘</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%CA%BC%C7%B1%BE%B5%E7%C4%D4"target="_blank">笔记本电脑</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%C6%CB%E3%BB%FA"target="_blank">计算机</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%C4%D4%D6%F7%B0%E5"target="_blank">电脑主板</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34649" id="34649"></a>
+<div class="dirtit">工程</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%FA%D0%B5%B9%A4%B3%CC"target="_blank">机械工程</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%C1%C4%BE%B9%A4%B3%CC"target="_blank">土木工程</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%C6%F8%B9%A4%B3%CC"target="_blank">电气工程</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%AF%D1%A7%B9%A4%B3%CC"target="_blank">化学工程</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%AE%C0%FB%B9%A4%B3%CC"target="_blank">水利工程</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF%B9%A4%B3%CC"target="_blank">生物工程</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34650" id="34650"></a>
+<div class="dirtit">通信</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%C6%B6%AF%CD%A8%D0%C5"target="_blank">移动通信</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%DE%CF%DF%CD%A8%D0%C5"target="_blank">无线通信</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%E2%CD%A8%D0%C5"target="_blank">光通信</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C0%D0%C7%CD%A8%D0%C5"target="_blank">卫星通信</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%B4%CA%B1%CD%A8%D1%B6"target="_blank">即时通讯</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%DE%CF%DF%CD%A8%D1%B6"target="_blank">无线通讯</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--03467312711130963978092423-->
+<script> var _trace_page_logid = 0346731271; </script>

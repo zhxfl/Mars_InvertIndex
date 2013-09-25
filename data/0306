@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">经济</span> <span class="f14">分类下的开放分类共有29个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34640">企业/品牌</a>(7)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34660">管理</a>(4)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34661">经济理论</a>(3)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34659">证券</a>(3)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34658">货币</a>(4)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34566">金融</a>(8)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34640" id="34640"></a>
+<div class="dirtit">企业/品牌</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%B5%BB%F9%D1%C7"target="_blank">诺基亚</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%A2%C8%ED"target="_blank">微软</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%AA%CF%EB"target="_blank">联想</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%BC%B3%DB"target="_blank">奔驰</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%F7%B6%FB"target="_blank">戴尔</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A2%CC%D8%B6%FB"target="_blank">英特尔</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%FD%D0%C7"target="_blank">三星</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34660" id="34660"></a>
+<div class="dirtit">管理</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%DC%C0%ED%C0%ED%C2%DB"target="_blank">管理理论</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=MBA"target="_blank">MBA</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%CB%C1%A6%D7%CA%D4%B4"target="_blank">人力资源</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%DC%C0%ED%C8%ED%BC%FE"target="_blank">管理软件</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34661" id="34661"></a>
+<div class="dirtit">经济理论</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%AD%BC%C3%D1%A7%C5%C9"target="_blank">经济学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%AD%BC%C3%D1%A7%BC%D2"target="_blank">经济学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%B7%BD%BE%AD%BC%C3%D1%A7"target="_blank">西方经济学</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34659" id="34659"></a>
+<div class="dirtit">证券</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C9%C6%B1"target="_blank">股票</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%F9%BD%F0"target="_blank">基金</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%DA%BB%F5"target="_blank">期货</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34658" id="34658"></a>
+<div class="dirtit">货币</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%CB%C3%F1%B1%D2"target="_blank">人民币</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%C0%D4%AA"target="_blank">美元</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%B7%D4%AA"target="_blank">欧元</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%A8%C0%C9"target="_blank">法郎</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34566" id="34566"></a>
+<div class="dirtit">金融</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%F8%D0%D0"target="_blank">银行</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%C6%D5%FE"target="_blank">财政</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%FA%BC%CA%BD%F0%C8%DA"target="_blank">国际金融</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%B3%D2%D7"target="_blank">贸易</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%AE%C8%AF"target="_blank">债券</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%ED%B2%C6"target="_blank">理财</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%B6%D7%CA"target="_blank">投资</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%A3%CF%D5"target="_blank">保险</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--04147962760960832522092423-->
+<script> var _trace_page_logid = 0414796276; </script>

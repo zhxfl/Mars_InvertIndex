@@ -1,0 +1,535 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=7" /> 
+
+  <title>决战世界杯-贴吧游戏-百度贴吧游戏体育竞技游戏大作</title>
+
+  <meta name="keywords" content="决战世界杯官方网站，百度贴吧游戏体育竞技游戏大作,贴吧,体育竞技，网页游戏大作，网页游戏排行榜,百度游戏,baidu,game,永久免费,下载游戏，进入游戏，球星，足球，比赛，世界杯，体育, 球队" />
+
+  <meta name="description" content="《决战世界杯》是百度贴吧游戏平台推出的超人气体育竞技游戏，拥有梦幻般的特色玩法，全民皆宜的游戏体验，Q版全明星阵容，独一无二的竞技对抗。以五大联赛作为故事背景，提炼出足球游戏的主流玩法，提供了全新的足球竞技游戏的体验。玩家可利用球探系统，招募心怡的球星，并对球员进行升级、训练、突破等，让玩家打造自己的梦之队。
+" />
+
+
+
+
+
+<link rel="SHORTCUT ICON" href="http://www.baidu.com/favicon.ico">
+        <link href="http://wanba.baidu.com/site/v3/css/general.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="http://wanba.baidu.com/site/games/v2/css/index.css" />
+        <!--[if lte IE 9]><script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/js/html5.js"></script><![endif]-->
+        <script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/js/jquery-1.8.2.min.js"></script>
+        <script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/site/games/v2/js/index.js"></script>
+    
+        <script type="text/javascript">
+            var gameId=574;
+            var fid=807;
+            var alias='';
+        </script>
+        <script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/dudai/jz/style/jz_index.js"></script>
+
+
+
+<link rel="stylesheet" type="text/css" href="http://wanba.baidu.com/hdft/css/main.css" />
+<script type="text/javascript" src="http://passport.baidu.com/passApi/js/uni_login_wrapper.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/hdft/js/behavior.js"></script>
+<style>
+body {
+    margin:0;
+    font: 12px/20px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    height: 100%;
+    width: 100%;
+}
+html {
+    height: 100%;
+    width: 100%;
+}
+iframe {
+    display: block;
+    border: 0;
+}
+section,nav,footer,aside,article{
+    display:block;
+}
+a img {
+    border: none;
+}
+table {
+    border-collapse: collapse;
+}
+p {
+    margin:0;
+}
+p:last-child{
+    margin:0;
+}
+h1 {
+    font: bold 26px/39px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0 0 0.8em;
+    color: #666;
+}
+h2 {
+    font: normal 20px/30px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0 0 0.8em;
+}
+h3 {
+    font: normal 16px/24px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0 0 0.8em;
+}
+h4 {
+    font: bold 14px/21px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0 0 0.8em;
+}
+h5 {
+    font: bold 12px/18px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0 0 0.8em;
+}
+a {
+    text-decoration: none;
+    color:#0086CF;
+}
+ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+input{
+    margin:0;
+    font-size:inherit;
+}
+textarea{
+    margin:0;
+    font-family:inherit;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    font-size:inherit;
+    border:1px solid #bbb;
+}
+button,select{
+    margin:0;
+    font-family:inherit;
+    font-size:inherit;
+}
+table{
+    width:100%;
+}
+button::-moz-focus-inner, input[type="button"]::-moz-focus-inner, input[type="submit"]::-moz-focus-inner, input[type="reset"]::-moz-focus-inner {   
+    padding: 0;
+    border: 0;
+}
+.hidden{
+    display:none;
+}
+</style>
+
+
+
+<script src="http://wanba.baidu.com/dudai/sj/style/lb.js"></script>
+<script src="http://wanba.baidu.com/dudai/sj/Scripts/swfobject_modified.js"></script>
+
+ 
+<link rel="stylesheet" type="text/css" href="http://wanba.baidu.com/dudai/jz/style/jz_style.css" />
+
+
+<!--[if IE 6]>
+<script src="http://www.05wan.com/js/pngAlaph.js"></script>
+<script>DD_belatedPNG.fix('#girl,#font');</script>
+<![endif]-->
+</head>
+<body>
+  <div class="fromTb">
+<div class="header">
+		<div class="logo">
+			<a target="_blank" href="http://tieba.baidu.com">
+				<img title="百度贴吧" alt="百度贴吧" src="http://wanba.baidu.com/hdft/img/logo.png">
+			</a>
+		</div>
+
+		<div class="logout">
+			<a href="http://wanba.baidu.com/logout.xhtml?from=gw_nav_">
+				退出
+			</a>
+		</div>
+		<div class="recent-games" id="recent-games-link-container">
+			<a href="javascript:void(0);" id="recent-games-link" class="recent-games-link">
+					<span>最近玩过游戏</span>
+					<span class="triangle">▼</span>
+			</a>
+			<div class="float" id="float" style="display: none;">
+				<table>
+					<tbody>
+				</tbody></table>
+			</div>
+		</div>
+		<div class="user-name" id="user-name">
+			<span>IDName</span>
+		</div>
+                <div class="not-login">
+                    <a href="javascript:;" class="login">登录</a>
+                    <a href="javascript:;" class="register quick_reg_pass">注册</a>
+                </div>
+<div class="left-link-container">
+			<a class="left-link recharge" target="_blank" href="http://pay.baidu.com/reg_order.xhtml">
+				充值
+			</a>
+			<a class="left-link forService" target="_blank" href="/cs/problem.xhtml">
+				客服
+			</a>
+			<a class="left-link-last" target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&kw=%E8%B4%B4%E5%90%A7%E6%B8%B8%E6%88%8F">
+				贴吧游戏吧
+			</a>
+		</div>
+	</div>
+</div>
+<div class="jz_top">
+	<div class="container960px">
+    	<div class="logo_menu"><img src="http://wanba.baidu.com/dudai/jz/images/logo_menu.jpg" border="0" usemap="#Map" /></div>
+        <map name="Map" id="Map">
+            <area shape="rect" coords="1,33,72,53" href="http://wanba.baidu.com/games/jz/" target="_blank" title="官网首页" />
+            <area shape="rect" coords="93,33,168,55" href="http://wanba.baidu.com/games/jz/zh/" target="_blank" title="新闻中心" />
+            <area shape="rect" coords="191,32,264,55" href="http://wanba.baidu.com/games/jz/zlz/" target="_blank" title="游戏资料" />
+            <area shape="rect" coords="287,13,579,81" href="http://wanba.baidu.com/games/jz/" target="_blank" title="决战世界杯" />
+            <area shape="rect" coords="605,33,676,56" href="http://pay.baidu.com/reg_order.xhtml?gid=574" target="_blank" title="游戏充值"/>
+            <area shape="rect" coords="701,31,769,57" href="http://wanba.baidu.com/cs4/problem.xhtml" target="_blank" title="客服平台"/>
+            <area shape="rect" coords="799,30,867,57" href="http://tieba.baidu.com/f?ie=utf-8&kw=%E5%86%B3%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF" target="_blank" title="官网论坛"/>
+          </map>
+    </div>
+</div>
+<div class="top2">
+	<div class="container960px">
+    	<div class="banner"><div class="big_font"><img src="http://wanba.baidu.com/dudai/jz/images/big_font.png" id="font" /></div></div>
+    </div>
+</div>
+<div class="jz_content">
+	<div class="container960px">
+    	<div class="content_left">
+        	<div class="start_btn">
+           	  <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="300" height="182">
+            	  <param name="movie" value="http://wanba.baidu.com/dudai/jz/images/start.swf" />
+            	  <param name="quality" value="high" />
+            	  <param name="wmode" value="opaque" />
+            	  <param name="swfversion" value="11.0.0.0" />
+            	  <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+            	  <param name="expressinstall" value="http://wanba.baidu.com/dudai/jz/style/expressInstall.swf" />
+            	  <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+            	  <!--[if !IE]>-->
+            	  <object type="application/x-shockwave-flash" data="http://wanba.baidu.com/dudai/jz/images/start.swf" width="300" height="182">
+            	    <!--<![endif]-->
+            	    <param name="quality" value="high" />
+            	    <param name="wmode" value="opaque" />
+            	    <param name="swfversion" value="11.0.0.0" />
+            	    <param name="expressinstall" value="http://wanba.baidu.com/dudai/jz/style/expressInstall.swf" />
+            	    <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+            	    <div>
+            	      <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+            	      <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" width="112" height="33" /></a></p>
+          	      </div>
+            	    <!--[if !IE]>-->
+          	    </object>
+            	  <!--<![endif]-->
+          	  </object>
+        	</div>
+              <div class="left_1">
+            <div class="left_1_1"><p></p></div>
+            <div class="newsuser_c"><a target="_blank" href="http://pay.baidu.com/reg_order.xhtml?gid=574"><img src="http://wanba.baidu.com/dudai/jz/images/payGame.jpg" /></a></div>
+            <div class="newsuser_c"><a target="_blank" href="http://wanba.baidu.com/activity.xhtml?id=8"><img src="http://wanba.baidu.com/dudai/jz/images/getCard.jpg" /></a></div>
+            </div>
+            
+           
+<div class="right"> <div class="left_nav"><span class="float_l nav_font yahei">最新开服</span><span class="float_r more"><a target="_blank" href="http://wanba.baidu.com/games/jz/select/">更多>></a></span></div>
+ 
+ <div class="kf">
+ 
+            <div class="new_sever">
+            	<ul class="sever_list">
+<div class="kf_2">
+<ul><li><a href="#" target="_blank" ></a></li>
+
+</ul>
+</div>
+
+                </ul>
+            </div>
+            
+            </div>  </div>
+            <div class="left_nav"><span class="float_l nav_font yahei">热门资讯</span></div>
+            <dl class="news">
+            	<dt class="content_pd"></dt>
+                <dd class="news_content"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1380249161.html"><img src="http://wanba.baidu.com/r/image/2013-08-20/a52b5c93952dfa1a58db393616c648d1.jpg" /></a></dd>
+                <dd class="news_content"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1378024841.html"><img src="http://wanba.baidu.com/r/image/2013-08-20/1689579d565cf1d2e8c780123f6bea88.jpg" /></a></dd>
+            </dl>
+            <div class="left_nav"><span class="float_l nav_font yahei">客服中心</span></div>
+          <div class="kefu relative">
+            	<div class="qq_kefu">
+                	<p class="kefu_contert"><span class="float_l">客服胖胖：</span><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2030213853&amp;site=qq&amp;menu=yes"><img border="0" title="点击这里给我发消息" alt="点击这里给我发消息" src="http://youxi.baidu.com/dudai/danao/images/qqzaixian.gif"></a></p>
+                    <p class="kefu_contert"><span class="float_l">客服小妍：</span><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2030213853&amp;site=qq&amp;menu=yes"><img border="0" title="点击这里给我发消息" alt="点击这里给我发消息" src="http://youxi.baidu.com/dudai/danao/images/qqzaixian.gif"></a></p>
+                </div>
+                <div class="tele_kefu">
+                	<p>客服热线：010-58652922<br />
+               	    游戏贴吧：<a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&kw=%E5%86%B3%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF">进入贴吧</a></p>
+              </div>
+            	<div class="girl absolute"><img src="http://wanba.baidu.com/dudai/jz/images/girl.png" id="girl" /></div>
+          </div>
+        </div>
+        <div class="content_right">
+        	<div class="showPic">
+            	<div id="showpic">
+                	<div><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-09-06/1379289282.html"><img src="http://wanba.baidu.com/r/image/2013-09-09/ed768b94089b5792909bbcd359b2bd91.jpg" /></a></div>
+
+
+                </div>
+            </div>
+            <div class="right_nav">
+            	<ul class="newsliast_nav">
+                	<li><span class="hover_ok"><a target="_blank" href="http://wanba.baidu.com/games/jz/zh/">综合</a></span></li>
+                    <li><span><a target="_blank" href="http://wanba.baidu.com/games/jz/gg/">公告</a></span></li>
+                    <li><span><a target="_blank" href="http://wanba.baidu.com/games/jz/hd/">活动</a></span></li>
+                    <li><span><a target="_blank" href="http://wanba.baidu.com/games/jz/xw/">新闻</a></span></li>
+                </ul>
+            </div>
+            <div class="newslist_stage">
+                <div class="newslist_content" id="newsList1">
+                    <div class="newslist_leftphoto float_l">
+                      <div class="showimg"><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383192534.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/3bb5a89945f798e46a0e7b1ea2380d33.jpg" /></a></div>
+
+<div class="showimg"><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386095794.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/5ac890a1b9d1d2d5992ae531cc85d38a.jpg" /></a></div>
+                    </div>
+                    <div class="newslist_rightcontent float_l">
+<h1 class="news_title"><a style="color:#ff4800" target="_blank" href="http://wanba.baidu.com/login_game_by_zone.xhtml?to=enter&id=574&pid=11300600091_888755">今日新服火爆开启，带领你的球队永远争冠军！ </a></h1>
+                        <ul class="newslist_ul">
+ <li><span class="newsListDate">09-18</span><a href="http://wanba.baidu.com/games/jz/article/2013-09-18/1387221821.html" target="_blank">绿茵赛场的奥秘 《决战世界杯》战术中心揭秘...</a></li> <li><span class="newsListDate">09-10</span><a href="http://wanba.baidu.com/games/jz/article/2013-09-10/1386309896.html" target="_blank">寻找你的梦之队 《决战世界杯》球会来帮忙</a></li> <li><span class="newsListDate">09-06</span><a href="http://wanba.baidu.com/games/jz/article/2013-09-06/1379289282.html" target="_blank">9月9日11：00“贴吧2服”火爆开启！</a></li> <li><span class="newsListDate">09-04</span><a href="http://wanba.baidu.com/games/jz/article/2013-09-04/1385839821.html" target="_blank">轻松清除缓存 畅游《决战世界杯》</a></li> <li><span class="newsListDate">09-03</span><a href="http://wanba.baidu.com/games/jz/article/2013-09-03/1384186370.html" target="_blank">挑战激情 《决战世界杯》给你最刺激赛场</a></li> <li><span class="newsListDate">08-28</span><a href="http://wanba.baidu.com/games/jz/article/2013-08-28/1384821040.html" target="_blank">绿茵之战揭幕 《决战世界杯》激情登场</a></li>
+                        </ul>
+                    </div>
+                </div> 
+                <div class="newslist_content" id="newsList2" style="display:none;">
+                    <div class="newslist_leftphoto float_l">
+                      <div class="showimg"><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383192534.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/3bb5a89945f798e46a0e7b1ea2380d33.jpg" /></a></div>
+
+<div class="showimg"><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386095794.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/5ac890a1b9d1d2d5992ae531cc85d38a.jpg" /></a></div>
+                    </div>
+                    <div class="newslist_rightcontent float_l">
+<h1 class="news_title"><a style="color:#ff4800" target="_blank" href="http://wanba.baidu.com/login_game_by_zone.xhtml?to=enter&id=574&pid=11300600091_888755">今日新服火爆开启，带领你的球队永远争冠军！ </a></h1>
+                        <ul class="newslist_ul">
+ <li><span class="newsListDate">09-06</span><a href="http://wanba.baidu.com/games/jz/article/2013-09-06/1379289282.html" target="_blank">9月9日11：00“贴吧2服”火爆开启！</a></li> <li><span class="newsListDate">08-27</span><a href="http://wanba.baidu.com/games/jz/article/2013-08-27/1380104377.html" target="_blank">贴吧游戏巨作《决战世界杯》首服8月28日11点火...</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="newslist_content" id="newsList3" style="display:none;">
+                    <div class="newslist_leftphoto float_l">
+                      <div class="showimg"><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383192534.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/3bb5a89945f798e46a0e7b1ea2380d33.jpg" /></a></div>
+
+<div class="showimg"><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386095794.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/5ac890a1b9d1d2d5992ae531cc85d38a.jpg" /></a></div>
+                    </div>
+                    <div class="newslist_rightcontent float_l">
+<h1 class="news_title"><a style="color:#ff4800" target="_blank" href="http://wanba.baidu.com/login_game_by_zone.xhtml?to=enter&id=574&pid=11300600091_888755">今日新服火爆开启，带领你的球队永远争冠军！ </a></h1>
+                        <ul class="newslist_ul">
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="newslist_content" id="newsList4" style="display:none;">
+                    <div class="newslist_leftphoto float_l">
+                      <div class="showimg"><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383192534.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/3bb5a89945f798e46a0e7b1ea2380d33.jpg" /></a></div>
+
+<div class="showimg"><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386095794.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/5ac890a1b9d1d2d5992ae531cc85d38a.jpg" /></a></div>
+                    </div>
+                    <div class="newslist_rightcontent float_l">
+<h1 class="news_title"><a style="color:#ff4800" target="_blank" href="http://wanba.baidu.com/login_game_by_zone.xhtml?to=enter&id=574&pid=11300600091_888755">今日新服火爆开启，带领你的球队永远争冠军！ </a></h1>
+                        <ul class="newslist_ul">
+ <li><span class="newsListDate">09-18</span><a href="http://wanba.baidu.com/games/jz/article/2013-09-18/1387221821.html" target="_blank">绿茵赛场的奥秘 《决战世界杯》战术中心揭秘...</a></li> <li><span class="newsListDate">09-10</span><a href="http://wanba.baidu.com/games/jz/article/2013-09-10/1386309896.html" target="_blank">寻找你的梦之队 《决战世界杯》球会来帮忙</a></li> <li><span class="newsListDate">09-04</span><a href="http://wanba.baidu.com/games/jz/article/2013-09-04/1385839821.html" target="_blank">轻松清除缓存 畅游《决战世界杯》</a></li> <li><span class="newsListDate">09-03</span><a href="http://wanba.baidu.com/games/jz/article/2013-09-03/1384186370.html" target="_blank">挑战激情 《决战世界杯》给你最刺激赛场</a></li> <li><span class="newsListDate">08-28</span><a href="http://wanba.baidu.com/games/jz/article/2013-08-28/1384821040.html" target="_blank">绿茵之战揭幕 《决战世界杯》激情登场</a></li> <li><span class="newsListDate">08-21</span><a href="http://wanba.baidu.com/games/jz/article/2013-08-21/1382690271.html" target="_blank">合成极品道具 《决战世界杯》教你签下大球星...</a></li>
+                        </ul>
+                    </div>
+                    <div style="display:none">
+                     <li><span class="newsListDate">08-16</span><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383434119.html" target="_blank">奋勇拼搏博众彩 《决战世界杯...</a></li> <li><span class="newsListDate">08-16</span><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386216528.html" target="_blank"> 巡回赛显风采 《决战世界杯》...</a></li> <li><span class="newsListDate">08-16</span><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386282622.html" target="_blank">球员返场再迎辉煌 《决战世界...</a></li> <li><span class="newsListDate">08-16</span><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386105782.html" target="_blank">球员新生狂潮逆袭 《决战世界...</a></li> <li><span class="newsListDate">08-16</span><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383085406.html" target="_blank">装备合成更轻松 《决战世界杯...</a></li> <li><span class="newsListDate">08-16</span><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1377831888.html" target="_blank">《决战世界杯》道具合成妙趣生...</a></li>
+                    </div>
+                    
+                    
+                </div>
+             </div>
+            <div class="right_nav"><span class="float_l nav_font yahei">游戏资料</span></div>
+            <div class="gamelisr">
+            	<div class="game_lie">
+                	<span class="gamelist_nav">基础资料</span>
+                    <p class="listlink"><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386095794.html">比赛介绍</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383192534.html">球员养成</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386269460.html">常见问题FAQ</a></span></p>
+                </div>
+                <div class="game_lie">
+                	<span class="gamelist_nav">游戏特色</span>
+                    <p class="listlink"><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1380249161.html">球探</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1378024841.html">世界杯</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1382311463.html">激情训练</a></span></p>
+                </div>
+                <div class="game_lie">
+                	<span class="gamelist_nav">新手指导</span>
+                    <p class="listlink"><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1379020977.html">训练赛</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383057416.html">球会</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383889405.html">训练基地</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1378529357.html">竞技场</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1376760864.html">道具合成</a></span></p>
+                </div>
+                <div class="game_lie">
+                	<span class="gamelist_nav">高手进阶</span>
+                    <p class="listlink" style="border-bottom:none;"><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1385796644.html">限量装备</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383501613.html">战术中心</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383100092.html">卫星俱乐部</a></span><span><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1378552636.html">球会大作战</a></span></p>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="media_link">
+
+<!-- 标签处开始 -->
+            	<div class="media_nav">
+                	<ul class="medialist_ul">
+                    	<li><span class="media_hover">玩法推荐</span></li>
+                        <li><span>球场热点</span></li>
+                        <li><span>精品攻略</span></li>
+
+                    </ul>
+                </div>
+                <!-- 标签处结束 -->
+                
+                
+                <!-- 1 -->
+                <div class="medialist" id="media1">
+                	<div class="meadialist_left float_l"><a href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383501613.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/e982493797b6f33cbc4817d3a5ba31e1.jpg" /></a></div>
+                    <div class="medialist_right float_r">
+                    	<ul class="medialist_con_ul">
+                        	<li><p class="float_l"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1377831888.html">《决战世界杯》道具合成妙趣生</a></p><span class="float_r">2013/08/19</span></li>
+                            <li><p class="float_l"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383085406.html">装备合成更轻松 《决战世界杯》百搭卡玩法</a></p><span class="float_r">2013/08/19</span></li>
+                            <li><p class="float_l"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1378552636.html">超级福利等你拿 《决战世界杯》球会比拼超给力</a></p><span class="float_r">2013/08/19</span></li>
+                            <li><p class="float_l"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1382311463.html">最到位的训练 《决战世界杯》激情满载全场</a></p><span class="float_r">2013/08/19</span></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                 <!-- 1结束 -->
+                
+                
+                <!-- 2 -->
+                <div class="medialist" id="media2" style="display:none">
+                	<div class="meadialist_left float_l"><a  href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383501613.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/e982493797b6f33cbc4817d3a5ba31e1.jpg" /></a></div>
+                    <div class="medialist_right float_r">
+                    	<ul class="medialist_con_ul">
+                        	<li><p class="float_l"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386282622.html">球员返场再迎辉煌 《决战世界杯》机遇无数</a></p><span class="float_r">2013/08/19</span></li>
+                            <li><p class="float_l"><a target="_blank" target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383434119.html">奋勇拼搏博众彩 《决战世界杯》联赛战况激烈</a></p><span class="float_r">2013/08/19</span></li>
+                            <li><p class="float_l"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383501613.html">《决战世界杯》带你揭秘最强劲球场战术</a></p><span class="float_r">2013/08/19</span></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                <!-- 2结束 -->
+                
+                
+                <!-- 3 -->
+                <div class="medialist" id="media3" style="display:none">
+                	<div class="meadialist_left float_l"><a  href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383501613.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-20/e982493797b6f33cbc4817d3a5ba31e1.jpg" /></a></div>
+                    <div class="medialist_right float_r">
+                    	<ul class="medialist_con_ul">
+                        	<li><p class="float_l"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386105782.html">球员新生狂潮逆袭 《决战世界杯》经验传承</a></p><span class="float_r">2013/08/19</span></li>
+                            <li><p class="float_l"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1386216528.html">巡回赛显风采 《决战世界杯》彰显球员最佳实力</a></p><span class="float_r">2013/08/19</span></li>
+                            <li><p class="float_l"><a target="_blank" href="http://wanba.baidu.com/games/jz/article/2013-08-16/1383192534.html">你的team你做主《决战世界杯》球员养成详解</a></p><span class="float_r">2013/08/19</span></li>
+                           
+                        </ul>
+                    </div>
+                </div>
+                <!-- 3结束 -->
+
+
+            </div>
+        </div>
+    </div>
+</div>
+<div style="clear:both"></div>
+<div class="fromTb">
+<div class="footer">
+		<div>
+			健康游戏忠告：抵制不良游戏，拒绝盗版游戏，注意自我保护，谨防受骗上当，适度游戏益脑，沉迷游戏伤身，合理安排时间，享受健康生活
+		</div>
+		<div class="footer-bottom">
+			<span>©2013 Baidu</span>
+			<a class="link" target="_blank" href="http://wanba.baidu.com/jiazhang/">
+				家长监护
+			</a>
+			<a class="link" target="_blank" href="http://wanba.baidu.com/smz/">
+				实名认证
+			</a>
+			<a class="link" target="_blank" href="http://home.baidu.com/about/about.html">
+				关于百度
+			</a>
+			<a class="link" target="_blank" href="http://www.baidu.com/duty/">
+				使用百度前说明
+			</a>
+			<span>
+				客服电话：（010）58652922  客服邮箱 game-tbkf@baidu.com
+			</span>
+		</div>
+	</div>
+</div>
+
+<script>
+// Cookie plugin
+	jQuery.cookie = function(name, value, options) {
+		if (typeof value != 'undefined') {
+			// name and value given, set cookie
+			options = options || {};
+			if (value === null) {
+				value = '';
+				options.expires = -1;
+			}
+			var expires = '';
+			if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+				var date;
+				if (typeof options.expires == 'number') {
+					date = new Date();
+					date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
+				} else {
+					date = options.expires;
+				}
+				expires = '; expires=' + date.toUTCString();
+				// use expires attribute, max-age is not supported by IE
+			}
+			// CAUTION: Needed to parenthesize options.path and options.domain
+			// in the following expressions, otherwise they evaluate to undefined
+			// in the packed version for some reason...
+			var path = options.path ? '; path=' + (options.path) : '';
+			var domain = options.domain ? '; domain=' + (options.domain) : '';
+			var secure = options.secure ? '; secure' : '';
+			document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+			return true;
+		} else {
+			// only name given, get cookie
+			var cookieValue = null;
+
+
+			if (document.cookie && document.cookie != '') {
+				var cookies = document.cookie.split(';');
+				for (var i = 0; i < cookies.length; i++) {
+					var cookie = jQuery.trim(cookies[i]);
+					// Does this cookie string begin with the name we want?
+					if (cookie.substring(0, name.length + 1) == (name + '=')) {
+						cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+						break;
+					}
+				}
+			}
+			return cookieValue;
+		}
+	};
+</script>
+<style>
+.rowVerify{
+    display:none;
+}
+section.login .inner .regArea p {
+padding:0px;
+margin:0px;
+}
+</style>
+<script type="text/javascript" src="http://wanba.baidu.com/yxpm/user_conduct.jsp"></script>
+
+
+
+
+
+
+<script src="http://wanba.baidu.com/dudai/jz/style/mouseOverShow.js" type="text/javascript"></script>
+<script src="http://wanba.baidu.com/dudai/jz/style/swfobject_modified.js" type="text/javascript"></script>
+
+</body>
+</html>

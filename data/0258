@@ -1,0 +1,398 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">艺术</span> <span class="f14">分类下的开放分类共有76个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34662">绘画</a>(4)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34606">音乐</a>(8)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34666">舞蹈</a>(5)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34663">雕塑</a>(5)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34556">建筑</a>(13)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34664">戏剧</a>(6)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34665">电影</a>(5)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34596">工艺品</a>(30)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34662" id="34662"></a>
+<div class="dirtit">绘画</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%CD%BB%AD"target="_blank">油画</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%FA%BB%AD"target="_blank">国画</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%AD%BC%D2"target="_blank">画家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%AD%C5%C9"target="_blank">画派</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34606" id="34606"></a>
+<div class="dirtit">音乐</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%B5%E4%D2%F4%C0%D6"target="_blank">古典音乐</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%D6%B4%FA%D2%F4%C0%D6"target="_blank">现代音乐</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%F4%C0%D6%BC%D2"target="_blank">音乐家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%F9%C0%D6"target="_blank">声乐</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%D6%B6%D3"target="_blank">乐队</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%A1%B9%F6"target="_blank">摇滚</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%F4%CA%BF"target="_blank">爵士</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%D6%C6%F7"target="_blank">乐器</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34666" id="34666"></a>
+<div class="dirtit">舞蹈</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E8%B5%B8%BC%D2"target="_blank">舞蹈家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C5%C0%D9%CE%E8"target="_blank">芭蕾舞</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%D6%B4%FA%CE%E8"target="_blank">现代舞</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F1%D7%E5%CE%E8"target="_blank">民族舞</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%D6%CE%E8"target="_blank">街舞</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34663" id="34663"></a>
+<div class="dirtit">雕塑</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%F1%CF%F1"target="_blank">雕像</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%CD%C4%EE%B1%AE"target="_blank">纪念碑</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%A1%B5%F1"target="_blank">浮雕</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%B2%B5%F1"target="_blank">圆雕</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%C0%BD%E7%CA%AE%B4%F3%B5%F1%CB%DC"target="_blank">世界十大雕塑</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34556" id="34556"></a>
+<div class="dirtit">建筑</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%C5%C1%BA"target="_blank">桥梁</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%B0%D2%D5"target="_blank">园艺</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%CC%CC%C3"target="_blank">教堂</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%AC%B5%EE"target="_blank">宫殿</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%C7%B1%A4"target="_blank">城堡</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%C2%C3%ED"target="_blank">寺庙</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%A6%CB%FE"target="_blank">宝塔</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%AE%C1%D6"target="_blank">碑林</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%CF%C8%FD%B8%F3"target="_blank">南三阁</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%B1%CB%C4%B8%F3"target="_blank">北四阁</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%AD%C4%CF%CB%C4%B4%F3%C3%FB%C2%A5"target="_blank">江南四大名楼</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%C0%BD%E7%C6%DF%B4%F3%C6%E6%BC%A3"target="_blank">世界七大奇迹</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%A8%D6%FE"target="_blank">建筑</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34664" id="34664"></a>
+<div class="dirtit">戏剧</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B7%BE%E7%BC%D2"target="_blank">戏剧家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%B0%BE%E7"target="_blank">话剧</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%E7%B1%BE"target="_blank">剧本</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%E8%BE%E7"target="_blank">歌剧</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%BD%BE%E7"target="_blank">越剧</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%C1%BE%E7"target="_blank">粤剧</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34665" id="34665"></a>
+<div class="dirtit">电影</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%D3%B0%B5%BC%D1%DD"target="_blank">电影导演</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%D3%B0%BD%B1%CF%EE"target="_blank">电影奖项</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%D3%B0%D1%DD%D4%B1"target="_blank">电影演员</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%D3%B0%C1%F7%C5%C9"target="_blank">电影流派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%D3%B0%BC%BC%CA%F5"target="_blank">电影技术</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34596" id="34596"></a>
+<div class="dirtit">工艺品</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%F4%D6%BD"target="_blank">剪纸</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%CC%D0%E5"target="_blank">刺绣</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%BC%D2%D5"target="_blank">布艺</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%D5%D2%D5"target="_blank">陶艺</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%D5%D9%B8"target="_blank">陶俑</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%E0%CB%DC"target="_blank">泥塑</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%CA%BB%E6"target="_blank">彩绘</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%E1%C6%F7"target="_blank">漆器</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%F1%BF%CC"target="_blank">雕刻</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%AF%C8%BE"target="_blank">蜡染</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C6%CA%CE"target="_blank">纹饰</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%D7%CB%DC"target="_blank">米塑</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%C9%C6%F7"target="_blank">瓷器</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%D5%C6%F7"target="_blank">陶器</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%F7%C3%F3"target="_blank">器皿</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%E0%D6%AF"target="_blank">编织</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%E6%CB%DC"target="_blank">面塑</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%D9%B1%E0"target="_blank">藤编</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%F1%B1%E0"target="_blank">竹编</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%C6%BF%A8"target="_blank">唐卡</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%DB%D6%BD"target="_blank">折纸</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A1%C8%BE"target="_blank">印染</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%B0%CC%A9%C0%B6"target="_blank">景泰蓝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%C6%C8%FD%B2%CA"target="_blank">唐三彩</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%F0%D2%F8%C6%F7"target="_blank">金银器</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%A4%D2%D5%C3%C0%CA%F5"target="_blank">工艺美术</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%C4%B4%F3%C3%FB%D0%E5"target="_blank">四大名绣</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%CB%D0%CB%D7%CF%C9%B0%CC%D5"target="_blank">宜兴紫砂陶</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D5%B2%D8%C6%B7"target="_blank">收藏品</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%F1%C6%F7"target="_blank">玉器</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--03569049620289547274092423-->
+<script> var _trace_page_logid = 0356904962; </script>

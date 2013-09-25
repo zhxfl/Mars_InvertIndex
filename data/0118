@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>音乐投诉-百度投诉服务</title>
+<meta name="Keywords" content="百度音乐反馈,百度音乐问题反馈,随心听问题反馈,百度随心听问题反馈,百度随心听反馈,随心听反馈" />
+<meta name="Description" content="本页仅受理对百度音乐中遇到任何问题或困难的反馈，或对百度音乐的任何疑问或建议。" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="shortcut icon" href="/static/image/favicon.ico"/>
+<link type="text/css" rel="stylesheet" href="/static/css/global.css" />
+<script type="text/javascript" src="/static/js/lib/tangram-2.0.2.1.js"></script>
+<script type="text/javascript" src="/static/js/common.js"></script><style type="text/css">
+.tab1 li a{padding:0 20px;}
+</style>
+<script type="text/javascript">
+var product_name_en = "ting";
+var is_login = "0";
+var username = "";
+</script>
+</head>
+
+<body>
+<div class="logInfo" id="logInfo">
+    <a href="http://www.baidu.com" target="_blank">百度首页</a> |
+    <a href="#" id="btnLogin">登录</a>
+    <a href="https://passport.baidu.com/v2/?reg">注册</a>
+</div>
+
+<div class="header clear">
+    <h1 class="logo"><a href="http://service.baidu.com/index"><img src="/static/image/logo.png" alt="百度用户服务中心"/></a></h1>
+    <form class="searchForm clear" action="http://service.baidu.com/searchResult" name="f" id="searchForm" method="get">
+        <input id="search_txt" value="请简单描述您遇到的问题" placeholder="请简单描述您遇到的问题" type="text" class="searchKey" x-webkit-speech="true"  name="keywords"/>
+        <input id="searchbutton" class="btnSearch" type="submit" value="搜索问题"/>
+    </form>
+</div><div class="position pos_a">
+    <h2 class="tname"><a href="/">投诉服务</a><span>-</span><strong>音乐投诉</strong></h2>
+    <p><a href="http://www.baidu.com/search/tsgz.html" class="fedback" target="_blank">投诉规则</a></p>
+</div>
+<div class="main formPage">
+	<div class="content">
+		<div class="tip tsRule">本页仅受理对百度音乐中遇到任何问题或困难的反馈，或对百度音乐的任何疑问或建议。</div>
+		<ul class="tab1" id="formTab">
+	<li class="on setTab-tab"><a href="#1">百度音乐网站反馈</a></li>
+	<li class="setTab-tab"><a href="#2">百度随心听反馈</a></li>
+	<li class="setTab-tab"><a href="#3">百度音乐手机端反馈</a></li>
+	<li class="setTab-tab"><a href="#4">意见建议与其它</a></li>		
+</ul>
+<div class="formMod tab1Cnt" id="formPanel">
+	<div class="setTab-panel">
+		<div class="tip tip_a on"><strong class="caution">反馈须知：</strong>如果您在使用的百度音乐网站发现的问题，或者您对百度音乐网站有好的意见建议，欢迎在此反馈。</div>
+				<div class="tip tip_b red">请您 <a href="#" class="btnLog">登录</a> 之后发起投诉，以便在 <a href="/pscenter" class="btnLog">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				<form method="post" name="tousu_form1" id="tousu_form1" action="/music/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span> <label for="form1_title">标题：</label></th>
+					<td><input type="text" class="iptxt" id="form1_title" name="title" value="百度音乐网站反馈" minlength="0" maxlength="100" required disabled/> <span id="form1_title_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> <label>问题类型：</label></th>
+					<td><label><input type="radio" name="type" value="1" disabled/>功能使用问题</label>
+						<label><input type="radio" name="type" value="2" disabled/>歌曲问题</label>
+						<label><input type="radio" name="type" value="3" disabled/>其他问题</label>
+						<span id="form1_type_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><label for="form1_email">联系邮箱：</label></th>
+					<td><input name="email"  class="iptxt" id="form1_email" type="text" maxlength="100" disabled/>
+						<span id="form1_email_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> <label for="form1_content">描述：</label></th>
+					<td><textarea name="content" id="form1_content"class="iptArea" minlength="0" maxlength="1000" disabled></textarea> <span id="form1_content_ok" class="msgok"></span>
+						<p id="form1_content_err" class="err"></p>
+						<p class="formInfo">请您详细描述投诉的对象及理由，以保证您的投诉得到及时准确的处理(500个字以内)</p>
+
+						<div class="uploadImg" id="form1_uploadImage">如果需要图片来辅助说明，可以 <a href="#" class="btnLog">登录</a> 后上传图片</div>
+						<div id="form1_imagePreview" class="upImgPrev"></div>						
+						<input type="hidden" id="form1_imageId" name="pic" value="">
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+					<td><input type="submit" class="btn" value="提交" disabled/></td>
+				</tr>
+			</table>
+			<input type="hidden" name="category" value="1" disabled/>
+		</form>	
+	</div>
+
+	<div class="setTab-panel" style="display:none;">
+		<div class="tip tip_a on"><strong class="caution">反馈须知：</strong>如果您在使用的百度随心听发现问题，或者您对百度随心听有建议，欢迎在此反馈。</div>
+				<div class="tip tip_b red">请您 <a href="#" class="btnLog">登录</a> 之后发起投诉，以便在 <a href="/pscenter" class="btnLog">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				<form method="post" name="tousu_form2" id="tousu_form2" action="/music/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span>  <label for="form2_title">标题：</label></th>
+					<td><input type="text" class="iptxt" id="form2_title" name="title" value="百度随心听反馈" maxlength="100" disabled/> <span id="form2_title_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span>  <label>问题类型：</label></th>
+					<td class="qType">
+						<label><input type="radio" name="type" value="1" disabled/>功能使用问题</label>
+						<label><input type="radio" name="type" value="2" disabled/>歌曲问题</label>
+						<label><input type="radio" name="type" value="3" disabled/>其他问题</label>
+						<span id="form2_type_err" class="err"></span>
+					</td>
+				</tr>
+				<tr>
+					<th><label for="form2_email">联系邮箱：</label></th>
+					<td><input name="email"  class="iptxt" id="form2_email" type="text" maxlength="100" disabled/>
+						<span id="form2_email_err" class="err"></span></td>
+				</tr>			
+				<tr>
+					<th><span class="red">*</span> <label for="form2_content">描述：</label></th>
+					<td><textarea name="content" id="form2_content" class="iptArea" minlength="0" maxlength="1000" disabled/></textarea> <span id="form2_content_ok" class="msgok"></span>
+						<p id="form2_content_err" class="err"></p>
+						<p class="formInfo">请您详细描述投诉的对象及理由，以保证您的投诉得到及时准确的处理(500个字以内)</p>
+						<div class="uploadImg" id="form2_uploadImage">如果需要图片来辅助说明，可以 <a href="#" class="btnLog">登录</a> 后上传图片</div>
+						<div id="form2_imagePreview" class="upImgPrev"></div>						
+						<input type="hidden" id="form2_imageId" name="pic" value="">
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+					<td><input type="submit" class="btn" value="提交" disabled/></td>
+				</tr>	
+			</table>
+			<input type="hidden" name="category" value="2" disabled/>
+		</form>		
+	</div>
+
+	<div class="setTab-panel" style="display:none;">
+		<div class="tip tip_a on"><strong class="caution">反馈须知：</strong>如果您在使用的百度音乐手机端发现问题，或者您对百度音乐手机端有好的意见建议，欢迎在此反馈。</div>
+				<div class="tip tip_b red">请您 <a href="#" class="btnLog">登录</a> 之后发起投诉，以便在 <a href="/pscenter" class="btnLog">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				<form method="post" name="tousu_form3" id="tousu_form3" action="/music/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span> <label for="form3_title">标题：</label></th>
+					<td><input type="text" class="iptxt" id="form3_title" name="title" value="百度音乐手机端反馈" minlength="0" maxlength="100" required disabled/> <span id="form3_title_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span>  <label>问题类型：</label></th>
+					<td class="qType">
+						<label><input type="radio" name="type" value="1" disabled/>功能使用问题</label>
+						<label><input type="radio" name="type" value="2" disabled/>歌曲问题</label>
+						<label><input type="radio" name="type" value="3" disabled/>其他问题</label>
+						<span id="form3_type_err" class="err"></span>
+					</td>
+				</tr>
+				<tr>
+					<th><label for="form3_mobileType">手机型号：</label></th>
+					<td><input id="form3_mobileType" type="text" class="iptxt" name="mobileType" value="" maxlength="100" disabled/></td>
+				</tr>
+				<tr>
+					<th><label for="form3_mobileSys">操作系统：</label></th>
+					<td><input id="form3_mobileSys" type="text" class="iptxt" name="mobileSys" value="" maxlength="100" disabled/></td>
+				</tr>
+				<tr>
+					<th><label for="form3_email">联系邮箱：</label></th>
+					<td><input name="email"  class="iptxt" id="form3_email" type="text" maxlength="100" disabled/>
+						<span id="form3_email_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> <label for="form3_content">描述：</label></th>
+					<td><textarea name="content" id="form3_content"class="iptArea" minlength="0" maxlength="1000" disabled></textarea> <span id="form3_content_ok" class="msgok"></span>
+						<p id="form3_content_err" class="err"></p>
+						<p class="formInfo">请您详细描述投诉的对象及理由，以保证您的投诉得到及时准确的处理(500个字以内)</p>
+
+						<div class="uploadImg" id="form3_uploadImage">如果需要图片来辅助说明，可以 <a href="#" class="btnLog">登录</a> 后上传图片</div>
+						<div id="form3_imagePreview" class="upImgPrev"></div>						
+						<input type="hidden" id="form3_imageId" name="pic" value="">
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+					<td><input type="submit" class="btn" value="提交" disabled/></td>
+				</tr>
+			</table>
+			<input type="hidden" name="category" value="3">
+		</form>	
+	</div>
+
+	<div class="setTab-panel" style="display:none;">
+		<div class="tip tip_a on"><strong class="caution">反馈须知：</strong>如果您对百度音乐有任何宝贵的意见或建议，或者您的反馈需求与以上需求不符，欢迎在此反馈。</div>
+				<div class="tip tip_b red">请您 <a href="#" class="btnLog">登录</a> 之后发起投诉，以便在 <a href="/pscenter" class="btnLog">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				<form method="post" name="tousu_form4" id="tousu_form4" action="/music/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span> <label for="form4_title">标题：</label></th>
+					<td><input type="text" class="iptxt" id="form4_title" name="title" value="百度音乐其他问题反馈" minlength="0" maxlength="100" required disabled/> <span id="form4_title_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><label for="form4_email">联系邮箱：</label></th>
+					<td><input name="email"  class="iptxt" id="form4_email" type="text" maxlength="100" disabled/>
+						<span id="form4_email_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> <label for="form4_content">描述：</label></th>
+					<td><textarea name="content" id="form4_content"class="iptArea" minlength="0" maxlength="1000" disabled></textarea> <span id="form4_content_ok" class="msgok"></span>
+						<p id="form4_content_err" class="err"></p>
+						<p class="formInfo">请您详细描述投诉的对象及理由，以保证您的投诉得到及时准确的处理(500个字以内)</p>
+
+						<div class="uploadImg" id="form4_uploadImage">如果需要图片来辅助说明，可以 <a href="#" class="btnLog">登录</a> 后上传图片</div>
+						<div id="form4_imagePreview" class="upImgPrev"></div>						
+						<input type="hidden" id="form4_imageId" name="pic" value="">
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+					<td><input type="submit" class="btn" value="提交" disabled/></td>
+				</tr>
+			</table>
+			<input type="hidden" name="category" value="4" disabled/>
+		</form>	
+	</div>
+</div>
+<iframe name="ifr" id="ifr" width="0" height="0" style="display:none;"></iframe>	</div>
+	<div class="sideBar">
+		<h3 class="tit">常见问题</h3>
+		<ul class="txtlist">
+						<li><a href="http://service.baidu.com/question?prod_en=tousu&subclass=百度投诉中心介绍&id=2315" target="_blank">百度投诉中心简介</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=tousu&subclass=百度投诉中心介绍&id=2316" target="_blank">投诉流程</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=tousu&subclass=百度投诉中心介绍&id=2317" target="_blank">我对处理结果不满意，怎么办？</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=tousu&subclass=百度投诉中心介绍&id=2318" target="_blank">我要怎么知道投诉处理结果？</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=tousu&subclass=百度投诉中心介绍&id=2320" target="_blank">如何填写投诉单并进入处理流程？</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=music&subclass=百度随心听&id=2533" target="_blank">百度随心听都有哪些频道？</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=music&subclass=百度随心听&id=2535" target="_blank">怎样让百度随心听只播放符合您口味的歌曲？...</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=music&subclass=联系我们&id=2542" target="_blank">联系我们</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=music&subclass=关于百度音乐&id=2543" target="_blank">关于百度音乐</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=music&subclass=常见问题&id=2550" target="_blank">为什么查不到歌曲或歌手？</a></li>
+					</ul>
+	</div>
+	<div class="sideBarBot"></div>
+</div>
+<div class="footer">
+    &copy; 2013 Baidu <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>
+</div>
+<script type="text/javascript">var sugapi="http://service.baidu.com";</script>
+<script type="text/javascript" src="/static/js/sug_.js"></script>
+<script type="text/javascript" src="../static/js/commonTousu.js"></script>
+<script type="text/javascript">
+var chkForm = {
+	msg: {
+		title_empty: vaildForm.msg["title_empty"],
+		title_long: vaildForm.msg["title_long"],
+        qType_empty:vaildForm.msg["type_empty"],
+		content_empty: vaildForm.msg["content_empty"],
+	    content_long: vaildForm.msg["content_long"],
+	    email_empty: vaildForm.msg["email_empty"],
+        email_err: vaildForm.msg["email_err"],
+	},
+	checkType: function(formIndex){
+		var formO = window["form" + formIndex]["formO"];
+		var types = formO[0]["type"];
+		var selType = false,
+			errMsg = chkForm.msg.qType_empty;
+		for(var i = 0, l = types.length; i < l; i ++){
+			if(types[i].checked){
+				selType = true;
+				errMsg = null;
+				break;
+			}
+		}
+		vaildForm.setChkMsg("form"+ formIndex +"_type", errMsg);
+		return selType;
+	}
+};
+
+var form1 = {
+	formO : baidu("#tousu_form1"),
+	init: function(){
+		this.bindCheck();
+	},
+	bindCheck: function(){
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		formO.vaildForm({
+			fields:{
+				"#form1_title": {
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["title_empty"],
+			        errMsg: formMsg["title_long"]
+				},
+				"#form1_email":{
+			        regExp:"email",
+			        errMsg: formMsg["email_err"]
+				},
+				"#form1_content":{
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["content_empty"],
+			        errMsg: formMsg["content_long"]
+				}
+			},
+			submitCbk: function(rlt){
+				var selType = chkForm.checkType("1");
+				rlt = rlt && selType;
+				return rlt;
+			}
+		});
+	}
+};
+
+var form2 = {
+	formO : baidu("#tousu_form2"),
+	init: function(){
+		this.bindCheck();
+	},
+	bindCheck: function(){
+		var self = this;
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		formO.vaildForm({
+			fields:{
+				"#form2_title": {
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["title_empty"],
+			        errMsg: formMsg["title_long"]
+				},
+				"#form2_email":{
+			        regExp:"email",
+			        errMsg: formMsg["email_err"]
+				},
+				"#form2_content":{
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["content_empty"],
+			        errMsg: formMsg["content_long"]
+				}
+			},
+			submitCbk: function(rlt){
+				var selType = chkForm.checkType("2");
+				rlt = rlt && selType;
+				return rlt;
+			}
+		});
+	}
+};
+
+var form3 = {
+	formO : baidu("#tousu_form3"),
+	init: function(){
+		this.bindCheck();
+	},
+	bindCheck: function(){
+		var self = this;
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		formO.vaildForm({
+			fields:{
+				"#form3_title": {
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["title_empty"],
+			        errMsg: formMsg["title_long"]
+				},
+				"#form3_email":{
+			        regExp:"email",
+			        errMsg: formMsg["email_err"]
+				},
+				"#form3_content":{
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["content_empty"],
+			        errMsg: formMsg["content_long"]
+				}
+			},
+			submitCbk: function(rlt){
+				var selType = chkForm.checkType("3");
+				rlt = rlt && selType;
+				return rlt;
+			}
+		});
+	}
+};
+var form4 = {
+	formO : baidu("#tousu_form4"),
+	init: function(){
+		this.bindCheck();
+	},
+	bindCheck: function(){
+		var self = this;
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		formO.vaildForm({
+			fields:{
+				"#form4_title": {
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["title_empty"],
+			        errMsg: formMsg["title_long"]
+				},
+				"#form4_email":{
+			        regExp:"email",
+			        errMsg: formMsg["email_err"]
+				},
+				"#form4_content":{
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["content_empty"],
+			        errMsg: formMsg["content_long"]
+				}
+			}
+		});
+	}
+};
+
+form1.init();
+form2.init();
+form3.init();
+form4.init();
+</script>
+</body>
+</html>

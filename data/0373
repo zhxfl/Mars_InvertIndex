@@ -1,0 +1,637 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>机票,飞机票查询,特价机票,打折机票预订-去哪儿网</title>
+<link rel="stylesheet" href="http://qunarzz.com/home/prd/styles/geilivible/release/home-2013091719185802.css" />
+<!--[if IE 9 ]>
+    <meta name="application-name" content="去哪儿网" />
+    <meta name="msapplication-tooltip" content="去哪儿网" />
+    <meta name="msapplication-task" content="name=机票预订;action-uri=http://flight.qunar.com/;icon-uri=http://source.qunar.com/site/images/ico/flight.ico" />
+    <meta name="msapplication-task" content="name=酒店预订;action-uri=http://hotel.qunar.com/;icon-uri=http://source.qunar.com/site/images/ico/hotel.ico" />
+    <meta name="msapplication-task" content="name=团购;action-uri=http://tuan.qunar.com/;icon-uri=http://source.qunar.com/site/images/ico/tuan.ico" />
+    <meta name="msapplication-task" content="name=度假线路;action-uri=http://package.qunar.com/;icon-uri=http://source.qunar.com/site/images/ico/package.ico" />
+    <meta name="msapplication-task" content="name=火车票查询;action-uri=http://train.qunar.com/;icon-uri=http://source.qunar.com/site/images/ico/train.ico" />
+
+    <link rel="shortcut icon" href="http://source.qunar.com/site/images/ico/favicon2.ico" />
+
+    <script type='text/javascript'>
+    try {
+    window.external.msSiteModeCreateJumplist('特惠旅游团购');
+    window.external.msSiteModeAddJumpListItem
+        ('今日旅游团购新品' ,
+        'http://tuan.qunar.com/index.php?rank=fresh&sortby=city_kw&key=5YWo6YOo_5YWo6YOo',
+        'http://source.qunar.com/site/images/ico/tuan.ico');
+    window.external.msSiteModeAddJumpListItem
+        ('旅游团购2.3折起' ,
+        'http://tuan.qunar.com/qtab_travel.php',
+        'http://source.qunar.com/site/images/ico/tuan.ico');
+    window.external.msSiteModeAddJumpListItem
+        ('周边生活2.5折起' ,
+        'http://tuan.qunar.com/qtab_life.php',
+        'http://source.qunar.com/site/images/ico/tuan.ico');
+    window.external.msSiteModeAddJumpListItem
+        ('酒店团购2折起' ,
+        'http://tuan.qunar.com/qtab_hotel.php',
+        'http://source.qunar.com/site/images/ico/tuan.ico');
+    } catch (ex) {
+    }
+    </script>
+<![endif]-->
+<meta name="Robots" content="index,follow,NOODP">
+<meta name="keywords" content="机票,飞机票,机票查询,飞机票查询,机票预订,特价机票,机票预定,打折机票" />
+<meta name="description" content="去哪儿Qunar.com提供机票,飞机票,特价机票,打折机票的查询预订；99元春秋航空特惠折扣机票，百元南航、海航惊喜特价机票任您挑选,国航、深航1折特价机票和折扣机票一网打尽，更多打折机票尽在Qunar.com。实时提供上百家旅游预订网站机票报价和航空公司直销机票价格，为您找到最实惠的飞机票信息,是你查询特价机票和机票预订的最佳途径。" />
+<meta http-equiv="cache-control" content="no-cache" />
+<script type="text/javascript">
+    try{
+        if(top != self && location.href.toString().indexOf("index.htm") < 0){
+            top.location.replace("http://www.qunar.com/index.htm");
+        }
+    } catch (e){}
+</script>
+</head>
+<body>
+<abbr id="homeadSy" style="display:none;" data-type="qde" data-query="chan=homepage&pg=home&pos=right_top&site=qunar&size=230x200&type=Tear_angle"></abbr>
+<style type="text/css" data-hfstamp="20130912200457"> html{min-width:980px;border-top:2px solid #1facab;background:none;}body{background:#fff none;}.q_header{margin:0 auto -424px;width:100%;min-width:980px;height:500px;font:normal 12px/1.5 tahoma,arial,sans-serif;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) 0 -401px repeat-x;}.q_header .q_header_main{margin:0 auto 3px;width:980px;height:73px;}.q_header .q_header_logo{float:left;display:inline;padding:11px 0 0 16px;width:136px;height:54px;}.q_header .q_header_logo a{display:block;width:136px;height:54px;text-indent:-9999px;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) 0 0 no-repeat;overflow:hidden;outline:none;}.q_header .q_header_tnav{float:right;display:inline;padding:8px 5px 0 0;width:688px;height:14px;}.q_header .q_header_tnav ul{float:right;display:inline;line-height:14px;font-family:tahoma,arial,sans-serif;}.q_header .q_header_tnav li{float:left;display:inline;padding:0 11px 0 10px;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) 100% -74px no-repeat;_background-position:100% -76px;background-position:100% -76px\9;}.q_header .q_header_tnav li.q_header_tnav_menu{padding:0 1px 0 0;}.q_header .q_header_tnav li.q_header_username{padding-right:0;background:none;}.q_header .q_header_tnav li.last{padding-right:0;background:none;}.q_header .q_header_tnav li a{text-decoration:none;color:#555;}.q_header .q_header_tnav li a:hover{text-decoration:none;color:#f60;}.q_header .q_header_tnav li a.q_header_uname{font-family:tahoma;color:#f60;}.q_header .q_header_tnav_menu{position:relative;z-index:2000;width:84px;height:14px;}.q_header .q_header_tnav_menu dl{position:absolute;z-index:1;top:-4px;left:0;margin:0;width:84px;}.q_header .q_header_tnav_menu dt{margin:0 5px;padding:4px 5px;cursor:default;}.q_header .q_header_tnav_menu dt b{position:absolute;z-index:1;top:8px;right:10px;display:block;width:9px;height:5px;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) -64px -59px no-repeat;overflow:hidden;}.q_header .q_header_tnav_menu dd{display:none;}.q_header .q_header_tnav_menu dd a{display:block;padding:0 6px;line-height:22px;text-align:center;}.q_header .q_header_tnav_menu dd a:hover{background-color:#4b7bda;color:#fff;}.q_header .q_header_tnav_menu_hover{z-index:2001;}.q_header .q_header_tnav_menu_hover dl{margin:-1px -1px 0;padding:0 0 5px;border:1px solid #d6d6d6;background-color:#fff;color:#f60;}.q_header .q_header_tnav_menu_hover dt{border-bottom:1px solid #d6d6d6;}.q_header .q_header_tnav_menu_hover dt b{background-position:-50px -59px;}.q_header .q_header_tnav_menu_hover dd{display:block;}.q_header .q_header_tnav_menu:hover{z-index:2001;}.q_header .q_header_tnav_menu:hover dl{margin:-1px -1px 0;padding:0 0 5px;border:1px solid #d6d6d6;background-color:#fff;color:#f60;}.q_header .q_header_tnav_menu:hover dt{border-bottom:1px solid #d6d6d6;}.q_header .q_header_tnav_menu:hover dt b{background-position:-50px -59px;}.q_header .q_header_tnav_menu:hover dd{display:block;}.q_header .q_header_mnav{float:left;display:inline;padding:13px 0 0 22px;}.q_header .q_header_mnav ul{width:653px;height:38px;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) -135px -93px no-repeat;}.q_header .q_header_mnav li{position:relative;z-index:1;float:left;display:inline;height:38px;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) 100% -93px no-repeat;}.q_header .q_header_mnav li a{float:left;display:inline;padding:12px 16px 5px;height:20px;font:normal 18px/20px "microsoft yahei",arial,sans-serif;color:#0086a0;cursor:pointer;}.q_header .q_header_mnav li a:hover{background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) 0 -136px no-repeat;}.q_header .q_header_mnav li a span{display:block;width:38px;text-indent:-9999px;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) 0 100px no-repeat;overflow:hidden;}.q_header .q_header_mnav li.home a span{background-position:0 -179px;}.q_header .q_header_mnav li.flight a span{background-position:-43px -179px;}.q_header .q_header_mnav li.hotel a span{background-position:-86px -179px;}.q_header .q_header_mnav li.tuan a span{background-position:0 -203px;}.q_header .q_header_mnav li.package a span{background-position:-43px -203px;}.q_header .q_header_mnav li.train a span{width:56px;background-position:0 -227px;}.q_header .q_header_mnav li.travel a span{background-position:-61px -227px;}.q_header .q_header_mnav li.lvtu a span{background-position:0 -251px;}.q_header .q_header_mnav li.piao a span{background-position:-43px -251px;}.q_header .q_header_mnav li em{position:absolute;top:7px;right:5px;display:block;width:10px;height:10px;font-size:11px;text-indent:-9999px;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) -78px -59px no-repeat;color:#fe0053;overflow:hidden;}.q_header .q_header_mnav li em.new{background-position:-93px -59px;color:#098483;}.q_header .q_header_blnk{float:right;display:inline;height:72px;width:130px;text-align:center;overflow:hidden;color:#555;line-height:17px;}.q_header .q_header_blnk img{vertical-align:bottom;width:130px;height:35px;}.q_header .q_header_blnk .q_header_cnt{vertical-align:bottom;}.q_header .q_header_blnk .q_header_cnt span{position:relative;display:inline-block;height:17px;overflow:hidden;color:#fe0053;font-size:14px;font-weight:bold;vertical-align:bottom;margin-right:1px;}.q_header .q_header_blnk .q_header_cnt span b{display:inline-block;width:9px;height:17px;text-align:center;color:red;vertical-align:bottom;font-weight:bold;}.q_header .q_header_blnk .q_header_cnt span .roll{position:absolute;top:0;right:0;width:9px;word-break:break-all;}.q_header .q_header_blnk a{color:#555;line-height:17px;}.q_header .q_header_blnk a:hover{color:#f60;}.q_header .q_header_sub{margin-top:-3px;}.q_header .q_header_sub_inner{margin:0 auto;width:990px;height:38px;}.q_header .q_header_sub_side{display:none;}.q_header .q_header_sub li{float:left;display:inline;margin-right:10px;padding-top:3px;}.q_header .q_header_sub li a{float:left;display:inline;padding:1px 20px 0;height:34px;font:bold 14px/34px tahoma,arial,sans-serif;text-decoration:none;color:#098483;}.q_header .q_header_sub li a:hover{text-decoration:none;background-color:#fff;color:#098483;}.q_header_home .q_header_mnav li.home a span{background-position:0 -275px;}.q_sysnotice{margin:0 auto;width:990px;min-width:990px;height:26px;background-color:#e8f8f7;}.q_sysnotice a{text-decoration:none;color:#0069ca;}.q_sysnotice a:hover{text-decoration:none;color:#f60;}.q_sysnotice_info{margin:0 auto;padding:4px;width:980px;font:normal 12px/1.5 tahoma,arial,sans-serif;text-align:center;color:#098483;}.q_sysnotice_close{float:right;display:inline;width:18px;height:18px;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) 0 -56px no-repeat;}.q_header .q_header_tnav li.q_header_tnav_omenu{margin:0 0 -5px -1px;padding:0 1px 0 0;}.q_header .q_header_tnav_omenu dl{position:relative;z-index:1;}.q_header .q_header_tnav_omenu dt{position:relative;top:-4px;z-index:2;margin:0 0 -4px 1px;padding:0 5px;}.q_header .q_header_tnav_omenu dd{position:absolute;top:18px;left:0;_left:-6px;z-index:1;display:none;padding:0 0 5px;border:1px solid #d6d6d6;background-color:#fff;}.q_header .q_header_tnav_omenu .q_header_tnav_omenu_title{display:block;margin-bottom:-5px;padding:4px 21px 5px 5px;cursor:default;}.q_header .q_header_tnav_omenu .q_header_tnav_omenu_title em{position:relative;top:0;*left:4px;z-index:1;display:inline-block;margin-left:4px;padding:0 0 0 4px;font:normal 12px/14px tahoma,arial,sans-serif;vertical-align:top;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) 0 -376px no-repeat;color:#fff;overflow:hidden;}.q_header .q_header_tnav_omenu .q_header_tnav_omenu_title em span{display:inline-block;padding:0 4px 0 0;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) 100% -376px no-repeat;}.q_header .q_header_tnav_omenu .q_header_tnav_omenu_title b{position:absolute;top:8px;right:10px;z-index:1;display:block;width:9px;height:5px;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) -64px -59px no-repeat;overflow:hidden;}.q_header .q_header_tnav_omenu .q_header_tnav_omenu_close{position:absolute;top:0;right:0;z-index:1;display:block;width:22px;height:22px;background:url(http://simg4.qunarzz.com/common/hf/header_v7.png) -17px -55px no-repeat;cursor:pointer;}.q_header .q_header_tnav_omenu .q_header_tnav_omenu_item a{display:block;padding:0 10px;line-height:22px;white-space:nowrap;word-break:break-all;}.q_header .q_header_tnav_omenu .q_header_tnav_omenu_item a.q_header_tnav_omenu_m:hover{background-color:#4b7bda;color:#fff;}.q_header .q_header_tnav_omenu .q_header_tnav_omenu_item a.q_header_tnav_omenu_m:hover em{color:#fff;}.q_header .q_header_tnav_omenu .q_header_tnav_omenu_item em{display:inline-block;padding:0 0 0 8px;width:16px;font-weight:700;color:#f60;cursor:pointer;}.q_header .q_header_tnav_omenu .q_header_tnav_omenu_item .q_header_tnav_omenu_ordertips{padding:0 20px 0 10px;color:#0069ca;cursor:pointer;}.q_header .q_header_tnav li.q_header_tnav_omenu_hover{margin-bottom:-6px;padding-right:0;}.q_header .q_header_tnav_omenu_hover dl{z-index:2010;}.q_header .q_header_tnav_omenu_hover dt{top:-5px;margin:0 0 -4px;border:1px solid #d6d6d6;border-bottom:0 none;background-color:#fff;}.q_header .q_header_tnav_omenu_hover dd{display:block;}.q_header .q_header_tnav_omenu_hover .q_header_tnav_omenu_title{padding-bottom:4px;border-bottom:1px solid #d6d6d6;color:#f60;}.q_header .q_header_tnav_omenu_hover .q_header_tnav_omenu_title b{background-position:-50px -59px;} </style>
+<div class="q_header q_header_home">
+    	<div class="q_header_main"> <div class="q_header_logo"><a href="http://www.qunar.com/" target="_top" title="去哪儿网Qunar.com" hidefocus="on">去哪儿网Qunar.com</a></div> <div class="q_header_blnk"> <a id="__mobile_cnt_update__" href="http://t.qunar.com/count/headerJumpUrl" target="_blank" hidefocus="on"><img src="http://t.qunar.com/count/headerImage" alt="" title="" /><br/> <span class="q_header_cnt"><span id="__mobile_cnt__"> <b>1</b><b>,</b><b>0</b><b>0</b><b>0</b><b>,</b><b>0</b><b>0</b><b>0</b></span>次</span><br/> 尝试用手机改变旅行 </a> </div> <div class="q_header_tnav"> <ul> <li id="__loginInfo_u__" class="q_header_username"><a href="http://user.qunar.com/passport/login.jsp" hidefocus="on" rel="nofollow">登录</a></li> <li id="__loginInfo_r__"><a href="http://user.qunar.com/passport/register.jsp" hidefocus="on" rel="nofollow">注册</a></li> <li class="q_header_tnav_omenu" id="__orderInfo_l__"> <dl> <dt> <span class="q_header_tnav_omenu_title" id="__orderInfo_t__">我的订单<em><span></span></em><b></b></span> </dt> <dd id="__orderInfo_w__"> <span class="q_header_tnav_omenu_close" id="__orderInfo_c__"></span> <div class="q_header_tnav_omenu_item"><a href="#" target="_blank" hidefocus="on" rel="nofollow" class="q_header_tnav_omenu_m"><span></span><em></em><span class="q_header_tnav_omenu_ordertips"></span></a></div> <div class="q_header_tnav_omenu_item"><a href="#" target="_blank" hidefocus="on" rel="nofollow" class="q_header_tnav_omenu_m"><span></span><em></em><span class="q_header_tnav_omenu_ordertips"></span></a></div> <div class="q_header_tnav_omenu_item"><a href="#" target="_blank" hidefocus="on" rel="nofollow" class="q_header_tnav_omenu_m"><span></span><em></em><span class="q_header_tnav_omenu_ordertips"></span></a></div> <div class="q_header_tnav_omenu_item"><a href="#" target="_blank" hidefocus="on" rel="nofollow" class="q_header_tnav_omenu_m"><span></span><em></em><span class="q_header_tnav_omenu_ordertips"></span></a></div> <div class="q_header_tnav_omenu_item"><a href="#" target="_blank" hidefocus="on" rel="nofollow" class="q_header_tnav_omenu_m"><span></span><em></em><span class="q_header_tnav_omenu_ordertips"></span></a></div> <div class="q_header_tnav_omenu_item"><a href="#" target="_blank" hidefocus="on" rel="nofollow" class="q_header_tnav_omenu_m"><span></span><em></em><span class="q_header_tnav_omenu_ordertips"></span></a></div> </dd> </dl> </li> <li><a href="http://help.qunar.com/" target="_top" style="color:#fe0053;" rel="nofollow">联系客服</a></li> <li class="last"><a href="http://www.qunar.com/" target="_self" hidefocus="on" rel="nofollow" onclick="try{if(document.all) {window.external.addFavorite('http://www.qunar.com/','去哪儿网Qunar.com');} else if(window.sidebar){window.sidebar.addPanel('去哪儿网Qunar.com','http://www.qunar.com/','');}else {alert('对不起，您的浏览器不支持此操作!\n请您使用菜单栏或Ctrl+D收藏本站。');}}catch(e){};return false;" title="去哪儿网Qunar.com">收藏</a></li> </ul> </div> <div class="q_header_mnav"> <ul> <li class="home"><a href="http://www.qunar.com/" target="_top" hidefocus="on"><span>首页</span></a></li> <li class="flight"><a href="http://flight.qunar.com/" target="_top" hidefocus="on"><span>机票</span></a></li> <li class="hotel"><a href="http://hotel.qunar.com/" target="_top" hidefocus="on"><span>酒店</span></a></li> <li class="tuan"><a href="http://tuan.qunar.com/" target="_top" hidefocus="on"><span>团购</span></a><em class="hot">热</em></li> <li class="package"><a href="http://dujia.qunar.com/" target="_top" hidefocus="on"><span>度假</span></a></li> <li class="train"><a href="http://train.qunar.com/" target="_top" hidefocus="on"><span>火车票</span></a></li> <li class="travel"><a href="http://travel.qunar.com/" target="_top" hidefocus="on"><span>攻略</span></a></li> <li class="lvtu"><a href="http://lvtu.qunar.com/" target="_top" hidefocus="on"><span>旅图</span></a></li> <li class="piao"><a href="http://piao.qunar.com/" target="_top" hidefocus="on"><span>门票</span></a><em class="new">新</em></li> </ul> </div> </div> <script> (function(){function c(g,f,e){for(var d in g){if(g.hasOwnProperty(d)){f.call(e||window,d,g[d]);}}}var a=Array.prototype.forEach?function(e,d){Array.prototype.forEach.call(e||[],d);}:function(g,f){for(var e=0,d=g&&g.length||0;e<d;e++){f.call(window,g[e],e);}};var b=new function(){var e={"http://user.qunar.com":{"pay.qunar.com":"/user_proxy/"}};var d={"http://user.qunar.com":"/user_proxy/"};this.httpsFilter=function(i){var g;function f(j){g=new RegExp("((http|https)://[a-zA-Z0-9.]*)/(.*)").exec(j);if(g&&g.length===4){if(e[g[1]]&&e[g[1]][location.host]){return e[g[1]][location.host]+g[3];}else{if(d[g[1]]){return d[g[1]]+g[3];}else{return null;}}}return null;}if(location.protocol==="https:"){try{switch(Object.prototype.toString.call(i)){case"[object String]":return f(i);case"[object Object]":c(i,function(l,j){i[l]=f(j);});return i;case"[object Array]":a(i,function(j,k){i[k]=f(j);});return i;default:return i;}}catch(h){}}return i;};};if(typeof(QNR)==="undefined"){window.QNR={};}window.QNR["hfUtils"]=b;})(); (function(){var b={version:"1.1",_COOKIEHASH:null,$:function(d){return document.getElementById(d);},_cookie:function(e){this._COOKIEHASH={};var g=document.cookie.split(";");for(var d=0;d<g.length;d++){var h=g[d];var f=h.split("=");if(h.indexOf("=")!=-1){this._COOKIEHASH[this._trim(f[0])]=this._trim(f[1]);}}return this._COOKIEHASH[e];},_trim:function(d){if(String.prototype.trim){return d.trim();}return d.replace(/^\s+/,"").replace(/\s+$/,"");},_getinfo:function(){var h={from:window.__qunarglobal_from||""};var f="";var j="";var e="";var d=this._cookie("QN16");var i=this._cookie("QN42");var g=this._cookie("QN15");if(typeof(d)!=="undefined"){switch(d){case"1":f=this._getQunarNickName();j=this._getQunarNickName();e=this._getQunarUserName();break;case"0":f=i;j=g;e=g;break;default:f=this._getQunarNickName();j=this._getQunarNickName();e=this._getQunarUserName();}}else{f=this._getQunarNickName();j=this._getQunarNickName();e=this._getQunarUserName();}h.displayName=decodeURIComponent(f).replace(/\"/g,"");h.username=decodeURIComponent(j).replace(/\"/g,"");h.uname=decodeURIComponent(e).replace(/\"/g,"");return h;},_getQunarNickName:function(){var e="";var d=this._cookie("_a");var f=this._cookie("QN42");if(!f){f=this._cookie("_q");if(f){f=f.replace("U.","");}}if(f){if(d){e=this._trim(f+"(未激活)");}else{e=this._trim(f);}}return e;},_getQunarUserName:function(){var f="";var e=this._cookie("_q");var d=this._cookie("_a");if(e){if(d){f=this._trim(e.replace("U.","")+"(未激活)");}else{f=this._trim(e.replace("U.",""));}}return f;},_run:function(d){this.userNameEle=this.$(d.u);this.userTitleEle=this.$(d.t);this.userListEle=this.$(d.l);this.userRegEle=this.$(d.r);},_html:function(){var g=arguments[0];var e=[];for(var f=1,d=arguments.length;f<d;f++){e.push(arguments[f]);}g.innerHTML=e.join("");}};var c={_regEvent:function(){var d=b.userTitleEle.className;b.userTitleEle.onmouseover=function(){b.userTitleEle.className=d+" q_header_tnav_menu_hover";};b.userTitleEle.onmouseout=function(){b.userTitleEle.className=d;};},_isLogin:function(){if(b._cookie("_t")&&b._cookie("_q")&&b._cookie("_q").indexOf("G.")<0){return true;}else{if(b._cookie("QN42")){return true;}else{return false;}}},_render:function(){var k=b._getinfo();var e=encodeURIComponent(window.location.href);var j="http://user.qunar.com";var f=b.userTitleEle?b.userTitleEle.getAttribute("data-header-alwayshow"):false;var h=f&&f==="true";if(c._isLogin()){b._html(b.userNameEle,'<a href="',j,'/index.jsp#basic" title="',k.displayName,'" hidefocus="on" class="q_header_uname" rel="nofollow">',k.displayName,"</a>");if(b.userListEle){b.userTitleEle.style.display="";var l=b.userListEle.getElementsByTagName("a");for(var g=0,d=l.length;g<d;g++){l[g].href=l[g].href.replace(/#\[\[username\]\]/g,k.uname);}}b._html(b.userRegEle,'<a id="__headerInfo_logout__" href="',j,"/passport/logout.jsp?ret=",e,'" hidefocus="on" rel="nofollow">退出</a>');}else{b._html(b.userNameEle,'<a id="__headerInfo_login__" href="',j,"/passport/login.jsp?ret=",e,'" hidefocus="on" rel="nofollow">登录</a>');b._html(b.userRegEle,'<a id="__headerInfo_reg__" href="',j,"/passport/register.jsp?ret=",e,'" hidefocus="on" rel="nofollow">注册</a>');if(b.userListEle&&!h){b.userTitleEle.style.display="none";}}},_addItem:function(g,d){var e=d||"";var f=document.createElement("DD");f.innerHTML=g;f.className=f.className+" "+e;b.userListEle.appendChild(f);},_getUserName:function(){if(!c._isLogin()){return{};}var d=b._getinfo();return{username:d.username,displayName:d.displayName,uname:d.uname};},_run:function(d){b._run(d);c._render();if(b.userTitleEle){c._regEvent();}c._checkCookieExpire();c._plantCsrfToken();},_checkCookieExpire:function(){if(!b._cookie("_t")){return;}var g=new Date((b._cookie("_t")||0)*60000).getTime(),f=new Date().getTime();if(g>f||f>(g+1209600000)){if(window.QNR&&window.QNR.hfUtils){window.___void=function(){try{c._plantCsrfToken();}catch(h){}};var d=document.createElement("script");var e=document.head||document.getElementsByTagName("head")[0]||document.documentElement;d.onload=d.onreadystatechange=function(){c._render();if(d.parentNode){e.removeChild(d);}return false;};d.src=QNR.hfUtils.httpsFilter("http://user.qunar.com/webApi/forcelogout.jsp?format=js&callback=___void");if(e.firstChild){e.insertBefore(d,e.firstChild);}else{e.appendChild(d);}}setTimeout(function(){c._render();},15000);}},_plantCsrfToken:function(){var d=function(h){var e="123456789poiuytrewqasdfghjklmnbvcxzQWERTYUIPLKJHGFDSAZXCVBNM";var k="";for(var j=0;j<h;j++){k+=e.charAt(Math.ceil(Math.random()*100000000)%e.length);}return k;};var f=b._cookie("csrfToken");if(!f){f=d(32);try{document.cookie="csrfToken="+f+";domain=qunar.com;path=/;";}catch(g){}}},_getFixNickName:function(e,f){var d=c._getUserName().displayName||"";e=(typeof e=="number")?e:7;return(d.length>e)?d.substr(0,e)+(f||"..."):d;}};var a={};a.isLogin=c._isLogin;a.render=c._render;a.addItem=c._addItem;a.getUserName=c._getUserName;a.run=c._run;a.getFixNickName=c._getFixNickName;if(typeof(QNR)==="undefined"){window.QNR={};}QNR.QUstatus=a;})(); (function(){var l="QN38",n="QN47",h=1354082400000,f=1354143600000,a="up_notice_wrap",p="up_notice_close";function r(w){return document.getElementById(w);}var q=navigator.userAgent.toLowerCase();function t(w){var x=/(windows)/;return x.test(w);}function u(w){var D=/(chrome)[ \/](\d+)/,y=/(safari)/,B=/(360se|360ee)/,F=/(webkit)[ \/]([\w.]+)/,x=/(opera)(?:.*version)?[ \/]([\w.]+)/,H=/(msie) (\d+)/,G=/(firefox)[ \/](\d+)/,C=/(mozilla)(?:.*? rv:(\d+))?/,E=/netscape/;function z(J){var I=B.exec(J)||D.exec(J)||y.exec(J)||x.exec(J)||H.exec(J)||G.exec(J)||J.indexOf("compatible")<0&&C.exec(J)||[];return{browser:I[1]||"",version:I[2]||"0"};}browserMatch=z(w);var A={};if(browserMatch.browser){A[browserMatch.browser]=true;A.version=browserMatch.version;}return A;}function k(){return window.external.twGetVersion(1);}function o(){try{if(/maxthon/.test(q)){return true;}else{return false;}}catch(w){return false;}}function j(){try{var z=/(maxthon)[ \/](\d+)/.exec(q);if(z){return z[2];}else{var w=window.external.max_version;var x=w.split(".")[0];if(x){return x;}else{return 0;}}}catch(y){return 0;}}function v(w,y){if(/opera|the world|qqbrowser|tencenttraveler|theworld/.test(y)){return 2;}else{var x=o();if(x){var z=j();return z<4?1:0;}else{if(y.indexOf("se 2.x")>-1){if(w.chrome){return w.version<18?1:0;}else{if(/metasr/.test(y)){return 0;}else{return 1;}}}else{if(w.msie){return w.version<7?1:0;}else{if(w.chrome){return w.version<18?1:0;}else{if(w.firefox){return w.version<12?1:0;}}}}}}return 0;}function g(){if(s(l)==1){if(r(a)){r(a).style.display="none";}return;}var x=u(q);var y=v(x,q);var w=t(q);if(y===1){b("您目前的浏览器版本过低，可能导致网站部分功能无法正常使用，建议尽快升级您的浏览器");}else{if(y===2){if(w){b('为保证您能顺畅体验去哪儿网的服务，建议改用 <a href = "http://windows.microsoft.com/zh-cn/internet-explorer/download-ie" target="_blank" rel="nofollow">Internet Explorer</a>、<a href = "http://www.google.cn/intl/zh-CN/chrome/browser/" target="_blank" rel="nofollow">Google Chrome</a>、<a href = "http://firefox.com.cn/download/" target="_blank" rel="nofollow">Mozilla Firefox</a> 等浏览器。');}else{b('为保证您能顺畅体验去哪儿网的服务，建议改用 <a href = "http://www.google.cn/intl/zh-CN/chrome/browser/" target="_blank" rel="nofollow">Google Chrome</a>、<a href = "http://firefox.com.cn/download/" target="_blank" rel="nofollow">Mozilla Firefox</a> 等浏览器。');}}}}function c(){var w=r(p);if(w){w.onclick=function(x){x=x||window.event;if(x.preventDefault){x.preventDefault();}else{x.returnValue=false;}d();};}}function d(){var w=r(a);if(w){w.style.display="none";}e(l,1,2592000,"/","qunar.com");}function e(x,D){var y=new Date();var C=arguments,A=C.length;var z=(A>2)?C[2]:null;var E=(A>3)?C[3]:null;var B=(A>4)?C[4]:null;var w=(A>5)?C[5]:false;if(z!=null){y.setTime(y.getTime()+(z*1000));}document.cookie=x+"="+escape(D)+((z==null)?"":("; expires="+y.toGMTString()))+((E==null)?"":("; path="+E))+((B==null)?"":("; domain="+B))+((w==true)?"; secure":"");}function s(x){var w=document.cookie.match(new RegExp("(^| )"+x+"=([^;]*)(;|$)"));if(w!=null){return unescape(w[2]);}return null;}function b(y){var w=document.getElementsByTagName("body")[0];var x=w.firstChild;var z=document.createElement("div");z.id=a;z.className="q_sysnotice";z.innerHTML=['<div class="q_sysnotice_info"><a id="up_notice_close" href="#" title="不再提示" class="q_sysnotice_close"></a>',y,"</div>"].join("");w.insertBefore(z,x);setTimeout(c,0);}function i(w){this.options=w||{};this.initialize=function(){var x=this;if(s(n)!=1){x.text=x.options.text||"";x.showTips();setTimeout(function(){x.eventBind();},15);}};this.showTips=function(){var z=this;var x=document.getElementsByTagName("body")[0];var y=x.firstChild;var A=document.createElement("div");A.id=a;A.className="q_sysnotice";if(!!z.text&&b){A.innerHTML=['<div class="q_sysnotice_info"><a id="up_notice_close" href="#" title="不再提示" class="q_sysnotice_close"></a>',z.text,"</div>"].join("");x.insertBefore(A,y);}};this.close_notice=function(){var x=r(a);if(x){x.style.display="none";}e(n,1,86400,"/","qunar.com");};this.eventBind=function(){var x=this;var y=r(p);if(y){y.onclick=function(z){z=z||window.event;if(z.preventDefault){z.preventDefault();}else{z.returnValue=false;}x.close_notice();};}};this.run=function(){this.initialize();};}function m(){var w=new Date().getTime();if(w<=f&&w>=h){(new i({text:""})).run();}else{g();}}m();})(); (function(){var a=QNR.QUstatus;a.run({u:"__loginInfo_u__",t:"__loginInfo_t__",l:"__loginInfo_l__",r:"__loginInfo_r__"});})(); (function(){var m=3600000;var b=86400000;var l=86400;var a=8;var n=[{name:"flight",displayName:"机票订单",baseurl:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://tinfo.qunar.com/order/mytickets?catalog=ownorders&from=myorder"),url:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://tinfo.qunar.com/order/mytickets?catalog=ownorders&from=myorder")},{name:"hotel",displayName:"酒店订单",baseurl:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://hotel.qunar.com/myorder.jsp?from=myorder"),url:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://hotel.qunar.com/myorder.jsp?from=ordertips")},{name:"tuan",displayName:"团购订单",baseurl:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://tuan.qunar.com/order/index.php?from=myorder"),url:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://tuan.qunar.com/order/index.php?from=ordertips")},{name:"vacation",displayName:"度假订单",baseurl:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://dujia.qunar.com/myorder.jsp?from=myorder"),url:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://dujia.qunar.com/myorder.jsp?from=ordertips")},{name:"piao",displayName:"门票订单",baseurl:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://piao.qunar.com/order/myorder.htm?from=myorder"),url:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://piao.qunar.com/order/myorder.htm?from=ordertips")},{name:"train",displayName:"火车票订单",baseurl:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://hcs.train.qunar.com/site/order/myorders.jsp?from=myorder"),url:"http://user.qunar.com/order/query.jsp?ret="+encodeURIComponent("http://hcs.train.qunar.com/site/order/myorders.jsp?from=myorder")}];var i={getOrders:"http://user.qunar.com/webApi/unpaycount.jsp",updateOrders:"http://user.qunar.com/webApi/unpay.jsp",clearOrders:"http://user.qunar.com/webApi/unpayclear.jsp"};QNR.hfUtils.httpsFilter(i);var h={flight:0,hotel:0,tuan:0,vacation:0,piao:0,train:0,total:0,visible:"000000"};function g(p){return document.getElementById(p);}function j(r){var q={};var t=document.cookie.split(";");for(var p=0;p<t.length;p++){var u=t[p];var s=u.split("=");if(u.indexOf("=")!=-1){q[f(s[0])]=f(s[1]);}}if(!!q[r]){return decodeURIComponent(q[r]);}else{return null;}}function o(q,u,r,t,v){var p;if(window.ActiveXObject){p=(r==null)?"":"; expires="+new Date((new Date()).getTime()+(r*b)).toUTCString();}else{p=(r==null)?"":"; max-age="+r*l;}var s=encodeURIComponent(u)+p+((t==null)?"; domain=qunar.com":"; domain="+t)+((v==null)?"; path=/":"; path="+v);document.cookie=q+"="+s;}function f(p){if(String.prototype.trim){return p.trim();}return p.replace(/^\s+/,"").replace(/\s+$/,"");}function e(p){return p.replace(/\s/g,"");}function c(t){var w={};function s(B,E,C,D){B=parseInt(B,10);E=parseInt(E,10);C=parseInt(C,10);return{itemDisplay:!!((B*E!==0)),itemTag:n[D].name,itemNum:D,displayName:n[D].displayName,orderNumbers:(C>0)?E:null,orderTips:(B*E!==0)?"等待支付":null,baseurl:n[D].baseurl,url:n[D].url};}if(!t.data){t.data=h;}var x=t.data,A=x.visible,r=0,y=A.length,q=[],z=[],u=0,p="0000000000".substring(0,y);for(;r<y;r++){if(A.charAt(r)==1&&x[n[r].name]>0){q.push(s(A.charAt(r),x[n[r].name],x.total,r));u+=parseInt(x[n[r].name],10);}else{z.push(s(A.charAt(r),x[n[r].name],x.total,r));}}w.items=q.concat(z);w.hasTips=!!((x.total>0&&x.visible!==p&&(u>0)));w.tipsCount=x.total;w.visible=x.visible;return w;}var k={data:{seq:0,timeout:15000,interval:30000,titleInterval:1000,recentOrders:null,titleTimer:null,dcTitle:document.title,updateTime:0,ms:{},countOut:0,skin:g("__orderInfo_l__").className,menuClassName:"q_header_tnav_omenu_m"},requestData:function(p){if(!p.url){return;}var t=this;var r=document.head||document.getElementsByTagName("head")[0]||document.documentElement;var s=document.createElement("script");s.async="false";s.defer="false";t.data.seq++;var q={};q.transportKey="QHEAD_OT_"+t.data.seq;t.data.ms[q.transportKey]=s;try{s.onload=s.onreadystatechange=function(){if(!s.readyState||/loaded|complete/.test(s.readyState)){if(q.timeoutId){try{clearTimeout(q.timeoutId);}catch(v){}}s.onload=s.onreadystatechange=null;s.responseText="";}};s.src=p.url+"?"+p.params+"&format=js&callback=QNR_Order['QOrderTips'].dispatcher('"+q.transportKey+"', QNR_Order['QOrderTips']."+p.callback+")&_v="+Math.random();if(r.firstChild){r.insertBefore(s,r.firstChild);}else{r.appendChild(s);}q.timeoutId=setTimeout(function(){s.onload=s.onreadystatechange=null;if(r&&s.parentNode){r.removeChild(s);}},t.data.timeout);}catch(u){}},updateUI:function(v){var x=this;var u=c(v);var y=x.data.menuClassName;var w=x.data.skin;x.data.recentOrders=v;var p=g("__orderInfo_w__").getElementsByTagName("div");var t=0,s=p.length;var r,q;for(;t<s;t++){r=p[t];q=u.items[t];if(!q){continue;}r.getElementsByTagName("a")[0].setAttribute("data-tag",q.itemTag);r.getElementsByTagName("a")[0].setAttribute("data-num",q.itemNum);if(!!q.itemDisplay){r.style.display="block";r.setAttribute("data-display","true");r.getElementsByTagName("a")[0].className="";r.getElementsByTagName("a")[0].setAttribute("data-display","true");r.getElementsByTagName("a")[0].href=q.url;}else{r.style.display="none";r.setAttribute("data-display","false");r.getElementsByTagName("a")[0].className=y;r.getElementsByTagName("a")[0].setAttribute("data-display","false");r.getElementsByTagName("a")[0].href=q.baseurl;}r.getElementsByTagName("span")[0].innerHTML=q.displayName;r.getElementsByTagName("a")[0].setAttribute("data-url",q.url);r.getElementsByTagName("a")[0].setAttribute("data-baseurl",q.baseurl);if(!!q.orderNumbers){r.getElementsByTagName("em")[0].innerHTML=q.orderNumbers;r.getElementsByTagName("em")[0].style.display="inline";}else{r.getElementsByTagName("em")[0].innerHTML="";r.getElementsByTagName("em")[0].style.display="none";}if(!!q.orderTips){r.getElementsByTagName("span")[1].innerHTML=q.orderTips;r.getElementsByTagName("span")[1].style.display="inline";}else{r.getElementsByTagName("span")[1].innerHTML="";r.getElementsByTagName("span")[1].style.display="none";}}if(u.tipsCount==0){g("__orderInfo_t__").getElementsByTagName("em")[0].style.display="none";g("__orderInfo_t__").getElementsByTagName("span")[0].innerHTML="";}else{g("__orderInfo_t__").getElementsByTagName("em")[0].style.display="inline-block";g("__orderInfo_t__").getElementsByTagName("span")[0].innerHTML=u.tipsCount;}if(u.hasTips){g("__orderInfo_l__").className=w+" q_header_tnav_omenu_hover";g("__orderInfo_c__").style.top="0px";x.titleDisplay(u.tipsCount);g("__orderInfo_w__").style.width="";}else{g("__orderInfo_l__").className=w;g("__orderInfo_c__").style.top="-9999em";x.titleDisplay(0);g("__orderInfo_w__").style.width=g("__orderInfo_l__").offsetWidth-2+"px";}},titleDisplay:function(s){var r=this,t=this.data,p="【"+s+"个订单待支付】",u="【"+s.toString(10).replace(/\S*/,"　")+"　　　　　　】";function q(){if(p+t.dcTitle==document.title){document.title=u+t.dcTitle;}else{document.title=p+t.dcTitle;}r.data.titleTimer=setTimeout(function(){q();},r.data.titleInterval);}if(r.data.titleTimer){clearTimeout(r.data.titleTimer);}if(s>0){q();}else{document.title=t.dcTitle;}},eventBind:function(){var s=this;var r=s.data.skin;var p={first:true,status:false};g("__orderInfo_l__").onmouseover=function(z){if(!z){z=window.event;}var y=false;if(!!p.first){var v=z.target||z.srcElement;while(v){if(v.getAttribute&&v.getAttribute("id")=="__orderInfo_w__"){p.status=true;break;}v=v.parentElement||v.parentNode;}}else{var v=z.target||z.srcElement;while(v){if(v.getAttribute&&v.getAttribute("id")=="__orderInfo_t__"){p.status=false;break;}v=v.parentElement||v.parentNode;}}var A=g("__orderInfo_w__").getElementsByTagName("div");var x=0,w=A.length;if(!p.status){this.setAttribute("data-move","true");for(x=0;x<w;x++){A[x].style.display="block";}g("__orderInfo_c__").style.top="-9999em";}else{for(x=0;x<w;x++){if(A[x].getAttribute("data-display")=="true"){y=true;}}if(!!y){g("__orderInfo_c__").style.top="0px";}else{g("__orderInfo_c__").style.top="-9999em";}}p.first=false;g("__orderInfo_l__").className=r+" q_header_tnav_omenu_hover";};g("__orderInfo_l__").onmouseout=function(B){if(!B){B=window.event;}var v=B.relatedTarget||B.toElement;var A=true;while(v){if(v.getAttribute&&v.getAttribute("id")=="__orderInfo_l__"){A=false;}v=v.parentElement||v.parentNode;}var C=g("__orderInfo_w__").getElementsByTagName("div");var y=0,w=C.length,z=false;for(;y<w;y++){var x=C[y];if(x.getAttribute("data-display")=="true"){z=true;}else{x.style.display="none";}}if(!z){g("__orderInfo_l__").className=r;g("__orderInfo_c__").style.top="-9999em";}else{g("__orderInfo_c__").style.top="0px";}if(!!A){p.first=true;p.status=false;}};g("__orderInfo_c__").onclick=function(){g("__orderInfo_l__").className=r;this.style.top="-9999em";var z=g("__orderInfo_w__").getElementsByTagName("div");var x=0,v=z.length;for(;x<v;x++){var w=z[x];w.setAttribute("data-display","false");}document.title=s.data.dcTitle;clearTimeout(s.data.titleTimer);var y=j("QN44");if(!!y){s.clearTips({username:y});}s.data.recentOrders.data.visible="0000000000".substring(0,s.data.recentOrders.data.visible.length);s.updateUI(s.data.recentOrders);};var u=g("__orderInfo_w__").getElementsByTagName("a"),q=0,t=u.length;for(;q<t;q++){(function(v){u[v].onclick=function(){var w=!!(this.getAttribute("data-display")=="true");var z=this.getAttribute("data-tag");var D=this.getAttribute("data-num");var y=this.getAttribute("data-url");var A=this.getAttribute("data-baseurl");if(!!y&&!!A){if(w){var C=s.data.recentOrders;var x=C.data.visible;x=x.split("");x[D]="0";x=x.join("");C.data.visible=x;s.updateUI(C);var B=j("QN44");if(!!B){s.clearTips({username:B,product:z});}window.open(y);}else{window.open(A);}}return false;};})(q);}},checkOrders:function(){var p=this;var q=j("QN44");if(!!q){p.requestData({url:i.getOrders,params:"username="+q,callback:"updateUI"});}},initialize:function(){var p=j("_q")||null,q=new RegExp("^U\\.");if(p!=null&&q.test(p)){p=p.replace("U.","").replace(/"/g,"");if(!!p){o("QN44",p,null,"qunar.com","/");}}},run:function(){var p=this;p.updateUI(h);p.initialize();p.checkOrders();p.data.timer=setInterval(function(){p.checkOrders();},p.data.interval);p.eventBind();},updateOrder:function(q){if(!q||!q.username||!q.order||!q.product){return;}var r=this;var s="username="+q.username+"&product="+q.product+"&order="+q.order;if(q.op){s+="&op="+q.op;}r.requestData({url:i.updateOrders,params:s,callback:"onData"});},totalFilter:function(q){var p=this;if(q&&q.data&&q.data.total>0){p.data.countOut=0;}else{if(p.data.countOut==10){o("QN44","",0,"qunar.com","/");p.data.updateTime=0;}else{p.data.countOut++;}}},updateFilter:function(r){var q=this;var p=q.data.updateTime;if(r&&r.data&&r.data.lasttime){var s=parseInt(r.data.lasttime,10);if(p>0){if(s!==p&&!(j("_q"))){o("QN44",j("QN44"),(s+b-(new Date().getTime()))/b);}}else{q.data.updateTime=s;}}},clearTips:function(q){var r=this;if(!q||!q.username){return;}var s="username="+q.username;if(!!q&&!!q.product){s+="&product="+q.product;}r.requestData({url:i.clearOrders,params:s,callback:"onData"});},removeScript:function(s){var q=this;var r=q.data.ms[s];if(r){var p=document.head||document.getElementsByTagName("head")[0]||document.documentElement;if(p&&r.parentNode){p.removeChild(r);}}}};if(typeof(QNR_Order)==="undefined"){window.QNR_Order={};}var d={run:function(){k.run();},updateUI:function(p){try{k.totalFilter(p);k.updateFilter(p);k.updateUI(p);}catch(q){}},onData:function(p){try{k.data.subscribe&&k.data.subscribe({ret:p.ret,errcode:p.errcode,errmsg:p.errmsg});}catch(q){}},subscribe:function(p){if(Object.prototype.toString.call(p)=="[object Function]"){k.data.subscribe=p;}},dispatcher:function(q,p){return function(r){p(r);k.removeScript(q);};}};QNR_Order.QOrderTips=d;if(g("__orderInfo_l__")){QNR_Order.QOrderTips.run();}})(); (function(){var c=document.getElementById("__mobile_cnt__"),f=document.getElementById("__mobile_cnt_update__"),e="http://t.qunar.com/count",h=new Image(),d,a="__mobile_cnt_script__",i=1,g=[];var b=function(n,m){if(n>=m){k();return;}if(parseInt(d.initNum.split(",").join(""),10)>=parseInt(g[n].split(",").join(""),10)){if(d.animate){b(n,m);}else{b(++n,m);}return;}d.initNum=d.nowNum;d.nowNum=g[n];d.init().run(function(){b(++n,m);});};var j=function(p){g=p.split("#");var o=0,m=g.length;function n(){if(m!=0&&c){if(!d){d=new l({id:"__mobile_cnt__",nowNum:g[o++]}).run(n);}else{if(d.animate||d.nowNum==g[o]){return;}b(o++,m);}}}n();};var k=function(){if(i>=5){return;}var n=document.getElementById(a),m=document.getElementsByTagName("head")[0];if(n){m.removeChild(n);}var o=document.createElement("script");o.id=a;o.src=e+"/counts?t="+(+new Date);m.appendChild(o);i++;return;};if(f){f.onclick=function(){h.src=e+"/countUpdate?t="+(+new Date);};}window.__mobile_cnt_callback__=j;k();var l=function(m){this.dom=document.getElementById(m.id);this.initNum=m.initNum||"1,000,000";this.nowNum=m.nowNum||"1,000,000";this.time=1000;this.init();};l.prototype.init=function(){if(this.initNum==this.nowNum){return this;}var p="",r=this.initNum.split(""),n=this.nowNum.split(""),q=n.length-r.length;while(q-->=1){r.unshift(0);}for(var o=0,m=r.length;o<m;o++){if(o==0&&r[o]==0){p+="<b>&nbsp;</b>";}else{p+="<b>"+r[o]+"</b>";}}this.dom.innerHTML=p;this.bs=this.dom.getElementsByTagName("b");this.initLength=this.bs.length;this.compare();return this;};l.prototype.compare=function(){var x=parseInt(this.initNum.split(",").join(""),10),u=parseInt(this.nowNum.split(",").join(""),10),y,r;this.needToChange=[];this.tops=[];x=new String(x).split("");u=new String(u).split("");y=r=u.length-x.length;while(r-->=1){x.unshift("0");}var t,q="",n,v,s=u.length,t,w,o;for(var p=u.length-1;p>-1;p--){x[p]=parseInt(x[p],10);u[p]=parseInt(u[p],10);v=u[p]-x[p];if(v==0){continue;}if(v<0){v+=10;}t=s-p-1;q+='<div class="roll" style="right:'+(t+Math.floor(t/3))*9+'px">';n=this.initLength-t-Math.floor(t/3)-1;this.bs[n]&&(this.bs[n].style.visibility="hidden");this.needToChange.push(n);while(v>=0){w=(x[p]+v--);w=w>9?0:w;if(p<y&&x[p]==0&&w==0){q+="<b>&nbsp;</b>";}else{q+="<b>"+w+"</b>";}}q+="</div>";}this.dom.innerHTML+=q;var m=this.dom.getElementsByTagName("div");for(p=0,s=m.length;p<s;p++){m[p].style.top="-"+parseFloat(m[p].offsetHeight-18)+"px";this.tops.push(parseFloat(m[p].style.top));}this.rolling=m;return this;};l.prototype.run=function(u){var n=this.rolling,q=n.length,r=this,m=25,s=[],v=this.time/m;for(var o=0;o<q;o++){s.push(-parseFloat(n[o].style.top)/v);}r.animate=true;var p=setInterval(function(){if(--v<=0||parseFloat(n[0].style.top)+s[0]>=0){clearInterval(p);while(q){n[q-1].style.top="0px";q--;}r.animate=false;setTimeout(function(){u&&u();},1000);return;}for(var t=0;t<q;t++){r.tops[t]+=s[t];n[t].style.top=r.tops[t]+"px";}},m);return this;};})(); </script> 
+</div>
+<div class="q_pagewrap">
+	<div class="q_pagecontair">
+    <abbr style="display:none;" data-type="qde" id="home_active_dynamic" data-query="chan=homepage&pg=home&site=qunar&type=dynamic_skinned" data-style="width:100%;"></abbr>
+    <div class="q_page">
+        <div class="dlAd" id="ad_active_container">
+            <div class="dll"><abbr style="display:none;" id="home_active_couplet_left" data-style="width:120px;"></abbr></div>
+            <div class="dlr">
+                <abbr style="display:none;" id="home_active_couplet_right" data-style="width:120px;"></abbr>
+                <abbr style="display:none;" data-type="qde" data-query="chan=homepage&pg=home&pos=right&site=qunar&size=120x300&type=couplet" data-style="width:120px;" id="dlad_right"></abbr>
+            </div>
+        </div>
+        <!--左栏-->
+        <div class="l_lside">
+            <!--搜索模块-->
+            <div class="b_cgy_sch clrfix" id="js_searchbox">
+                <div class="e_csh_cgy">
+                    <ul class="nav_cgy" id="js_nva_cgy">
+                        <li class="c_flight js-searchnav cur" data-for="flight"><a href="http://flight.qunar.com/" target="_blank"><i class="ico"></i>机票</a></li>
+                        <li class="c_hotel js-searchnav" data-for="hotel"><a href="http://hotel.qunar.com/" target="_blank"><i class="ico"></i>酒店</a></li>
+                        <li class="c_package js-searchnav" data-for="package"><a href="http://package.qunar.com/" target="_blank"><i class="ico"></i>度假</a></li>
+                        <li class="c_gonglue js-searchnav" data-for="travel"><a href="http://travel.qunar.com/" target="_blank"><i class="ico"></i>攻略</a></li>
+                        <li class="c_tuan js-searchnav" data-for="tuan"><a href="http://tuan.qunar.com/" target="_blank"><i class="ico"></i>团购</a></li>
+                        <li class="c_phone js-searchnav last" data-for="mobile"><a href="http://phone.qunar.com/" target="_blank"><i class="ico"></i>手机版</a></li>
+                    </ul>
+                </div>
+                <div class="e_csh_sch">
+                    <div id="js_searchbox_flight" class="js-searchbox-panel e_csh_sch_fl">
+                        <div style="display: block;" class="e_csh_sch_flpn">
+                            <div class="ch_search_tab">
+                                <div class="rt_link"><a href="http://user.qunar.com/flight_toolbox.jsp?catalog=ownorders&from=qunarindexP1" target="_blank">出票状态查询</a> | <a href="http://user.qunar.com/flight_toolbox.jsp?catalog=ownorders&from=tuigai" target="_blank">退票改签</a></div>
+                                <ul class="ul_search_tab">
+                                    <li class="cur" id="js_domestic_tab"><a href="#" onclick="return false;">国内机票</a></li>
+                                    <li class="" id="js_inter_tab"><a href="#" onclick="return false;">国际·港澳台机票</a></li>
+                                </ul>
+                            </div>
+                            <div style="display: block;" class="ch_sch_form ch_sch_flt_bf clrfix" id="js_flighttype_tab_domestic">
+                                <form action="/twell/flight/Search.jsp" method="get" id="js_flight_domestic_searchbox">
+                                    <input value="qunarindex" name="from" type="hidden">
+                                    <div class="crl_group">
+                                        <div class="crl_lab">&nbsp;</div>
+                                        <div class="controls">
+                                            <label class="lal_rdo" for="js_searchtype_oneway">
+                                                <input name="searchType" class="inp_rad js-searchtype-oneway" value="OnewayFlight" checked="checked" id="js_searchtype_oneway" type="radio">
+                                                单程</label>
+                                            <label class="lal_rdo" for="js_searchtype_roundtrip">
+                                                <input name="searchType" class="inp_rad js-searchtype-roundtrip" value="RoundTripFlight" id="js_searchtype_roundtrip" type="radio">
+                                                往返</label>
+                                            <label class="lal_rdo" for="js_searchtype_deals">
+                                                <input name="searchType" class="inp_rad js-searchtype-deals" value="DealsFlight" id="js_searchtype_deals" type="radio">
+                                                特价</label>
+                                        </div>
+                                    </div>
+                                    <div class="crl_group">
+                                        <div class="crl_sp2_1">
+                                            <a class="lnk_change js-exchagne-city" href="#" title="调换出发地和目的地">换</a>
+                                            <div class="crl_lab">城市</div>
+                                            <div class="controls">
+                                                <div class="qcbox qcity" style="z-index: 40;">
+                                                    <div class="qunar-qcbox"><div style="width: 175px; left: 16px; padding-left: 4px; height: 18px; line-height: 18px; " class="qcbox-placeholder">出发地</div><div class="qcbox-prefix">从</div><div class="qcbox-info"><b></b></div><input value="" data-detect-oninput="1" style="margin-left: 16px;" value="" name="fromCity" class="cinput textbox" data-qcbox-placeholder="出发地" data-qcbox-prefix="从" data-qcbox-suggest="flight-fromcity" data-qcbox-hotcity="flight" autocomplete="off" x-webkit-speech="x-webkit-speech" type="text"><div class="qcbox-fixed"></div></div>
+                                                    <div class="qsuggest-contaier js-suggestcontainer"><div style="display: none; z-index: 500;" class="q-suggest"></div></div>
+                                                </div>
+                                            </div>
+                                            <div class="crl_lab">&nbsp;</div>
+                                            <div class="controls">
+                                                <div class="qcbox qcity" style="z-index: 30;">
+                                                    <div class="qunar-qcbox"><div style="width: 175px; left: 16px; padding-left: 4px; height: 18px; line-height: 18px; " class="qcbox-placeholder">目的地</div><div class="qcbox-prefix">到</div><div class="qcbox-info"><b></b></div><input value="" data-detect-oninput="2" style="margin-left: 16px;" value="" name="toCity" class="cinput textbox" data-qcbox-placeholder="目的地" data-qcbox-prefix="到" data-qcbox-suggest="flight-tocity" data-qcbox-hotcity="flight" autocomplete="off" x-webkit-speech="x-webkit-speech" type="text"><div class="qcbox-fixed"></div></div>
+                                                    <div class="qsuggest-contaier js-suggestcontainer"><div style="display: none; z-index: 500;" class="q-suggest"></div></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="crl_sp2_2">
+                                            <div class="crl_lab">日期</div>
+                                            <div class="controls">
+                                                <div class="qcbox qdate fromD" style="z-index: 20;">
+                                                    <div class="qunar-dp"><div class="dp-prefix">往</div><div class="dp-info"><b></b><span class="dp-text">周二</span></div><input style="margin-left: 16px;" id="js_domestic_fromdate" value="" name="fromDate" class="cinput textbox" autocomplete="off" maxlength="10" data-prefix="往" type="text"><div style="display: none;" class="q-datepicker"></div></div>
+                                                </div>
+                                            </div>
+                                            <div class="crl_lab">&nbsp;</div>
+                                            <div class="controls js-backdate" style="visibility: hidden; display: none;">
+                                                <div class="qcbox qdate toD" style="z-index: 10;">
+                                                    <div class="qunar-dp"><div class="dp-prefix">返</div><div class="dp-info"><b></b><span class="dp-text">周五</span></div><input style="margin-left: 16px;" id="js_domestic_todate" value="" name="toDate" class="cinput textbox" autocomplete="off" maxlength="10" data-prefix="返" type="text"><div style="display: none;" class="q-datepicker"></div></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="crl_group crl_group_submit">
+                                        <div class="crl_lab">&nbsp;</div>
+                                        <div class="controls"> <span class="p_btn">&nbsp;<button type="submit" class="btn_search"></button></span>
+                                            <p class="p_text">
+                                                <span style="display: none;" id="js_alsosearch_domestic"></span>
+                                                可实时搜索&nbsp;<span class="highlight">3356</span>&nbsp;条国内航线
+                                            </p>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="ch_agt_inf"></div>
+                        </div>
+                    </div>
+                    <div id="js_searchbox_hotel" class="js-searchbox-panel e_csh_sch_h" style="display:none;"><img class="e_csh_sch_loadding" src="http://source.qunar.com/tts/images/demo/spinner_tra.gif" /></div>
+                    <div id="js_searchbox_tuan" class="js-searchbox-panel" style="display:none;"><img class="e_csh_sch_loadding" src="http://source.qunar.com/tts/images/demo/spinner_tra.gif" /></div>
+                    <div id="js_searchbox_package" class="js-searchbox-panel" style="display:none;"><img class="e_csh_sch_loadding" src="http://source.qunar.com/tts/images/demo/spinner_tra.gif" /></div>
+                    <div id="js_searchbox_travel" class="js-searchbox-panel" style="display:none;"><img class="e_csh_sch_loadding" src="http://source.qunar.com/tts/images/demo/spinner_tra.gif" /></div>
+                    <div id="js_searchbox_mobile" class="js-searchbox-panel e_csh_sch_mb" style="display:none;"><img class="e_csh_sch_loadding" src="http://source.qunar.com/tts/images/demo/spinner_tra.gif" /></div>
+                </div>
+            </div>
+            <!--\搜索模块-->
+            <!--banner模块-->
+            <div class="b_banner"><abbr id="banner_home_pageMiddle" style="display:none;" data-type="qde" data-style="width:728px;margin-top:6px;" data-query="chan=homepage&pg=home&pos=top&site=qunar&size=728x90"></abbr></div>
+            <!--\banner模块-->
+
+            <!--热门团购排行-->
+            <div class="b_hot_wrap" id="js_b_hottuan">
+                <div class="e_hot_tit">
+                    <div class="rt_lnk">
+                        <div class="m_tab_sel">
+                            <ul><li class="cur" data-tab="city" data-tab-id="city-周末周边游特价" data-tab-active="cur" data-moreurl="http://tuan.qunar.com/qtab_around.php?ename=china&amp;from=qunarindexTuan1"><a href="javascript:void 0;">周末周边游特价</a></li><li class="" data-tab="city" data-tab-id="city-特惠自由行" data-tab-active="cur" data-moreurl="http://tuan.qunar.com/qtab_travel_d.php?ename=china&amp;from=qunarindexTuan2"><a href="javascript:void 0;">特惠自由行</a></li><li class="" data-tab="city" data-tab-id="city-特价酒店" data-tab-active="cur" data-moreurl="http://tuan.qunar.com/qtab_hotel.php?dest=5YWo5Zu9&amp;from=qunarindexTuan3"><a href="javascript:void 0;">特价酒店</a></li></ul>
+                        </div>
+                        <a href="http://tuan.qunar.com/qtab_around.php?ename=china&amp;from=qunarindexTuan1" class="lnk_more" target="_blank">更多</a></div>
+                    <h3>热门团购排行</h3>
+                </div>
+                <div style="display: block;" class="e_hot_cont">
+                    <ul style="display: block;" class="ul_hot_tuan clrfix" data-panel="city" data-panel-id="city-周末周边游特价" data-moreurl="http://tuan.qunar.com/qtab_around.php?ename=china&amp;from=qunarindexTuan1">
+                        <li>
+                            <div class="h_img"> <a href="http://tuan.qunar.com/team.php?id=QNRMTAwOTE4NA==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_1&amp;ex_track=qunarindexTuan1" target="_blank"><img src="http://img1.qunarzz.com/tuan/team/2012/1011/13499415144904.jpeg_165x110_7fa1b829.jpg" alt="" title="" height="110" width="162"></a><a href="http://tuan.qunar.com/team.php?id=QNRMTAwOTE4NA==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_1&amp;ex_track=qunarindexTuan1" target="_blank"><em class="m_disct" data-discount="3.6"><b>3</b>.6折</em></a> </div>
+                            <div class="h_inf"> <a href="http://tuan.qunar.com/team.php?id=QNRMTAwOTE4NA==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_1&amp;ex_track=qunarindexTuan1" title="" target="_blank">三亚3天2晚双人超值浪漫休闲之旅！</a> </div>
+                            <div class="h_prc"> <a href="http://tuan.qunar.com/team.php?id=QNRMTAwOTE4NA==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_1&amp;ex_track=qunarindexTuan1" target="_blank"><span class="prc"><b>¥</b>1730</span></a> 市场价：¥<em class="t_c">4880</em> </div>
+                        </li>
+                        <li>
+                            <div class="h_img"> <a href="http://tuan.qunar.com/team.php?id=QNROTUwMDAw&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_2&amp;ex_track=qunarindexTuan1" target="_blank"><img src="http://img1.qunarzz.com/tuan/team/2012/0911/13473441456337.jpeg_165x110_c0113af1.jpg" alt="" title="" height="110" width="162"></a><a href="http://tuan.qunar.com/team.php?id=QNROTUwMDAw&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_2&amp;ex_track=qunarindexTuan1" target="_blank"><em class="m_disct" data-discount="2.5"><b>2</b>.5折</em></a> </div>
+                            <div class="h_inf"> <a href="http://tuan.qunar.com/team.php?id=QNROTUwMDAw&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_2&amp;ex_track=qunarindexTuan1" title="" target="_blank">仙人掌度假酒店、蜈支洲岛4天3晚自助游</a> </div>
+                            <div class="h_prc"> <a href="http://tuan.qunar.com/team.php?id=QNROTUwMDAw&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_2&amp;ex_track=qunarindexTuan1" target="_blank"><span class="prc"><b>¥</b>2488</span></a> 市场价：¥<em class="t_c">9888</em> </div>
+                        </li>
+                        <li>
+                            <div class="h_img"> <a href="http://tuan.qunar.com/team.php?id=QNRMTAyNjAxNg==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_3&amp;ex_track=qunarindexTuan1" target="_blank"><img src="http://img1.qunarzz.com/tuan/team/2012/1018/13505432046599.jpeg_165x110_d4f27f80.jpg" alt="" title="" height="110" width="162"></a><a href="http://tuan.qunar.com/team.php?id=QNRMTAyNjAxNg==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_3&amp;ex_track=qunarindexTuan1" target="_blank"><em class="m_disct" data-discount="4.1"><b>4</b>.1折</em></a> </div>
+                            <div class="h_inf"> <a href="http://tuan.qunar.com/team.php?id=QNRMTAyNjAxNg==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_3&amp;ex_track=qunarindexTuan1" title="" target="_blank">三亚希尔顿逸林+3选1酒店4天3晚自助游</a> </div>
+                            <div class="h_prc"> <a href="http://tuan.qunar.com/team.php?id=QNRMTAyNjAxNg==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_3&amp;ex_track=qunarindexTuan1" target="_blank"><span class="prc"><b>¥</b>2010</span></a> 市场价：¥<em class="t_c">4890</em> </div>
+                        </li>
+                        <li class="last">
+                            <div class="h_img"> <a href="http://tuan.qunar.com/team.php?id=QNRMTAwODI1Ng==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_4&amp;ex_track=qunarindexTuan1" target="_blank"><img src="http://img1.qunarzz.com/tuan/team/2012/1011/13499517429898.jpeg_165x110_c213ef91.jpg" alt="" title="" height="110" width="162"></a><a href="http://tuan.qunar.com/team.php?id=QNRMTAwODI1Ng==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_4&amp;ex_track=qunarindexTuan1" target="_blank"><em class="m_disct" data-discount="3.7"><b>3</b>.7折</em></a> </div>
+                            <div class="h_inf"> <a href="http://tuan.qunar.com/team.php?id=QNRMTAwODI1Ng==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_4&amp;ex_track=qunarindexTuan1" title="" target="_blank">希尔顿逸林酒店、套餐可选4天3晚自助游</a> </div>
+                            <div class="h_prc"> <a href="http://tuan.qunar.com/team.php?id=QNRMTAwODI1Ng==&amp;from=qunarindexTuan1&amp;in_track=index_china_zhoubian_4&amp;ex_track=qunarindexTuan1" target="_blank"><span class="prc"><b>¥</b>2973</span></a> 市场价：¥<em class="t_c">7980</em> </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!--\热门团购排行-->
+
+            <!--图片轮播-->
+            <div class="b_pic_csl" id="js_b_mainslider" class="hide"></div>
+            <!--\图片轮播-->
+
+            <!--当季度假热门-->
+            <div class="b_hot_wrap" id="js_b_seasonhot">
+                <div class="e_hot_tit">
+                    <div class="rt_lnk">
+                        <div class="m_tab_sel">
+                            <ul>
+                                <li class="cur" data-tab="month" data-tab-id="month-11月" data-tab-active="cur" data-postfix="秋末余味" data-moreurl="http://package.qunar.com?month=11&amp;from=qunarindexPa11">
+                                    <a href="javascript:void 0;">11月秋末余味</a>
+                                </li>
+                                <li class="" data-tab="month" data-tab-id="month-12月" data-tab-active="cur" data-postfix="欢乐圣诞" data-moreurl="http://package.qunar.com?month=12&amp;from=qunarindexPa12">
+                                    <a href="javascript:void 0;">12月</a>
+                                </li>
+                                <li class="" data-tab="month" data-tab-id="month-1月" data-tab-active="cur" data-postfix="末日已去" data-moreurl="http://package.qunar.com?month=1&amp;from=qunarindexPa1">
+                                    <a href="javascript:void 0;">1月</a>
+                                </li>
+                                <li class="" data-tab="month" data-tab-id="month-2月" data-tab-active="cur" data-postfix="新春畅游" data-moreurl="http://package.qunar.com?month=2&amp;from=qunarindexPa2">
+                                    <a href="javascript:void 0;">2月</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <a class="lnk_more" href="http://package.qunar.com?month=11&amp;from=qunarindexPa11" target="_blank">更多</a>
+                        </div>
+
+                    <h3>当季度假热门</h3>
+                </div>
+
+                <div class="e_hot_cont" data-month="11月" data-panel="month" data-panel-id="month-11月">
+                    <ul class="ul_hot_pkg ul_hot_pkg_h clrfix">
+                        <li>
+                            <div style="overflow: hidden;" class="h_img">
+                                <div class="p_img"> <a href="http://package.qunar.com/beijing_泰国/?from=qunarindexPa11" target="_blank"><img alt="" src="http://img1.qunarzz.com/tuan/team/2012/1102/13518659581355.jpeg" height="110" width="162"></a> </div>
+                                <div style="display: block;" class="p_flt_bg"></div>
+                                <div style="display: block;" class="p_tit">泰国</div>
+                                <div style="top: 110px; display: block;" class="p_hover">
+                                    <h3><a href="http://package.qunar.com/beijing_泰国/?from=qunarindexPa11" target="_blank">恋恋水灯节</a></h3>
+                                    <p><a href="http://package.qunar.com/beijing_泰国/?from=qunarindexPa11" target="_blank">推荐理由：旖旎在泰美丽的烛光之夜，放走烦恼留下美好。</a></p>
+                                    <p class="zt"><a class="v_route" href="http://package.qunar.com/beijing_泰国/?from=qunarindexPa11" target="_blank">查看线路</a><a href="http://package.qunar.com/beijing_泰国/?from=qunarindexPa11" target="_blank">泰国旅游</a></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="h_img">
+                                <div class="p_img"> <a href="http://package.qunar.com/beijing_丽江/?from=qunarindexPa11" target="_blank"><img alt="" src="http://img1.qunarzz.com/tuan/team/2012/1102/13518658426495.jpeg" height="110" width="162"></a> </div>
+                                <div class="p_flt_bg"></div>
+                                <div class="p_tit">丽江</div>
+                                <div class="p_hover">
+                                    <h3><a href="http://package.qunar.com/beijing_丽江/?from=qunarindexPa11" target="_blank">淡季游丽江</a></h3>
+                                    <p><a href="http://package.qunar.com/beijing_丽江/?from=qunarindexPa11" target="_blank">推荐理由：神圣的玉龙雪山下，细品古城热闹背后的味道。</a></p>
+                                    <p class="zt"><a class="v_route" href="http://package.qunar.com/beijing_丽江/?from=qunarindexPa11" target="_blank">查看线路</a><a href="http://package.qunar.com/beijing_丽江/?from=qunarindexPa11" target="_blank">丽江旅游</a></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="h_img">
+                                <div class="p_img"> <a href="http://package.qunar.com/beijing_台湾/?from=qunarindexPa11" target="_blank"><img alt="" src="http://img1.qunarzz.com/tuan/team/2012/1102/13518658812465.jpeg" height="110" width="162"></a> </div>
+                                <div class="p_flt_bg"></div>
+                                <div class="p_tit">台湾</div>
+                                <div class="p_hover">
+                                    <h3><a href="http://package.qunar.com/beijing_台湾/?from=qunarindexPa11" target="_blank">台北清新游</a></h3>
+                                    <p><a href="http://package.qunar.com/beijing_台湾/?from=qunarindexPa11" target="_blank">推荐理由：避开台风季，去台北看场演唱会、扫购潮品。</a></p>
+                                    <p class="zt"><a class="v_route" href="http://package.qunar.com/beijing_台湾/?from=qunarindexPa11" target="_blank">查看线路</a><a href="http://package.qunar.com/beijing_台湾/?from=qunarindexPa11" target="_blank">台湾旅游</a></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="last">
+                            <div class="h_img">
+                                <div class="p_img"> <a href="http://package.qunar.com/beijing_法国/?from=qunarindexPa11" target="_blank"><img alt="" src="http://img1.qunarzz.com/tuan/team/2012/1102/13518659188329.jpeg" height="110" width="162"></a> </div>
+                                <div class="p_flt_bg"></div>
+                                <div class="p_tit">法国</div>
+                                <div class="p_hover">
+                                    <h3><a href="http://package.qunar.com/beijing_法国/?from=qunarindexPa11" target="_blank">巴黎时尚武装</a></h3>
+                                    <p><a href="http://package.qunar.com/beijing_法国/?from=qunarindexPa11" target="_blank">推荐理由：巴黎11月底开始进入打折季，法式大范儿走起！</a></p>
+                                    <p class="zt"><a class="v_route" href="http://package.qunar.com/beijing_法国/?from=qunarindexPa11" target="_blank">查看线路</a><a href="http://package.qunar.com/beijing_法国/?from=qunarindexPa11" target="_blank">法国旅游</a></p>
+                                </div>
+                            </div>
+                        </li>
+
+                    </ul>
+                    <ul class="ul_hot_rut clrfix">
+                        <li><span class="prc"><b>¥</b>2660<i>起</i></span><a href="http://package.qunar.com/pqd/list_%E8%8A%AD%E5%A0%A4%E9%9B%85_%E5%8C%97%E4%BA%AC/?from=qunarindexPal1" title="" target="_blank">泰国 微笑曼谷和浪漫芭堤雅</a></li>
+                        <li class="odd"><span class="prc"><b>¥</b>77<i>起</i></span><a href="http://package.qunar.com/pqd/list_%E4%B8%BD%E6%B1%9F_%E5%8C%97%E4%BA%AC?from=qunarindexPal1" title="" target="_blank">丽江自由行 泡吧艳遇消磨时光</a></li>
+                        <li><span class="prc"><b>¥</b>3480<i>起</i></span><a href="http://package.qunar.com/pqd/list_%E5%8F%B0%E6%B9%BE_%E5%8C%97%E4%BA%AC/?from=qunarindexPal1" title="" target="_blank">台湾环岛游 全景经典观光线</a></li>
+                        <li class="odd"><span class="prc"><b>¥</b>9500<i>起</i></span><a href="http://package.qunar.com/pqd/list_%E6%B3%95%E6%84%8F%E7%91%9E_%E5%8C%97%E4%BA%AC/?from=qunarindexPal1" title="" target="_blank">经典法意瑞 初游欧洲推荐 </a></li>
+                    </ul>
+                </div>
+            </div>
+            <!--\当季度假热门-->
+            <!--banner模块-->
+            <div class="b_banner"> <abbr id="banner_home_ad1001" style="display:none;" data-type="qde" data-style="width:100%;margin:6px 0;" data-query="chan=homepage&pg=home&pos=left_mid&site=qunar&size=728x90"></abbr> </div>
+            <!--\banner模块-->
+
+            <!--精彩旅行攻略-->
+            <div class="b_hot_wrap" id="js_b_strategy">
+                <div class="e_hot_tit">
+                    <div class="rt_lnk">
+                        <div class="m_tab_sel">
+                            <ul>
+                                <li class="cur" data-tab-active="cur" data-tab="strategycat" data-tab-id="strategycat-当季热门"><a href="javascript: void 0;">当季热门</a></li>
+                                <li class="" data-tab-active="cur" data-tab="strategycat" data-tab-id="strategycat-海滨海岛"><a href="javascript: void 0;">海滨海岛</a></li>
+                                <li class="" data-tab-active="cur" data-tab="strategycat" data-tab-id="strategycat-古城古镇"><a href="javascript: void 0;">古城古镇</a></li>
+                                <li class="" data-tab-active="cur" data-tab="strategycat" data-tab-id="strategycat-美食"><a href="javascript: void 0;">美食</a></li>
+                                <li class="" data-tab-active="cur" data-tab="strategycat" data-tab-id="strategycat-蜜月情侣"><a href="javascript: void 0;">蜜月情侣</a></li>
+                                <li class="" data-tab-active="cur" data-tab="strategycat" data-tab-id="strategycat-海外"><a href="javascript: void 0;">海外</a></li>
+                            </ul>
+                        </div>
+                        <a class="lnk_more" href="http://travel.qunar.com/?from=qunarindexTr7" target="_blank">更多</a> </div>
+                    <h3>精彩旅行攻略</h3>
+                </div>
+                <div class="e_hot_cont clrfix" data-panel="strategycat" data-panel-id="strategycat-当季热门">
+                    <dl class="dl_hot_tvl clrfix">
+
+                        <dt>
+
+                            <div class="p_img">
+                                <!-- a href="http://travel.qunar.com/travelbook/books/detail/finish/516564/allView" -->
+                                <a href="http://travel.qunar.com/travelbook/books/detail/finish/516564/allView?from=qunarindexTr1" target="_blank">
+                                    <img alt="" src="http://source.qunar.com/site/images/zhuanti/121101/re1.jpg" height="160" width="140">
+                                </a>
+                            </div>
+                            <div class="p_inf">
+                                <h3>
+                                <!-- a href="http://travel.qunar.com/travelbook/books/detail/finish/516564/allView"  title="曼谷芭提雅曼谷7天自由行完全详解"-->
+                                <a href="http://travel.qunar.com/travelbook/books/detail/finish/516564/allView?from=qunarindexTr1" target="_blank" title="曼谷芭提雅曼谷7天自由行完全详解">
+                                曼谷芭提雅曼谷...</a></h3>
+                                <div class="m_down" title="">
+                                    <span style="display: block;" class="rt">
+                                        <a href="javascript:void 0;"><i class="ico_d_d"></i></a>
+                                    </span>
+                                    <span style="display: none;" class="rt">
+                                        <a href="http://travel.qunar.com/travelbook/books/download/516564.515ffe6526.doc"><i class="ico_d_w"></i></a>
+                                        <a href="http://travel.qunar.com/travelbook/books/download/516564.515ffe6526.pdf"><i class="ico_d_p"></i></a>
+                                        <!-- <a href=""><i class="ico_d_s"></i></a>-->
+                                    </span>
+                                plainbao</div>
+                            </div>
+                        </dt>
+
+                        <dd>
+                            <ul>
+                                <li>
+                                    <h3><!-- =a href="http://travel.qunar.com/travelbook/books/detail/finish/568468/allView" title=""-->
+                                    <a href="http://travel.qunar.com/travelbook/books/detail/finish/568468/allView?from=qunarindexTr1" target="_blank" title="">
+                                    遇见台北</a></h3>
+                                    <div class="m_down" title="">
+                                    <span class="rt">
+                                        <a href="javascript:void 0;"><i class="ico_d_d"></i></a></span>
+                                    <span style="display: none;" class="rt">
+                                        下载:<a href="http://travel.qunar.com/travelbook/books/download/568468.cee006dc7d.doc"><i class="ico_d_w"></i></a>
+                                        <a href="http://travel.qunar.com/travelbook/books/download/568468.cee006dc7d.pdf"><i class="ico_d_p"></i></a>
+                                        <!-- <a href=""><i class="ico_d_s"></i></a> -->
+                                    </span>
+                                    mshe8170</div>
+                                </li>
+                                <li>
+                                    <h3><!-- =a href="http://travel.qunar.com/travelbook/books/detail/finish/388368/allView" title="国庆阿尔山游记——经过便不曾忘记"-->
+                                    <a href="http://travel.qunar.com/travelbook/books/detail/finish/388368/allView?from=qunarindexTr1" target="_blank" title="国庆阿尔山游记——经过便不曾忘记">
+                                    国庆阿尔山游记——经...</a></h3>
+                                    <div class="m_down" title="">
+                                    <span class="rt">
+                                        <a href="javascript:void 0;"><i class="ico_d_d"></i></a></span>
+                                    <span style="display: none;" class="rt">
+                                        下载:<a href="http://travel.qunar.com/travelbook/books/download/388368.aaa5eb734a.doc"><i class="ico_d_w"></i></a>
+                                        <a href="http://travel.qunar.com/travelbook/books/download/388368.aaa5eb734a.pdf"><i class="ico_d_p"></i></a>
+                                        <!-- <a href=""><i class="ico_d_s"></i></a> -->
+                                    </span>
+                                    ouir5975</div>
+                                </li>
+                                <li class="last">
+                                    <h3><!-- =a href="http://travel.qunar.com/travelbook/books/detail/finish/388507/allView" title=""-->
+                                    <a href="http://travel.qunar.com/travelbook/books/detail/finish/388507/allView?from=qunarindexTr1" target="_blank" title="">
+                                    北疆攻略计划书</a></h3>
+                                    <div class="m_down" title="">
+                                    <span class="rt">
+                                        <a href="javascript:void 0;"><i class="ico_d_d"></i></a></span>
+                                    <span style="display: none;" class="rt">
+                                        下载:<a href="http://travel.qunar.com/travelbook/books/download/388507.b5bcfb1122.doc"><i class="ico_d_w"></i></a>
+                                        <a href="http://travel.qunar.com/travelbook/books/download/388507.b5bcfb1122.pdf"><i class="ico_d_p"></i></a>
+                                        <!-- <a href=""><i class="ico_d_s"></i></a> -->
+                                    </span>
+                                    aoyr3625</div>
+                                </li>
+                            </ul>
+                        </dd>
+                    </dl>
+
+                    <dl class="dl_hot_tvl dl_hot_tvl_b clrfix">
+                        <dt>
+                            <div class="p_img">
+                                <!-- a href="http://travel.qunar.com/travelbook/books/detail/finish/257817/allView"-->
+                                <a href="http://travel.qunar.com/travelbook/books/detail/finish/257817/allView?from=qunarindexTr1" target="_blank">
+                                    <img alt="" src="http://source.qunar.com/site/images/zhuanti/121101/re2.jpg" height="160" width="140">
+                                </a>
+                            </div>
+
+                            <div class="p_inf">
+                                <h3>
+                                <!-- a href="http://travel.qunar.com/travelbook/books/detail/finish/257817/allView" title="自由行走英国精华13日"-->
+                                <a href="http://travel.qunar.com/travelbook/books/detail/finish/257817/allView?from=qunarindexTr1" target="_blank" title="自由行走英国精华13日">
+                                自由行走英国精...</a></h3>
+                                <div class="m_down" title="">
+                                    <span class="rt"><a href="javascript:void 0;"><i class="ico_d_d"></i></a></span>
+                                    <span style="display: none;" class="rt">
+                                        <a href="http://travel.qunar.com/travelbook/books/download/257817.718900467d.doc"><i class="ico_d_w"></i></a>
+                                        <a href="http://travel.qunar.com/travelbook/books/download/257817.718900467d.pdf"><i class="ico_d_p"></i></a>
+                                        <!-- <a href=""><i class="ico_d_s"></i></a> -->
+                                    </span>
+                                    jadewl
+                                </div>
+                            </div>
+                        </dt>
+                        <dd>
+                            <ul>
+                                <li>
+                                    <h3>
+                                    <!-- a href="http://travel.qunar.com/travelbook/books/detail/finish/182292/allView" title=""-->
+                                    <a href="http://travel.qunar.com/travelbook/books/detail/finish/182292/allView?from=qunarindexTr1" target="_blank" title="">
+                                    法瑞意</a></h3>
+                                    <div class="m_down" title="fionceyoli">
+                                    <span class="rt"><a href="javascript:void 0;"><i class="ico_d_d"></i></a></span>
+                                    <span style="display: none;" class="rt">
+                                        下载:<a href="http://travel.qunar.com/travelbook/books/download/182292.5dfc7bfccc.doc"><i class="ico_d_w"></i></a>
+                                        <a href="http://travel.qunar.com/travelbook/books/download/182292.5dfc7bfccc.pdf"><i class="ico_d_p"></i></a>
+                                        <!-- <a href=""><i class="ico_d_s"></i></a>-->
+                                    </span>fionceyo...</div>
+                                </li>
+                                <li>
+                                    <h3>
+                                    <!-- a href="http://travel.qunar.com/travelbook/books/detail/finish/542226/allView" title=""-->
+                                    <a href="http://travel.qunar.com/travelbook/books/detail/finish/542226/allView?from=qunarindexTr1" target="_blank" title="">
+                                    4天3晚 首尔自由行</a></h3>
+                                    <div class="m_down" title="">
+                                    <span class="rt"><a href="javascript:void 0;"><i class="ico_d_d"></i></a></span>
+                                    <span style="display: none;" class="rt">
+                                        下载:<a href="http://travel.qunar.com/travelbook/books/download/542226.6908182975.doc"><i class="ico_d_w"></i></a>
+                                        <a href="http://travel.qunar.com/travelbook/books/download/542226.6908182975.pdf"><i class="ico_d_p"></i></a>
+                                        <!-- <a href=""><i class="ico_d_s"></i></a>-->
+                                    </span>nbkd2209</div>
+                                </li>
+                                <li class="last">
+                                    <h3>
+                                    <!-- a href="http://travel.qunar.com/travelbook/books/detail/finish/200945/allView" title=""-->
+                                    <a href="http://travel.qunar.com/travelbook/books/detail/finish/200945/allView?from=qunarindexTr1" target="_blank" title="">
+                                    AY的台湾自由行</a></h3>
+                                    <div class="m_down" title="168083842@baidu">
+                                    <span class="rt"><a href="javascript:void 0;"><i class="ico_d_d"></i></a></span>
+                                    <span style="display: none;" class="rt">
+                                        下载:<a href="http://travel.qunar.com/travelbook/books/download/200945.ba65022d59.doc"><i class="ico_d_w"></i></a>
+                                        <a href="http://travel.qunar.com/travelbook/books/download/200945.ba65022d59.pdf"><i class="ico_d_p"></i></a>
+                                        <!-- <a href=""><i class="ico_d_s"></i></a>-->
+                                    </span>16808384...</div>
+                                </li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+            <!--\精彩旅行攻略-->
+            <!--旅途客户端-->
+            <div class="b_hot_wrap" id="js_b_journey" class="hide"></div>
+            <!--\旅途客户端-->
+            <!--酒店全新模式-->
+            <div class="b_hot_wrap" id="js_b_hotelnewmod" class="hide"></div>
+            <!--\酒店全新模式-->
+            <abbr id="banner_home_google" style="display:none;" data-type="qde" data-style="width:100%;margin:6px 0;" data-query="chan=homepage&pg=home&pos=mid&site=qunar&size=728x90"></abbr>
+        </div>
+        <!--\左栏-->
+        <!--右栏-->
+        <div class="l_rside">
+            <!--banner模块-->
+            <div class="b_banner"> <abbr id="banner_home_rightTop" style="display:none;" data-type="qde" data-style="width:100%;margin-bottom:6px;" data-query="chan=homepage&pg=home&pos=top&site=qunar&size=230x260"></abbr> </div>
+            <div class="b_banner"> <abbr id="banner_home_rightMiddle" style="display:none;" data-type="qde" data-style="width:100%;height:90px;margin-bottom:6px;" data-query="chan=homepage&pg=home&pos=top&site=qunar&size=230x90"></abbr> </div>
+            <!-- 24小时 电话 start-->
+            <div class="b_prv_lnk">
+                <div style="display: block;" class="e_prv_tit">
+                    <div class="customer_center">
+                        <p class="custorm_tephone">去哪儿网客服电话：<b>10101234</b></p>
+                        <p class="custom_24"><span class="servers_24"></span>提供<span class="num">24</span>小时服务</p>
+                    </div>
+                </div>
+            </div>
+            <!-- 24小时 电话 end-->
+            <!--\banner模块-->
+            <!--去哪儿网提供的链接-->
+            <div class="b_prv_lnk">
+                <div class="e_prv_tit" id="ifmRightTextlink_head" style="display:none;"> 去哪儿网提供的链接 </div>
+                <div class="e_prv_cont">
+                    <abbr id="ifmRightTextlink" style="display:none;" data-type="qde_text" data-query="chan=homepage&pg=home&pos=right_top&site=qunar&qtype=js&qnum=12&type=textlink" data-style="width:100%;"></abbr>
+                </div>
+            </div>
+
+            <!--\去哪儿网提供的链接-->
+        </div>
+        <!--\右栏-->
+        <div class="clear"></div>
+    </div>
+</div>
+ <abbr id="ad_home_right_bottom" style="display:none;" data-type="qde" data-style="width:100%;margin-bottom:6px;" data-query="chan=homepage&pg=home&pos=right_bottom&site=qunar&size=120x60&type=Floating_window"></abbr>
+<div class="qn_footer">
+    		<style type="text/css">
+			.qn_footer .cr { margin-right:0; text-align:center; }
+			.qn_footer .copyright { padding:5px 0 0; line-height:22px; }
+			.qn_footer .f_imglist { padding-bottom:15px; }
+			.qn_footer .f_imglist ul { width:671px; margin:0 auto; padding-bottom:4px; overflow:hidden; }
+			.qn_footer .f_imglist li { float:left; margin-right:10px; display:inline; }
+			.qn_footer .f_imglist li a { display:block; width:100%; height:49px; }
+			.qn_footer .f_imglist .f_icon_itrust { width:127px; height:49px; background:url(http://simg4.qunarzz.com/common/hf/footer_v4.png) 0 0 no-repeat; }
+			.qn_footer .f_imglist .f_icon_beian { width:117px; height:49px; background:url(http://simg4.qunarzz.com/common/hf/footer_v4.png) -132px 0 no-repeat; }
+			.qn_footer .f_imglist .f_icon_ec { width:137px; height:49px; background:url(http://simg4.qunarzz.com/common/hf/footer_v4.png) -254px 0 no-repeat; }
+			.qn_footer .f_imglist .f_icon_pata { width:117px; height:49px; background:url(http://simg4.qunarzz.com/common/hf/footer_v4.png) -396px 0 no-repeat; }
+			.qn_footer .f_imglist .f_icon_cnnic{width:133px; height:49px; background:url(http://simg4.qunarzz.com/common/hf/footer_v4.png) -518px 0 no-repeat;margin-right:0;}
+			.qn_footer .clr { clear:both; height:0; overflow:hidden; }
+		</style>
+		<div class="cr">
+			<p class="links"> <a href="http://www.qunar.com/site/zh/Qunar.in.China_1.2.shtml" target="_top" rel="nofollow">关于Qunar.com</a>|<a href="http://www.qunar.com/site/zh/ContactUs_3.shtml" target="_top" rel="nofollow">联系我们</a>|<a href="http://www.qunar.com/site/zh/Cooperate_4.shtml" target="_top" rel="nofollow">业务合作</a>|<a href="http://hotelzt.qunar.com/xuanchuan/index.html?from=qunarfooter" target="_blank" rel="nofollow">酒店加盟</a>|<a href="http://hot.qunar.com/" target="_top">媒体报道</a>|<a href="http://www.qunar.com/site/zh/Jobs_2.shtml" target="_top" rel="nofollow">职位招聘</a>|<a href="http://www.qunar.com/site/zh/Rules.shtml" target="_top" rel="nofollow">用户协议</a>|<a href="http://www.qunar.com/site/zh/Question_7.shtml" target="_top" rel="nofollow">常见问题</a>|<a href="http://www.qunar.com/site/zh/Links_8.shtml" target="_top">友情链接</a>|<a href="http://help.qunar.com/complaint.html" class="hl" target="_blank" rel="nofollow">我要投诉</a>|<a href="http://www.qunar.com/site/en/Qunar.in.China_1.1.shtml" target="_top" rel="nofollow">About Us</a> </p>
+			<p class="copyright"><a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow">京ICP备05021087号</a> &nbsp; <a href="http://downtmp.qunar.com/qunaricp.pdf" target="_blank" rel="nofollow">电信与信息服务业务经营许可证060856号</a> &nbsp; 北京市公安局海淀分局备案编号:京公网安备110108901530<br />
+				Copyright &copy; 2013 Qunar.com Inc. All Rights Reserved.</p>
+		</div>
+		<div class="f_imglist">
+			<ul>
+				<li class="f_icon_itrust"><a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1786892425" target="_blank" rel="nofollow" title="信用编码：1786892425"></a></li>
+				<li class="f_icon_beian"><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007112700003" target="_blank" rel="nofollow"></a></li>
+				<li class="f_icon_ec"><a href="https://search.szfw.org/cert/l/CX20130509002871002587" target="_blank" rel="nofollow"></a></li>
+				<li class="f_icon_pata"></li>
+				<li class="f_icon_cnnic"><a href="https://ss.cnnic.cn/verifyseal.dll?sn=e13082611010042147pfgv000000" target="_blank" rel="nofollow"></a></li>
+			</ul>
+			<div class="clr"></div>
+		</div>
+
+    <div class="seo">
+	<dl class="seo_links">
+		<dt>友情链接</dt>
+		<dd>
+			<span><a href=" http://lvyou.baidu.com/" title="百度旅游" target="_blank">百度旅游</a>|</span>
+			<span><a href="http://www.fadoushi.com/" title="法斗士" target="_blank">法斗士</a>|</span>
+			<span><a href="http://www.17u.cn/" title="同程网" target="_blank">同程网</a>|</span>
+			<span><a href="http://www.tuniu.com/" title="途牛旅游网" target="_blank">途牛旅游网</a>|</span>
+			<span><a href="http://www.hc360.com/" title="hc360慧聪网" target="_blank">慧聪网</a>|</span>
+			<span><a href="http://www.cntl.org/" title="中国旅游休闲网" target="_blank">中国旅游休闲网</a>|</span>
+            <span><a href="http://www.china-sss.com/" title="春秋航空" target="_blank">春秋航空</a>|</span>
+            <span><a href="http://www.rong360.com/" title="融360" target="_blank">融360</a>|</span>
+            <span><a href="http://www.xcar.com.cn/" title="爱卡汽车" target="_blank">爱卡汽车</a>|</span>
+            <span><a href="http://www.9youxi.com/" title="有戏网" target="_blank">有戏网</a>|</span>
+            <span><a href="http://e.weibo.com/qunar" title="去哪儿网官方微博" target="_blank">去哪儿网官方微博</a>|</span>
+            <span><a href="http://www.hotelsorting.es/" title="Hoteles" target="_blank">Hoteles</a></span>
+             <br />
+		    <div class="clr"></div>
+		</dd>
+	</dl>
+	<dl class="seo_links">
+		<dt>快速链接</dt>
+		<dd>
+			<span><a href="http://www.qunar.com/zt/hongkong_city/" title="香港旅游" target="_blank">香港旅游</a>|</span>
+			<span><a href="http://www.qunar.com/zt/lijiang/" title="丽江旅游" target="_blank">丽江旅游</a>|</span>
+			<span><a href="http://www.qunar.com/zt/xiamen/" title="厦门旅游" target="_blank">厦门旅游</a>|</span>
+			<span><a href="http://www.qunar.com/zt/kunming/" title="昆明旅游" target="_blank">昆明旅游</a>|</span>
+			<span><a href="http://www.qunar.com/zt/beijing_city/" title="北京旅游" target="_blank">北京旅游</a>|</span>
+			<span><a href="http://www.qunar.com/zt/guilin/" title="桂林旅游" target="_blank">桂林旅游</a>|</span>
+			<span><a href="http://www.qunar.com/zt/sanya/" title="三亚旅游" target="_blank">三亚旅游</a>|</span>
+			<span><a href="http://www.qunar.com/zt/chengdou/" title="成都旅游" target="_blank">成都旅游</a>|</span>
+			<span><a href="http://www.qunar.com/zt/jiuzhaigou/" title="九寨沟旅游" target="_blank">九寨沟旅游</a>|</span>
+			<span><a href="http://www.qunar.com/zt/hangzhou/" title="杭州旅游" target="_blank">杭州旅游</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/beijing_city/" title="北京酒店" target="_blank">北京酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/sanya/" title="三亚酒店" target="_blank">三亚酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/hongkong_city/" title="香港酒店" target="_blank">香港酒店</a></span>
+			<br />
+			<span><a href="http://hotel.qunar.com/city/xiamen/" title="厦门酒店" target="_blank">厦门酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/hangzhou/" title="杭州酒店" target="_blank">杭州酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/qingdao/" title="青岛酒店" target="_blank">青岛酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/shanghai_city/" title="上海酒店" target="_blank">上海酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/macao_city/" title="澳门酒店" target="_blank">澳门酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/jiuzhaigou/" title="九寨沟酒店" target="_blank">九寨沟酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/xian/" title="西安酒店" target="_blank">西安酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/shenzhen/" title="深圳酒店" target="_blank">深圳酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/lijiang/" title="丽江酒店" target="_blank">丽江酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/nanjing/" title="南京酒店" target="_blank">南京酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/tianjin_city/" title="天津酒店" target="_blank">天津酒店</a>|</span>
+			<span><a href="http://hotel.qunar.com/city/jilin_city/" title="吉林酒店" target="_blank">吉林酒店</a>|</span>
+			<span><a href="http://lh.qunar.com/" title="高端酒店" target="_blank">高端酒店</a></span>
+			<br />
+			<span><a href="http://bnb.qunar.com/" title="客栈民宿" target="_blank">客栈民宿</a>|</span>
+			<span><a href="http://www.qunar.com/zt/" title="旅游网" target="_blank">旅游网</a>|</span>
+			<span><a href="http://baike.baidu.com/view/1664686.htm" title=" 去哪儿百科" target="_blank"> 去哪儿百科</a>|</span>
+			<span><a href="https://play.google.com/store/apps/details?id=com.Qunar&hl=zh_CN" title="去哪儿旅行" target="_blank">去哪儿旅行</a>|</span>
+			<span><a href="https://itunes.apple.com/cn/app/qu-na-er-lu-xing-ji-piao-jiu/id395096736?mt=8" title="去哪儿APP" target="_blank">去哪儿APP</a></span>
+			<div class="clr"></div>
+		</dd>
+   </dl>
+</div>
+
+</div>
+<img id="allocateCookie" src="http://www.qunar.com/twell/cookie/allocateCookie.jsp" style="display:none" />
+<iframe id="js_ifrmHistory" style="width:1px;height:1px;visibility:hidden;position:absolute" src=""></iframe>
+<script type="text/javascript">
+
+    var SERVER_TIME = new Date('2013/09/24');
+    var CLIENT_TIME = new Date();
+    var QZZVERSION = "2013091719185802";
+    var IP_ADDRESS = "";
+    var __getip__ = function(obj) {
+        var city = location.search.match(/debug=city=([^&#]+)/);
+        IP_ADDRESS = city ? decodeURI(city[1]) : obj["city"];
+    };
+    document.write("<script src='http://ws.qunar.com/ips.jcp?callback=__getip__'></scr" + "ipt>");
+
+    (function(){
+        window._ba_utm_init = function(GA){
+            var ga = this;
+            window['_ba_utm_l'] = 'w';
+            window['_ba_utm_s'] = '170';
+        };
+        //-- load ga script
+        var s = document.createElement('script');
+        s.src = 'http://bc.qunar.com/js/ga.min.js';
+        var head = document.getElementsByTagName('head');
+        if(head&&head[0]) { head[0].appendChild(s); }
+    })();
+</script>
+<script src="http://qunarzz.com/jquery/prd/jquery-1.7.2.min.js"></script>
+<script src="http://qunarzz.com/home/prd/scripts/geilivible/release/home-2013091719185802.js"></script>
+<script src="http://bmrg.qunar.com/js/bmrg.js"></script>
+<script type="text/javascript">
+    if (typeof BOOMR != 'undefined') {
+        BOOMR.init({beacon_url: "http://bmrg.qunar.com/home"});
+    }
+</script>
+</body>
+</html>

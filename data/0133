@@ -1,0 +1,303 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head> 
+<meta content="text/html; charset=GB2312" http-equiv="content-type">
+<title>百度一下帮助中心-图片搜索帮助</title>
+<link href="img/help.css" rel="stylesheet" type="text/css">
+<script language="javascript"> 
+<!--
+function h(obj,url){
+obj.style.behavior='url(#default#homepage)';
+obj.setHomePage(url);
+}
+-->
+</script>
+<script> 
+<!--
+function g(url){
+var url;
+window.location.href=url;
+}
+function h(obj,url){
+obj.style.behavior='url(#default#homepage)';
+obj.setHomePage(url);
+}
+function gg(formname,arg){
+var url;
+switch(formname.s.value)
+{
+	case "1":
+		url="http://image.baidu.com/i";
+		document.f1.tn.value="baiduimage";
+		document.f1.ct.value="201326592";
+		document.f1.cl.value="2";
+		break;
+	case "2":
+		url="http://imgnews.baidu.com/i";
+		document.f1.tn.value="baiduimagenews";
+		document.f1.ct.value="419430400";
+		document.f1.z.value="0";
+		document.f1.cl.value="3";
+		break;
+	case "3":
+		url="http://image.baidu.com/i";
+		document.f1.tn.value="baiduimage";
+		document.f1.ct.value="201326592";
+		document.f1.cl.value="2";
+		document.f1.z.value="3";
+		break;
+	case "4":
+		url="http://image.baidu.com/i";
+		document.f1.tn.value="baiduimage";
+		document.f1.ct.value="201326592";
+		document.f1.cl.value="2";
+		document.f1.z.value="2";
+		break;
+	case "5":
+		url="http://image.baidu.com/i";
+		document.f1.tn.value="baiduimage";
+		document.f1.ct.value="201326592";
+		document.f1.cl.value="2";
+		document.f1.z.value="1";
+		break;
+	case "6":
+		url="http://image.baidu.com/i";
+		document.f1.tn.value="baiduimage";
+		document.f1.ct.value="201326592";
+		document.f1.cl.value="2";
+		document.f1.z.value="5";
+		break;
+}
+ 
+formname.action = url;
+return true;
+}
+-->
+</script>
+<script>
+function resetSize(formName){document.forms[formName].z.value = 0;}
+function f_submit(form){if (form.s[0].checked) {form.tn.value = "baiduimagenews";form.ct.value = "419430400";form.lm.value = "-1";form.cl.value = "2";form.pv.value = "2";form.action = "http://imgnews.baidu.com/i";}else {form.tn.value = "baiduimage";form.ct.value = "201326592";form.cl.value = "2";form.lm.value = "-1";form.pv.value = "";form.action = "http://image.baidu.com/i";}return true;}
+</script>
+</head>
+<body>
+	<a name="n"></a>
+	<table align="center" border="0" width="95%">
+		<tbody>
+			<tr height="60"> 
+				<td height="69" valign="top" width="139"><a href="http://www.baidu.com/"><img src="image_help_files/logo.gif" border="0"></a></td>
+				<td valign="bottom"> 
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr bgcolor="#e5ecf9"> 
+								<td height="24">&nbsp;<b class="p1">图片搜索帮助</b></td>
+								<td class="p2" height="24"><div align="right"><a href="http://www.baidu.com/search/jiqiao.html">帮助中心</a> &nbsp;</div></td>
+							</tr>
+							<tr><td class="p2" colspan="2" height="20"></td></tr>
+						</tbody>
+					</table>
+				</td>
+			 </tr>
+		</tbody>
+	</table>
+	<table align="center" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr><td colspan="3" height="5"></td></tr>
+			<tr> 
+				<td colspan="3" class="padd10" height="19"><a href="#n1" class="p3"><b>图片搜索介绍</b></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#n2" class="p3"><b>图片使用入门</b></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#n3" class="p3"><b>实用功能</b></a><sup>hot</sup>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#n4" class="p3"><b>常见问题</b></a><sup>hot</sup>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<b class="p1"><a name="n1"></a></b><br/>
+	<table align="center" border="0" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td> 
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr><td bgcolor="#e5ecf9" width="750">&nbsp;<b class="p1">图片搜索介绍</b></td></tr>
+							<tr><td class="padd10"><p class="p2"><br/><strong>百度图片搜索</strong>引擎是世界上最大的中文图片搜索引擎，百度从数十亿中文网页中提取各类图片，建立了世界第一的中文图片库。目前为止，百度图片搜索引擎可检索图片已经近亿张。 <br/><strong>百度新闻图片搜索</strong>从中文新闻网页中实时提取新闻图片，它具有新闻性、实时性、更新快等特点。<br/></p></td></tr>
+						</tbody>
+					</table>
+					<p class="padd10 p2"><a href="http://image.baidu.com/" target="_blank" class="p3">进入百度图片首页</a> <br/></p>
+					<b class="p1"><a name="n2"></a></b>
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr><td bgcolor="#e5ecf9" width="750">&nbsp;<b class="p1">图片使用入门</b></td></tr>
+							<tr><td class="padd10">
+								<span class="p2"><strong><br/>简述：</strong> 在 图片搜索框 中输入您要搜索的关键字(例如：<span class="style1">范冰冰</span>)，再点击 <span class="style1">百度一下</span> 按钮，即可搜索出相关的全部图片。<br/> </span><br/>
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tbody>
+										<tr>
+											<td valign="top" width="35%"><b><span class="p2">                  第一步：<br/></span></b> <span class="p2"> 输入关健字（例如：</span><span class="style3">范冰冰</span><span class="p2">），并点击</span><span class="style3">百度一下</span><span class="p2">按钮 。<br/>通过</span><span class="p2">单选框的“新闻图片”、“壁纸”等选项匹配您要搜索的图片类型。 </span></td>
+											<td class="p2"> 
+												<div align="right">
+													<form onsubmit="return f_submit(this)" action="http://image.baidu.com/i" name="f1" target="_blank">
+														<br/>
+														<table align="center" border="0" width="450">
+														  <tbody><tr> 
+															<td colspan="2"> 
+															  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+																<tbody><tr> 
+																  <td width="50%"> 
+																	<div align="center"><font size="2"><b><font color="#666666">输入搜索关键词</font></b></font></div>
+																  </td>
+																  <td colspan="2"> 
+																	<div align="right"><font size="2"><b><font color="#666666">点击按钮得到搜索结果</font></b></font></div>
+																  </td>
+																</tr>
+																<tr> 
+																  <td> 
+																	<div align="center"><img src="image_help_files/09.gif" height="16" width="9"></div>
+																  </td>
+																  <td width="30%"> 
+																	<div align="center"></div>
+																  </td>
+																  <td width="20%"><img src="image_help_files/09.gif" height="16" width="9"></td>
+																</tr>
+															  </tbody></table>
+															</td>
+														  </tr>
+														  <tr> 
+															<td width="60%"> 
+															  <table bgcolor="#ffffff" border="0" cellpadding="1" cellspacing="0">
+																<tbody><tr> 
+																	<td bgcolor="#ffffff">
+																		<noscript style="display:none;">&lt;input name=tn type=hidden value=baiduimagenojs&gt;&lt;input name=rn type=hidden value=20&gt;</noscript>
+																		<input type="hidden" value="201326592" name="ct"><input type="hidden" value="2" name="cl"><input type="hidden" value="-1" name="lm"><input type="hidden" value="baiduimage" name="tn">
+																		<input type="hidden" value="" name="pv"><input type="hidden" value="0" name="z">
+																		<span id="sugIn"><input name="word" value="范冰冰"  type="text" size="42" maxLength="100" autocomplete="off" style="font:16px aria; padding:3px 1px; width:391px;"></span>
+																	</td>
+																</tr>
+															  </tbody></table>                        </td>
+															<td width="20%"> 
+															  <table bgcolor="#ffffff" border="0" cellpadding="1" cellspacing="0">
+																<tbody><tr> 
+																  <td bgcolor="#ffffff"> 
+																	<input type="submit" class="sb" value="百度一下"  style="height:2em;width:5.6em;margin-left:6px;font-size:14px;vertical-align:top;">
+																  </td>
+																</tr>
+															  </tbody></table>                        </td>
+														  </tr>
+														  <tr> 
+															<td> 
+															  <table bgcolor="#ffffff" border="0" cellpadding="1" cellspacing="0">
+																<tbody><tr> 
+																  <td bgcolor="#ffffff" style="font:12px arial;text-align:left"> 
+																	<label onclick="resetSize('f1');" for="newspic"><input type="radio" value="0" id="newspic" name="s">新闻图片</label>
+																	<label onclick="resetSize('f1');" for="allPic"><input type="radio" value="0" checked="" id="allPic" name="s">全部图片</label>
+																	<label onclick="setWallpaper('f1')" for="wallPic"><input type="radio" value="1" id="wallPic" name="s">壁纸</label>
+																	<label onclick="resetSize('f1');" for="emoPic"><input type="radio" value="2" id="emoPic" name="s">表情</label>
+																	<label onclick="resetSize('f1');" for="headPic"><input type="radio" value="3" id="headPic" name="s">头像</label>
+																	</td>
+																</tr>
+															  </tbody></table>
+															</td>
+															<td></td>
+															</tr>
+														  <tr> 
+															<td colspan="2">
+															  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+																<tbody><tr> 
+																  <td width="100%"> 
+																	<div align="center"><font size="2"><b><img src="image_help_files/11.gif" height="16" width="9"></b></font></div>
+																  </td>
+																  <td width="100%"> 
+																	<div align="right"><font size="2"><b></b></font></div>
+																  </td>
+																</tr>
+																<tr>
+																  <td> 
+																	<div align="center"><font size="2"><b><font color="#666666">选择类型</font></b></font></div>
+																  </td>
+																  <td> 
+																	<div align="center"></div>
+																  </td>
+																</tr>
+															  </tbody></table>
+															</td>
+														  </tr>
+														</tbody></table>
+													</form>
+												</div>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+								<br/>
+								<div class="hr"></div>
+								<br/>
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tbody><tr> 
+										<td valign="top" width="35%"><b><span class="p2">                  第二步：<br/></span></b><span class="p2"> 在搜索结果页面中，点击合适的图片，可将图片放大观看。</span></td>
+										<td><div align="center"><img src="image_help_files/image-1-2.gif" height="211" width="532"><br/><img src="image_help_files/image-1-2_.gif" height="31" width="532"></div></td>
+									</tr></tbody>
+								</table>
+								<br/>
+								<div class="hr"></div>
+								<br/>
+								<b></b> 
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tbody><tr> 
+										<td valign="top" width="35%"><b><span class="p2">                  第三步：<br/></span></b><span class="p2">如果想看到更多的图片，可以点击页面底部的翻页（或使用键盘的←、→方向键）来查看更多搜索结果。<br/>翻页后页面将自动定位到第一行图片上方，无需滚动页面即可浏览本页全部图片。</span></td>
+										<td><div align="center"><img src="image_help_files/image-1-3.gif" height="91" width="532"><br/><img src="image_help_files/image-1-3_.gif" height="79" width="532"></div></td>
+									</tr></tbody>
+								</table>
+								<br/>
+								<b class="p1"><a name="n3"></a></b><br/>
+								<div align="right"><a href="#n" class="p3">返回页首</a> </div>
+								<div align="right"> </div>
+							</td></tr>
+						</tbody>
+					</table>
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr><td bgcolor="#e5ecf9">&nbsp;<b class="p1">实用功能</b></td></tr>
+							<tr><td class="padd10"> <br/>
+								<b><span class="p2">筛选栏<br/></b></span><p style="width:90%;padding:0; margin:0; padding-left:2em;"><span class="p2">筛选栏在搜索结果页面的左侧，默认为隐藏状态。您可以使用该工具栏，同时对搜索结果的尺寸、颜色和类型进行筛选。</span></p>
+								<p><b><span class="p2">高级搜索语法<br/></b></span></p>
+								<ul class="sygn">
+									<li><p><b><span class="p2">把搜索范围限定在特定网页中——ft<br/></span></b><span class="p2">有时候，您如果知道某些网页中有自己需要找的图片，就可以把搜索范围限定在这些网页中，提高查询效率。使用方式是：在查询内容的后面加上“ft:网页地址”。<br/><b>例如</b>，您想搜索出现在百度贴吧中的范冰冰的图片，就可以这样查询：<a target="_blank" href="http://image.baidu.com/i?tn=baiduimage&ct=201326592&cl=2&lm=-1&fr=&pv=&ic=0&z=0&se=1&showtab=0&fb=0&width=&height=&face=0&word=%B7%B6%B1%F9%B1%F9+ft%3Atieba.baidu.com&s=0#width=&height=&z=0&fb=0&ic=0&lm=-1&face=0">范冰冰 ft:tieba.baidu.com</a><br/>搜索到的图片的来源地址均包含tieba.baidu.com，如http://<span style="color:#0033cc">tieba.baidu.com</span>/%B7%B6%B1%F9%B1%F9/tupian/item/9d25ab18159f002535fa41bc.html?fr=image_tieba</span></p></li>
+									<li><p><b><span class="p2">把搜索范围限定在特定站点中——site<br/></span></b><span class="p2">有时候，您如果知道某个站点中有自己需要找的图片，就可以把搜索范围限定在这个站点中，提高查询效率。使用方式是：在查询内容的后面加上“site:站点域名”。<br/><b>例如</b>，您想搜索存在百度空间相册里的范冰冰的图片，就可以这样查询：<a target="_blank" href="http://image.baidu.com/i?tn=baiduimage&ct=201326592&cl=2&lm=-1&fr=&pv=&ic=0&z=0&se=1&showtab=0&fb=0&width=&height=&face=0&word=%B7%B6%B1%F9%B1%F9+site%3Ahiphotos.baidu.com&s=0#width=&height=&z=0&fb=0&ic=0&lm=-1&face=0">范冰冰 site:hiphotos.baidu.com</a><br/>搜索到的图片的URL地址均包含hiphotos.baidu.com，如http://<span style="color:#0033cc">hiphotos.baidu.com</span>/liupanbing/pic/item/16c0f993484d9cc4a877a43a.jpg</span><p><p>注意，“网页地址”或“站点域名”，<strong>不要带“http://”</strong>；另外，“ft:”与“网页地址”、“site:”与“站点域名”之间，<strong>不要带空格</strong>。</p></li>
+								</ul>
+								
+								<b><span class="p2">明星结果页<br/></b></span><p style="width:90%;padding:0; margin:0; padding-left:2em;"><img style="float:right;" src="image_help_files/04.jpg"><span class="p2">当您输入的关键字为某位明星时（例如：梁咏琪），搜索结果将按壁纸桌面、生活照等进行分类。您可以通过点击标签，进行分类浏览。</span></p>
+								<br style="clear:both;"/></td>
+							</tr>
+						</tbody>
+					</table>
+					<b class="p1"><a name="n4"></a></b><br/>
+					<div align="right"><a href="#n" class="p3">返回页首</a> </div>
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr><td bgcolor="#e5ecf9">&nbsp;<b class="p1">常见问题</b></td></tr>
+							<tr><td> <br/>
+								  <ol>
+									<li><a href="http://www.baidu.com/search/faq_image.html#01" target="_blank" class="p3">                如何上传本地图片，并让它出现在百度图片搜索的结果中？</a></li>
+									<li><a href="http://www.baidu.com/search/faq_image.html#02" target="_blank" class="p3">                如何删除图片搜索结果中涉嫌侵犯我的合法权益的图片？</a></li>
+									<li><a href="http://www.baidu.com/search/faq_image.html#03" target="_blank" class="p3">                如何将搜索到的图片上传到空间或用作头像？</a></li>
+									<li><a href="http://www.baidu.com/search/faq_image.html#04" target="_blank" class="p3">                为什么有时候点击图片后无法查看大图？</a></li>
+									<li><a href="http://www.baidu.com/search/faq_image.html#05" target="_blank" class="p3">                如何开启浏览器的Cookie功能？</a></li>
+								  </ol>
+									<p>* 如果还有问题，请到<a href="http://post.baidu.com/f?ct=&amp;tn=&amp;rn=&amp;pn=&amp;lm=&amp;kw=%CD%BC%C6%AC%CB%D1%CB%F7&amp;rs2=0&amp;myselectvalue=1&amp;word=%CD%BC%C6%AC%CB%D1%CB%F7&amp;tb=on" target="_blank" class="p3">图片搜索吧</a>去问问吧。 </p>
+								<br/></td>
+							</tr>
+						</tbody>
+					</table>
+					<div align="right"><a href="#n" class="p3">返回页首</a> </div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div align="right"></div>
+	<div class="hr" style="width:95%"></div>
+	<table align="center" border="0" width="95%">
+		<tbody><tr> 
+			<td class="p1" align="center"> <font color="#666666">&#169; 2013 Baidu</font> 
+			<a class="ft" color="#666666" href="http://www.baidu.com/duty/index.html"><font color="#666666">免责声明</font></a></td>
+		</tr></tbody>
+	</table>
+<script type="text/javascript"> 
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff90527e744f60fefa18b81aa1d8811da' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.baidu.com/search/image_help_files/h_002.js" type="text/javascript"></script><script src="http://www.baidu.com/search/image_help_files/h.js" type="text/javascript"></script>
+</body></html>

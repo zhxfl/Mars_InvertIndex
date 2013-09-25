@@ -1,0 +1,466 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">自然</span> <span class="f14">分类下的开放分类共有100个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34545">动物</a>(27)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34546">植物</a>(19)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34547">微生物</a>(19)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34548">人类</a>(12)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34549">天文</a>(16)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34550">自然现象</a>(7)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34545" id="34545"></a>
+<div class="dirtit">动物</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%D6%C1%FA"target="_blank">恐龙</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%A5%B3%E6"target="_blank">昆虫</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%E3%C0%E0"target="_blank">鱼类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%F1%C0%E0"target="_blank">鸟类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%AE%C0%E0"target="_blank">犬类</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%C0%D0%D0%C0%E0"target="_blank">爬行类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%B8%C8%E9%C0%E0"target="_blank">哺乳类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%DE%D7%E3%C0%E0"target="_blank">无足类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%B3%C8%E2%C0%E0"target="_blank">食肉类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%E9%B3%A4%C0%E0"target="_blank">灵长类</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%D7%BF%C7%C0%E0"target="_blank">甲壳类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%BC%CC%E3%C0%E0"target="_blank">偶蹄类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%E6%CC%E3%C0%E0"target="_blank">奇蹄类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%B3%B3%E6%C0%E0"target="_blank">食虫类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%C9%FA%CE%EF"target="_blank">古生物</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%ED%CC%E5%B6%AF%CE%EF"target="_blank">软体动物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%ED%B9%C7%D3%E3%C0%E0"target="_blank">软骨鱼类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%B2%B9%C7%D3%E3%C0%E0"target="_blank">硬骨鱼类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%AD%C9%FA%B6%AF%CE%EF"target="_blank">原生动物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%DA%D6%AB%B6%AF%CE%EF"target="_blank">节肢动物</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%BD%C6%DC%B6%AF%CE%EF"target="_blank">两栖动物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%E4%C7%DD%D2%EC%CA%DE"target="_blank">珍禽异兽</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%C0%BD%E7%C3%FB%C8%AE"target="_blank">世界名犬</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%E4%CF%A1%B1%F4%CE%A3%B6%AF%CE%EF"target="_blank">珍稀濒危动物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AF%CE%EF"target="_blank">动物</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%F1%B8%D9"target="_blank">鸟纲</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%B8%D0%CE%C4%BF"target="_blank">雀形目</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34546" id="34546"></a>
+<div class="dirtit">植物</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%E8%D2%B6"target="_blank">茶叶</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%A8%BB%DC"target="_blank">花卉</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%C7%C4%BE"target="_blank">乔木</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%E0%C4%BE"target="_blank">灌木</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%E5%C0%E0"target="_blank">藻类</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%DE%A7%C0%E0"target="_blank">蕨类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%A6%DE%BA"target="_blank">苔藓</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%B2%DD%D2%A9"target="_blank">中草药</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%DD%B1%BE%D6%B2%CE%EF"target="_blank">草本植物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%BE%B1%BE%D6%B2%CE%EF"target="_blank">木本植物</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%E6%DF%D7%D3%D6%B2%CE%EF"target="_blank">孢子植物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%BB%D7%D3%D6%B2%CE%EF"target="_blank">被子植物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%E3%D7%D3%D6%B2%CE%EF"target="_blank">裸子植物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%E0%BD%AC%D6%B2%CE%EF"target="_blank">多浆植物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%DE%B8%F9%D6%B2%CE%EF"target="_blank">宿根植物</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%D9%B1%BE%D6%B2%CE%EF"target="_blank">藤本植物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%B2%CE%EF"target="_blank">植物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%A9%D7%F7%CE%EF"target="_blank">农作物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%CC%B1%BE%BF%C6"target="_blank">禾本科</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34547" id="34547"></a>
+<div class="dirtit">微生物</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%E6%BE%FA"target="_blank">真菌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B8%BE%FA"target="_blank">细菌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%BE%FA"target="_blank">古菌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%B9%BE%FA"target="_blank">霉菌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%B6%D4%E5"target="_blank">蓝藻</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%A1%B6%BE"target="_blank">病毒</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%E0%B2%A1%B6%BE"target="_blank">类病毒</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%E2%B2%A1%B6%BE"target="_blank">拟病毒</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%C7%B2%A1%B6%BE"target="_blank">亚病毒</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%C5%CF%DF%BE%FA"target="_blank">放线菌</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%A7%D4%AD%CC%E5"target="_blank">支原体</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%C2%D4%AD%CC%E5"target="_blank">衣原体</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%DD%D0%FD%CC%E5"target="_blank">螺旋体</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%C9%BE%FA%CC%E5"target="_blank">噬菌体</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%CD%C4%B8%BE%FA"target="_blank">酵母菌</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%B3%D3%C3%BE%FA"target="_blank">食用菌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%E6%BA%CB%C9%FA%CE%EF"target="_blank">真核生物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%AD%BA%CB%C9%FA%CE%EF"target="_blank">原核生物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%A2%BF%CB%B4%CE%CC%E5"target="_blank">立克次体</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34548" id="34548"></a>
+<div class="dirtit">人类</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%CB%CC%E5"target="_blank">人体</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%CB%D6%D6"target="_blank">人种</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%A8%CE%BB"target="_blank">穴位</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%F7%B9%D9"target="_blank">器官</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%C7%C8%CB"target="_blank">智人</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%DC%C8%CB"target="_blank">能人</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%AA%C4%B1%C8%CB"target="_blank">元谋人</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%B6%CC%EF%C8%CB"target="_blank">蓝田人</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%B1%C1%A2%C8%CB"target="_blank">直立人</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%BD%B6%A5%B6%B4%C8%CB"target="_blank">山顶洞人</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%CF%B7%BD%B9%C5%D4%B3"target="_blank">南方古猿</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%B1%BE%A9%D4%B3%C8%CB"target="_blank">北京猿人</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34549" id="34549"></a>
+<div class="dirtit">天文</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C7%D7%F9"target="_blank">星座</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%E5%E7%D0%C7"target="_blank">彗星</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%C9%CA%AF"target="_blank">陨石</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C7%CD%C5"target="_blank">星团</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C7%CB%DE"target="_blank">星宿</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%D0%D0%C7"target="_blank">行星</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%E3%D0%C7"target="_blank">恒星</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C0%D0%C7"target="_blank">卫星</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C7%D4%C6"target="_blank">星云</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%A1%D0%D0%D0%C7"target="_blank">小行星</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%AB%D1%F4%CF%B5"target="_blank">太阳系</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%F8%BA%D3%CF%B5"target="_blank">银河系</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%BD%B2%E2%C6%F7"target="_blank">探测器</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%CB%B4%F3%D0%D0%D0%C7"target="_blank">八大行星</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%EC%CE%C4%CA%F5%D3%EF"target="_blank">天文术语</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%EC%CE%C4"target="_blank">天文</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34550" id="34550"></a>
+<div class="dirtit">自然现象</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%F8%BA%F2"target="_blank">气候</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%D8%D5%F0"target="_blank">地震</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%E9%CB%AE"target="_blank">洪水</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%DB%C8%BE"target="_blank">污染</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%AC%C6%C2"target="_blank">滑坡</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%D4%C8%BB%D4%D6%BA%A6"target="_blank">自然灾害</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%AC%D7%D4%C8%BB%CF%D6%CF%F3"target="_blank">超自然现象</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--03987004710643507210092423-->
+<script> var _trace_page_logid = 0398700471; </script>

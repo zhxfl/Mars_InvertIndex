@@ -1,0 +1,480 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">历史</span> <span class="f14">分类下的开放分类共有111个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34638">朝代</a>(29)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34535">远古史</a>(22)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34536">中国古代史</a>(12)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34537">中国近现代史</a>(23)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34538">世界历史</a>(20)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34616">历史地理</a>(5)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34638" id="34638"></a>
+<div class="dirtit">朝代</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%E5%B3%AF"target="_blank">清朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F7%B3%AF"target="_blank">明朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%C6%B3%AF"target="_blank">唐朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%CE%B3%AF"target="_blank">宋朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%AA%B3%AF"target="_blank">元朝</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BA%B3%AF"target="_blank">汉朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%CC%B3%AF"target="_blank">商朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%D8%B3%AF"target="_blank">秦朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%E5%B3%AF"target="_blank">隋朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%CF%B3%AF%CB%CE"target="_blank">南朝宋</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%CF%B3%AF%B3%C2"target="_blank">南朝陈</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%C4%B3%AF"target="_blank">夏朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%CF%B3%AF%C1%BA"target="_blank">南朝梁</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%F4%C0%EF%BF%CB%CD%F5%B3%AF"target="_blank">留里克王朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%A2%B0%CE%CB%B9%CD%F5%B3%AF"target="_blank">阿拔斯王朝</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%D0%C0%D5%C3%DC%CD%F5%B3%AF"target="_blank">托勒密王朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%BC%EE%EC%CD%F5%B3%AF"target="_blank">都铎王朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%F0%C8%B8%BB%A8%CD%F5%B3%AF"target="_blank">金雀花王朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%D7%C8%B8%CD%F5%B3%AF"target="_blank">孔雀王朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%D6%DC"target="_blank">西周</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AB%D6%DC"target="_blank">东周</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%BD%FA"target="_blank">西晋</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AB%BD%FA"target="_blank">东晋</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%BA%BA"target="_blank">西汉</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AB%BA%BA"target="_blank">东汉</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%B1%CE%BA"target="_blank">北魏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%F1%BA%BA"target="_blank">蜀汉</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%B1%CB%CE"target="_blank">北宋</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%CF%CB%CE"target="_blank">南宋</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34535" id="34535"></a>
+<div class="dirtit">远古史</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%DA%A4%B9%C5%B4%FA"target="_blank">冥古代</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%AB%B9%C5%B4%FA"target="_blank">太古代</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%AA%B9%C5%B4%FA"target="_blank">元古代</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%F0%B5%A9%BC%CD"target="_blank">震旦纪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%C9%FA%B4%FA"target="_blank">古生代</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%AE%CE%E4%BC%CD"target="_blank">寒武纪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%CC%D5%BC%CD"target="_blank">奥陶纪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%BE%C1%F4%BC%CD"target="_blank">志留纪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%AF%CC%BF%BC%CD"target="_blank">石炭纪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%FE%B5%FE%BC%CD"target="_blank">二叠纪</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%C9%FA%B4%FA"target="_blank">中生代</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%FD%B5%FE%BC%CD"target="_blank">三叠纪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D9%AA%C2%DE%BC%CD"target="_blank">侏罗纪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%D7%DB%D1%BC%CD"target="_blank">白垩纪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C2%C9%FA%B4%FA"target="_blank">新生代</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%DA%C8%FD%BC%CD"target="_blank">第三纪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%D0%C2%CA%C0"target="_blank">古新世</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%BC%D0%C2%CA%C0"target="_blank">始新世</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%A5%D0%C2%CA%C0"target="_blank">渐新世</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%D0%C2%CA%C0"target="_blank">中新世</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%CF%D0%C2%CA%C0"target="_blank">上新世</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%DA%CB%C4%BC%CD"target="_blank">第四纪</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34536" id="34536"></a>
+<div class="dirtit">中国古代史</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%FD%BB%CA"target="_blank">三皇</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E5%B5%DB"target="_blank">五帝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%BA%C7%EF"target="_blank">春秋</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%BD%B9%FA"target="_blank">战国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E5%BA%FA"target="_blank">五胡</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%AE%C1%F9%B9%FA"target="_blank">十六国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%CF%B1%B1%B3%AF"target="_blank">南北朝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E5%B4%FA%CA%AE%B9%FA"target="_blank">五代十国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%FD%B9%FA"target="_blank">三国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%B5%C7%AC%CA%A2%CA%C0"target="_blank">康乾盛世</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%B2%CA%B7%D6%AE%C2%D2"target="_blank">安史之乱</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%A3%BA%CD%CF%C2%CE%F7%D1%F3"target="_blank">郑和下西洋</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34537" id="34537"></a>
+<div class="dirtit">中国近现代史</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%F3%CE%F1%D4%CB%B6%AF"target="_blank">洋务运动</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%B7%A8%D5%BD%D5%F9"target="_blank">中法战争</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%D7%CE%E7%D6%D0%C8%D5%D5%BD%D5%F9"target="_blank">甲午中日战争</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%EC%D0%E7%B1%E4%B7%A8"target="_blank">戊戌变法</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%CB%B9%FA%C1%AA%BE%FC%C7%D6%BB%AA%D5%BD%D5%F9"target="_blank">八国联军侵华战争</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C1%BA%A5%B8%EF%C3%FC"target="_blank">辛亥革命</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%BB%AA%C3%F1%B9%FA"target="_blank">中华民国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%B1%D1%F3%BE%FC%B7%A7"target="_blank">北洋军阀</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C2%CE%C4%BB%AF%D4%CB%B6%AF"target="_blank">新文化运动</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E5%CB%C4%D4%CB%B6%AF"target="_blank">五四运动</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%FA%B9%B2%BA%CF%D7%F7"target="_blank">国共合作</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%C4%B4%F3%BC%D2%D7%E5"target="_blank">四大家族</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%FA%C3%F1%B8%EF%C3%FC%D4%CB%B6%AF"target="_blank">国民革命运动</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%A4%D5%F7"target="_blank">长征</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%B9%C8%D5%D5%BD%D5%F9"target="_blank">抗日战争</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%AC%B9%B5%C7%C5%CA%C2%B1%E4"target="_blank">卢沟桥事变</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%CF%BE%A9%B4%F3%CD%C0%C9%B1"target="_blank">南京大屠杀</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%D9%CD%C5%B4%F3%D5%BD"target="_blank">百团大战</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%E2%B7%C5%D5%BD%D5%F9"target="_blank">解放战争</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%F3%BE%F6%D5%BD"target="_blank">大决战</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C2%D6%D0%B9%FA"target="_blank">新中国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%BB%C6%AC%D5%BD%D5%F9"target="_blank">鸦片战争</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%D7%CE%E7%D5%BD%D5%F9"target="_blank">甲午战争</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34538" id="34538"></a>
+<div class="dirtit">世界历史</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C4%D2%D5%B8%B4%D0%CB"target="_blank">文艺复兴</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%DA%BD%CC%B8%C4%B8%EF"target="_blank">宗教改革</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%CA%B2%FA%BD%D7%BC%B6%B8%EF%C3%FC"target="_blank">资产阶级革命</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%F4%C3%C9%D4%CB%B6%AF"target="_blank">启蒙运动</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%A8%B9%FA%B4%F3%B8%EF%C3%FC"target="_blank">法国大革命</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%B1%C3%C0%B6%C0%C1%A2%D5%BD%D5%F9"target="_blank">北美独立战争</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%DA%D2%BB%B4%CE%B9%A4%D2%B5%B8%EF%C3%FC"target="_blank">第一次工业革命</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%E7%BB%E1%D6%F7%D2%E5%D4%CB%B6%AF"target="_blank">社会主义运动</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%C7%D6%DE%B8%EF%C3%FC%B7%E7%B1%A9"target="_blank">亚洲革命风暴</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%DA%B6%FE%B4%CE%B9%A4%D2%B5%B8%EF%C3%FC"target="_blank">第二次工业革命</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%DA%D2%BB%B4%CE%CA%C0%BD%E7%B4%F3%D5%BD"target="_blank">第一次世界大战</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%AE%D4%C2%B8%EF%C3%FC"target="_blank">十月革命</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%DA%B6%FE%B4%CE%CA%C0%BD%E7%B4%F3%D5%BD"target="_blank">第二次世界大战</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AB%C5%B7%BE%E7%B1%E4"target="_blank">东欧剧变</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%DA%C8%FD%CA%C0%BD%E7"target="_blank">第三世界</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%B4%FA"target="_blank">古代</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%D2%C9%BD%B0%B2%CD%C1%CA%B1%B4%FA"target="_blank">桃山安土时代</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%AD%BB%A7%CA%B1%B4%FA"target="_blank">江户时代</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%CF%B1%B1%D5%BD%D5%F9"target="_blank">南北战争</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%D5%B1%BE%C0%FA%CA%B7"target="_blank">日本历史</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34616" id="34616"></a>
+<div class="dirtit">历史地理</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%A5%C0%BC"target="_blank">楼兰</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%DF%B2%FD"target="_blank">高昌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%D8%C2%E5%D2%C1"target="_blank">特洛伊</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%D8%C2%E5%D2%C1%B3%C7"target="_blank">特洛伊城</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%D3%B1%B4"target="_blank">庞贝</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--03527327900643507210092423-->
+<script> var _trace_page_logid = 0352732790; </script>

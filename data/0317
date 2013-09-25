@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="gbk"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="keywords" content="云冈石窟博物馆,山西,阿弥陀佛" />
+<meta name="description" content="百度百科与云冈石窟博物馆强强联手，共同打造数字化、立体化的权威知识普及平台：百度百科云冈石窟博物馆数字博物馆。该数字馆不仅集合了传统云冈石窟博物馆的资源优势，更充分体现了互联网的技术特点，惠及更多用户。" />
+<title>云冈石窟博物馆_百科数字博物馆_百度百科</title>
+    <link rel="stylesheet" type="text/css" href="http://baike.baidu.com/cms/s/museum/v2/css/public.css">
+    <link rel="stylesheet" type="text/css" href="http://baike.baidu.com/cms/s/museum/v2/css/bwg.css">
+
+	<!--[if IE 6]>
+	<script src="http://baike.baidu.com/cms/s/museum/v2/js/pngAlaph.js"></script>
+	<script type="text/javascript">
+	DD_belatedPNG.fix('#heibg,div,dl,span,img');
+	</script>
+	<![endif]-->
+    <script src="http://baike.baidu.com/cms/s/museum/v2/js/swfobject_modified.js" type="text/javascript"></script>
+    <script src="http://baike.baidu.com/cms/s/museum/v2/js/bwg.js" type="text/javascript"></script>
+    <script src="http://baike.baidu.com/static/common/js/lib/tangram-base.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://api.map.baidu.com/api?v=1.3"></script>
+	<script src="http://baike.baidu.com/cms/museum/v2/dev/museum_data.js?t=20130412" type="text/javascript" charset="UTF-8"></script>
+<script src="http://baike.baidu.com/cms/museum/v2/dev/sub_museum_data.js?t=20130312" type="text/javascript" charset="UTF-8"></script>
+<script src="http://baike.baidu.com/cms/museum/v2/dev/228628_exibits_data.js?t=20130312" type="text/javascript" charset="UTF-8"></script>
+<script src="http://baike.baidu.com/cms/s/museum/v2/js/museum_common.js?t=20130312" type="text/javascript"></script>
+<script src="http://baike.baidu.com/cms/museum/v2/dev/zone.js?t=20130312" type="text/javascript"></script>
+<script src="http://baike.baidu.com/static/common/js/common/nslog.js" type="text/javascript"></script>
+<script type="text/javascript">var eId = 228628;var m = getMuseumById(eId);</script>
+<body>
+	<script type="text/javascript" src="http://baike.baidu.com/cms/s/museum/v2/js/header.js"></script>
+    <div class="logo">
+		<img id="h_logo" width="236" height="52">
+</div>
+<div class="menu">
+        <span id="h_sub_list"></span><span id="h_morelink"></span><a href="#"  target="_blank" id="h_mlemma" mid="" onclick="nslog(location.href,3731,{mid:this.getAttribute('mid'),fr:3})">本馆词条</a>
+</div>
+<div class="nav">
+        <ul>
+            <li class="nav_left"><a href="/" onclick="nslog(location.href,3779);">百度百科</a> &gt; <a href="/museum/index.html" onclick="nslog(location.href,3778);">百科数字博物馆</a>
+                &gt; <span id="h_museumName"></span></li>
+            <li class="nav_right" id="data">您是本馆第<span id="h_visit_count"> </span>位参观者！<a href="#"><img src="http://baike.baidu.com/cms/s/museum/v2/images/button_fenxiang.jpg" width="50" height="21"></a></li>
+        </ul>
+    </div>
+<script type="text/javascript" src="http://baike.baidu.com/cms/s/museum/v2/js/menu.js" charset="UTF-8"></script>
+
+    </div>
+
+    <div class="main">
+        <div id="bgct" onmouseover="bwgshow('bgct');" onmouseout="bwghidden('bgct');">
+            <span>本馆词条</span>
+            <dl>
+                <dt><div id="m_museumName"></div></dt>
+                <dd><div id="m_museumAbstract"></div></dd>
+                <a href="#" target="_blank" id="m_lemmaUrl" onclick="nslog(location.href,3744);">
+                    <img src="http://baike.baidu.com/cms/s/museum/v2/images/button_bwgjrct.png" width="170" height="26" /></a>
+            </dl>
+        </div>
+        <div id="bgdt" onmouseover="bwgshow('bgdt');" onmouseout="bwghidden('bgdt');">
+            <span>本馆地图</span>
+            <div id="m_maplink" style="width:300px; height:272px;"><!--img id="m_map" width="300" height="272" /--></div>
+        </div>
+        <div id="m_banner_container" style="height:100%;"><img id="m_banner" width="982" height="272" /></div>
+    </div>
+    <div class="flash" id="f_flash">
+    </div>
+<div class="search_bg">
+<div class="search">
+            <label id="search_category_label">类别：</label>
+            <select name="category" id="search_category">
+                <option value="all">全部</option>
+                <!--option value="mementos">纪念类</option>
+                <option value="subject">专题类</option-->
+            </select>
+            <label>地区：</label>
+            <select class="zone" name="zone"  id="search_zone">
+				<!--<option value="北京">北京</option>
+				<option value="湖南">湖南</option> 
+				<option value="上海">上海</option>
+				<option value="陕西">陕西</option>
+				<option value="浙江">浙江</option>-->
+            </select>
+            <label>博物馆：</label>
+            <div id="search_museum_out" style="display:inline;">
+				<select name="museum" id="search_museum">
+				</select>
+			</div>
+            <label>关键词：</label>
+            <input class="inputkeywords" name="word" type="text" value="" id="search_word">
+            <a href="javascript:;" class="inputbutton" id="search_btn"></a>
+</div>
+        <div class="ewm" id="search_ewm" style="position:relative;"><span>点击并扫描二维码<br/>手机也能逛博物馆</span><img style="cursor:pointer;" onclick="baidu.dom.toggle('bigbincode');nslog(location.href,3773);" title="点击放大" src="http://baike.baidu.com/cms/s/museum/v2/images/ewm.jpg" width="48" height="48"><img id="bigbincode" src="http://baike.baidu.com/cms/s/museum/v2/images/big_bincode.png" width="155" height="154" style="position: absolute;top: -45px;left: 54px;display:none;"/></div>
+<script type="text/javascript" src="http://baike.baidu.com/cms/s/museum/v2/js/search.js" charset="UTF-8"></script>
+<!--form id="aaa" method="get" target="_blank" action=""></form-->
+
+</div>
+<img src="http://baike.baidu.com/cms/s/museum/from_pc.png" width="130" style="position:fixed;left:0;top:230px;"/>
+<script type="text/javascript" src="http://baike.baidu.com/cms/s/museum/v2/js/museumIndex.js"></script>
+<script type="text/javascript" src="http://baike.baidu.com/cms/s/museum/v2/js/getPv.js"></script>
+<script type="text/javascript" src="http://baike.baidu.com/cms/s/museum/v2/js/footer.js"></script>
+<script type="text/javascript">
+	//swfobject.registerObject("FlashID");
+baidu.q("main")[0].style.height="650px";
+baidu.g("m_banner_container").innerHTML="<iframe width='100%' style='overflow:hidden;' height='100%' frameborder='none' src='http://baike.baidu.com/cms/s/museum/v2/3dyungang/3dyungang/index.html'></iframe>";
+</script>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F5717b52f6385f8726f5d8e827d91119e' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://img.baidu.com/hunter/baike.js?st='+~(new Date()/864e5)];
+</script>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;mini=1&amp;pos=right&amp;uid=1728771" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+var bds_config = {'bdTop':200,'bdText':'#百科全景博物馆#云冈石窟，中国四大石窟之一，用坚硬的石头让人和神、佛与帝、虚幻和现实之间，架起了千年恢宏的彩虹。你想亲临这雕刻在石头上的王朝吗？百度百科数字博物馆，震撼推出第一家3D全景博物馆，带你用鼠标穿越千年。见证文明，有我一份，你也来吗？@百度百科','bdUrl':'http://baike.baidu.com/museum/yungang.html','bdPic':'http://baike.baidu.com/cms/s/museum/yungang.jpg'};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+</body>
+</html><!--04303865890979313674092423-->
+<script> var _trace_page_logid = 0430386589; </script>

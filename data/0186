@@ -1,0 +1,209 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+	<title>百度百科－－热点词条    </title>
+	<link href="http://baike.baidu.com/css/list.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">.popb2{padding:10px;line-height:22px;font-size:14px;width:280px;height:230px;margin:0 auto;}#rempassItem{font-size:12px;color:#F00;display:none;}.regButton{padding:2px;height:25px;width:140px;margin:10px 60px;}.f12{font-size:12px;}#rgHandle{text-align:center;font-weight:bold;}.loginItem{width:140px;}
+	#usrbar{text-align:right;font-size:12px;position:absolute;right:10px;top:8px;z-index:65535;width:700px;}
+	</style>
+<script language=javascript src="http://baike.baidu.com/js/popup.js"></script>
+<script language=javascript src="http://baike.baidu.com/js/userLogin.js"></script>
+	<script language="javascript">
+	
+function formatonlinpic(picname,MaxWidth,MaxHeight){ 
+var image=document.getElementsByName(picname);
+for(var i=0;i<image.length;i++)
+{
+    if(image[i].width>0 && image[i].height>0){ 
+		var rate = (MaxWidth/image[i].width < MaxHeight/image[i].height)?MaxWidth/image[i].width:MaxHeight/image[i].height;
+		if(rate <= 1){			
+			image[i].width = image[i].width*rate;
+
+		}
+    } 
+}
+}
+</script>
+</head>
+<body id="hotpage" onload="formatonlinpic('hotpic',74,54)">
+	<div id="usrbar">
+	<iframe src="/list-php/dispose/title.php"  frameborder="0"  height="22" width="100%" scrolling="no" target="_parent" style="overflow:hidden"></iframe>
+	</div>
+<form method="post" action="https://passport.baidu.com/?login" id="_redirect_form">
+<input type="hidden" name="tpl" value="wk">
+<input type="hidden" name="username" id="_r_username" />
+<input type="hidden" name="password" id="_r_password" />
+<input type="hidden" id="refURL" name="u" value="">
+<script>
+document.getElementById("refURL").value=location.href;
+
+</script>
+</form>
+	<div id="wrap">
+	<div id="header">
+	
+<form name="f1" method="get" target="_self" action="/searchword/">
+<table cellpadding="0" cellspacing="0" id="hd"><tr>
+<td width="137" valign="top"><a href="http://baike.baidu.com/"><img src="http://img.baidu.com/img/baike/logo-baike.gif" class="lg"    
+alt="到百度百科首页" /></a></td>
+<td valign="top" nowrap>
+<div class="ch"><a href="http://news.baidu.com/">新闻</a><a href="http://www.baidu.com/">网页</a><a href="http://tieba.baidu.com/">贴吧</a><a href="http://zhidao.baidu.com/">知道</a><a href="http://mp3.baidu.com/">MP3</a><a href="http://image.baidu.com/">图片</a><a href="http://video.baidu.com">视频</a><strong>百科</strong><a href="http://wenku.baidu.com/">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0" class="sh"><tr><td valign="top" nowrap><input id="kw" name="word" size="42" maxlength="256" value="" tabindex="1" class="i" /></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="b" onclick="document.f1.pic.value='1'" tabindex="2"/><input type="submit" value="搜索词条" class="b" onclick="document.f1.pic.value='2'" tabindex="3"/><a
+href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+	</div>
+	<div id="contaner">
+		<div id="path"><a href="/">百度百科</a> > 百科热点</div>
+		<div id="nav">
+		<h3>往期热点</h3>
+		</div>
+		<div id="content">
+		
+		<ul id="hot-list">
+			<li>
+<div class="hot-item">
+	<div class="hot-pic">
+		<a href="http://baike.baidu.com/cms/rc/r/image/2013-09-24/774ad6a82adc5b007e8b22ae777c96fb.png"><img src="http://baike.baidu.com/cms/rc/r/image/2013-09-24/774ad6a82adc5b007e8b22ae777c96fb.png" alt="小度WiFi" name="hotpic"/></a>
+	</div>
+	<h5><a href="http://baike.baidu.com/view/10906740.htm" >小度WiFi</a></h5>
+	<p>一款便携式USB路由器，用户跨终端联网，随身携带云即可在室内实现免费WiFi覆盖。售价仅为18.9元。</p>
+	<div class="clear"> </div>
+	<div class="links"><a href="http://baike.baidu.com/view/3941.htm" target="_blank">Wi-Fi</a><span class="dot">·</span><a href="http://baike.baidu.com/view/1360.htm" target="_blank">路由器</a><span class="dot">·</span><a href="http://baike.baidu.com/view/1048.htm" target="_blank">驱动程序</a></div>
+</div>
+</li>
+<li>
+<div class="hot-item">
+	<div class="hot-pic">
+		<a href="http://baike.baidu.com/cms/rc/r/image/2013-09-24/e79597c8f86a24c356f3519fe0f5220e.jpg"><img src="http://baike.baidu.com/cms/rc/r/image/2013-09-24/e79597c8f86a24c356f3519fe0f5220e.jpg" alt="玛丽莲·梦露大厦" name="hotpic"/></a>
+	</div>
+	<h5><a href="http://baike.baidu.com/view/1908426.htm" >玛丽莲·梦露大厦</a></h5>
+	<p>位于加拿大密西沙加市，由中国建筑师设计的玛丽莲·梦露大厦，获得2012年最佳摩天大楼称号。</p>
+	<div class="clear"> </div>
+	<div class="links"><a href="http://baike.baidu.com/view/1013596.htm" target="_blank">马岩松</a><span class="dot">·</span><a href="http://baike.baidu.com/view/8073.htm" target="_blank">多伦多</a><span class="dot">·</span><a href="http://baike.baidu.com/view/353186.htm" target="_blank">扎哈·哈迪德</a></div>
+</div>
+</li>
+<li>
+<div class="hot-item">
+	<div class="hot-pic">
+		<a href="http://baike.baidu.com/cms/s/r/image/2013-09-22/f5fb7a14e8cc51e332dfa2a9714b3752.jpg"><img src="http://baike.baidu.com/cms/s/r/image/2013-09-22/f5fb7a14e8cc51e332dfa2a9714b3752.jpg" alt="末日粮仓" name="hotpic"/></a>
+	</div>
+	<h5><a href="http://baike.baidu.com/view/776920.htm" >末日粮仓</a></h5>
+	<p>确保全球粮食安全的最后一道防线，存储了约1亿粒世界各地的农作物种子，但尚未存储中国的种子。</p>
+	<div class="clear"> </div>
+	<div class="links"><a href="http://baike.baidu.com/view/192876.htm" target="_blank">斯瓦尔巴群岛</a><span class="dot">·</span><a href="http://baike.baidu.com/view/7765.htm#sub5141437" target="_blank">诺亚方舟</a><span class="dot">·</span><a href="http://baike.baidu.com/view/11277.htm" target="_blank">聚乙烯</a></div>
+</div>
+</li>
+<li>
+<div class="hot-item">
+	<div class="hot-pic">
+		<a href="http://baike.baidu.com/cms/s/r/image/2013-09-22/0cfd51e72ed67c4ac3b3131e2f9113b4.jpg"><img src="http://baike.baidu.com/cms/s/r/image/2013-09-22/0cfd51e72ed67c4ac3b3131e2f9113b4.jpg" alt="荣誉谋杀" name="hotpic"/></a>
+	</div>
+	<h5><a href="http://baike.baidu.com/view/2060002.htm" >荣誉谋杀</a></h5>
+	<p>谋杀家庭成员以挽回家族荣誉。印度情侣私奔遭荣誉谋杀，女方家人将男方斩首。</p>
+	<div class="clear"> </div>
+	<div class="links"><a href="http://baike.baidu.com/view/22131.htm" target="_blank">种姓制度</a><span class="dot">·</span><a href="http://baike.baidu.com/view/576074.htm" target="_blank">吠陀时代</a><span class="dot">·</span><a href="http://baike.baidu.com/view/99586.htm" target="_blank">婆罗门</a></div>
+</div>
+</li>
+<li>
+<div class="hot-item">
+	<div class="hot-pic">
+		<a href="http://baike.baidu.com/cms/s/r/image/2013-09-18/ac3d253b42fb6f0812c2f2e4d80200e2.jpg"><img src="http://baike.baidu.com/cms/s/r/image/2013-09-18/ac3d253b42fb6f0812c2f2e4d80200e2.jpg" alt="阿米巴原虫" name="hotpic"/></a>
+	</div>
+	<h5><a href="http://baike.baidu.com/view/152460.htm#sub11167557" >阿米巴原虫</a></h5>
+	<p>又称“吃脑寄生虫”，能引起人类脑膜脑炎等疾病。美国自来水系统中发现阿米巴原虫。</p>
+	<div class="clear"> </div>
+	<div class="links"><a href="http://baike.baidu.com/view/249200.htm" target="_blank">角膜炎</a><span class="dot">·</span><a href="http://baike.baidu.com/view/667208.htm" target="_blank">肉芽肿</a><span class="dot">·</span><a href="http://baike.baidu.com/view/65372.htm" target="_blank">脑脊液</a></div>
+</div>
+</li>
+<li>
+<div class="hot-item">
+	<div class="hot-pic">
+		<a href="http://baike.baidu.com/cms/s/r/image/2013-09-18/7f18e9328c70b1394cbe8ab9f6db5acd.jpg"><img src="http://baike.baidu.com/cms/s/r/image/2013-09-18/7f18e9328c70b1394cbe8ab9f6db5acd.jpg" alt="芦苇节" name="hotpic"/></a>
+	</div>
+	<h5><a href="http://baike.baidu.com/view/4337712.htm" >芦苇节</a></h5>
+	<p>斯威士兰一年一度的选妃盛典。国王姆斯瓦蒂三世9月份通过芦苇节选中第15位王妃。</p>
+	<div class="clear"> </div>
+	<div class="links"><a href="http://baike.baidu.com/view/22013.htm" target="_blank">斯威士兰</a><span class="dot">·</span><a href="http://baike.baidu.com/view/13520.htm" target="_blank">巫师</a><span class="dot">·</span><a href="http://baike.baidu.com/view/131259.htm" target="_blank">成人节</a></div>
+</div>
+</li>
+<li>
+<div class="hot-item">
+	<div class="hot-pic">
+		<a href="http://baike.baidu.com/cms/s/r/image/2013-09-18/330750f3d54588b0a5ec76657b551b15.jpg"><img src="http://baike.baidu.com/cms/s/r/image/2013-09-18/330750f3d54588b0a5ec76657b551b15.jpg" alt="蓝水海军" name="hotpic"/></a>
+	</div>
+	<h5><a href="http://baike.baidu.com/view/540496.htm" >蓝水海军</a></h5>
+	<p>在远离海岸线的深海和大洋长时间执行战斗和非战斗任务的海军。中国现有五支编队在全球航行。</p>
+	<div class="clear"> </div>
+	<div class="links"><a href="http://baike.baidu.com/view/2041004.htm" target="_blank">内河海军</a><span class="dot">·</span><a href="http://baike.baidu.com/view/397500.htm" target="_blank">绿水海军</a><span class="dot">·</span><a href="http://baike.baidu.com/view/5786312.htm" target="_blank">褐水海军</a></div>
+</div>
+</li>
+<li>
+<div class="hot-item">
+	<div class="hot-pic">
+		<a href="http://baike.baidu.com/cms/s/r/image/2013-09-18/f43cdb26ae3dbead0bfff2471d782f3b.jpg"><img src="http://baike.baidu.com/cms/s/r/image/2013-09-18/f43cdb26ae3dbead0bfff2471d782f3b.jpg" alt="拉链马路" name="hotpic"/></a>
+	</div>
+	<h5><a href="http://baike.baidu.com/view/4488421.htm" >拉链马路</a></h5>
+	<p>指道路挖了填、填了挖的现象。国务院出台意见，要求杜绝拉链马路伤人现象。</p>
+	<div class="clear"> </div>
+	<div class="links"><a href="http://baike.baidu.com/view/345439.htm" target="_blank">再生水</a><span class="dot">·</span><a href="http://baike.baidu.com/view/282258.htm" target="_blank">竖井</a><span class="dot">·</span><a href="http://baike.baidu.com/view/110458.htm" target="_blank">铸铁</a></div>
+</div>
+</li>
+<li>
+<div class="hot-item">
+	<div class="hot-pic">
+		<a href="http://baike.baidu.com/cms/s/r/image/2013-09-18/99eca68cfe577e5d5661dd5f0eb74794.jpg"><img src="http://baike.baidu.com/cms/s/r/image/2013-09-18/99eca68cfe577e5d5661dd5f0eb74794.jpg" alt="幽灵舰队" name="hotpic"/></a>
+	</div>
+	<h5><a href="http://baike.baidu.com/view/3240019.htm" >幽灵舰队</a></h5>
+	<p>美国联邦海事管理局旗下美国军舰垃圾的美称。美华盛顿枪击案一名嫌犯曾在幽灵舰队服役。</p>
+	<div class="clear"> </div>
+	<div class="links"><a href="http://baike.baidu.com/view/14949.htm" target="_blank">越南战争</a><span class="dot">·</span><a href="http://baike.baidu.com/view/20972.htm" target="_blank">罗斯福</a><span class="dot">·</span><a href="http://baike.baidu.com/view/16056.htm" target="_blank">大西洋</a></div>
+</div>
+</li>
+<li>
+<div class="hot-item">
+	<div class="hot-pic">
+		<a href="http://baike.baidu.com/cms/s/r/image/2013-09-18/02ca5245131a53c22d4dae1c06592261.jpg"><img src="http://baike.baidu.com/cms/s/r/image/2013-09-18/02ca5245131a53c22d4dae1c06592261.jpg" alt="第一口奶" name="hotpic"/></a>
+	</div>
+	<h5><a href="http://baike.baidu.com/view/10913793.htm" >第一口奶</a></h5>
+	<p>新生婴儿出生后喝的第一口奶。央视揭露医院喂给新生儿的第一口奶背后暗藏金钱交易。</p>
+	<div class="clear"> </div>
+	<div class="links"><a href="http://baike.baidu.com/view/66869.htm" target="_blank">抗体</a><span class="dot">·</span><a href="http://baike.baidu.com/view/481444.htm" target="_blank">母乳</a><span class="dot">·</span><a href="http://baike.baidu.com/view/34988.htm" target="_blank">垄断</a></div>
+</div>
+</li>
+
+							
+		</ul>
+		
+		<div class="clear"></div>
+
+		</div>
+		<div id="aside">
+		
+		</div>
+		<div class="clear"></div>
+	</div>
+
+	<div class="ps">
+			<strong>1</strong>
+		<a href="http://baike.baidu.com/cms/hotlist/index_1.html">[2]</a>
+		<a href="http://baike.baidu.com/cms/hotlist/index_2.html">[3]</a>
+		<a href="http://baike.baidu.com/cms/hotlist/index_3.html">[4]</a>
+		<a href="http://baike.baidu.com/cms/hotlist/index_4.html">[5]</a>
+		<a href="http://baike.baidu.com/cms/hotlist/index_5.html">[6]</a>
+		<a href="http://baike.baidu.com/cms/hotlist/index_6.html">[7]</a>
+		<a href="http://baike.baidu.com/cms/hotlist/index_7.html">[8]</a>
+		<a href="http://baike.baidu.com/cms/hotlist/index_8.html">[9]</a>
+		<a href="http://baike.baidu.com/cms/hotlist/index_9.html">[10]</a>
+	<a href="http://baike.baidu.com/cms/hotlist/index_1.html">下一页</a><a href="http://baike.baidu.com/cms/hotlist/index_49.html">尾页</a>	</div>
+	<div id="ft">&copy;2011 Baidu</div>
+	</div>
+
+</body>
+
+
+</html><!--03074567250960832522092423-->
+<script> var _trace_page_logid = 0307456725; </script>

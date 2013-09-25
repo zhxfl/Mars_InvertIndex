@@ -1,0 +1,861 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>中国银行全球门户网站</title>
+<link href="./images/boc101.css" rel="stylesheet" type="text/css">
+<link href="/favicon.ico" rel="Shortcut Icon" type="image/x-icon">
+<link href="/favicon.ico" rel="Bookmark" type="image/x-icon">
+<script language="JavaScript" src="./images/boc100_func.js">
+</script>
+<base target="_blank" />
+</head>
+
+<body>
+<div align="center" class="themebg">
+<div id="topline" class="brd3rbl">
+  <table width="948" border="0" class="laugl">
+    <tr>
+      <td width="360" height="20" align="left">&nbsp;&nbsp;中国银行全球门户主站</td>
+      <td width="578" align="right"><script>
+Disp_Date();</script>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/index.html" class="laug">简体中文</a> | <a href="/big5/index.html" class="laug">繁体中文</a> | <a href="/en/index.html" class="laug">ENGLISH</a>&nbsp;&nbsp;</td>
+    </tr>
+  </table>
+</div>
+<div id="topkv" class="brd3rbl" align="left">
+	<div id="boclogo"><img src="./images/bankofchina_LOGO.gif" alt="bankofchina_LOGO" width="183" height="52"></div>
+<div id="bocsrh"><form id="bocsearch" name="bocsearch" method="post" action="http://srh.bankofchina.com/search/sitesearch/search_simp.jsp">
+              <input type="hidden" name="SType" value="1">
+			  <input type="hidden" name="preSWord" value="">
+              <input type="hidden" name="searchColumn" value="all">
+              <input type="hidden" name="order" value="1">
+<input name="sword" type="text" class="srh" id="sword"><input name="image" type="image" src="./images/boc08_btsearch.gif" align="middle">
+              </form></div>
+</div>
+<div id="mainav" class="brd2rl">
+  <table width="900" border="0" align="center" cellpadding="5" cellspacing="0">
+    <tr>
+      <td height="23" align="center">
+	
+	  <a href="./aboutboc/" class='nav'>关于中行</a> 
+	
+	
+ | <a href="./cbservice/" class='nav'>公司金融服务</a>
+	
+ | <a href="./pbservice/" class='nav'>个人金融服务</a>
+	
+ | <a href="./bcservice/" class='nav'>银行卡服务</a>
+	
+ | <a href="./ebanking/" class='nav'>电子银行服务</a>
+	
+ | <a href="./bocinfo/" class='nav'>中行信息</a>
+	
+ | <a href="./investor/" class='nav'>投资者关系</a>
+	
+ | <a href="./finadata/" class='nav'>金融数据</a>
+	
+</td>
+    </tr>
+  </table>
+</div>
+<div id="contzone" class="brd2rl" align="left">
+	<table width="910" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="668" valign="top">
+   	    <div id="swapkv" class="brd4">
+<embed height="180" width="650" src='http://pic.bankofchina.com/bocappd/flash/hswap_cn/201309/P020130920421311649977.swf' scale="exactfit" quality="high" ignore="1" type="application/x-shockwave-flash"></embed>
+</div>
+<br/>
+            <div id="contchn">
+              <table width="652" border="0" cellspacing="0" cellpadding="0" bgcolor="#F1F1F1">
+                <tr>
+                  <td width="10" height="35"><img src="./images/boc100_hotwl.gif" width="10" height="35"></td>
+                  <td width="632" class="brd2tb">&nbsp;&nbsp;<span class="txtred">热点：</span>&nbsp;<a href="./pbservice/pb3/201309/t20130917_2481805.html" title="中银国际证券网上开户">中银国际证券网上开户</a>
+&nbsp;<a href="./ebanking/bocmbs/mbs1/201304/t20130427_2245853.html" title="手机取款">手机取款</a>
+&nbsp;<a href="./pbservice/pb5/201307/t20130718_2370370.html" title="新加坡离岸金融">新加坡离岸金融</a>
+&nbsp;<a href="./bcservice/bi3/bi31/201306/t20130609_2307151.html" title="境外消费返现">境外消费返现</a>
+&nbsp;<a href="./bcservice/bi3/bi31/201307/t20130701_2338583.html" title="海淘国际大牌">海淘国际大牌</a>
+&nbsp;<a href="./bocinfo/bi3/201305/t20130528_2307208.html" title="出国优惠"><font color="#FF0000">出国优惠</font></a>
+&nbsp;<a href="./ebanking/bi3/201212/t20121217_2094176.html" title="天天送豪礼">天天送豪礼</a>
+</td>
+                  <td width="10"><img src="./images/boc100_hotwr.gif" width="10" height="35"></td>
+                </tr>
+              </table> <br/>
+              <table width="652" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="246" valign="top"><table width="230" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td class="itemchn1_1"><img src="./images/dot.gif" width="10" height="4"></td>
+                    </tr>
+                    <tr>
+                      <td class="itemchn1_2"><a href="cbservice/" class="chn1">公司金融服务</a> </td>
+                    </tr>
+                    <tr>
+                      <td height="110" class="brd2rl"><table width="210" border="0" align="center" cellpadding="0" cellspacing="6">
+                        
+                          <tr>
+                            
+                              <td width="100"><a href="./cbservice/200905/t20090520_707063.html">全球公司金融</a></td>
+                              
+                              <td width="92"><a href="./cbservice/201010/t20101022_1175012.html">全球现金管理</a></td>
+                            
+                          </tr>
+                        
+                          <tr>
+                            
+                              <td width="100"><a href="./cbservice/cb3/201005/t20100505_1017554.html">跨境人民币结算</a></td>
+                              
+                              <td width="92"><a href="http://www.boc.cn/cbservice/cb3/cb33/">国际结算类产品</a></td>
+                            
+                          </tr>
+                        
+                          <tr>
+                            
+                              <td width="100"><a href="http://www.boc.cn/cbservice/cb3/cb35/">贸易融资类产品</a></td>
+                              
+                              <td width="92"><a href="http://www.boc.cn/cbservice/cb3/cb32/">供应链产品</a></td>
+                            
+                          </tr>
+                        
+                          <tr>
+                            
+                              <td width="100"><a href="./cbservice/cb8/201208/t20120822_1946447.html">中银信贷工厂</a></td>
+                              
+                              <td width="92"><a href="http://www.boc.cn/cbservice/cb7/">养老金服务</a></td>
+                            
+                          </tr>
+                        
+                      </table></td>
+                    </tr>
+                    <tr>
+                      <td class="itemchn1"><a href="pbservice/" class="chn1">个人金融服务</a></td>
+                    </tr>
+                    <tr>
+                      <td height="110" class="brd2rl"><table width="210" border="0" align="center" cellpadding="0" cellspacing="6">
+
+ <tr>
+  
+   <td width="100"><a href="./pbservice/pb5/201309/t20130903_2449085.html">惠民金融</a></td>
+   
+   <td width="92"><a href="./pbservice/pb6/201305/t20130509_2261164.html">私人银行</a></td>
+ 
+ </tr>
+  
+ <tr>
+  
+   <td width="100"><a href="./pbservice/pb3/201305/t20130509_2259679.html">贵金属代理交易</a></td>
+   
+   <td width="92"><a href="./pbservice/pb3/201305/t20130505_2251584.html">个人期权客户端</a></td>
+ 
+ </tr>
+  
+ <tr>
+  
+   <td width="100"><a href="./pbservice/pb5/200902/t20090226_597311.html">出国留学金融服务</a></td>
+   
+   <td width="92"><a href="./pbservice/pb3/200806/t20080627_749.html">黄金宝、白银宝</a></td>
+ 
+ </tr>
+  
+ <tr>
+  
+   <td width="100"><a href="./pbservice/pb3/201305/t20130510_2263216.html">港澳台客户第三方存管</a></td>
+   
+   <td width="92"><a href="./pbservice/pb2/201207/t20120716_1899030.html">工薪贷</a></td>
+ 
+ </tr>
+  
+                      </table></td>
+                    </tr>
+                    <tr>
+                      <td class="itemchn1"><a href="bcservice/" class="chn1">银行卡服务</a></td>
+                    </tr>
+                    <tr>
+                      <td height="127" class="brd3rbl"><table width="210" border="0" align="center" cellpadding="0" cellspacing="6">
+
+ <tr>
+  
+   <td width="100"><a href="./bcservice/bc1/201306/t20130609_2307142.html">全币种国际芯片卡</a></td>
+   
+   <td width="92"><a href="./bcservice/bc1/201106/t20110630_1437947.html">长城美国运通卡</a></td>
+ 
+ </tr>
+  
+ <tr>
+  
+   <td width="100"><a href="./bcservice/bc2/201101/t20110131_1289713.html">长城健康卡&预约挂号</a></td>
+   
+   <td width="92"><a href="./bcservice/bc2/201302/t20130219_2164088.html">长城商贸通借记卡</a></td>
+ 
+ </tr>
+  
+ <tr>
+  
+   <td width="100"><a href="./bcservice/bc1/201304/t20130410_2224166.html">港澳台自由行卡</a></td>
+   
+   <td width="92"><a href="./bcservice/bc1/201209/t20120920_1986373.html">中银都市缤纷卡</a></td>
+ 
+ </tr>
+  
+ <tr>
+  
+   <td width="100"><a href="./bcservice/bc2/200901/t20090116_547314.html">中银理财贵宾IC卡</a></td>
+   
+   <td width="92"><a href="./bcservice/bc2/201101/t20110131_1289708.html">社会保障联名卡</a></td>
+ 
+ </tr>
+  
+  
+ <tr>
+  
+   <td><a href="./bcservice/bc5/201212/t20121231_2111597.html">网购分期</a></td>
+   
+   <td><a href="http://www.boc.cn/sourcedb/atmdist/">ATM</a></td>
+ 
+ </tr>
+  
+                      </table></td>
+                    </tr>
+                  </table></td>
+                  <td width="406" valign="top"><table width="405" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="28" valign="top">&nbsp;<img src="./images/boc100_dot1.gif" width="11" height="11"> <a href="bocinfo/bi2/" class="chn2">服务公告</a></td>
+                    </tr>
+                    <tr>
+                      <td class="septln1">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td><table width="390" align="center" cellpadding="3">
+ 
+	
+	<tr>
+	  <td><img src="./images/boc100_dot2.gif" width="12" height="11"> <a href="./bocinfo/201109/t20110922_1532694.html" title="中国银行在售理财产品列表(2013年9月24日更新)">中国银行在售理财产品列表(2013年9月24日更新)</a></td>
+	</tr>
+	
+	 
+	<tr>
+	  <td>&middot; <a href="./bocinfo/bi2/201309/t20130924_2496555.html" title="关于人行系统升级期间暂停我行部分跨行转账汇款业务的公告">关于人行系统升级期间暂停我行部分跨行转账汇款业务的公告</a></td>	
+	</tr>
+     
+	<tr>
+	  <td>&middot; <a href="./ebanking/bi2/201309/t20130923_2493278.html" title="关于人行系统升级期间暂停我行部分电子银行服务的公告">关于人行系统升级期间暂停我行部分电子银行服务的公告</a></td>	
+	</tr>
+     
+	<tr>
+	  <td>&middot; <a href="./bcservice/bi2/201308/t20130828_2440549.html" title="中国银行信用卡产品功能升级公告">中国银行信用卡产品功能升级公告</a></td>	
+	</tr>
+    
+  
+</table></td>
+                    </tr>
+                  </table>
+                  
+	<table width="405" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td height="35">&nbsp;<img src="./images/boc100_dot1.gif" width="11" height="11"> <a href="bocinfo/bi3/" class="chn2">优惠活动</a></td>
+                    </tr>
+                    <tr>
+                      <td class="septln1">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td><table width="390" align="center" cellpadding="3">
+ 
+	
+	<tr>
+	  <td><img src="./images/boc100_dot2.gif" width="12" height="11"> <a href="./bcservice/bi3/bi31/201307/t20130709_2353725.html" title="“环球精彩 一卡尽享”跨境支付系列活动">“环球精彩 一卡尽享”跨境支付系列活动</a></td>
+	</tr>
+	
+	 
+	<tr>
+	  <td>&middot; <a href="./bcservice/bi3/bi31/201306/t20130609_2307151.html" title="全币种国际芯片卡消费返现活动">全币种国际芯片卡消费返现活动</a></td>	
+	</tr>
+      
+	<tr>
+	  <td>&middot; <a href="./ebanking/bi3/201309/t20130924_2496009.html" title="[海南]“中行网银 周五有约”客户促销活动">[海南]“中行网银 周五有约”客户促销活动</a></td>	
+	</tr>
+      
+	<tr>
+	  <td>&middot; <a href="./bcservice/bi3/bi31/201309/t20130923_2493963.html" title="十一国美惠购 中国银行银联卡享6重礼遇">十一国美惠购 中国银行银联卡享6重礼遇</a></td>	
+	</tr>
+      
+	<tr>
+	  <td>&middot; <a href="./bcservice/bi3/bi32/201309/t20130923_2493858.html" title="[广西]“畅刷中银卡、畅游全世界、畅快通电话”---中银信用卡境外刷卡赠话费活动，8月获奖客户名单公告">[广西]“畅刷中银卡、畅游全世界、畅快通电话”---中银信...</a></td>	
+	</tr>
+      
+	<tr>
+	  <td>&middot; <a href="./bcservice/bi3/bi32/201309/t20130922_2490818.html" title="[内蒙古]畅刷无限 乐惠不停——国庆刷卡促销活动">[内蒙古]畅刷无限 乐惠不停——国庆刷卡促销活动</a></td>	
+	</tr>
+     
+ 
+</table></td>
+                    </tr>
+                  </table>
+                  <br />
+                  <table width="405" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <th width="143" class="itemchn3o" id="tb_chnl11">
+            <a href="bocinfo/bi1/" class="chn2" onMouseover="movShowObj(1,'chnl1',2,'itemchn3');">中行动态</a></th>
+                      <th width="143" class="itemchn3" id="tb_chnl12">
+            <a href="aboutboc/ab8/" class="chn2" onMouseover="movShowObj(2,'chnl1',2,'itemchn3');">媒体看中行</a></th>
+                      <td width="119" class="brd1b_s">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td height="90" colspan="3" class="brd3rbl">
+                        <table width="390" align="center" cellpadding="3" id="chnl11" style="display:block">
+    
+	<tr>
+	  <td>&middot; <a href="./bocinfo/bi1/201309/t20130924_2497230.html" title="中国银行董事长田国立在新加坡人民币业务推介会上的致辞">中国银行董事长田国立在新加坡人民币业务推介会上的致辞</a></td>	
+	</tr>
+     
+	<tr>
+	  <td>&middot; <a href="./bocinfo/bi1/201309/t20130923_2493958.html" title="中国之美·世界看见：中行支持国家大剧院乐团亚洲巡演">中国之美·世界看见：中行支持国家大剧院乐团亚洲巡演</a></td>	
+	</tr>
+     
+	<tr>
+	  <td>&middot; <a href="./bocinfo/bi1/201309/t20130922_2490840.html" title="中国银行在马来西亚东部首设分行">中国银行在马来西亚东部首设分行</a></td>	
+	</tr>
+     
+                  </table>
+                  <table width="390" align="center" cellpadding="3" id="chnl12" style="display:none">
+    
+	<tr>
+	  <td>&middot; <a href="./aboutboc/ab8/201309/t20130922_2490861.html" title="加速推进人民币国际化 中行拟与新加坡合作开发业务【经济日报】">加速推进人民币国际化 中行拟与新加坡合作开发业务【经济...</a></td>	
+	</tr>
+     
+	<tr>
+	  <td>&middot; <a href="./aboutboc/ab8/201309/t20130922_2490860.html" title="新交所与中行合作开发人民币产品【新加坡《联合早报》】">新交所与中行合作开发人民币产品【新加坡《联合早报》】</a></td>	
+	</tr>
+     
+	<tr>
+	  <td>&middot; <a href="./aboutboc/ab8/201309/t20130922_2490859.html" title="田国立：看好大马 中银加资投入马分行【马来西亚《星洲日报》】">田国立：看好大马 中银加资投入马分行【马来西亚《星洲日...</a></td>	
+	</tr>
+     
+                  </table>
+                      </td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table><br />
+             <table width="652" border="0" cellpadding="0" cellspacing="0" class="brd4">
+      <tr>
+        <td height="120" bgcolor="#F1F1F1">
+         
+<embed height="120" width="650" src='http://pic.bankofchina.com/bocappd/flash/home_cn/201309/P020130918557369628600.swf' scale="exactfit" quality="high" ignore="1" type="application/x-shockwave-flash"></embed>
+
+      </td>
+      </tr>
+    </table>
+            </div></td>
+        <td valign="top" width="242"><table width="242" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td class="itemref1">网上银行</td>
+          </tr>
+          <tr>
+            <td valign="top" class="brd3rbl"><table width="213" border="0" align="center" cellpadding="0" cellspacing="10" style="margin-top:5px">
+              <tr>
+                <td align="center" class="itemref2"><a href="#" target="_self" class="ref2" title="请从www.boc.cn,www.bankofchina.com登录中行网银" onclick="window.open('https://ebs.boc.cn/BocnetClient/LoginFrame1.do?_locale=zh_CN','BOCNET','resizable=yes,scrollbars=yes,alwaysRaised=yes');">个人客户网银登录</a></td>
+              </tr>
+              <tr>
+                <td align="center" class="itemref2"><a href="#" target="_self" class="ref2" title="请从www.boc.cn,www.bankofchina.com登录中行网银" onclick="window.open('https://ebs.boc.cn/BocnetClient/LoginFrame2.do?_locale=zh_CN','BOCNET','resizable=yes,scrollbars=yes,alwaysRaised=yes');">个人贵宾网银登录</a></td>
+              </tr>
+              <tr>
+                <td align="center" class="itemref2"><a href="#" target="_self" class="ref2" title="请从www.boc.cn,www.bankofchina.com登录中行网银" onclick="window.open('https://ebs.boc.cn/BocnetClient/LoginFrame3.do?_locale=zh_CN','BOCNET','resizable=yes,scrollbars=yes,alwaysRaised=yes');">企业客户网银登录</a></td>
+              </tr>
+            </table>
+              <table width="212" border="0" align="center" cellpadding="5" cellspacing="0">
+                <tr>
+                  <td height="36" align="center" class="brd1t_d"><form name="overslogin" id="overslogin">
+                    <select name="bocnetovs" onchange="BOC_jMenu(this)" class="brh" style="width:193px">
+            <option value="#">中国银行海外网银登录</option>
+            <option value="#">---------个人客户----------</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=au&bo=inv&lan=c">中国银行(澳大利亚)有限公司</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行(英国)有限公司</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行巴黎分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行法兰克福分行</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=TYK&bo=inv&lan=c">中国银行东京分行</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=SGN&bo=inv&lan=c">中国银行胡志明市分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行米兰分行</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=JKT&bo=inv&lan=c">中国银行雅加达分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行约翰内斯堡分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">赞比亚中国银行</option>
+	    	<option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行(匈牙利)</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行卢森堡分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行(卢森堡)鹿特丹分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行(卢森堡)布鲁塞尔分行</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=MNL&bo=inv&lan=c">中国银行马尼拉分行</option>
+			<option value="https://ap.ebs.bankofchina.com/login_sin.html?bn=SG&bo=inv&lan=c">中国银行新加坡分行</option>
+			<option value="https://ap.ebs.bankofchina.com/login.html?bn=PNH&bo=inv&lan=c">中国银行金边分行</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=TH&bo=inv&lan=c">中国银行曼谷分行</option>
+            <option value="https://its.bocmacau.com">中国银行澳门分行</option>
+            <option value="#">---------企业客户----------</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=au&bo=ent&lan=c">中国银行(澳大利亚)有限公司</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=au&bo=ent&lan=c">中国银行悉尼分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行(英国)有限公司</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行伦敦分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行巴黎分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行法兰克福分行</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=TYK&bo=ent&lan=c">中国银行东京分行</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=SGN&bo=ent&lan=c">中国银行胡志明市分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行米兰分行</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=JKT&bo=ent&lan=c">中国银行雅加达分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行约翰内斯堡分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">赞比亚中国银行</option>
+	    	<option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行(匈牙利)</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行卢森堡分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行(卢森堡)鹿特丹分行</option>
+            <option value="https://ebs.boc.cn/BocnetClient/LoginFrameAbroad.do?_locale=zh_CN">中国银行(卢森堡)布鲁塞尔分行</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=MNL&bo=ent&lan=c">中国银行马尼拉分行</option>
+			<option value="https://ap.ebs.bankofchina.com/login_sin.html?bn=SG&bo=ent&lan=c">中国银行新加坡分行</option>
+			<option value="https://ap.ebs.bankofchina.com/login.html?bn=PNH&bo=ent&lan=c">中国银行金边分行</option>
+            <option value="https://ap.ebs.bankofchina.com/login.html?bn=TH&bo=ent&lan=c">中国银行曼谷分行</option>
+                      </select>
+                  </form></td>
+                </tr>
+              </table></td>
+          </tr>
+          <tr>
+            <td height="60" align="center" class="brd3rbl"><a href="ebanking/bocmbs/"><img src="./images/boc100_bt_mbs.gif" alt="BOC MOBILE" width="160" height="50" border="0"></a></td>
+          </tr>
+        </table>
+        <table width="242" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="92"><a href="bocinfo/bi2/201209/t20120921_1989080.html"><img src="./images/boc100_bt_weibo.gif" alt="weibo" width="242" border="0"></a></td>
+          </tr>
+          <tr>
+            <td><img src="./images/boc100_bt_95566.gif" alt="95566_4006695566" width="242"></td>
+          </tr>
+          <tr>
+            <td height="82"><a href="/scene/hallmanager/"><img src="./images/boc100_bt_dtjl.gif" alt="hallmanager" width="242"></a></td>
+          </tr>
+        </table>
+        <table width="242" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td colspan="2" class="itemref1">特色服务</td>
+          </tr>
+          <tr>
+            <td class="brd3rbl"><table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="128" height="97" align="center"><a href="ebanking/service/cs1/201107/t20110724_1462608.html"><img src="./images/boc100_bt_zxyysq.gif" alt="online_service" title="在线预约申请" width="96" height="75"></a></td>
+              <td width="96"><a href="/pbservice/pb3/200910/t20091029_875622.html"><img src="./images/boc100_bt_zxtb.gif" alt="insurance" title="在线投保" width="96" height="75"></a></td>
+            </tr>
+            <tr>
+              <td height="80" align="center" valign="top"><a href="https://jf365.boc.cn/"><img src="./images/boc100_bt_jf365.gif" alt="jf365_LOGO" width="96" height="84" title="中银积分365"></a></td>
+              <td valign="top"><a href="/sdbapp/rwmerchant/"><img src="./images/boc100_bt_yhsh.gif" alt="rewards_LOGO" width="96" height="84" title="中银优惠商户"></a></td>
+            </tr>
+            </table>
+              <table border="0" align="center" cellpadding="0" cellspacing="11">
+                <tr>
+                  <td class="itemref3"><img src="./images/boc100_dot4.gif" width="10" height="5"><a href="ebanking/service/cs1/201305/t20130505_2252716.html">自助填单申请</a>&nbsp;&nbsp;&nbsp;<img src="./images/boc100_dot4.gif" width="10" height="5"><a href="http://as.boc.cn/EmpLoginAction.do">企业年金服务</a></td>
+                </tr>
+                
+                <tr>
+                  <td class="itemref3"><img src="./images/boc100_dot4.gif" width="10" height="5"><a href="https://iservice.boccc.com.hk/iserv/index_gw.html">长城国际卡服务</a>&nbsp;<img src="./images/boc100_dot4.gif" width="10" height="5"><a href="http://btos.bankofchina.com/">边贸网上服务</a></td>
+                </tr>
+              </table></td></tr>
+          </table></td>
+      </tr>
+    </table>
+</div>
+<div id="contzone" class="brd2rl" align="left">
+	<table width="910" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="668" valign="top">
+        <br />
+        <table width="652" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <th width="143" align="center" class="itemchn3o" id="tb_chnl21">
+            <a href="fimarkets/" class="chn2" onMouseover="movShowObj(1,'chnl2',3,'itemchn3');">金融市场</a></th>
+            <th width="143" align="center" class="itemchn3" id="tb_chnl22">
+            <a href="bocinfo/bi5/" class="chn2" onMouseover="movShowObj(2,'chnl2',3,'itemchn3');">理财产品</a></th>
+            <th width="143" align="center" class="itemchn3" id="tb_chnl23">
+            <a href="custserv/cs2/" class="chn2" onMouseover="movShowObj(3,'chnl2',3,'itemchn3');">基金资料</a></th>
+            <td width="223" class="brd1b_s">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="150" colspan="4" valign="top" class="brd3rbl"><br />
+              <table width="620" border="0" align="center" cellpadding="3" id="chnl21" style="display:block">
+    
+	<tr>
+          
+	  <td width="301">&middot; <a href="./fimarkets/foreignx/201309/t20130924_2497070.html" title="汇市观潮2013年09月24日">汇市观潮2013年09月24日</a></td>
+	      
+	  <td width="301">&middot; <a href="./fimarkets/fm7/201309/t20130924_2496801.html" title="每日黄金宝典20130924—官员言论导向 压制黄金下行">每日黄金宝典20130924—官员言论导向 压制...</a></td>
+	      	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./fimarkets/boud/201309/t20130924_2496081.html" title="债市参考2013年09月24日">债市参考2013年09月24日</a></td>
+	      
+	  <td width="301">&middot; <a href="./fimarkets/foreignx/201309/t20130924_2496080.html" title="汇市日评2013年09月24日">汇市日评2013年09月24日</a></td>
+	      	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./fimarkets/foreignx/201309/t20130923_2493732.html" title="汇市观潮2013年09月23日">汇市观潮2013年09月23日</a></td>
+	      
+	  <td width="301">&middot; <a href="./fimarkets/fm7/201309/t20130923_2493731.html" title="每日黄金宝典20130923—寄望十月缩减 黄金回吐涨幅">每日黄金宝典20130923—寄望十月缩减 黄金...</a></td>
+	      	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./fimarkets/boud/201309/t20130923_2491509.html" title="债市参考2013年09月23日">债市参考2013年09月23日</a></td>
+	      
+	  <td width="301">&middot; <a href="./fimarkets/foreignx/201309/t20130923_2491508.html" title="汇市日评2013年09月23日">汇市日评2013年09月23日</a></td>
+	      	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./fimarkets/boud/201309/t20130922_2490715.html" title="债市参考2013年09月22日">债市参考2013年09月22日</a></td>
+	      
+	  <td width="301">&middot; <a href="./fimarkets/foreignx/201309/t20130918_2485683.html" title="汇市观潮2013年09月18日">汇市观潮2013年09月18日</a></td>
+	      	
+	</tr>
+     
+            </table>
+            <table width="620" border="0" align="center" cellpadding="3" id="chnl22" style="display:none">
+	<tr>
+	  <td colspan="2" background="./images/boc08_line8.gif" height="18" valign="top">&nbsp;&nbsp;
+	    
+   <a href="./pbservice/pb3/201306/t20130605_2301497.html">中银货币增值理财计划-信利通</a>&nbsp;&nbsp;
+   <a href="./pbservice/pb3/201306/t20130605_2301496.html">中银货币增值理财计划-盛利通</a>&nbsp;&nbsp;
+   <a href="./pbservice/pb3/201305/t20130529_2289403.html">中银智荟</a>&nbsp;&nbsp;
+   <a href="./pbservice/pb3/201305/t20130529_2289402.html">中银基智通</a>&nbsp;&nbsp;
+   <a href="./pbservice/pb3/201301/t20130131_2146641.html">收益累进</a>&nbsp;&nbsp;
+   <a href="./pbservice/pb3/201209/t20120926_1995212.html">中银债富</a>&nbsp;&nbsp;</td>
+	  </tr>
+      
+	<tr>
+          
+	  <td width="301">&middot; <a href="./bocinfo/bi5/201309/t20130924_2496509.html" title="“中银智荟理财计划” 2013年第113期发售公告">“中银智荟理财计划” 2013年第113期发售公告</a></td>
+          
+	  <td width="301">&middot; <a href="./bocinfo/bi5/201309/t20130924_2496320.html" title="“中银基智通理财计划-流动性增强系列”2013年第205-207期发售公告">“中银基智通理财计划-流动性增强系列”20...</a></td>
+          	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./bocinfo/bi5/201309/t20130924_2494500.html" title="“搏?弈BYAQKFC28D—28天按期开放”产品收益期、开放期及收益率公告">“搏?弈BYAQKFC28D—28天按期开放”产品...</a></td>
+          
+	  <td width="301">&middot; <a href="./bocinfo/bi5/201309/t20130923_2493487.html" title="关于中银稳富十全十美系列1产品国庆假期开放安排的通知">关于中银稳富十全十美系列1产品国庆假期开...</a></td>
+          	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./bocinfo/bi5/201309/t20130923_2493362.html" title="“中银智荟理财计划” 2013年第110-112期发售公告">“中银智荟理财计划” 2013年第110-112期...</a></td>
+          
+	  <td width="301">&middot; <a href="./bocinfo/bi5/201309/t20130923_2491466.html" title="“搏·弈BYAQKFAS14D-14天按期开放”产品收益期、开放期及收益率公告">“搏·弈BYAQKFAS14D-14天按期开放”产品...</a></td>
+          	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./bocinfo/bi5/201309/t20130923_2491465.html" title="关于中银集富专享系列（149天)2013年第170期产品投资领域变更的公告">关于中银集富专享系列（149天)2013年第170...</a></td>
+          
+	  <td width="301">&middot; <a href="./bocinfo/bi5/201309/t20130922_2490841.html" title="关于中银集富专享系列（182天)2013年第167期产品投资领域变更的公告">关于中银集富专享系列（182天)2013年第167...</a></td>
+          	
+	</tr>
+     
+            </table>
+            <table width="650" border="0" align="center" cellpadding="3" id="chnl23" style="display:none">
+	<tr>
+	  <td width="350" valign="top"><ul class="doca">
+      
+	  <li><a href="./custserv/cs2/201308/t20130816_2419371.html" title="工银瑞信双债增强债券型证券投资基金基金合同">工银瑞信双债增强债券型证券投资基金基金合同</a></li>
+     
+	  <li><a href="./custserv/cs2/201308/t20130816_2419370.html" title="工银瑞信双债增强债券型证券投资基金托管协议">工银瑞信双债增强债券型证券投资基金托管协议</a></li>
+     
+	  <li><a href="./custserv/cs2/201308/t20130815_2415478.html" title="上投摩根红利回报混合型证券投资基金托管协议">上投摩根红利回报混合型证券投资基金托管协议</a></li>
+     
+	  <li><a href="./custserv/cs2/201308/t20130815_2415477.html" title="上投摩根红利回报混合型证券投资基金基金合同">上投摩根红利回报混合型证券投资基金基金合同</a></li>
+     </ul>
+      </td>
+	  <td width="282" valign="top"><ul class="doca">
+      
+	  <li><a href="./custserv/cs7/cncs73/200808/t20080814_1271.html" title="开放式基金基本概念">开放式基金基本概念</a></li>
+     
+	  <li><a href="./custserv/cs7/cncs73/200812/t20081212_144542.html" title="开放式基金投资基本知识">开放式基金投资基本知识</a></li>
+     
+	  <li><a href="./custserv/cs7/cncs73/200808/t20080814_1272.html" title="开放式基金与封闭式基金的主要区别">开放式基金与封闭式基金的主要区别</a></li>
+     
+	  <li><a href="./custserv/cs7/cncs73/200808/t20080814_1273.html" title="投资开放式基金的主要风险">投资开放式基金的主要风险</a></li>
+     </ul>
+      </td>
+	</tr>
+            </table>
+            </td>
+            </tr>
+        </table><br />
+        <table width="652" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <th width="143" class="itemchn3o" id="tb_chnl31">
+            <a href="investor/" class="chn2" onMouseover="movShowObj(1,'chnl3',2,'itemchn3');">投资者关系</a></th>
+            <th width="143" class="itemchn3" id="tb_chnl32">
+            <a href="aboutboc/boccsr/" class="chn2" onMouseover="movShowObj(2,'chnl3',2,'itemchn3');">企业社会责任</a></th>
+            <td width="366" class="brd1b_s">&nbsp;</td>
+            </tr>
+          <tr>
+            <td height="140" colspan="3" valign="top" class="brd3rbl"><br />
+              <table width="620" border="0" align="center" cellpadding="3" id="chnl31" style="display:block">
+    
+	<tr>
+          
+	  <td width="301">&middot; <a href="./investor/ir3/201309/t20130918_2485208.html" title="2013年半年度报告（A股印刷版）">2013年半年度报告（A股印刷版）</a></td>
+          
+	  <td width="301">&middot; <a href="./investor/ir3/201309/t20130918_2485137.html" title="2013年中期报告（H股印刷版）">2013年中期报告（H股印刷版）</a></td>
+          	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./investor/ir2/201309/t20130918_2485080.html" title="致H股非登记股东信函 - 2013年中期报告">致H股非登记股东信函 - 2013年中期报告</a></td>
+          
+	  <td width="301">&middot; <a href="./investor/ir2/201309/t20130918_2485079.html" title="致H股登记股东信函 - 2013年中期报告及变更日后公司通讯之收取方式及语言版本">致H股登记股东信函 - 2013年中期报告及变...</a></td>
+          	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./investor/ir2/201309/t20130918_2485077.html" title="致H股股东的信函-选取收取公司通讯的方式及语言版本">致H股股东的信函-选取收取公司通讯的方式...</a></td>
+          
+	  <td width="301">&middot; <a href="./investor/ir5/201309/t20130916_2479395.html" title="中国银行股份有限公司关于董事会专业委员会主席变更的公告">中国银行股份有限公司关于董事会专业委员...</a></td>
+          	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./investor/ir5/201309/t20130916_2479394.html" title="中国银行股份有限公司关于独立非执行董事退任的公告">中国银行股份有限公司关于独立非执行董事...</a></td>
+          
+	  <td width="301">&middot; <a href="./investor/ir5/201309/t20130916_2479393.html" title="中国银行股份有限公司关于独立非执行董事任职的公告">中国银行股份有限公司关于独立非执行董事...</a></td>
+          	
+	</tr>
+     
+              <tr>
+                <td>&middot; <a href="investor/cnir7/" title="中行转债(113001)可转债转股统计">中行转债(113001)可转债转股统计</a></td>
+                <td>&nbsp;</td>
+              </tr>
+            </table>
+            <table width="620" border="0" align="center" cellpadding="3" id="chnl32" style="display:none">
+    
+	<tr>
+          
+	  <td width="301">&middot; <a href="./aboutboc/boccsr/201309/t20130923_2493962.html" title="中国之美·世界看见：中行支持国家大剧院乐团亚洲巡演">中国之美·世界看见：中行支持国家大剧院...</a></td>
+          
+	  <td width="301">&middot; <a href="./aboutboc/boccsr/201309/t20130901_2445215.html" title="多一份金融了解 多一份财富保障"><font color="#FF0000">多一份金融了解 多一份财富保障</font></a></td>
+          	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./aboutboc/boccsr/201307/t20130731_2389982.html" title="中国银行获评“国有上市企业社会责任榜百强企业”">中国银行获评“国有上市企业社会责任榜百...</a></td>
+          
+	  <td width="301">&middot; <a href="./aboutboc/boccsr/201307/t20130725_2381594.html" title="“彩虹桥”：中国银行资助50名中美学生跨国文化交流">“彩虹桥”：中国银行资助50名中美学生跨...</a></td>
+          	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./aboutboc/boccsr/201307/t20130719_2372618.html" title="中国银行赞助支持中国艺术家登陆纽约林肯中心">中国银行赞助支持中国艺术家登陆纽约林肯中心</a></td>
+          
+	  <td width="301">&middot; <a href="./aboutboc/boccsr/201306/t20130626_2333652.html" title="中国银行荣获“十大关爱女性企业”称号">中国银行荣获“十大关爱女性企业”称号</a></td>
+          	
+	</tr>
+     
+	<tr>
+          
+	  <td width="301">&middot; <a href="./aboutboc/boccsr/201306/t20130619_2320617.html" title="中国银行向陕西定点扶贫县捐赠“母亲健康快车”">中国银行向陕西定点扶贫县捐赠“母亲健康...</a></td>
+          
+	  <td width="301">&middot; <a href="./aboutboc/boccsr/201305/t20130515_2268849.html" title="中行四川省分行100亿元授信支持雅安灾后重建">中行四川省分行100亿元授信支持雅安灾后重建</a></td>
+          	
+	</tr>
+     
+            </table>
+            </td>
+            </tr>
+        </table>
+        <br />
+        <table width="652" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <th width="143" class="itemchn3o" id="tb_chnl41">
+            <a href="aboutboc/" class="chn2" onMouseover="movShowObj(1,'chnl4',2,'itemchn3');">关于中行</a></th>
+            <th width="143" class="itemchn3" id="tb_chnl42">
+            <a href="javascript:void(0);" target="_self" class="chn2" onMouseover="movShowObj(2,'chnl4',2,'itemchn3');">全球服务</a></th>
+            <td width="366" class="brd1b_s">&nbsp;</td>
+            </tr>
+          <tr>
+            <td height="160" colspan="3" valign="top" class="brd3rbl">
+              <table width="620" border="0" align="center" cellpadding="3" id="chnl41" style="display:block">
+              <tr>
+                <td width="165" height="90"><ul>
+              <li class="dot4"><a title="中国银行概述" href="aboutboc/ab1/200809/t20080901_985.html">中国银行概述</a></li>
+              <li class="dot4"><a title="中国银行发展战略" href="aboutboc/ab1/200808/t20080814_976.html">中国银行发展战略</a></li>
+              </ul>              </td>
+                <td width="184"><ul>
+              <li class="dot4"><a title="中国银行公司治理总览" href="aboutboc/ab1/200808/t20080814_977.html">中国银行公司治理总览</a></li>
+              <li class="dot4"><a href="aboutboc/ab6/">中国银行机构</a></li>
+              </ul></td>
+                <td width="245" align="center"><a href="/boc100/">
+          <img src="./images/boc11_itempic_boc100.gif" width="166" height="88" border="0"></a></td>
+              </tr>
+              <tr>
+                <td colspan="3"><table width="100%" border="0">
+                  <tr>
+                    <td><a href="aboutboc/ab7/"><img src="./images/boc100_item2_zhlc.gif" width="132" height="40"></a></td>
+                    <td><a href="aboutboc/ab2/"><img src="./images/boc100_item2_zhry.gif" width="132" height="40"></a></td>
+                    <td><a href="aboutboc/ab4/"><img src="./images/boc100_item2_zhzb.gif" width="132" height="40"></a></td>
+                    <td><a href="aboutboc/ab5/"><img src="./images/boc100_item2_zhky.gif" width="132" height="40"></a></td>
+                  </tr>
+                </table></td>
+                </tr>
+            </table>
+              <table width="620" border="0" align="center" cellpadding="3" id="chnl42" style="display:none">
+              <tr>
+                <td width="300" height="140" align="right"><img src="./images/boc100_map1.gif" width="270" height="120"></td>
+                <td width="302">                  <form name="formlist" id="formlist">
+      <table width="260" border="0" align="center">
+<tr>  <td colspan="4" style="font-family: 微软雅黑;color: #eb6100;"><h5>海外服务子站</h5></td>
+</tr>
+<tr>
+  <td colspan="4"><a href="http://www.bocmacau.com/">澳门</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bankofchina.com/tw/">台湾</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.bankofchina.com/sg/">新加坡</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bankofchina.com/th/">泰国</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bankofchina.com/jp/">日本</a></td>
+  </tr>
+<tr>
+  <td width="44"><a href="http://www.bankofchina.com/vn/">越南</a></td>
+  <td width="68"><a href="http://www.bankofchina.com/my/">马来西亚</a></td>
+  <td width="87"><a href="http://www.bankofchina.co.id/">印度尼西亚</a></td>
+  <td width="43"><a href="http://www.bankofchina.com/kh/">柬埔寨</a></td>
+</tr>
+<tr>
+  <td><a href="http://www.bankofchina.com/uk/">英国</a></td>
+  <td><a href="http://www.bankofchina.com/lu/">卢森堡</a></td>
+  <td><a href="http://www.bankofchina.com/be/">比利时</a></td>
+  <td><a href="http://www.bankofchina.com/nl/">荷兰</a></td>
+</tr>
+<tr>
+          <td colspan="4"><a href="http://www.bankofchina.com/de/">德国</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bankofchina.com/it/">意大利</a>&nbsp;&nbsp;&nbsp;<a href="http://www.bankofchina.com/hu/">匈牙利</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bankofchina.com/ca/">加拿大</a>&nbsp;&nbsp;<a href="http://www.bankofchina.com/pa/">巴拿马</a></td>
+          </tr><tr>
+          <td height="30" colspan="4"><select name="bocsub" onchange="BOC_jMenu(this)" class="brh" style="width:240px">
+            <option value="#">中国银行其他分行及附属公司网站</option>
+            <option value="http://www.bj.bank-of-china.com/">中国银行北京市分行</option>
+            <option value="http://www.bocfr.com/">中国银行巴黎分行</option>
+            <option value="http://www.bocau.com.au/">中国银行澳大利亚</option>
+			<option value="http://www.bocusa.com/portal/">中国银行纽约分行</option>
+			<option value="http://www.bochk.com/web/home/home.xml?lang=cn">中国银行(香港)有限公司</option>
+			<option value="http://www.ncb.com.hk/nanyang_bank/content1.html">―南洋商业银行</option>
+			<option value="http://www.ncbchina.cn/sc/home.html">――南洋商业银行(中国)</option>
+			<option value="http://www.bocigroup.com/pub/sc/">中银国际控股有限公司</option>
+            <option value="http://www.bocichina.com/">中银国际证券有限责任公司</option>
+			<option value="http://bocg-ins.bocgroup.com/">中银集团保险有限公司</option>
+			<option value="http://www.bocgi.com/">中银集团投资有限公司</option>
+			<option value="http://www.bankofchina.com/bocins/">中银保险有限公司</option>
+			<option value="http://www.bocaviation.com/">中银航空租赁私人有限公司</option>
+			<option value="http://www.bocim.com/">中银基金管理有限公司</option>
+            <option value="http://www.boccfc.cn/">中银消费金融有限公司</option>
+          </select></td>
+        </tr>
+      </table>  
+      </form></td>
+              </tr>
+            </table>
+            </td>
+            </tr>
+        </table>
+        </td>
+        <td><br /> <table width="242" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td class="itemref1">金融数据</td>
+          </tr>
+          <tr>
+            <td height="242" valign="top" class="brd3rbl"><ul style="margin-top:10px">
+
+   <li class="dot4"><a href="http://www.boc.cn/sourcedb/whpj/">中国银行外汇牌价</a></li>
+
+   <li class="dot4"><a href="./finadata/yqwhpj/">中国银行远期外汇牌价</a></li>
+
+   <li class="dot4"><a href="./finadata/lilv/">存/贷款利率</a></li>
+
+   <li class="dot4"><a href="./finadata/cri/">中国银行跨境人民币指数</a></li>
+
+   <li class="dot4"><a href="./finadata/zqzs/">中国银行债券指数</a></li>
+
+   <li class="dot4"><a href="http://www.boc.cn/sourcedb/sr2/">代销基金净值</a></li>
+
+   <li class="dot4"><a href="http://www.boc.cn/sourcedb/sr3/">券商产品净值</a></li>
+
+   <li class="dot4"><a href="./finadata/lcjz/">理财产品净值</a></li>
+
+   <li class="dot4"><a href="./finadata/fd5/">服务收费价目</a></li>
+
+              <li class="dot4"><a href="/custserv/cs6/">计算工具</a></li>
+            </ul></td>
+          </tr>
+        </table><br />
+        <table width="242" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td class="itemref1"><a href="bocinfo/bi4/" class="chn1">招聘公告</a></td>
+          </tr>
+          <tr>
+            <td height="104" valign="top" class="brd3rbl"><ul class="doca">
+              
+	<li><a href="./bocinfo/bi4/201307/t20130704_2346536.html" title="中国银行总行信息中心、测试中心公开招聘公告">中国银行总行信息中心、测试中心公开招聘公告</a></li>
+		
+	<li><a href="./bocinfo/bi4/201309/t20130916_2478905.html" title="中国银行股份有限公司2013年度拟接收高校毕业生情况公示">中国银行股份有限公司2013年度拟接收高校毕业生情况公示</a></li>
+		
+              </ul></td>
+          </tr>
+        </table><br />
+        <table width="242" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td class="itemref1"><a href="bocinfo/bi6/" class="chn1">采购公告</a></td>
+          </tr>
+          <tr>
+            <td height="104" valign="top" class="brd3rbl"><ul class="doca">
+              
+	<li><a href="./bocinfo/bi6/201309/t20130923_2493957.html" title="中国银行股份有限公司“总行大厦光源采购”项目谈判邀请公告">中国银行股份有限公司“总行大厦光源采购”项目谈判邀请公告</a></li>
+		
+	<li><a href="./bocinfo/bi6/201309/t20130923_2493956.html" title="中国银行股份有限公司非股权市场融资业务承销商选型项目（境外分包）澄清公告">中国银行股份有限公司非股权市场融资业务承销商选型项目...</a></li>
+		
+              </ul></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+</div>
+<div id="contzone" class="brd3rbl" align="left">
+	<br />
+	<table width="910" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td colspan="3" bgcolor="#B5B5B5"><img src="./images/dot.gif" width="10" height="2"></td>
+      </tr>
+      <tr>
+        <td width="10" height="90">&nbsp;</td>
+        <td width="740"><table width="620" border="0" cellspacing="5">
+          <tr>
+            <td align="left" class="laugl">
+                
+                  <a href="./custserv/cs1/200812/t20081209_135605.html">网站地图</a>
+                  | 
+                  <a href="./custserv/cs1/200812/t20081209_135606.html">版权声明</a>
+                  | 
+                  <a href="./custserv/cs1/200812/t20081209_135607.html">使用条款</a>
+                  | 
+                  <a href="./custserv/cs1/200812/t20081212_257687.html">联系我们</a>
+                  | 
+                <span class="laugl">京ICP证060399号 京公网安备110102002036号</span></td>
+          </tr>
+          <tr>
+            <td align="left" class="copyrt">Copyright&copy; BANK OF CHINA(BOC) All Rights Reserved.</td>
+          </tr>
+        </table></td>
+        <td width="160"><img src="./images/bankofchina_LOGO-s.gif" width="100"></td>
+      </tr>
+    </table>
+</div>
+</div>
+</body>
+</html>

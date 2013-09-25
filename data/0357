@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="http://img.t.sinajs.cn/t5/style/css/module/base/frame.css?version=201309242309" type="text/css" rel="stylesheet" />
+<link href="http://img.t.sinajs.cn/t5/style/css/pages/register/register.css?version=201309242309" type="text/css" rel="stylesheet" />
+<link href="http://img.t.sinajs.cn/t5/style/css/patch/register/register.css?version=201309242309" type="text/css" rel="stylesheet" />
+<title>新浪微博-随时随地分享身边的新鲜事儿</title>
+<script type="text/javascript">
+var $CONFIG = {};
+$CONFIG['islogin'] = '0';
+$CONFIG['version'] = '201309242309';
+$CONFIG['timeDiff'] = (new Date() - 1380035382000);
+$CONFIG['lang'] = 'zh-cn';
+$CONFIG['jsPath'] = 'http://js.t.sinajs.cn/t5/';
+$CONFIG['cssPath'] = 'http://img.t.sinajs.cn/t5/';
+$CONFIG['imgPath'] = 'http://img.t.sinajs.cn/t5/';
+$CONFIG['servertime'] = 1380035382;
+$CONFIG['mJsPath'] = ['http://js{n}.t.sinajs.cn/t5/', 1, 2];
+$CONFIG['mCssPath'] = ['http://img{n}.t.sinajs.cn/t5/', 1, 2];
+$CONFIG['redirect'] = '';
+</script>
+</head>
+<body class="B_login ">
+	<div class="W_nologin">
+    	<div class="W_reg_header">
+        	<div class="W_nologin_logo" suda-data="key=tblog_weibologin3&value=click_logo"></div>
+        </div>
+        <div class="W_nologin_main">
+			<div class="topboard" ad-data="id=ads_homelogin&url=http://biz.weibo.com/adfront/deliver&psid=PDPS000000025446&wbVersion=v5">
+			</div>
+            <div class="W_login_info clearfix">
+				<div class="leftbox">
+					<div class="slogan">
+						还没有新浪微博帐号？现在加入						<a class="btn_reg_red" href="http://weibo.com/signup/signup.php" target="_blank" suda-data="key=tblog_weibologin3&value=register"><span>立即注册</span></a>
+					</div>
+					<div id="pl_login_video" suda-uatrack="key=tblog_weibologin3&value=video"><div node-type="player" action-data="vid=92785010&mpid=92785287" class="show" style="height:288px"></div></div>				</div>
+				<div class="loginbox">
+					<!-- 登录模块 -->
+					<div class="W_login_form" id="pl_login_form">
+                    	<div class="info_list" node-type="username_box">
+                    		<div class="inp username">
+                    			<input type="text" value="" action-data="text=邮箱/会员帐号/手机号" action-type="text_copy" class="W_input" name="username" node-type="username" tabindex="1" maxlength="128" autocomplete="off">
+                    		</div>
+                    	</div>
+                    	<div class="info_list" node-type="password_box">
+                    		<div class="inp password">
+                    			<input type="password" value="" action-type="text_copy" class="W_input" name="password" node-type="password" tabindex="2" maxlength="24"><span class="enter_psw">请输入密码</span>
+                    		</div>
+                    	</div>
+                    	<div style="display: none;" class="info_list pin_code" node-type="verifycode_box">
+                    		<div class="inp verify">
+                    			<input type="text" action-data="text=请输入验证码" action-type="text_copy" value="" class="W_input" name="verifycode" node-type="verifycode" tabindex="3" maxlength="6" disabled="">
+                    			<a onclick="return false;" href="javascript:void(0);" class="code"><img width="100" height="40" action-type="btn_change_verifycode" node-type="verifycode_image" src=""></a>
+                    			<a onclick="return false;" href="javascript:void(0);" class="refresh" action-type="btn_change_verifycode" node-type="btn_change_verifycode">换一换</a>
+                    		</div>
+                    	</div>
+                    	<div style="display: none;" class="info_list" node-type="vsncode_box">
+                    		<div class="inp wei_dun">
+                    			<input type="text" value="" action-data="text=请输入微盾动态码" action-type="text_copy" class="W_input" name="vsncode" node-type="vsncode" tabindex="4" maxlength="6" disabled="">
+                    			<a href="http://account.weibo.com/forgot/vdun" node-type="btn_vsncode_recover">微盾挂失</a>
+                    		</div>
+                    	</div>
+                    	<div class="info_list auto_login clearfix">
+                    		<div class="right">
+                    			<a href="https://login.sina.com.cn/getpass.html?entry=weibo" node-type="btn_password_recover" target="_blank" suda-data="key=tblog_weibologin3&amp;value=click_forgetpwd">忘记密码</a>
+                    		</div>
+                    		<label for="login_form_savestate" title="建议在网吧或公共电脑上取消该选项。" action-data="content=建议在网吧或公共电脑上取消该选项。" action-type="customTip">
+                    		<input type="checkbox" class="W_checkbox" node-type="savestate" checked="checked" id="login_form_savestate" tabindex="5">下次自动登录</label>
+                    		<a href="http://help.weibo.com/faq/q/85/12524#12524" class="icon_ask" target="_blank" title="记不住登录状态，怎么办？" action-data="content=记不住登录状态，怎么办？" action-type="customTip" suda-data="key=tblog_weibologin3&amp;value=click_help"></a>
+                    	</div>
+                    	<div class="info_list login_btn">
+							<div><a href="javascript:void(0)" class="W_btn_g" action-type="btn_submit" node-type="submitBtn" suda-data="key=tblog_weibologin3&amp;value=click_sign" tabindex="6"><span node-type="submitStates">登录</span></a></div>
+                            <div class="S_txt2">还没有微博？<a href="http://weibo.com/signup/signup.php" target="_blank" suda-data="key=tblog_weibologin3&amp;value=click_register">立即注册！</a></div>
+						</div>
+                    </div>
+					<!-- /登录模块 -->
+										<div class="taobao_login">
+                        <div class="taobao_iframe">
+                        	<iframe scrolling="no" frameborder="no" src="https://login.taobao.com/member/login.jhtml?from=wbfast&style=wbfast&goto=http%3A%2F%2Fweibo.com%2Fa%2Fbind%2Flogin%3Fentry%3Dtaobao%26sid%3D4a435aaf0ac1d0f2a18775b38cb20432" allowtransparency="true" style="width: 100%; height:48px; overflow: hidden;"></iframe>
+                        </div>
+                    </div>
+                    										<!--<div class="recommanded">
+						<a href="http://weibo.com/a/checkin/index?c=spr_wbpop_tblog_login_tg_012" target="_blank" suda-data="key=weibo_login&value=weibo_tuiguang">新年倒计时，登录赢iphone！</a>
+					</div>-->
+					<div id="pl_login_connect">
+					<div class="other_login">
+						<ul class="other_login_list clearfix">
+							<li><a class="S_func1" target="_blank" href="http://sersh.passport.189.cn/OAuth/authorize.aspx?client_id=3535450001600701&response_type=code&redirect_uri=http%3A%2F%2Faccount.weibo.com%2Fset%2Fbindsns%2Fcallback&state=telecom" suda-data="key=tblog_weibologin3&value=other_tianyi"><span class="cp_logo ico_tianyi"></span>天翼</a></li>
+							<li><a class="S_func1" target="_blank" href="http://account.weibo.com/set/bindsns/unicomoauth" suda-data="key=tblog_weibologin3&value=other_liantong"><span class="cp_logo ico_unicom"></span>联通</a></li>
+							<li><a class="S_func1" target="_blank" href="https://openapi.360.cn/oauth2/authorize?client_id=8819d1babbbc50a42021ee957c4b6e63&response_type=code&redirect_uri=http://account.weibo.com/set/bindsns/callback&scope=basic&display=default&state=360&relogin=sina" suda-data="key=tblog_weibologin3&value=other_360"><span class="cp_logo ico_360"></span>360</a></li>
+						</ul>
+					</div>
+					</div>
+				</div>
+            </div>
+            <!--注册登录footer-->
+                       <!--注册登录footer-->
+            <div class="footer_nologin_new">
+                <div class="system">
+                	<ul>
+                    	<li>
+                        	<a href="http://m.weibo.com/web/cellphone.php?topnav=1&wvr=4#iphone" target="_blank" suda-data="key=tblog_weibologin3&value=click_client"><i class="sys_ico ipad"></i>iPhone/iPad</a>
+                        </li>
+                        <li>
+                        	<a href="http://m.weibo.com/web/cellphone.php?topnav=1&wvr=4#android" target="_blank" suda-data="key=tblog_weibologin3&value=click_client"><i class="sys_ico android"></i>Android</a>
+                        </li>
+                        <li>
+                        	<a href="http://m.weibo.com/web/cellphone.php?topnav=1&wvr=4#windowsphone" target="_blank" suda-data="key=tblog_weibologin3&value=click_client"><i class="sys_ico windows"></i>Windows Phone</a>
+                        </li>
+                        <li>
+                        	<a href="http://m.weibo.com/web/cellphone.php?topnav=1&wvr=4#msg" target="_blank"><i class="sys_ico other_phone" suda-data="key=tblog_weibologin3&value=click_client"></i>其他手机端</a>
+                        </li>
+                    </ul>
+                </div>
+                 <div class="help_link">
+                 	<a target="_blank" href="http://help.weibo.com/?refer=didao&bottomnav=1&wvr=5" suda-data="key=tblog_weibologin3&value=click_textlink">微博帮助</a><i class="S_txt2">|</i>
+                    <a target="_blank" href="http://weibo.com/k/weijianyi" suda-data="key=tblog_weibologin3&value=click_textlink">意见反馈</a><i class="S_txt2">|</i>
+                    <a href="http://verified.weibo.com/verify" target="_blank" suda-data="key=tblog_weibologin3&value=click_textlink">微博认证及合作</a><i class="S_txt2">|</i>
+                    <a href="http://open.weibo.com/" target="_blank" suda-data="key=tblog_weibologin3&value=click_textlink">开放平台</a><i class="S_txt2">|</i>
+                    <a href="http://hr.weibo.com" target="_blank" suda-data="key=tblog_weibologin3&value=click_textlink"> 微博招聘</a><i class="S_txt2">|</i>
+                    <a href="http://news.sina.com.cn/guide/" target="_blank" suda-data="key=tblog_weibologin3&value=click_textlink">新浪网导航</a><i class="S_txt2">|</i>
+					<select suda-data="key=tblog_home_click&amp;value=language_versions_click" onchange="location.href=this.value">
+						<option value="?lang=zh-cn" selected>中文(简体)</option>
+						<option value="?lang=zh-tw">中文(台湾)</option>
+						<option value="?lang=zh-hk">中文(香港)</option>
+						<option value="?lang=en-us">English</option>
+					</select>
+                </div>
+                <p class="S_txt2">Copyright &copy; 1996-2013 SINA 北京微梦创科网络技术有限公司<span class="Icp">京网文[2011]0398-130号京ICP证号</span><a href="http://news.sina.com.cn/c/2012-12-29/051425921660.shtml"  target="_blank" class="S_txt2" suda-data="key=tblog_weibologin3&value=click_textlink">全国人大常委会关于加强网络信息保护的决定</a></p>
+            </div>
+            <!--/注册登录footer-->            <!--/注册登录footer-->
+        </div>
+    </div>
+	<div class="layer_form_tips" style="top:280px;left:820px;width:210px;display:none">
+		<div class="bg">
+			<div class="content">
+				<a href="" class="W_ico12 icon_close"></a>
+				<p class="tips"><span class="icon_delS"></span>用户名或密码错误 <a href="#">查看帮助</a></p>
+			</div>
+			<div class="arrow arrow_tips"></div>
+		</div>
+	</div>
+		<script type="text/javascript">(function(){var c=['.sinajs.cn',[['js.t'],['js1.t','js2.t'],['tjs.sjs']]],l=!1,n=0,r=function(){if(l)return;for(var i in c[1][n]){var a;a=document.createElement('script');a.type='text/javascript';a.src='http://'+c[1][n][i]+c[0]+'/t5/register/js/page/login/index.js?version='+$CONFIG.version;a.onload=function(){l=!0};document.body.appendChild(a)};(n<2)&&setTimeout(r,++n*500)};r();})()</script>
+</body>
+</html>

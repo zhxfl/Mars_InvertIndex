@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>百度卫士，简单可信赖</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <meta name="keywords" content="百度卫士，简单可信赖"/>
+    <meta name="description" content="集合电脑加速、系统清理、木马查杀和软件管理四大服务的全新系统辅助软件。提供“轻巧、快速、智能、纯净”产品体验，不骚扰，不胁迫，不窃取。极简UI设计，打造简单可信赖，纯净不臃肿的精品安全软件。"/>
+
+    <link rel="stylesheet" href="http://img1sw.baidu.com/www/weishi/v1.1.0/asset/css/all.css?version=1.1.0" type="text/css" media="screen" />
+    <link href="http://img1sw.baidu.com/www/weishi/v1.1.0/asset/img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <script type="text/javascript" src="http://libs.baidu.com/jquery/1.4.3/jquery.min.js"></script>
+    <!--[if IE]>
+      <style type="text/css">
+          .header .clearfix{*height:14px;} 
+      </style>
+  <![endif]-->
+   <style type="text/css">
+   		.header .header_nav .nav{position:absolute; bottom:0px; left:280px;}
+   </style>
+  </head>
+  <body>
+    <div class="header"> 
+      <div class="topnav">
+        <div class="container-responsive">
+        <a href="http://anquan.baidu.com/bbs/forum.php" target="_blank">论坛</a>　｜　<a href="http://tieba.baidu.com/f?ie=utf-8&kw=%E7%99%BE%E5%BA%A6%E5%8D%AB%E5%A3%AB" target="_blank">贴吧</a>　｜　
+        <iframe width="63" height="22" align="absmiddle" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no" border="0" src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn&width=63&height=22&uid=3535169894&style=1&btn=red&dpc=1"></iframe>　
+        <iframe width="63" height="24" align="absmiddle" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no" border="0" src="http://follow.v.t.qq.com/index.php?c=follow&a=quick&name=baiduweishi&style=5&t=1366964051212&f=0" ></iframe>
+        </div>
+      </div>
+
+      <div class="container-responsive header_nav">
+			  <a class="logo" href="index.html"><img width="196" height="80" alt="百度卫士" src="http://img1sw.baidu.com/www/weishi/v1.1.0/asset/img/logo.gif?version=1.1.0" /></a>
+        <ul class="nav">
+          <li class="active"><a href="/index.html" title="首页" class="index">首页</a></li>
+          <li><a href="/help.html" title="帮助">帮助</a></li>
+          <li><a href="/update.html" title="更新日志">更新日志</a></li>
+          <li><a href="/feedback" title="常见问题">常见反馈</a></li>
+          <li><a href="http://anquan.baidu.com/bbs/forum.php?mod=post&action=newthread&fid=43" target="_blank" title="我要反馈">我要反馈</a></li>
+          <li><a href="/submission/index.html" title="提交软件">提交软件</a></li>
+        </ul>
+
+      </div>
+		</div>
+
+    <div class="container-responsive ">
+  		<div class="main-panel" style="overflow:hidden;position:relative;">
+        <div class="intro">
+          <div class="intro-tip">
+    			<a id="download" class="primary-btn" href="/index/freedownload"></a> 
+          <div class="clearfix"></div>
+          <p class="offline_download" style="font-size:12px;padding-right:66px;">[ <a href="javascript:void(0)" style="font-size:12px;" id="lixian_down_url">离线安装包</a> ]</p>
+          
+          <p style="text-align:right;font-size:12px;"><span>版本：<font id="version"><!-- 1.0 Beta2 --></font>　系统：<font id="os_list"><!-- XP / Vista / Win7 --></font>　更新日期：<font id="update_time"><!-- 5月9日 --></font></span></p>
+
+          </div>
+        </div>
+  		</div>
+      <ul class="summary clearfix">
+        <li><a href="#f2" class="sum1" onclick="window.scrollTo(0, 590)"></a></li>
+        <li><a href="#f1" class="sum2" onclick="window.scrollTo(0, 910)"></a></li>
+        <li><a href="#f3" class="sum3" onclick="window.scrollTo(0, 1234)"></a></li>
+        <li><a href="#f3" class="sum4" onclick="window.scrollTo(0, 1234)"></a></li>
+      </ul>
+      <div class="feature" name="f1"><img src="http://img1sw.baidu.com/www/weishi/v1.1.0/asset/img/b1.gif" width="960" height="323px" alt="小巧身形 轻爽新体验"></div>
+      <div class="feature" name="f2"><img src="http://img1sw.baidu.com/www/weishi/v1.1.0/asset/img/b2.gif" width="960" height="323px" alt="多级加速 系统零负担"></div>
+      <div class="feature" name="f3"><img src="http://img1sw.baidu.com/www/weishi/v1.1.0/asset/img/b3.gif" width="960" height="323px" alt="智能维护 安静无骚扰"></div>
+
+      <div class="feature" name="f3"><img src="http://img1sw.baidu.com/www/weishi/v1.1.0/asset/img/b4.gif" alt="回归纯净 简单可信赖"></div>
+    </div>
+
+  	<div class="footer" >
+  		<p>&copy; 2013 Baidu | <a target="_blank" href="http://www.baidu.com/duty/">使用百度前必读</a> | <a href="privacy.html">百度卫士用户使用许可协议</a></p>
+  	</div>
+  </body>
+</html>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fae8ca127e7665f72a826d7507e6adb3f' type='text/javascript'%3E%3C/script%3E"));
+$(function(){
+
+  $.get('/api/fqa/json_get_ad_info',function(data){
+    $(".offline_download").show();
+    $("#version").html(data.msg.version);
+    $("#lixian_down_url").attr('href',data.msg.lixian_down_url);
+    $("#update_time").html(data.msg.update_time);
+    $("#os_list").html(data.msg.os_list);
+    $("#filesize").html(data.msg.file_size);
+  },'json')
+
+  /* 放量
+  $.get('/api/fqa/json_get_fqa_down_limit',function(data){
+    //console.log(data);
+    if (data.status == '-1')
+    {
+        $("#down_limit").html(data.msg);
+    }
+    else
+    {
+        var html = "<font style='margin-right:10px;'>"+data.msg.start_time+"-"+data.msg.end_time+"</font><font style='margin-right:10px;'>下载名额共："+data.msg.count+"</font>目前还剩："+data.msg.last_count;
+        $("#down_limit").html(html);
+    }
+    
+  },'json')
+  */
+
+})
+</script>

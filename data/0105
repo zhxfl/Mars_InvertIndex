@@ -1,0 +1,1280 @@
+    <!DOCTYPE HTML>
+<html>
+<head>
+  
+    <meta charset="utf-8"/>
+    <title>
+极致音乐行-专题
+_百度音乐-听到极致</title>
+    
+    <meta content="极致音乐行专题，极致音乐行 歌曲首发,热门专题,音乐专题,活动,独家策划,情感主题,精彩演出" name="keywords"/>
+    <meta content="极致音乐行专题，极致音乐行 歌曲首发,为你提供热门专题,音乐专题,活动,独家策划的歌曲专题，带给你全新音乐体验。"          name="description"/>
+    
+    <meta name="baidu-tc-verification" content="5532f353892ad86095cb538ab988fb55"/>
+    
+    <meta name="google-site-verification" content="-michJB8aokthZhSsY3KIyd7TW9tQ2jSXI_87qveZpo"/>
+    
+    <meta name="msvalidate.01" content="B96798BECBFD1C248180D6DA843E27ED"/>
+    
+    <meta property="wb:webmaster" content="95125c09ba4c1de4"/>
+    <!--STATUS OK-->
+    <link rel="shortcut icon" href="/static/images/favicon.ico"/>
+    
+    <script type="text/javascript">
+      var ting = ting || {};
+          </script>
+    <script type="text/javascript">
+      var ting = ting || {};
+      var httpSuccess = function (xhr) {
+        try {
+          // IE error sometimes returns 1223 when it should be 204 so treat it as success, see #1450
+          return !xhr.status && location.protocol === "file:" ||
+            // Opera returns 0 when status is 304
+            ( xhr.status >= 200 && xhr.status < 300 ) ||
+            xhr.status === 304 || xhr.status === 1223 || xhr.status === 0;
+        } catch (e)
+        {}
+
+        return false;
+      };
+      var parseJSON = function (data) {
+        if (typeof data !== "string" || !data) {
+          return null;
+        }
+        // Make sure leading/trailing whitespace is removed (IE can't handle it)
+        var rtrim = /^(\s|\u00A0)+|(\s|\u00A0)+$/g,
+          data1 = data.replace(rtrim, "");
+        // Make sure the incoming data is actual JSON
+        // Logic borrowed from http://json.org/json2.js
+        if (/^[\],:{}\s]*$/.test(data1.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F])/g, "@")
+          .replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g, "]")
+          .replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) {
+          // Try to use the native JSON parser first
+          return window.JSON && window.JSON.parse ?
+            window.JSON.parse(data1) :
+            (new Function("return " + data1))();
+
+        } else {
+          throw "Invalid JSON: " + data1;
+        }
+      };
+      var httpData = function (xhr, type) {
+        var data = xhr.responseText;
+        // The filter can actually parse the response
+        if (typeof data === "string") {
+          // Get the JavaScript object, if JSON is used.
+          if (type === "json") {
+            data = parseJSON(data);
+          }
+        }
+        return data;
+      };
+      //发送ajax请求拉取user_bar
+      function getUserBar(content, url) {
+        var requestDone = false;
+        var getXhr = window.XMLHttpRequest && (window.location.protocol != 'file' || window.ActiveXObject) ?　
+				function () {
+          return new window.XMLHttpRequest();
+        }
+
+      :
+        function () {
+          try {
+            return new window.ActiveXObject("Microsoft.XMLHTTP");
+          } catch (e)
+          {}
+        };
+        var xhr = getXhr();
+
+        if (!xhr) {
+          return;
+        }
+
+
+        url += '?_t=' + (new Date).getTime();
+        xhr.open('get', url, true);
+        xhr.setRequestHeader("Accept", "application/json, text/javascript, */*");
+        xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+        // Wait for a response to come back
+        var onreadystatechange = xhr.onreadystatechange = function () {
+          var status = false;
+          // The request was aborted
+          if (!xhr || xhr.readyState === 0) {
+
+            requestDone = true;
+            if (xhr) {
+              xhr.onreadystatechange = {};
+            }
+
+            // The transfer is complete and the data is available, or the request timed out
+          } else if (!requestDone && xhr && xhr.readyState === 4) {
+            requestDone = true;
+            xhr.onreadystatechange = {};
+
+            status = !httpSuccess(xhr) ?
+              "error" :
+              "success";
+
+            var errMsg;
+            if (status === "success") {
+              // Watch for, and catch, XML document parse errors
+              try {
+                // process the data (runs the xml through httpData regardless of callback)
+                data = httpData(xhr, 'json');
+              } catch (err) {
+                status = "parsererror";
+                errMsg = err;
+              }
+            }
+            // Make sure that the request was successful or notmodified
+            if (status === "success") {
+              content.innerHTML = data.data.html;
+              if (!!window.$) {
+                (new Function(data.data.js)).call(data.data.html);
+              } else {
+                ting.userBarInit = new Function(data.data.js);
+              }
+
+
+            } else {
+            }
+            // Stop memory leaks
+            xhr = null;
+
+          }
+        };
+
+        // Send the data
+        try {
+          xhr.send(null);
+        } catch (e) {
+        }
+      }
+      try {
+        document.execCommand('BackgroundImageCache', false, true);
+      } catch (e) {
+      }
+      // function _xbg(o,e){
+      // 	if(e==='f'){
+      // 		o.style.fontSize = "16px";
+      // 		o.style.color = "#000";
+      // 		if(o.value == $(o).data('default')){ o.value = '';}
+      // 	}
+      // 	if(e === 'b' && !o.value){ o.style.color = "#999"; o.style.fontSize = "14px"; o.value = $(o).data('default'); }
+      // }
+    </script>
+    
+
+    
+      <link rel="stylesheet" type="text/css" href="http://mu5.bdstatic.com/static/c/MS1ohFvD.css"/>
+    
+    
+<link rel="stylesheet" type="text/css" href="http://mu5.bdstatic.com/static/c/Mu4XtUm3.css" />
+
+<link rel="stylesheet" type="text/css" href="http://mu6.bdstatic.com/static/c/cdIrHarD.css" />
+<style type="text/css">
+
+/*网站背景 模块*/
+/*.music-main{ background:url(  ) repeat-x #; }*/   /*配置网站线性渐变图和颜色*/   /*此值提供给ipad端 , PC端不用此背景图*/
+.music-main{ background: #; }   /*配置网站线性渐变图和颜色*/
+
+/*banner 模块*/
+.music-main-body { background:url( ) no-repeat center 0; }  /*配置banner图片*/
+
+.topic-banner{ }/*配置banner高度*/
+
+
+/*module 模块*/
+.module{ background:#; }  /*配置模块背景颜色*/
+.module .mod-head{  position:relative; }
+.module .mod-body{ background:#fff; }  /*配置模块内容层颜色*/
+.module .mod-title{   font-size:14px;color:#; }  /*配置模块标题字号，颜色*/
+.mod-head .more,
+.mod-head .more:hover{ color:#;}
+
+/*头部活动信息说明 模块*/
+.mod-intro .bg{ opacity:0.9;filter:Alpha(Opacity=90); }  /*配置背景，透明度*/
+.mod-intro .mod-head .bg{ opacity:0.25;filter:Alpha(Opacity=25);}  /*配置背景，透明度*/
+</style>
+<link rel="stylesheet" type="text/css" href="http://ting.baidu.com/widget/topic/skins/topic/mbox.css?v=20120912" media="all" />
+<link rel="stylesheet" type="text/css" href="http://ting.baidu.com/cms/topics/tpl_topic/css/topic_jzyyx.css?1380034750" media="all" />
+
+  
+</head>
+<body >
+
+  
+    <div class="music-head"  monkey="music-head">
+    <div class="lg"> <a id="bm-logo" href="/" ></a> </div>
+    <div class="search-wrap">
+      <div class="lk"> <a href="http://news.baidu.com/"  onmouseover="s(this)">新闻</a><a    href="http://www.baidu.com/" onmouseover="s(this)">网页</a><a    href="http://tieba.baidu.com/" onmouseover="s(this)">贴吧</a><a    href="http://zhidao.baidu.com/" onmouseover="s(this)">知道</a><span>音乐</span><a    href="http://image.baidu.com/" onmouseover="s(this)">图片</a><a   href="http://v.baidu.com/" onmouseover="s(this)" >视频</a><a   href="http://map.baidu.com/" onmouseover="s(this)" >地图</a><a   href="http://baike.baidu.com/" onmouseover="s(this)" >百科</a><a   href="http://wenku.baidu.com/" onmouseover="s(this)" >文库</a></div>
+    <form id="search_form" name="f1" action="/search">
+      <div class="search">
+        <span class="s_ipt_wr"><input type="text" name="key" value="" data-default="请输入歌名、歌词、歌手或专辑" id="ww" class="kw s_ipt s_ipt_def" size="42" maxlength="100" autocomplete="off"></span><span class="s_btn_wr"><input type="submit" value="百度一下" class="s_btn" onmousedown="this.className='s_btn s_btn_h'" onmouseout="this.className='s_btn'"></span><span class="s_tools"></span>
+      </div>
+      <div id="loading-pic"></div>
+      <div class="sug-result"></div>
+      </form>
+
+    </div>
+
+  <form style="width:0;height:0;" name="vform" id="vform"  action="http://v.baidu.com/v">
+    <input type="hidden" name="ct" value="301989888">
+    <input type="hidden" name="rn" value="20">
+    <input type="hidden" name="pn" value="0">
+    <input type="hidden" name="db" value="0">
+    <input type="hidden" name="s" value="3">
+    <input type="hidden" name="word" value="">
+  </form>
+
+  <div class="nav" monkey="nav">
+    <i class="tl"></i><i class="tr"></i><i class="bl"></i><i class="br"></i>
+    <i class="nav-shadow"><i></i> </i>
+    <ul class="main-nav">
+      <li class="nav-home "><a href="/" ><span>首页</span></a></li>
+      <li class="nav-top "><a href="/top" ><span>榜单</span></a></li>
+      <li class="nav-singer "><a href="/artist" ><span>歌手</span></a></li>
+      <li class="nav-music-cate "><a href="/tag" ><span>分类</span></a></li>
+      <li class="nav-topic nav-current"><a href="/topic"><span>专题</span></a></li>
+      <li class="nav-songlist "><a href="/songlist"><span>歌单</span></a></li>
+      <li class="nav-mv "><a href="/mv"><span>MV</span></a><i class="icon-new"></i></li>
+    </ul>
+    <ul class="sub-nav">
+      <li><a href="/topic/cooperation/chinavoice2013?pst=pc" target="_blank" id="the-voice"><div id="the-voice-logo"></div>中国好声音</a></li>
+      <li class="line"></li>
+      <li><a href="http://qianqian.baidu.com" target="_blank">电脑版</a></li>
+      <li class="line"></li>
+      <li><a href="/app/android?pst=banner" target="_blank">手机版</a></li>
+      <li class="line"></li>
+      <li><i class="line"></i><a href="http://fm.baidu.com" target="_blank">百度随心听</a></li>
+      <li><a href="http://play.baidu.com" id="myMbox" target="_blank" class="nav-musicmbox">我的音乐盒</a>
+      </li>
+    </ul>
+  </div>
+  
+
+
+  
+    <div class="head-ad">
+       
+
+
+              <div class="adm " data-id = "476522"    >
+                  <iframe   class="adm-iframe " src='/static/html/cbjs.html?v=20130816&id=476522' width="235"  height="75"  scrolling="no" frameborder="0"></iframe>
+            </div>
+  
+    </div>
+  
+</div>
+<div id="userbar" class="userbar" alog-alias="userbar"></div>
+
+<script type="text/javascript">
+
+function s(c) {
+  if (document.f1.key.value.length > 0) {
+    var urls = {
+      "news" : {
+        url:"http://news.baidu.com/",
+        word : "ns?tn=news&cl=2&rn=20&ct=1&ie=utf-8&word="
+      },
+      "www" : {
+        url : "http://www.baidu.com/",
+        word : "s?cl=3&wd="
+      },
+      "tieba" : {
+        url : "http://tieba.baidu.com/",
+        word : "f?ie=utf-8&kw="
+      },
+      "zhidao" : {
+        url : "http://zhidao.baidu.com/",
+        word : "search?pn=0&rn=10&lm=0&word="
+      },
+      "image" : {
+        url : "http://image.baidu.com/",
+        word : "i?ct=201326592&cl=2&nc=1&lm=-1&st=-1&tn=baiduimage&istype=2&fm=&pv=&z=0&ie=utf-8&word="
+      },
+      "v" : {
+        url : "http://v.baidu.com/",
+        word : "v?ct=301989888&s=25&ie=utf-8&word="
+      },
+      "map" : {
+        url : "http://map.baidu.com/",
+        word : "?newmap=1&ie=utf-8&s=s%26wd%3D"
+      },
+      "baike" : {
+        url: "http://baike.baidu.com/",
+        word : "search/word?enc=utf8&word="
+      },
+      "wenku" : {
+        url : "http://wenku.baidu.com/",
+        word : "search?ie=utf-8&word="
+      }
+    };
+    var href = c.href ,
+        reg = /^http:\/\/([^.]+)\./ ,
+        domain = href.match(reg)[1] ,
+        b = c.href.split("?"),
+        searchInput = document.getElementById("ww");
+    var value = encodeURIComponent(searchInput.value);
+    // alert(urls[domain].word);
+    if(searchInput.value == searchInput.getAttribute("data-default")) {
+      c.href = urls[domain].url;
+    }else{
+      c.href = urls[domain].url + urls[domain].word + value;
+    }
+  }
+}
+
+var ting = ting || {};
+
+var enterState = (function( sUsrBarWapperID ) {
+  var oUserInfo, oTemplateMap, sLocation, eUsrBar, bBindUserBar, fEnterState, showUserCenter;
+  sLocation = encodeURIComponent( location.href );
+  oUserInfo = {
+     "sTemplate": "guest",
+     "sUserName": '',
+    "sSpaceLink": '',
+   "sProfileURL": 'http://passport.baidu.com/#0,1',
+    "sHomeURL": "http://passport.baidu.com/v2/?ucenteradduname",
+     "sBaiduURL": 'http://www.baidu.com',
+     "sLoginURL": 'javascript:;',
+       "sRegURL": 'http://passport.baidu.com/v2/?reg&regType=1&tpl=music&u=' + sLocation,
+    "sLogoutURL": 'http://passport.baidu.com/?logout&tpl=music&u=' + sLocation,
+     'sOpenMbox': '<a href="###" onclick="return ting.media.openPlayer(),false">音乐盒</a>',
+    "sMusicVIPURL": '/home/vip?pst=home',
+     "sUsercenterURL" : "/home/user",
+     "sReceiveURL" : "/home/gift",
+     "enable_fee" : false,
+     "sUserVipURL" : "/home/vip",
+     "vipIcon" : "<i title='未开通VIP会员' class='power-icon-min index-icon-vipidentity'></i>",
+	"activeVipIcon": "<i title='成为音乐VIP会员' class='power-icon-min index-icon-vip-active'></i>"
+  };
+
+  oTemplateMap = {
+
+    "guest": '<ul><li id="receiveActive" style="margin-right:20px; display:none;"><a rel="nofollow" href="#{sReceiveURL}"><span class="limit-active"></span>免费体验特权！</a></li><li><a  target="_blank" href="#{sBaiduURL}">百度首页</a></li><li class="line">|</li><li><a  target="_blank" href="#{sMusicVIPURL}">音乐VIP #{activeVipIcon}</a></li><li class="line">|</li><li><a rel="nofollow" href="#{sLoginURL}" id="loginbtn">登录</a><a target="_blank" href="#{sRegURL}" rel="nofollow">注册</a></li><li id="oldLine" style="display:none" class="line">|</li><li id="oldMp3Entry" style="display:none"><a href="/?goto=old_mp3">MP3旧版</a></li></ul>',
+
+    "user": '<ul><li id="receiveActive" style="margin-right:20px; display:none;"><a rel="nofollow" href="#{sReceiveURL}"><span class="limit-active"></span>免费体验特权！</a></li><li class="uname mn-lk-w"><a id="anchor-user-name" href="#{sHomeURL}" target="_blank">#{sSourceIcon}#{sUserName}<span class="mn-lk"></span></a><a id="anchor-user-vip" href="#{sUserVipURL}">#{vipIcon}</a><div id="menu-user"  style="display:none" class="mn-tip" style=" width:75px; right:0;"><ul class="mn"><li><a class="my-home" href="#{sHomeURL}" target="_blank" rel="nofollow">我的主页</a></li><li><a class="my-info" href="#{sProfileURL}" target="_blank" rel="nofollow">帐号设置</a></li><li><a href="#{sLogoutURL}" class="logout" rel="nofollow" >退出</a></li></ul></div></li><li class="line">|</li><li><a id="userCenter" href="#{sMusicVIPURL}">音乐VIP</a></li><li class="line" id="userCenterLine">|</li><li><a href="#{sBaiduURL}" target="_blank">百度首页</a></li></ul>'
+  };
+
+    showUserCenter = function () {
+      document.getElementById("userCenter").style.display = "block";
+      document.getElementById("userCenterLine").style.display = "block";
+    };
+
+    showReceive = function () {
+      document.getElementById("receiveActive").style.display = "block";
+    };
+
+  oCallbacks = {
+    "guest": function() {
+        var loginBtn = document.getElementById("loginbtn"),
+            popupLogin = function () {
+                if (ting && ting.passport && ting.passport.checkLogin) {
+                    ting.passport.checkLogin({}, {pos: "userbar"});
+                }
+                return false;
+            };
+
+        if (loginBtn) {
+            if( !window.attachEvent ) {
+                loginBtn.addEventListener('click', popupLogin, false);
+            } else {
+                loginBtn.attachEvent('onclick', popupLogin);
+            }
+        }
+
+        // showUserCenter();
+
+        oCallbacks.invoked = true;
+    },
+    "user": function() {
+      var eAnchorUserName, eMenu, iWatchID, iWatchInterval, bAllowHideMenu, bMenuShow;
+
+        // showUserCenter();
+
+
+      eAnchorUserName = document.getElementById( 'anchor-user-name' );
+      eMenu = document.getElementById( 'menu-user' );
+      iWatchID = -1;
+      iWatchInterval = 500;
+      bAllowHideMenu = false;
+      bMenuShow = false;
+
+      function hideMenu() {
+        if( bAllowHideMenu )
+        {
+          if( bMenuShow )
+          {
+            eMenu.style.display = "none";
+            bMenuShow = false;
+
+            clearInterval( iWatchID );
+            iWatchID = -1;
+          }
+        }
+      }
+
+      eAnchorUserName.onmouseover = function() {
+        if( !bMenuShow )
+        {
+          eMenu.style.display = "block";
+          bMenuShow = true;
+          bAllowHideMenu = false;
+
+          if( iWatchID<0 )
+          {
+            iWatchID = setInterval( hideMenu, iWatchInterval );
+          }
+        } else {
+          hideMenu();
+        }
+        return false
+      };
+
+      eAnchorUserName.onmouseout = function() {
+        bAllowHideMenu = true;
+      };
+
+      eMenu.onmouseover = function() {
+        bAllowHideMenu = false;
+      };
+
+      eMenu.onmouseout = function() {
+        bAllowHideMenu = true;
+      };
+
+      oCallbacks.invoked = true;
+    }
+  };
+
+  function formatTpl(source, opts) {
+      source = String(source);
+      var data = Array.prototype.slice.call(arguments,1), toString = Object.prototype.toString;
+      if(data.length){
+        data = data.length == 1 ?
+          /* ie 下 Object.prototype.toString.call(null) == '[object Object]' */
+          (opts !== null && (/\[object Array\]|\[object Object\]/.test(toString.call(opts))) ? opts : data)
+          : data;
+        return source.replace(/#\{(.+?)\}/g, function (match, key){
+          var replacer = data[key];
+          // chrome 下 typeof /a/ == 'function'
+          if('[object Function]' == toString.call(replacer)){
+            replacer = replacer(key);
+          }
+          return ('undefined' == typeof replacer ? '' : replacer);
+        });
+      }
+      return source;
+  }
+
+  fEnterState = function( _oUserInfo ) {
+    _oUserInfo = _oUserInfo || {};
+
+    for( var i in oUserInfo )
+    {
+      if( _oUserInfo.hasOwnProperty( i ) )
+      {
+        continue;
+      }
+      _oUserInfo[i] = oUserInfo[i];
+    }
+
+    eUsrBar = document.getElementById( sUsrBarWapperID );
+    eUsrBar.innerHTML = formatTpl( oTemplateMap[_oUserInfo['sTemplate']], _oUserInfo );
+    if( _oUserInfo.enable_fee ){
+        showReceive();
+      if( _oUserInfo['sTemplate'] ==  'user' ){
+        showUserCenter();
+      }
+    }
+
+    oCallbacks[ _oUserInfo['sTemplate'] ]();
+
+	// 临时代码，vip活动判断
+	if (ting.vipTip) ting.vipTip.call();
+	ting.vipTipReady = true;
+
+    return false
+  };
+
+  /*
+  @cache bdErrCode
+  @cache uName
+  @cache isOnline
+  @cache isSpaceUser
+  */
+  function updateUserState( _oUserInfo) {
+    var sUserName, oRtUserInfo, errorCode, data, passInfo;
+
+    errorCode = parseInt(_oUserInfo.errorCode);
+    data = _oUserInfo.data;
+    oRtUserInfo = {};
+      passInfo = _oUserInfo.data.passInfo || {};
+
+      var icon = {
+          'comm': "<i title='已开通VIP会员' class='power-icon-min index-icon-vip-active'></i>",
+          'gold': "<i title='已开通白金VIP会员' class='power-icon-min index-icon-goldvip-active'></i>"
+      };
+    if (errorCode == 22000) {
+        ting.userInfo = _oUserInfo.data;
+        sUserName = data.bdName ? data.bdName : (data.bdEmail ? data.bdEmail : (data.bdMobile ? data.bdMobile : passInfo.displayname));
+        oRtUserInfo.sUserName = sUserName;
+        oRtUserInfo.sTemplate =  'user';
+        oRtUserInfo.sHomeURL = data.bdName ? ['http://www.baidu.com/p/', data.bdName, '?from=music'].join("") : 'http://passport.baidu.com/v2/?ucenteradduname&u=' + encodeURIComponent('http://music.baidu.com');
+        oRtUserInfo.enable_fee = !!data.enable_fee;
+        if(data.vip ){
+         oRtUserInfo.vipIcon = icon[data.vip.cloud.service_level];
+        }
+        if (!data.bdName && !data.bdEmail && !data.bdMobile && passInfo.incomplete_user == 1) {
+            oRtUserInfo.sSourceIcon = '<img src="' + passInfo.source_icon + '" width="16" height="16" style="vertical-align:top;margin-right:3px" />';
+        }
+    } else {
+        oRtUserInfo.enable_fee = !!data.enable_fee;
+        oRtUserInfo.sTemplate = 'guest';
+    }
+
+    return fEnterState( oRtUserInfo );
+  }
+
+
+  if( !window.attachEvent )
+  {
+    window.addEventListener( 'load', initUserBar, false );
+  } else {
+    window.attachEvent( 'onload', initUserBar );
+  }
+
+  return updateUserState;
+})( 'userbar' );
+
+function initUserBar() {
+    var sc = "/data/user/info?callback=enterState&r=" + +new Date(),
+      d = document.getElementsByTagName( 'head' )[ 0 ], s;
+
+    s = document.createElement( 'script' );
+    s.src = sc;
+
+    d.appendChild( s );
+}
+
+ting.refreshUserBar = initUserBar;
+</script>
+
+  
+  <div class="music-main" alog-alias="music-main-alog">
+    <div class="music-main-body">
+      <div class="music-body clearfix">
+        
+
+<div class="topic clearfix">
+	<h1 class="music-seo">
+		<strong>极致音乐行</strong>精选专题，<strong>极致音乐行</strong>独家策划，精彩演出，带给你全新音乐体验。
+	</h1>
+	<div class="topic-top">
+	    
+	<div class="mod-info clearfix" monkey="mod-blank0" id="mod_d0d650">
+    			<!--blank1 begin-->  
+
+
+      <div class="jzyyx-top">
+        <!--合作连接 begin-->
+        <div class="all-links">
+          <a href="http://music.baidu.com/" target="_blank"></a>
+          <a href="http://tieba.baidu.com/" target="_blank"></a>
+          <a href="http://lvyou.baidu.com/" target="_blank"></a>
+          <a href="http://tuan.baidu.com/" target="_blank"></a>
+          <a href="http://baike.baidu.com?fr=bdmusicPC" target="_blank"></a>
+        </div>
+        <a class="jzyyx-map" href="http://shouji.baidu.com/map/map_download.html" target="_blank"></a>
+        <a class="jzyyx-map-2" href="http://shouji.baidu.com/map/map_download.html" target="_blank"></a>
+        <!--合作连接 end-->
+
+        <!--四期切换tab begin-->
+        <div class="season-tab">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span class="now"></span>
+        </div>
+        <!--四期切换tab end-->
+
+        <!--顶部视频 begin-->
+        <div class="top-vedio">
+          <script type="text/javascript" src="http://static.qiyi.com/js/meiti/video.js"></script>
+          <script type="text/javascript">
+              var _param = [];
+              _param.push('vid=2aa61ab88cf9246f37662c8cd55c3d5d');//传入对应视频的vid
+              _param.push('tvid=202463700');//传入对应视频的vid
+              _param.push('isLoop=0');//控制该视频循环显示
+              _param.push('autoChainPlay=0');// 控制不自动联播列表中的视频
+              _param.push('autoPlay=1');//控制自动播放
+
+              _param.push("coop=coop_baidump3");
+              _param.push("bd=1");
+              _param.push("showDock=0");
+              _param.push("showLoop=0");
+              _param.push("cid=qc_100001_300089");
+              _param.push("showRecommend=0");
+
+              lib.kit.video.render(
+                  'width', '253',    //播放器的宽
+                  'height', '190',   //播放器的高
+                  'src',"http://dispatcher.video.qiyi.com/disp/shareplayer.swf", // 请求播放器的地址
+                  'id', 'flash',
+                  'bgcolor', '#000000',
+                  'wmode', 'transparent',
+                  'flashVars', _param.join('&'),
+                  'align', 'middle',
+                  'ipad',true,
+                  'wrapper','flashbox' //其中wrapper表示播放器所在的容器
+              ); //end AC code
+          </script>
+        </div>
+        <!--顶部视频 end-->
+
+		<!--抽奖轮盘 begin-->
+        <div class="zhuanpan-reset"></div>
+        <div id="flashContent" class="zhuanpan-box"></div>
+        <!--抽奖轮盘 end-->
+
+        <!--活动说明 begin-->
+        <div class="vote-desgin">
+          <div class="vote-num price-num">4</div>
+          <div class="vote-wzsm">
+            <p>1) 百度音乐非VIP与VIP用户均可参与转盘活动</p>
+            <p>2) 非VIP默认1次抽奖机会，VIP默认2次抽奖机会，白金VIP默认3次抽奖机会</p>
+            <p>3) 如果想增加抽奖次数，你可以通过完成指定任务获得更多机会，可累计获奖次数，抽奖机会仅当日有效</p>
+            <p>4) 请按提示填写完整的信息，机票、酒店、演唱会门票将在抽奖后48小时工作日通知，其余抽中实物奖的用户将在整体活动结束七个工作日之后，我们给您派发礼品</p>
+            <p>5) 有关活动的任何问题或答疑，<a href="http://tieba.baidu.com/p/2571164441" target="_blank">请戳入此贴</a></p>
+          </div>
+          <div class="vote-price">查询获奖名单&gt;&gt;</div>
+        </div>
+        <!--活动说明 end-->
+      </div>
+
+
+    <!--blank1 end-->
+    	</div>
+	<div class="mod-info clearfix" monkey="mod-blank1" id="mod_fc71cc">
+    			<!--blank2 begin-->  
+
+      <!--获取抽奖机会 begin-->
+      <div class="get-votenum xw-season" style="background-image: url(http://ting.baidu.com/cms/topics/tpl_topic/images/jzyyx_num3.jpg); background-position: initial initial; background-repeat: no-repeat no-repeat;">
+        <a class="go-topic btn-dow" href="http://music.baidu.com/artist/1052?pst=jizhi" target="_blank">前往下载&gt;&gt;</a>
+        <a class="music-app btn-dow" href="" target="_blank">前往下载&gt;&gt;</a>
+        <a class="jzyyx-vip btn-dow" href="http://music.baidu.com/home/payment/cloud?type=upgrade&amp;level=gold&amp;pst=pay_jizhi" target="_blank">前往查看&gt;&gt;</a>
+        <a class="go-baike btn-dow" href="http://baike.baidu.com/view/2794.htm?pst=jizhi&fr=bdmusicPC" target="_blank">前往查看&gt;&gt;</a>
+        <span class="btn-dl-tieba">百度贴吧下载二维码</span>
+        <a class="go-tieba btn-dow" href="http://tieba.baidu.com/p/2599332190?pst=jizhi" target="_blank">前往贴吧&gt;&gt;</a>
+        <a class="go-tarvl btn-dow" href="http://lvyou.baidu.com/pictravel/create?pst=jizhi" target="_blank">前往查看&gt;&gt;</a>
+      </div>
+      <!--获取抽奖机会 end-->
+
+    <!--blank2 end-->    
+
+    	</div>
+	<div class="mod-info clearfix" monkey="mod-blank2" id="mod_247bea">
+    		 <!--blank3 begin-->  
+      <div class="jzyyx-bot">
+        <div class="jzyyx-tit1"></div>
+        <!--vip特权介绍 begin-->
+        <div class="vip-desgin">
+          <ul class="vip-power-list">
+            <li>
+              <a target="_blank" href="/home/vip/superstorage" title="高品质音乐下载"> 
+                <i class="power-icon-max power-icon-superstorage-max"></i>
+                <h3 class="power-name">高品质音乐下载</h3>
+                <div class="desc power-desc">VIP会员可下载最高320Kbps MP3音乐资源</div>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="/home/vip/superplay" title="高品质音乐播放"> 
+                <i class="power-icon-max power-icon-superplay-max"></i>
+                <h3 class="power-name">高品质音乐播放</h3>
+                <div class="desc power-desc">VIP会员享320Kbps MP3格式高品质播放服务</div>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="/home/vip/batchdown" title="批量下载">
+                <i class="power-icon-max power-icon-batchdown-max"></i>
+                <h3 class="power-name">批量下载</h3>
+                <div class="desc power-desc">VIP会员可一键批量下载列表、专辑内的多首歌曲</div>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="/home/vip/artistapp" title="新产品优先体验">
+                <i class="power-icon-max power-icon-artistapp-max"></i>
+                <h3 class="power-name">新产品优先体验</h3>
+                <div class="desc power-desc">VIP会员可优先体验最新版本的百度音乐产品&amp;功能</div>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="/home/vip/superspace" title="超大存储空间">
+                <i class="power-icon-max power-icon-superspace-max"></i>
+                <h3 class="power-name">超大存储空间</h3>
+                <div class="desc power-desc">VIP会员享受20000首歌曲的超大云音乐存储空间</div>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" href="/home/vip/compression" title="音频压缩">
+                <i class="power-icon-max power-icon-compression-max"></i>
+                <h3 class="power-name">音频压缩</h3>
+                <div class="desc power-desc">VIP会员可将高品质资源压缩成更小的文件</div>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <!--vip特权介绍 end-->
+<div class="tab-box">
+
+
+
+    <div class="tab">
+
+        <div class="jzyyx-tit2"></div>
+        <div class="tarvl-box">
+          <!--机票价格 begin-->
+          <div class="tarvl-plane">
+            <div class="tarvl-tit">
+              <span></span>
+              <p>百度团购，带你“吃、喝、玩、乐”</p>
+            </div>
+            <div class="plane-box">
+              <a href="http://tuan.baidu.com/selftg/item/detail/5/20055603" target="_blank">演唱会看的心痒痒，KTV欢唱起来！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/5/20056985" target="_blank">纳尼？演唱会不尽兴，49元啤酒套餐来酒吧嗨翻天！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/5/20059856" target="_blank">累了一天，来做个按摩养生吧，套餐只需69元！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/5/20010225" target="_blank">99元香辣蟹4人套餐，你hold得住吗？</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/5/20001175" target="_blank">37元2D/3D金逸影城通兑券</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/5/20001131" target="_blank">时尚达人，台球套餐28元畅玩！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/5/20004746" target="_blank">上岛咖啡双人套餐98元超值享</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/5/20060161" target="_blank">68元西餐厅浪漫双人餐</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/5/20060314" target="_blank">日料双人餐，98元超享新口味</a>
+            </div>
+          </div>
+          <!--机票价格 begin-->
+          <!--酒店介绍 begin-->
+          <div class="tarvl-hotel">
+            <div class="tarvl-tit">
+              <span></span>
+              <p>深圳特价酒店</p>
+            </div>
+            <div class="hotel-box">
+              <a href="http://tuan.baidu.com/midpage/site/443/shenzhen/canyinmeishi-tg" target="_blank"><img src="http://ting.baidu.com/cms/topics/tpl_topic/images/jzyyx-hotel1.jpg"></a>
+              <a href="http://tuan.baidu.com/midpage/site/443/shenzhen/jiudian-tg" target="_blank"><img src="http://ting.baidu.com/cms/topics/tpl_topic/images/jzyyx-hotel2.jpg"></a>
+            </div>
+          </div>
+          <!--酒店介绍 end-->
+        </div>
+        <div class="jzyyx-tit3"></div>
+        <!--旅游景点 begin-->
+        <div class="tarvl-place">
+          <div class="tarvl-tit">
+              <span></span>
+              <p>深圳景点介绍</p>
+            </div>
+            <div class="place-box">
+              <ul>
+                <li>
+                  <a href="http://baike.baidu.com/view/133352.htm?fr=bdmusicPC" target="_blank"><img src="http://d.hiphotos.baidu.com/baike/s%3D220/sign=e9030a3b1f178a82ca3c78a2c602737f/908fa0ec08fa513d4db29c293c6d55fbb2fbd929.jpg" width="145" height="103"><p>深圳欢乐谷</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/15797.htm?fr=bdmusicPC" target="_blank"><img src="http://e.hiphotos.baidu.com/baike/s%3D220/sign=e486a74b367adab439d01c41bbd5b36b/21a4462309f7905284bd535d0cf3d7ca7bcbd536.jpg" width="145" height="103"><p>世界之窗</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/368059.htm?fr=bdmusicPC" target="_blank"><img src="http://e.hiphotos.baidu.com/baike/s%3D220/sign=1c25bfd39e3df8dca23d8893fd1072bf/72f082025aafa40f27117ff9aa64034f78f0193a.jpg" width="145" height="103"><p>大小梅沙</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/67293.htm?fr=bdmusicPC" target="_blank"><img src="http://c.hiphotos.baidu.com/baike/s%3D220/sign=d74e2fbd9925bc312f5d069a6ede8de7/738b4710b912c8fc39750cbefc039245d688213b.jpg" width="145" height="103"><p>中英街</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/28646.htm?fr=bdmusicPC" target="_blank"><img src="http://e.hiphotos.baidu.com/baike/s%3D220/sign=345f229cab18972ba73a07c8d6cc7b9d/8718367adab44aedca3aa06cb31c8701a08bfbc6.jpg" width="145" height="103"><p>梧桐山</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/1123746.htm?fr=bdmusicPC" target="_blank"><img src="http://b.hiphotos.baidu.com/baike/s%3D220/sign=ad82575c01e9390152028a3c4bed54f9/d058ccbf6c81800ac8836672b13533fa828b476c.jpg" width="145" height="103"><p>深圳东部华侨城</p></a>
+                </li>
+              </ul>
+            </div>
+        </div>
+        <!--旅游景点 end-->
+
+    </div>     
+
+    <div class="tab">
+
+        <div class="jzyyx-tit2"></div>
+        <div class="tarvl-box">
+          <!--机票价格 begin-->
+          <div class="tarvl-plane">
+            <div class="tarvl-tit">
+              <span></span>
+              <p>百度团购，带你“吃、喝、玩、乐”</p>
+            </div>
+            <div class="plane-box">
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/100503" target="_blank">99元东来顺火锅双人套餐，不可不尝的好味道！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20004242" target="_blank">精品串串香自助，只需39.9元众多品类，更多选择！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20011031" target="_blank">巴西烤肉单人自助58元，鲜美爽嫩、肉香四溢！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20098386" target="_blank">31.9元2D/3D星美影城通兑券，爱电影的选择！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20004249" target="_blank">演唱会看的心痒痒，KTV欢唱起来，只需18元哦！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20004093" target="_blank">累了一天，来做个养生足疗吧，套餐只需49元！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20102138" target="_blank">时尚达人的激情碰撞，台球套餐39元畅玩！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20102064" target="_blank">68元回转寿司双人餐，无需预约，品正宗日料！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20060638" target="_blank">上岛咖啡双人套餐49元超值享！</a>
+            </div>
+          </div>
+          <!--机票价格 begin-->
+          <!--酒店介绍 begin-->
+          <div class="tarvl-hotel">
+            <div class="tarvl-tit">
+              <span></span>
+              <p>北京特价酒店</p>
+            </div>
+            <div class="hotel-box">
+              <a href="http://tuan.baidu.com/local/beijing/canyinmeishi-tg" target="_blank"><img src="http://ting.baidu.com/cms/topics/tpl_topic/images/jzyyx-hotel3.jpg"></a>
+              <a href="http://tuan.baidu.com/local/beijing/jiudian-tg" target="_blank"><img src="http://ting.baidu.com/cms/topics/tpl_topic/images/jzyyx-hotel4.jpg"></a>
+            </div>
+          </div>
+          <!--酒店介绍 end-->
+        </div>
+        <div class="jzyyx-tit3"></div>
+        <!--旅游景点 begin-->
+        <div class="tarvl-place">
+          <div class="tarvl-tit">
+              <span></span>
+              <p>北京景点介绍</p>
+            </div>
+            <div class="place-box">
+              <ul>
+                <li>
+                  <a href="http://baike.baidu.com/view/5681.htm?fr=bdmusicPC" target="_blank"><img src="http://g.hiphotos.baidu.com/baike/s%3D220/sign=72ef58a1e6cd7b89ed6c3d813f254291/2f738bd4b31c87010763ea8d277f9e2f0608ff80.jpg" width="145" height="103"><p>故宫</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/7379.htm?fr=bdmusicPC" target="_blank"><img src="http://g.hiphotos.baidu.com/baike/s%3D220/sign=9db710828d1001e94a3c130d880f7b06/9d82d158ccbf6c81be717583bc3eb13533fa4012.jpg" width="145" height="103"><p>颐和园</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/2476.htm?fr=bdmusicPC" target="_blank"><img src="http://c.hiphotos.baidu.com/baike/s%3D220/sign=c283839c30adcbef053479049caf2e0e/ca1349540923dd54446f1d30d009b3de9c82484d.jpg" width="145" height="103"><p>圆明园</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/29523.htm?fr=bdmusicPC" target="_blank"><img src="http://f.hiphotos.baidu.com/baike/s%3D220/sign=7ec7d2c8f736afc30a0c38678318eb85/0bd162d9f2d3572c6c5703d48a13632762d0c305.jpg" width="145" height="103"><p>八达岭长城</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/1924.htm?fr=bdmusicPC" target="_blank"><img src="http://f.hiphotos.baidu.com/baike/s%3D220/sign=7f28fde0738b4710ca2ffacef3cfc3b2/faedab64034f78f032bf9f3278310a55b2191cbe.jpg" width="145" height="103"><p>天安门广场</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/341828.htm?fr=bdmusicPC" target="_blank"><img src="http://c.hiphotos.baidu.com/baike/s%3D220/sign=cae29730033b5bb5bad727fc06d2d523/2e2eb9389b504fc237b4269ee5dde71191ef6d46.jpg" width="145" height="103"><p>南锣鼓巷</p></a>
+                </li>
+              </ul>
+            </div>
+        </div>
+        <!--旅游景点 end-->
+
+    </div>
+
+    <div class="tab">
+
+        <div class="jzyyx-tit2"></div>
+        <div class="tarvl-box">
+          <!--机票价格 begin-->
+          <div class="tarvl-plane">
+            <div class="tarvl-tit">
+              <span></span>
+              <p>百度团购，带你“吃、喝、玩、乐”</p>
+            </div>
+            <div class="plane-box">
+              <a href="http://tuan.baidu.com/local/wulumuqi/jiudianlvyou-tg" target="_blank">美丽新疆，来了就转转吧，80元玩转天山大峡谷</a>
+              <a href="http://tuan.baidu.com/zt/2013zhongqiutuanyuan" target="_blank">感恩中秋，让爱团圆，月饼大闸蟹5折起</a>
+              <a href="http://tuan.baidu.com/event/2013jiudian/index.html" target="_blank">十一黄金周，我的旅行我做主，酒店节特惠</a>
+              <a href="http://tuan.baidu.com/zt/2013qiurizhuanti" target="_blank">31.吃货的季节，大胆贴秋膘</a>
+              <a href="http://tuan.baidu.com/local/wulumuqi/xiuxianyule-tg" target="_blank">力宏演唱会还没过瘾？KTV《唯一》唱起来，9.9元起</a>
+              <a href="http://tuan.baidu.com/local/wulumuqi/shaokao-tg" target="_blank">来新疆，吃正宗烧烤，品尝天山的味道</a>
+              <a href="http://tuan.baidu.com/local/wulumuqi/zuliaoanmo-tg" target="_blank">累了一天，来做个养生足疗吧，套餐价2.5折</a>
+              <a href="http://tuan.baidu.com/local/wulumuqi/dianying-tg" target="_blank">电影爱好者有福了，奥斯卡国际影城25元</a>
+              <a href="http://tuan.baidu.com/local/wulumuqi/jiudian-tg" target="_blank">仅98元，享门市价238元『怡家快捷酒店』标准间/大床房2选1</a>
+            </div>
+          </div>
+          <!--机票价格 begin-->
+          <!--酒店介绍 begin-->
+          <div class="tarvl-hotel">
+            <div class="tarvl-tit">
+              <span></span>
+              <p>乌鲁木齐美食酒店团购</p>
+            </div>
+            <div class="hotel-box">
+              <a href="http://tuan.baidu.com/local//canyinmeishi-tg" target="_blank"><img src="http://ting.baidu.com/cms/topics/tpl_topic/images/jzyyx-hotel3.jpg"></a>
+              <a href="http://tuan.baidu.com/local/wulumuqi/jiudian-tg?order=4" target="_blank"><img src="http://ting.baidu.com/cms/topics/tpl_topic/images/jzyyx-hotel4.jpg"></a>
+            </div>
+          </div>
+          <!--酒店介绍 end-->
+        </div>
+        <div class="jzyyx-tit3"></div>
+        <!--旅游景点 begin-->
+        <div class="tarvl-place">
+          <div class="tarvl-tit">
+              <span></span>
+              <p>新疆景点介绍</p>
+            </div>
+            <div class="place-box">
+              <ul>
+                <li>
+                  <a href="http://baike.baidu.com/view/4909116.htm?fr=bdmusicPC" target="_blank"><img src="http://a.hiphotos.baidu.com/baike/s%3D200/sign=75ae4b8db2fb43161e1f7d7a10a54642/64380cd7912397dde987b3425982b2b7d1a20cf430ada7c5.jpg" width="145" height="103"><p>丝绸之路国际滑雪场</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/761971.htm?fr=bdmusicPC" target="_blank"><img src="http://c.hiphotos.baidu.com/baike/s%3D220/sign=46046f88f01f3a295ec8d2cca924bce3/f9dcd100baa1cd11b8dbbc76b912c8fcc3ce2d73.jpg" width="145" height="103"><p>水磨沟名胜风景区</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/92726.htm#sub7553010?fr=bdmusicPC" target="_blank"><img src="http://c.hiphotos.baidu.com/baike/s%3D220/sign=115f832343a98226bcc12c25ba83b97a/622762d0f703918f5a773c9c513d269758eec4c6.jpg" width="145" height="103"><p>红山</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/2850149.htm?fr=bdmusicPC" target="_blank"><img src="http://e.hiphotos.baidu.com/baike/s%3D220/sign=4d55fc0db219ebc4c478719bb227cf79/10dfa9ec8a13632756b4015b908fa0ec08fac779.jpg" width="145" height="103"><p>天山乌鲁木齐河源1号冰川</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/444975.htm?fr=bdmusicPC" target="_blank"><img src="http://b.hiphotos.baidu.com/baike/s%3D220/sign=cdf6b6e4800a19d8cf03830703fb82c9/50da81cb39dbb6fd532f0a730924ab18972b376a.jpg" width="145" height="103"><p>新疆国际大巴扎</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/119004.htm?fr=bdmusicPC" target="_blank"><img src="http://a.hiphotos.baidu.com/baike/s%3D220/sign=61f6ff9ecd11728b342d8b20f8fdc3b3/4afbfbedab64034fc806b209afc379310b551df1.jpg" width="145" height="103"><p>新疆民街</p></a>
+                </li>
+              </ul>
+            </div>
+        </div>
+        <!--旅游景点 end-->
+
+    </div>
+
+    
+    <div class="tab on">
+
+        <div class="jzyyx-tit2"></div>
+        <div class="tarvl-box">
+          <!--机票价格 begin-->
+          <div class="tarvl-plane">
+            <div class="tarvl-tit">
+              <span></span>
+              <p>百度团购，带你“吃、喝、玩、乐”</p>
+            </div>
+            <div class="plane-box">
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/100503" target="_blank">99元东来顺火锅双人套餐，不可不尝的好味道！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20004242" target="_blank">精品串串香自助，只需39.9元众多品类，更多选择！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20011031" target="_blank">巴西烤肉单人自助58元，鲜美爽嫩、肉香四溢！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20098386" target="_blank">31.9元2D/3D星美影城通兑券，爱电影的选择！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20004249" target="_blank">演唱会看的心痒痒，KTV欢唱起来，只需18元哦！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20004093" target="_blank">累了一天，来做个养生足疗吧，套餐只需49元！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20102138" target="_blank">时尚达人的激情碰撞，台球套餐39元畅玩！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20102064" target="_blank">68元回转寿司双人餐，无需预约，品正宗日料！</a>
+              <a href="http://tuan.baidu.com/selftg/item/detail/2/20060638" target="_blank">上岛咖啡双人套餐49元超值享！</a>
+            </div>
+          </div>
+          <!--机票价格 begin-->
+          <!--酒店介绍 begin-->
+          <div class="tarvl-hotel">
+            <div class="tarvl-tit">
+              <span></span>
+              <p>北京特价酒店</p>
+            </div>
+            <div class="hotel-box">
+              <a href="http://tuan.baidu.com/local/beijing/canyinmeishi-tg" target="_blank"><img src="http://ting.baidu.com/cms/topics/tpl_topic/images/jzyyx-hotel3.jpg"></a>
+              <a href="http://tuan.baidu.com/local/beijing/jiudian-tg" target="_blank"><img src="http://ting.baidu.com/cms/topics/tpl_topic/images/jzyyx-hotel4.jpg"></a>
+            </div>
+          </div>
+          <!--酒店介绍 end-->
+        </div>
+        <div class="jzyyx-tit3"></div>
+        <!--旅游景点 begin-->
+        <div class="tarvl-place">
+          <div class="tarvl-tit">
+              <span></span>
+              <p>北京景点介绍</p>
+            </div>
+            <div class="place-box">
+              <ul>
+                <li>
+                  <a href="http://baike.baidu.com/view/5681.htm?fr=bdmusicPC" target="_blank"><img src="http://g.hiphotos.baidu.com/baike/s%3D220/sign=72ef58a1e6cd7b89ed6c3d813f254291/2f738bd4b31c87010763ea8d277f9e2f0608ff80.jpg" width="145" height="103"><p>故宫</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/7379.htm?fr=bdmusicPC" target="_blank"><img src="http://g.hiphotos.baidu.com/baike/s%3D220/sign=9db710828d1001e94a3c130d880f7b06/9d82d158ccbf6c81be717583bc3eb13533fa4012.jpg" width="145" height="103"><p>颐和园</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/2476.htm?fr=bdmusicPC" target="_blank"><img src="http://c.hiphotos.baidu.com/baike/s%3D220/sign=c283839c30adcbef053479049caf2e0e/ca1349540923dd54446f1d30d009b3de9c82484d.jpg" width="145" height="103"><p>圆明园</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/29523.htm?fr=bdmusicPC" target="_blank"><img src="http://f.hiphotos.baidu.com/baike/s%3D220/sign=7ec7d2c8f736afc30a0c38678318eb85/0bd162d9f2d3572c6c5703d48a13632762d0c305.jpg" width="145" height="103"><p>八达岭长城</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/1924.htm?fr=bdmusicPC" target="_blank"><img src="http://f.hiphotos.baidu.com/baike/s%3D220/sign=7f28fde0738b4710ca2ffacef3cfc3b2/faedab64034f78f032bf9f3278310a55b2191cbe.jpg" width="145" height="103"><p>天安门广场</p></a>
+                </li>
+                <li>
+                  <a href="http://baike.baidu.com/view/341828.htm?fr=bdmusicPC" target="_blank"><img src="http://c.hiphotos.baidu.com/baike/s%3D220/sign=cae29730033b5bb5bad727fc06d2d523/2e2eb9389b504fc237b4269ee5dde71191ef6d46.jpg" width="145" height="103"><p>南锣鼓巷</p></a>
+                </li>
+              </ul>
+            </div>
+        </div>
+        <!--旅游景点 end-->
+
+    </div>
+
+
+</div>
+
+        <!--往期专题 begin-->
+        <div class="befor-topic">
+          <div class="jzyyx-tit4"></div>
+          <ul>
+            <li><a target="_blank" href="http://music.baidu.com/topic/show/sujianxin?pst=jzyyx"><img src="http://a.hiphotos.baidu.com/ting/pic/item/908fa0ec08fa513dd06563103c6d55fbb3fbd935.jpg" width="250" height="140"><p>信演唱会抢票专题</p></a></li>
+            <li><a target="_blank" href="http://music.baidu.com/topic/show/hanhongthry?pst=jzyyx"><img src="http://hiphotos.baidu.com/ting/pic/item/0b7b02087bf40ad14a3508d3552c11dfa9ecce29.jpg" width="250" height="140"><p>韩红演唱会抢票专题</p></a></li>
+            <li><a target="_blank" href="http://music.baidu.com/topic/show/ziranxing?pst=jzyyx"><img src="http://a.hiphotos.baidu.com/ting/pic/item/c75c10385343fbf27a6409e4b17eca8064388fa9.jpg" width="250" height="140"><p>城市音乐心灵净化-自然醒音乐节</p></a></li>
+          </ul>
+        </div>
+        <!--往期专题 end-->
+
+      </div>
+
+
+
+    <!--blank3 end-->
+    
+    	</div>
+	<div class="mod-info clearfix" monkey="mod-blank3" id="mod_4cb1e4">
+    			<!--抽奖弹层 begin-->
+
+      <div class="jzyyx-layout">
+        <div class="close-layout"></div>
+
+        <!--app 二维码-->
+        <div class="down-app">
+          <a class="ios-down" href="http://itunes.apple.com/cn/app/id468623917" target="_blank"></a>
+          <a class="android-down" href="http://music.baidu.com/cms/mobile/static/apk/BaiduMusic_jizhixing.apk" target="_blank"></a>
+        </div>
+
+
+        <!--填写信息-->
+        <div class="user-info">
+          <p><span>请填写您的姓名：</span><input id="user_name" type="text" value=""></p>
+          <p><span>请填写您的手机号：</span><input id="user_phone" type="text" value=""></p>
+          <p><span>请填写您的地址：</span><input id="user_adr" type="text" value=""></p>
+          <p><span>请填写您的邮箱：</span><input id="user_mail" type="text" value=""></p>
+          <p><span>请填写您的身份证号：</span><input id="user_id" type="text" value=""></p>
+          <div class="layout-btn info-log">确认提交</div>
+        </div>
+
+        <!--信息提交成功 begin-->
+        <div class="info-succ">
+          <p>您的信息已提交成功，我们会尽快联系您</p>
+          <span>请耐心等候</span>
+          <div class="layout-btn info-get">确认提交</div>
+        </div>
+        <!--信息提交成功 end-->
+
+
+        <!--免费vip begin-->
+        <div class="got-freevip">
+          <span class="layout-icon"></span>
+          <div class="price-box">
+            <p class="p2">恭喜您获得了</p>
+            <p class="p1">免费开通百度音乐VIP</p>
+            <p class="p2">您还有<span class="price-num">4</span>次抽奖机会</p>
+            <div class="freevip-btn">
+              <div class="layout-btn go-viplink">现在开通&gt;&gt;</div>
+              <div class="layout-btn freevip-share">转送好友&gt;&gt;</div>
+            </div>
+          </div>
+        </div>
+        <!--免费vip end-->
+
+
+        <!--抽中实物奖 begin-->
+        <div class="got-bigprize">
+          <span class="layout-icon"></span>
+          <div class="price-box">
+            <p class="p2">恭喜您获得了</p>
+            <p id="big-prize" class="p1"></p>
+            <p class="p2">您还有<span class="price-num">4</span>次抽奖机会</p>
+            <div class="freevip-btn">
+              <div class="layout-btn open-infobox">去领奖喽</div>
+              <div class="layout-btn bigprize-share">晒晒奖品</div>
+            </div>
+          </div>
+        </div>
+        <!--抽中实物奖 end-->
+
+        <!--未中奖 begin-->
+        <div class="got-noprize">
+          <span class="layout-icon"></span>
+          <div class="price-box">
+            <p class="p2">对不起，您什么也没有抽中</p>
+            <p class="p1">再接再砺呦~亲！</p>
+            <p class="p2">您还有<span class="price-num">4</span>次抽奖机会</p>
+            <div class="freevip-btn">
+              <div class="layout-btn goon-prize">继续抽奖</div>
+            </div>
+          </div>
+        </div>
+        <!--未中奖 end-->
+
+        <!--分享弹层 begin-->
+        <div class="layout-share">
+          <span class="span1">分享到：</span>
+          <span class="span2">
+            <!-- Baidu Button BEGIN -->
+            <div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">
+              <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+              <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+              <a class="bds_tqq" title="分享到腾讯微博" href="#"></a>
+              <a class="bds_renren" title="分享到人人网" href="#"></a>
+              <a class="bds_t163" title="分享到网易微博" href="#"></a>
+              <span class="bds_more"></span>
+            </div>
+            <!-- Baidu Button END -->
+          </span>
+        </div>
+        <!--分享弹层 end-->
+
+        <!--提示信息 begin-->
+        <div class="notic-info">
+          <p></p>
+        </div>
+        <!--提示信息 end-->
+
+        <!--贴吧客户端下载 begin-->
+        <div class="tieba-pop">
+          <p>
+            <img src="http://ting.baidu.com/cms/topics/tpl_topic/images/tieba_pop.png" alt="下载贴吧客户端">
+          </p>
+        </div>
+        <!--贴吧客户端下载 end-->
+        
+      </div>
+
+      <!--抽奖弹层 end-->
+    	</div>
+
+	</div>	
+	<div class="topic-body clearfix">
+	<div class="topic-left">
+		
+
+	</div>
+	
+	<div class="topic-right">
+		
+<div class="mobileapp-down clearfix"><a href="http://music.baidu.com/mobile?fr=zhuanti" target="_blank"><i></i></a></div>
+
+
+	</div>
+	</div>
+	<div class="topic-bottom">
+		
+
+	</div>	
+</div>
+
+<div id="share" class="share">
+	<a id="share_up" class="share-up" href="javascript:void(0)"></a>
+	<a id="share_weixin" class="share-weixin" href="javascript:void(0)"></a>
+	<a id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare">	
+		<span class="bds_more"></span>
+	</a>
+	<a id="share_weibo" class="share-weibo" href="http://e.weibo.com/musicbaidu" target="_blank"></a>
+	<div class="share-weixin-detail" id="share_weixin_detail"><div class="share-weixin-qr"></div><span>微信扫一扫<br/>精选音乐每日推送!</span></div>
+</div>
+
+
+      </div>
+    </div>
+  </div>
+
+  
+    <div class="music-foot" monkey="music-foot" alog-alias="music-foot-alog">
+      <a href="javascript:void(0)" id="papa-follow">加啪啪好友<div class="follow-target"><div class="two-code two-code-papa"></div><span class="info">微信扫一扫<br/>精选音乐每日推送!</span></div></a><a href="javascript:void(0)" class="weixin-follow" id="weixin_follow">加微信好友</a><a href="http://e.weibo.com/musicbaidu" target="_blank" class="weibo-follow">加关注</a><a href="http://tousu.baidu.com/music/add" target="_blank" rel="nofollow">意见反馈</a><i class="module-line"></i>	<a target="_blank" href="/doc/help" rel="nofollow">帮助中心</a><i class="module-line"></i><a href="http://musicopen.baidu.com" target="_blank" rel="nofollow">资源合作开放平台</a><i class="module-line"></i><a href="http://y.baidu.com" target="_blank">原创音乐人</a><i class="module-line"></i><span class="copy">&copy;2013 Baidu</span><a href="http://www.baidu.com/duty/" target="_blank" class="reader" rel="nofollow">使用百度前必读</a>文网文<span class="license">[2010]197</span>号
+<div class="weixin-detail" id="weixin_detail"><div class="weixin-qr"></div><span>微信扫一扫<br/>精选音乐每日推送!</span></div>
+    </div>
+  
+
+  
+    <div class="app-down-panel">
+      <ul>
+        <li class="go-to-top"></li>
+        <li class="down-mobile">
+          <div class="down-preview-wrapper down-mobile-preview">
+            <div class="down-preview">
+              <span>百度音乐手机版</span>
+              <a href="/app" target="_blank">
+                <img width="128" height="128" src="/static/images/blank.gif" org_src="/static/images/2code/app-down-index.png"/>
+              </a>
+              <span>点击或扫描下载</span>
+            </div>
+          </div>
+        </li>
+        <li class="down-pc">
+          <a href="http://qianqian.baidu.com/download/BaiduMusic-12345616.exe" target="_blank">
+            <div class="down-pc-icon"></div>
+          </a>
+
+          <div class="down-preview-wrapper down-pc-preview">
+            <div class="down-preview">
+              <span>百度音乐电脑版</span>
+              <a href="http://qianqian.baidu.com/download/BaiduMusic-12345616.exe" target="_blank">
+                <img width="96" height="96" src="/static/images/blank.gif" org_src="/static/images/music/download-pc-preview.png"></a>
+              <span>点击下载</span>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <a class="vip-tips" id="vip_tips" target="_blank" href="/mobile?pst=tips">
+      <div class="vip-tips-content">
+        <div class="vip-tips-left">
+
+        </div>
+        <div class="vip-tips-right">
+          <span class="vip-tips-text" id="vip_tips_text_vip"><em>免费续期</em>2个月VIP</span>
+          <span class="vip-tips-text" id="vip_tips_text_not_vip">百度音乐<em>免费</em>送2个月VIP会员</span>
+
+          <div class="vip-tips-btn" href="" target="_blank">点击领取</div>
+        </div>
+        <div class="vip-tips-close" href="javascript:void(0)"></div>
+      </div>
+    </a>
+  
+  
+
+  	<div class="layout-bdbrowser">
+		<span class="icon-add2box"></span>
+	</div>
+
+</body>
+
+
+  
+    <script type="text/javascript" src="//mu6.bdstatic.com/static/j/FyldayX2.js"></script>
+  
+    <script type="text/javascript" src="//mu5.bdstatic.com/static/j/lL5Son3E.js"></script>
+      <script type="text/javascript">ting.openApp.init();</script>
+  
+  
+  <div style="display:none;">
+    <script type="text/javascript">
+      var pageId = "ting-music-plaza-topic-jzyyx";
+      (document.getElementsByTagName('head')[0] || body).appendChild(document.createElement('script')).src = 'http://img.baidu.com/hunter/musicmonkey.min.js';
+      var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+      document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd0ad46e4afeacf34cd12de4c9b553aa6' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+  </div>
+ 
+<script type="text/javascript" src="//mu6.bdstatic.com/static/j/OIhv2ZDX.js"></script>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=10004"></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript" src="//mu5.bdstatic.com/static/j/iwofmqrS.js"></script>
+<script type="text/javascript" src="http://ting.baidu.com/cms/topics/tpl_topic/js/topic_jzyyx.js?1380034750"></script>
+<script type="text/javascript">
+var topic_info={};
+topic_info.id=449;
+createClickMonkey("ting-music-plaza-topic-jzyyx");
+$.cookie('event_reg_from',"jzyyx",{ 'expires': 0.1, path:'/' });
+
+var bds_config = {
+	'bdText':'推荐一个超赞的音乐专题 —— 《极致音乐行》 （来自@百度音乐 ）',
+	'bdPic':'http://b.hiphotos.baidu.com/ting/pic/item/d01373f082025aaf53fcb30ffaedab64024f1a2c.jpg' 
+};
+</script>
+
+
+</html>

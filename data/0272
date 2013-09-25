@@ -1,0 +1,522 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">地理</span> <span class="f14">分类下的开放分类共有127个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34540">水域</a>(26)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34598">地貌</a>(29)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34541">矿物</a>(7)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34617">地质</a>(5)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34542">区域地理</a>(30)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34543">国家</a>(30)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34540" id="34540"></a>
+<div class="dirtit">水域</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%A3%D3%F2"target="_blank">海域</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%D3%C1%F7"target="_blank">河流</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%CB%BA%D3"target="_blank">运河</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%D9%B2%BC"target="_blank">瀑布</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%A3%B9%B5"target="_blank">海沟</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%A3%C1%EB"target="_blank">海岭</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%A3%CF%BF"target="_blank">海峡</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%BA%BB%A1"target="_blank">岛弧</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%F3%C5%E8"target="_blank">洋盆</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%B2%CD%BF"target="_blank">滩涂</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%BA%D3%EC"target="_blank">岛屿</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%FE%B2%B4"target="_blank">湖泊</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C2%C8%AA"target="_blank">温泉</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%AE%CE%C4"target="_blank">水文</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%F3%CE%F7%D1%F3"target="_blank">大西洋</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%B1%B1%F9%D1%F3"target="_blank">北冰洋</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%AB%C6%BD%D1%F3"target="_blank">太平洋</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A1%B6%C8%D1%F3"target="_blank">印度洋</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%F3%C2%BD%BC%DC"target="_blank">大陆架</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%A3%B0%B6%B4%F8"target="_blank">海岸带</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%D8%CF%C2%CB%AE"target="_blank">地下水</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%F7%CB%AE%D3%F2"target="_blank">流水域</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%F3%C2%BD%B1%DF%D4%B5"target="_blank">大陆边缘</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%EE%BA%A3%C6%BD%D4%AD"target="_blank">深海平原</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%A3%B5%D7%C9%BD%C2%F6"target="_blank">海底山脉</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%B1%C3%C0%D6%DE%CE%E5%B4%F3%BA%FE"target="_blank">北美洲五大湖</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34598" id="34598"></a>
+<div class="dirtit">地貌</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%F3%C2%BD"target="_blank">大陆</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%BD%B5%D8"target="_blank">山地</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%BD%C2%F6"target="_blank">山脉</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%DF%D4%AD"target="_blank">高原</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%BD%D4%AD"target="_blank">平原</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%F0%C1%EA"target="_blank">丘陵</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%A3%D1%F3"target="_blank">海洋</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%E8%B5%D8"target="_blank">盆地</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%DD%B5%D8"target="_blank">洼地</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%D3%B9%C8"target="_blank">河谷</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%B3%C7%F0"target="_blank">沙丘</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%B3%C4%AE"target="_blank">沙漠</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%A8%B5%D8"target="_blank">台地</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%B3%B5%D8"target="_blank">沙地</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%C4%C4%AE"target="_blank">荒漠</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%EA%B1%DA"target="_blank">戈壁</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%DB%D1%D2"target="_blank">熔岩</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%F9%B4%A8"target="_blank">冰川</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%F0%C9%BD"target="_blank">火山</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%D3%D4%F3"target="_blank">沼泽</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%AA%B5%D8"target="_blank">湿地</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E5%D4%C0"target="_blank">五岳</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%DF%B4%F3%D6%DE"target="_blank">七大洲</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%C4%B4%F3%B8%DF%D4%AD"target="_blank">四大高原</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%C4%B4%F3%C5%E8%B5%D8"target="_blank">四大盆地</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%D8%C3%B2%D1%A7"target="_blank">地貌学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%D8%D0%CE%B5%D8%C3%B2"target="_blank">地形地貌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%B9%D4%EC%B5%D8%C3%B2%D1%A7"target="_blank">构造地貌学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%A6%CB%B9%CC%D8%B5%D8%C3%B2"target="_blank">喀斯特地貌</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34541" id="34541"></a>
+<div class="dirtit">矿物</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%D2%CA%AF"target="_blank">岩石</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%A6%CA%AF"target="_blank">宝石</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%F3%CA%AF"target="_blank">矿石</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%F1%CA%AF"target="_blank">玉石</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%F0%CA%F4"target="_blank">金属</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%D0%C9%AB%BD%F0%CA%F4"target="_blank">有色金属</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%A1%D3%D0%BD%F0%CA%F4"target="_blank">稀有金属</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34617" id="34617"></a>
+<div class="dirtit">地质</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%D8%D6%CA"target="_blank">地质</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%D8%D6%CA%D1%A7"target="_blank">地质学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%D8%D6%CA%C4%EA%B4%FA"target="_blank">地质年代</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%B9%D4%EC%B5%D8%D6%CA%D1%A7"target="_blank">构造地质学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%B9%D4%EC%B5%D8%D6%CA"target="_blank">构造地质</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34542" id="34542"></a>
+<div class="dirtit">区域地理</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%B1%CF%BD%CA%D0"target="_blank">直辖市</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%B2%BB%D5"target="_blank">安徽</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%A3%BD%A8"target="_blank">福建</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%CA%CB%E0"target="_blank">甘肃</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%E3%B6%AB"target="_blank">广东</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%E3%CE%F7"target="_blank">广西</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%F3%D6%DD"target="_blank">贵州</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%A3%C4%CF"target="_blank">海南</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%D3%B1%B1"target="_blank">河北</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%D3%C4%CF"target="_blank">河南</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%DA%C1%FA%BD%AD"target="_blank">黑龙江</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%FE%B1%B1"target="_blank">湖北</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%FE%C4%CF"target="_blank">湖南</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%AA%C1%D6"target="_blank">吉林</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%AD%CB%D5"target="_blank">江苏</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%AD%CE%F7"target="_blank">江西</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%C9%C4%FE"target="_blank">辽宁</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%DA%C3%C9%B9%C5"target="_blank">内蒙古</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%FE%CF%C4"target="_blank">宁夏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%E0%BA%A3"target="_blank">青海</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%BD%B6%AB"target="_blank">山东</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%BD%CE%F7"target="_blank">山西</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%C4%B4%A8"target="_blank">四川</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%C2%CE%F7"target="_blank">陕西</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%B2%D8"target="_blank">西藏</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C2%BD%AE"target="_blank">新疆</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%C6%C4%CF"target="_blank">云南</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%E3%BD%AD"target="_blank">浙江</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%A8%CD%E5"target="_blank">台湾</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%D0%D5%FE%C7%F8%BB%AE"target="_blank">行政区划</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34543" id="34543"></a>
+<div class="dirtit">国家</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%B9%FA"target="_blank">中国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%A2%B8%F9%CD%A2"target="_blank">阿根廷</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%A3%BC%B0"target="_blank">埃及</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%B5%D8%C0%FB"target="_blank">奥地利</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C4%B4%F3%C0%FB%D1%C7"target="_blank">澳大利亚</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%CD%CE%F7"target="_blank">巴西</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%AF%CF%CA"target="_blank">朝鲜</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%A4%C2%F3"target="_blank">丹麦</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%C2%B9%FA"target="_blank">德国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%ED%C2%DE%CB%B9"target="_blank">俄罗斯</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%A8%B9%FA"target="_blank">法国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%D2%C0%BC"target="_blank">芬兰</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%E7%C2%D7%B1%C8%D1%C7"target="_blank">哥伦比亚</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%AB%B9%FA"target="_blank">韩国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%C9%C0%BC"target="_blank">荷兰</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%D3%C4%C3%B4%F3"target="_blank">加拿大</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%ED%C0%B4%CE%F7%D1%C7"target="_blank">马来西亚</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%C0%B9%FA"target="_blank">美国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%AB%CE%F7%B8%E7"target="_blank">墨西哥</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%CF%CC%D1%D1%C0"target="_blank">葡萄牙</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%D5%B1%BE"target="_blank">日本</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%F0%B5%E4"target="_blank">瑞典</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%F0%CA%BF"target="_blank">瑞士</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%A9%B9%FA"target="_blank">泰国</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%B0%E0%D1%C0"target="_blank">西班牙</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%A3%C0%B0"target="_blank">希腊</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C2%BC%D3%C6%C2"target="_blank">新加坡</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%E2%B4%F3%C0%FB"target="_blank">意大利</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A1%B6%C8"target="_blank">印度</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A2%B9%FA"target="_blank">英国</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--03765688380979313674092423-->
+<script> var _trace_page_logid = 0376568838; </script>

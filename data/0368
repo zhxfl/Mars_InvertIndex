@@ -1,0 +1,428 @@
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>电视直播_hao123影视</title>
+        <meta content="直播、综艺直播、影视直播、体育直播" name="description">        <meta content="hao123电视直播，最新最全的电视直播平台。及时收录各家电视台节目，高清直播在线看，流畅不卡。" name="keywords">        <!--[if IE]>
+        <script>
+        (function(){
+        if(!/*@cc_on!@*/0)return;
+        var e = "wrapper,abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video,toggle,icon,search,suggest".split(',');
+        for(var i in e){document.createElement(e[i])}})()
+        </script>
+        <![endif]-->
+        <link rel="shortcut icon" type="image/ico" href="/static/favicon.ico"/>
+        <link href="/static/css/common.css" rel="stylesheet" type="text/css" />
+        <link href="http://www.hao123.com/resource/erji/public/css/base.css" rel="stylesheet" type="text/css" />
+        <link href="http://www.hao123.com/static/css/public/common-base20.css" rel="stylesheet" type="text/css" />
+        <link href="/static/css/live.css?d=1379404043" rel="stylesheet" />
+        <script>
+          ([,].length-1)&&(function(s,d,i){d=document;for(i in s)d.createElement(s[i])})(
+          "header nav article aside section footer t search suggest"
+          .split(/\s+/));
+        </script>
+        <script for="nothing-to-do">var serverTime = new Date(1380035398 * 1000);</script>
+    </head>
+    <body class="newer-nav ">
+        <div id="hd">
+        <div id="page-header">
+            <div class="top-bar">
+                <div class="wrapper page-width">
+                    <p class="list links">
+                        <a tabindex="1" class="item hilight" target="_blank" href="http://www.hao123.com/">上网大全</a>
+                        <a tabindex="1" class="item" target="_blank" href="http://v.hao123.com/">影视</a>
+                        <a tabindex="1" class="item" target="_blank" href="http://game.hao123.com/">游戏  </a>
+                        <a tabindex="1" class="item" target="_blank" href="http://news.hao123.com/">头条</a>
+                        <a tabindex="1" class="item" target="_blank" href="http://pic.hao123.com/">图片 </a>
+                        <a tabindex="1" class="item" target="_blank" href="http://caipiao.hao123.com/">彩票   </a>
+                        <a tabindex="1" class="item" target="_blank" href="http://lady.hao123.com/">女性</a>
+                        <a tabindex="1" class="item" target="_blank" href="http://life.hao123.com/">查询</a>
+                        <a tabindex="1" class="item" target="_blank" href="http://music.hao123.com/ ">音乐</a>
+                        <a tabindex="1" class="item" target="_blank" href="http://lvyou.hao123.com/">旅游   </a>
+                        <a tabindex="1" class="item" target="_blank" href="http://book.hao123.com/">小说</a>
+                        <a tabindex="1" class="item" target="_blank" href="http://gouwu.hao123.com/">购物</a>
+                        <b tabindex="1" class="item more">
+                            <u>更多</u>
+                            <i class="icon"></i>
+                        </b>
+                        <u class="layer sites-as-type-layer">
+                            <iframe class="layer-mask" frameborder="0" src="about:blank"></iframe>
+                            <b class="more exp more-exp">
+                                <u>更多</u>
+                                <i class="icon"></i>
+                            </b>
+                            <i class="more-site-type odd clearfix">
+                                <s class="type">娱乐休闲</s>
+                                <a class="link-item" href="http://video.hao123.com/dianying/" target="_blank">电影</a>
+                                <a class="link-item hilight" href="http://v.hao123.com/tv/" target="_blank">电视剧</a>
+                                <a class="link-item" href="http://dongman.hao123.com/" target="_blank">动漫</a>
+                                <a class="link-item" href="http://video.hao123.com/zongyi/" target="_blank">综艺</a>
+                                <a class="link-item hilight" href="http://v.hao123.com/live" target="_blank">直播</a>
+                                <a class="link-item" href="http://www.hao123.com/video" target="_blank">视频</a>
+                                <a class="link-item hilight" href="http://xyx.hao123.com/" target="_blank">小游戏</a>
+                                <a class="link-item" href="http://wyyx.hao123.com/" target="_blank">页游</a>
+                                <a class="link-item" href="http://www.hao123.com/gaoxiao" target="_blank">搞笑</a>
+                                <a class="link-item" href="http://www.hao123.com/sport" target="_blank">体育</a>
+                                <a class="link-item" href="http://www.hao123.com/nba" target="_blank">NBA</a>
+                                <a class="link-item" href="http://news.hao123.com/soccer" target="_blank">足球</a>
+                                <a class="link-item" href="http://www.hao123.com/xingzuonew.html" target="_blank">星座</a>
+                                <a class="link-item" href="http://www.hao123.com/love" target="_blank">交友</a>
+                                <a class="link-item" href="http://www.hao123.com/star" target="_blank">明星</a>
+                            </i>
+                            <i class="more-site-type even clearfix">
+                                <s class="type">生活服务</s>
+                                <a class="link-item hilight" href="http://tuan.baidu.com/" target="_blank">团购</a>
+                                <a class="link-item" href="http://www.hao123.com/bank" target="_blank">银行 </a>
+                                <a class="link-item hilight" href="http://www.hao123.com/junshi" target="_blank">军事</a>
+                                <a class="link-item" href="http://www.hao123.com/fangchan" target="_blank">房产 </a>
+                                <a class="link-item" href="http://www.hao123.com/stocknew.htm" target="_blank">股票 </a>
+                                <a class="link-item" href="http://www.hao123.com/stock" target="_blank">基金 </a>
+                                <a class="link-item hilight" href="http://www.hao123.com/tianqi" target="_blank">天气 </a>
+                                <a class="link-item hilight" href="http://www.hao123.com/menu" target="_blank">菜谱 </a>
+                                <a class="link-item" href="http://www.hao123.com/auto" target="_blank">汽车</a>
+                                <a class="link-item" href="http://www.hao123.com/map" target="_blank">地图</a>
+                                <a class="link-item" href="http://www.hao123.com/zhaopin" target="_blank">招聘 </a>
+                                <a class="link-item hilight" href="http://www.hao123.com/child" target="_blank">儿童</a>
+                                <a class="link-item" href="http://www.hao123.com/muying" target="_blank">母婴 </a>
+                                <a class="link-item" href="http://www.hao123.com/health" target="_blank">健康 </a>
+                                <a class="link-item" href="http://www.hao123.com/edu" target="_blank">大学 </a>
+                                <a class="link-item" href="http://www.hao123.com/mobile" target="_blank">手机</a>
+                            </i>
+                            <i class="more-site-type odd clearfix">
+                                <s class="type">其他网站</s>
+                                <a class="link-item hilight" href="http://soft.hao123.com" target="_blank">软件</a>
+                                <a class="link-item" href="http://www.hao123.com/mail" target="_blank">邮箱 </a>
+                                <a class="link-item" href="http://www.hao123.com/weibo" target="_blank">微博 </a>
+                                <a class="link-item hilight" href="http://www.hao123.com/xiaoqingxin" target="_blank">小清新 </a>
+                                <a class="link-item" href="http://www.hao123.com/chongwu" target="_blank">宠物</a>
+                                <a class="link-item" href="http://www.hao123.com/harcksafe" target="_blank">杀毒 </a>
+                                <a class="link-item" href="http://www.hao123.com/sheji" target="_blank">设计 </a>
+                                <a class="link-item" href="http://www.hao123.com/hardware" target="_blank">电脑</a>
+                                <a class="link-item" href="http://www.hao123.com/desktop" target="_blank">桌面 </a>
+                                <a class="link-item" href="http://www.hao123.com/zhiye" target="_blank">行业 </a>
+                                <a class="link-item" href="http://www.hao123.com/sheying" target="_blank">摄影</a>
+                                <a class="link-item" href="http://www.hao123.com/english" target="_blank">英语</a>
+                                <a class="link-item" href="http://www.hao123.com/exam" target="_blank">考试 </a>
+                                <a class="link-item" href="http://www.hao123.com/eduhtm_qyqx" target="_blank">学习 </a>
+                                <a class="link-item" href="http://www.hao123.com/gongyi" target="_blank">公益</a>
+                            </i>
+                        </u>
+                    </p>
+                    <p class="list user-tools">
+                        <a class="item item-sethome" action="page-header-sethome" href="http://www.hao123.com/redian/sheshouyef.htm" target="_blank">
+                            <i class="icon">
+                                <u>.</u>
+                            </i>把hao123设为主页
+                        </a>
+                        <s>|</s>
+                        <a class="item hilight" action="page-header-feedback" href="http://feedback.hao123.com/?catalog_id=8" target="_blank">反馈</a>
+                        <s>|</s>
+                        <a class="item" action="page-header-mobile" href="http://www.hao123.com/shouji/" target="_blank">手机版</a>
+                        <s>|</s>
+                        <a class="item" action="page-header-desktop" href="http://www.hao123.com/desk.html" target="_blank">桌面版</a>
+                        <s>|</s>
+                        <a class="item" href="http://go.client.baidu.com/?linkid=344" target="_blank">浏览器</a>
+                    </p>
+                    <p class="layer desktop-layer">
+                        <s></s>
+                        <a href="http://www.hao123.com/desk.html" target="_blank">把hao123添加到桌面，上网更方便</a>
+                    </p>
+                    <p class="layer mobile-layer">
+                        <s></s>
+                        <b title="不再提示"></b>
+                        <a href="http://app.hao123.com/sms/app.html" target="_blank"><i></i><em>下载hao123手机客户端</em><u>手机上网从此更简单！</u></a>
+                    </p>
+                </div>
+            </div>
+            <div class="search-bar">
+                <div class="wrapper page-width">
+                    <h1 class="logo">
+                        <label></label>
+                        <a class="logo-link" href="http://www.hao123.com">
+                            <img alt="hao123上网导航" src="http://www.hao123.com/resource/global/images/logo-125.png" class="logo-image" />
+                        </a>
+                        <a title="影视" class="logo-link sublogo" href="http://v.hao123.com">
+                            <img alt="影视" src="/static/img/live/newnav-logo.png" class="logo-image"/>
+                        </a>
+                    </h1>
+                    <i class="headerfix fix-left"></i>
+                    <div class="ad-img">
+                        <span id="img-list">
+                        </span>
+                    </div>
+                    <a class="hao123-bd-logo">
+                        <img src="/static/img/live/video-logo.png" width="120" height="64">
+                    </a>  
+                    <div class="search-box">
+                        <span id="notice-list-wrapper" style="float:left;"><span id="notice-list"></span></span>
+                        <form action="http://video.baidu.com/v" target="_blank" method="get" autocomplete="off" script-role="search-form" name="search-form">
+                            <s script-role="fields" sr="fields" class="fields">
+                                <u script-role="hiddens"><input type="hidden" value="hao123" name="sc">
+                                    <input type="hidden" value="301989888" name="ct" />
+                                    <input type="hidden" value="800" name="fbl" />
+                                </u>
+                                <input x-webkit-speech="true" id="search-input" name="word" class="input-box" tabindex="4" autocomplete="off" />
+                            <div class="sug-wrap" style="display: none;"></div></s>
+                            <button type="submit" class="search-button">
+                                <i class="icon"></i>影视搜索
+                            </button>
+                        </form>
+                    </div>
+                    <i class="headerfix fix-right"></i>
+                    <div class="tools"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class='m-hd m-hastab'>
+                
+                                        
+        
+                <div class='m-menu-wrap l-w'>
+        <div class='m-menu'>
+            <ul>
+                                                                                                                                                                                                                <li class="first"><a href='http://v.hao123.com/'
+                         target="_self">首页</a></li>
+                                                                                                                                                                                                    <li><a href='http://v.hao123.com/dianshi/'
+                         target="_self">电视剧</a></li>
+                                                                                                                                                                                                    <li><a href='http://v.hao123.com/dianying/'
+                         target="_self">电影</a></li>
+                                                                                                                                                                                                    <li><a href='http://v.hao123.com/zongyi/'
+                         target="_self">综艺</a></li>
+                                                                                                                                                                                                    <li><a href='http://v.hao123.com/dongman/'
+                         target="_self">动漫</a></li>
+                                                                                                                                                                                                    <li><a href='http://v.hao123.com/yule/'
+                         target="_self">娱乐</a></li>
+                                                                                                                                                                                                    <li class="new"><span></span><a href='http://v.hao123.com/xinwen/'
+                         target="_self">新闻</a></li>
+                                                                                                                                                                                                    <li class="selected"><a href='http://live.hao123.com/'
+                         target="_self">直播</a></li>
+                                                                                                                                                                                                    <li class="nobg"><a href='http://v.hao123.com/guangchang/'
+                         target="_self">视频广场</a></li>
+                                                                                                                                                                                                    <li><a href='http://topic.hao123.com/'
+                         target="_self">专题</a></li>
+                                                                                                                                                                                                    <li class="small"><a href='http://www.hao123.com/video/'
+                         target="_self"><em class="sd">电影名站</em></a></li>
+                                                                                                                                                                                                    <li class="small"><a href='http://live.hao123.com/sports/'
+                         target="_self"><em class="sd">体育赛事</em></a></li>
+                                                                                                                                                                                                    <li class="small"><a href='http://v.hao123.com/tuan.html'
+                         target="_self"><em class="sd">团电影票</em></a></li>
+                            </ul>
+        </div>
+    </div>
+    </div>
+    <div id="play_area">
+        <b id="switch-light"></b>
+        <section id="player" class="page-width"><header><div id="search-box"><search><input type="text" id="station_search" value=""><suggest class="hide"><ul><li title="湖南卫视" spell="hnws,hunanweishi" key="hnws" style="cursor: pointer; ">湖南卫视</li><li title="东方卫视" spell="dongfangweishi,dfws" key="dfws" style="cursor: pointer; ">东方卫视</li><li title="江苏卫视" spell="jswsh,jiangsuweishi" key="jsws" style="cursor: pointer; ">江苏卫视</li><li title="北京卫视" spell="bjws,beijingweishi" key="bjws" style="cursor: pointer; ">北京卫视</li><li title="山东卫视" spell="sdws,shandongweishi" key="sdws" style="cursor: pointer; ">山东卫视</li><li title="吉林卫视" spell="jlws,jilinweishi" key="jlws" style="cursor: pointer; ">吉林卫视</li><li title="深圳卫视" spell="szws,shenzhenweishi" key="szws" style="cursor: pointer; ">深圳卫视</li><li title="广东卫视" spell="gdws,guangdongweishi" key="gdws" style="cursor: pointer; ">广东卫视</li><li title="河南卫视" spell="hnws,henanweishi" key="henanws" style="cursor: pointer; ">河南卫视</li><li title="天津卫视" spell="tjws,tianjinweishi" key="tjws" style="cursor: pointer; ">天津卫视</li><li title="贵州卫视" spell="gzws,guizhouweishi" key="gzws" style="cursor: pointer; ">贵州卫视</li><li title="青海卫视" spell="qhws,qinghaiweishi" key="qhws" style="cursor: pointer; ">青海卫视</li><li title="江西卫视" spell="jxws,jiangxiweishi" key="jxws" style="cursor: pointer; ">江西卫视</li><li title="四川卫视" spell="scws,sichuanweishi" key="scws" style="cursor: pointer; ">四川卫视</li><li title="山西卫视" spell="sxws,shanxiweishi" key="sxws" style="cursor: pointer; ">山西卫视</li><li title="广西卫视" spell="gxws,guangxiweishi" key="gxws" style="cursor: pointer; ">广西卫视</li><li title="湖北卫视" spell="hbws,hubeiweishi" key="hbws" style="cursor: pointer; ">湖北卫视</li><li title="重庆卫视" spell="cqws,chongqingweishi" key="cqws" style="cursor: pointer; ">重庆卫视</li><li title="东南卫视" spell="dnws,dongnanweishi" key="dnws" style="cursor: pointer; ">东南卫视</li><li title="旅游卫视" spell="lyws,lvyouweishi" key="lyws" style="cursor: pointer; ">旅游卫视</li><li title="云南卫视" spell="ynws,yunnanweishi" key="ynws" style="cursor: pointer; ">云南卫视</li><li title="内蒙古卫视" spell="nmgws,neimengguweishi" key="nmgws" style="cursor: pointer; ">内蒙古卫视</li><li title="河北卫视" spell="hbws,hebeiweishi" key="hebeiws" style="cursor: pointer; ">河北卫视</li><li title="陕西卫视" spell="sxws,shanxiweishi" key="shxws" style="cursor: pointer; ">陕西卫视</li><li title="兵团卫视" spell="btws,bingtuanweishi" key="btws" style="cursor: pointer; ">兵团卫视</li><li title="CCTV1" spell="cctv1,ys1,yangshiyitao.yangshizonghe" key="cctv1" style="cursor: pointer; ">CCTV1</li><li title="CCTV2" spell="cctv2,ys2,yangshiertao,yangshijingji" key="cctv2" style="cursor: pointer; ">CCTV2</li><li title="CCTV3" spell="cctv3,ys3,yangshisantao,yangshizongyi" key="cctv3" style="cursor: pointer; ">CCTV3</li><li title="CCTV4" spell="cctv4,ys4,yangshisitao,yszw,yangshizhongwen" key="cctv4" style="cursor: pointer; ">CCTV4</li><li title="CCTV5" spell="cctv5,cctvtiyu,cctvty" key="cctv5" style="cursor: pointer; ">CCTV5</li><li title="CCTV6" spell="cctv6,ys6,yangshidianying,ysdy" key="cctv6" style="cursor: pointer; ">CCTV6</li><li title="CCTV7" spell="cctv7,ys7,yangshiqitao,yangshijunshi,yangshijunshi" key="cctv7" style="cursor: pointer; ">CCTV7</li><li title="CCTV8" spell="cctv8,ys8,cctvdianshiju,yangshidianshiju,yangshibatao" key="cctv8" style="cursor: pointer; ">CCTV8</li><li title="CCTV9" spell="cctv9,jl9,cctvjilu,yangshijilu" key="cctv9" style="cursor: pointer; ">CCTV9</li><li title="CCTV10" spell="cctv10,ys10,yangshi10,cctvkejiao,yangshikejiao" key="cctv10" style="cursor: pointer; ">CCTV10</li><li title="CCTV11" spell="cctv11,ys11,yangshi11,cctvxq" key="cctv11" style="cursor: pointer; ">CCTV11</li><li title="CCTV12" spell="cctv12,yashishehui,ysshpd,cctvshehuiyufa,yangshishehuiyufa" key="cctv12" style="cursor: pointer; ">CCTV12</li><li title="CCTV-新闻" spell="cctvnews,cctv13,ysxw" key="cctvnews" style="cursor: pointer; ">CCTV-新闻</li><li title="CCTV-音乐" spell="cctvmusic,ysyy，cctv15" key="cctvmusic" style="cursor: pointer; ">CCTV-音乐</li><li title="CCTV-少儿" spell="cctvshaoer,cctv14,ysse" key="cctvkids" style="cursor: pointer; ">CCTV-少儿</li><li title="金鹰卡通" spell="jinyingkatong,jykt" key="jykt" style="cursor: pointer; ">金鹰卡通</li><li title="安徽卫视" spell="ahws,anhuiweishi" key="ahws" style="cursor: pointer; ">安徽卫视</li><li title="CCTV5" spell="cctv5,cctvtiyu,cctvty" key="cctv5" style="cursor: pointer; ">CCTV5</li><li title="风云足球" spell="fyzc,cctvfyzc,cctvfengyunzuqiu" key="cctv-fyzc" style="cursor: pointer; ">风云足球</li><li title="劲爆体育" spell="jbty,jinbaotiyu," key="jbty" style="cursor: pointer; ">劲爆体育</li><li title="黑龙江卫视" spell="hljws,heilongjiangweishi" key="hljws" style="cursor: pointer; ">黑龙江卫视</li><li title="辽宁卫视" spell="lnws,liangningweishi" key="lnws" style="cursor: pointer; ">辽宁卫视</li><li title="北京体育" spell="bjty,beijingtiyu" key="bjty" style="cursor: pointer; ">北京体育</li><li title="五星体育" spell="wxty,shwxty,shanghaiwuxingtiyu" key="wxty" style="cursor: pointer; ">五星体育</li><li title="山东体育" spell="sdty,shandongtiyu" key="sdty" style="cursor: pointer; ">山东体育</li><li title="湖北体育" spell="hbty,hubeitiyu" key="hbty" style="cursor: pointer; ">湖北体育</li><li title="卡酷少儿" spell="btvkkse,kkes,btvkakushaoer" key="kkse" style="cursor: pointer; ">卡酷少儿</li><li title="炫动卡通" spell="kxkt,kuxuankatong" key="kxkt" style="cursor: pointer; ">炫动卡通</li><li title="广东体育" spell="" key="gdty" style="cursor: pointer; ">广东体育</li><li title="甘肃卫视" spell="gansuweishi,gsws" key="gsws" style="cursor: pointer; ">甘肃卫视</li><li title="福彩开奖" spell="ssq,shuangseqiu" key="ssq" style="cursor: pointer; ">福彩开奖</li></ul></suggest></search></div><label id="time-area"></label><span class="forcaipiao"><a target="_blank"></a></span><span id="change-source" style="display:none;"><em>若当前播放不顺畅，可点击这里切换:</em></span></header><aside class="stations tab"><p class="controler"><b tab="stations" class="item cur">电视频道</b><b tab="history" class="item">我看过的</b></p><div class="pages"><ul tab="stations" class="page cur"><li class="folder" folder="hots"><h4>热门</h4><ul class="folder-list"><li class="item"key="cctv3"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv3"pluginurl=""cntvid="cctv3"tvsouid="4"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv3"pptvurl=""hstvurl=""tvsouid="4"title="CCTV3"time="10:30"program="向幸福出发"><h5>CCTV3</h5><em></em></li><li class="item"key="cctv6"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv6"pluginurl=""cntvid="cctv6"tvsouid="7"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv6"pptvurl=""hstvurl=""tvsouid="7"title="CCTV6"time="12:02"program="红河"><h5>CCTV6</h5><em></em></li><li class="item"key="dfws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300145&amp;livePlayerId=4264401"cntvid="dongfang"tvsouid="81"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300145&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/458"tvsouid="81"title="东方卫视"time="12:38"program="爱情公寓III"><h5>东方卫视</h5><em></em></li><li class="item"key="jsws"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=0000000001_1342935258488"pluginurl=""cntvid="jiangsu"tvsouid="44"cntvreplay="0"letvurl=""cntvurl=""pptvurl=""hstvurl="http://live.wasu.cn/exo/id/457"tvsouid="44"title="江苏卫视"time="19:35"program="爱情悠悠药草香"><h5>江苏卫视</h5><em></em></li><li class="item"key="hnws"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=0000000001_1342934731354"pluginurl=""cntvid="hunan"tvsouid="46"cntvreplay="0"letvurl=""fytvurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=0000000001_1342934731354"cntvurl=""pptvurl=""hstvurl=""tvsouid="46"title="湖南卫视"time="22:00"program="我们约会吧"><h5>湖南卫视</h5><em></em></li></ul></li><li class="folder" folder="cctv" type="cctv"><h4>央视</h4><ul class="folder-list"><li title="CCTV1"class="item"key="cctv1"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv1"pluginurl=""cntvid="cctv1"tvsouid="1"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv1"pptvurl=""hstvurl=""><h5>CCTV1</h5></li><li title="CCTV2"class="item"key="cctv2"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv2"pluginurl=""cntvid="cctv2"tvsouid="3"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv2"pptvurl=""hstvurl=""><h5>CCTV2</h5></li><li title="CCTV3"class="item"key="cctv3"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv3"pluginurl=""cntvid="cctv3"tvsouid="4"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv3"pptvurl=""hstvurl=""><h5>CCTV3</h5></li><li title="CCTV4"class="item"key="cctv4"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv4"pluginurl=""cntvid="cctv4"tvsouid="5"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv4"pptvurl=""hstvurl=""><h5>CCTV4</h5></li><li title="CCTV5"class="item"key="cctv5"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv5"pluginurl=""cntvid="cctv5"tvsouid="6"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv5"pptvurl=""hstvurl=""><h5>CCTV5</h5></li><li title="CCTV6"class="item"key="cctv6"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv6"pluginurl=""cntvid="cctv6"tvsouid="7"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv6"pptvurl=""hstvurl=""><h5>CCTV6</h5></li><li title="CCTV7"class="item"key="cctv7"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv7"pluginurl=""cntvid="cctv7"tvsouid="8"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv7"pptvurl=""hstvurl=""><h5>CCTV7</h5></li><li title="CCTV8"class="item"key="cctv8"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv8"pluginurl=""cntvid="cctv8"tvsouid="9"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv8"pptvurl=""hstvurl=""><h5>CCTV8</h5></li><li title="CCTV9"class="item"key="cctv9"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv9"pluginurl=""cntvid="cctv9"tvsouid="10"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv9"pptvurl=""hstvurl=""><h5>CCTV9</h5></li><li title="CCTV10"class="item"key="cctv10"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv10"pluginurl=""cntvid="cctv10"tvsouid="11"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv10"pptvurl=""hstvurl=""><h5>CCTV10</h5></li><li title="CCTV11"class="item"key="cctv11"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv11"pluginurl="1"cntvid="cctv11"tvsouid="12"cntvreplay=""letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv11"pptvurl=""hstvurl=""><h5>CCTV11</h5></li><li title="CCTV12"class="item"key="cctv12"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv12"pluginurl=""cntvid="cctv12"tvsouid="13"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv12"pptvurl=""hstvurl=""><h5>CCTV12</h5></li><li title="CCTV-新闻"class="item"key="cctvnews"nopluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv13"pluginurl=""cntvid="cctv13"tvsouid="14"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv13"pptvurl=""hstvurl=""><h5>CCTV-新闻</h5></li><li title="CCTV-音乐"class="item"key="cctvmusic"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=5_1358754093477"pluginurl=""cntvid="cctvmusic"tvsouid="16"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctvmusic"pptvurl=""hstvurl=""><h5>CCTV-音乐</h5></li><li title="CCTV-少儿"class="item"key="cctvkids"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=5_1358753712488"pluginurl=""cntvid="cctvchild"tvsouid="15"cntvreplay="1"letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctvchild"pptvurl=""hstvurl=""><h5>CCTV-少儿</h5></li></ul></li><li class="folder" folder="stv" type="stv"><h4>卫视</h4><ul class="folder-list"><li title="湖南卫视"class="item"key="hnws"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=0000000001_1342934731354"pluginurl=""cntvid="hunan"tvsouid="46"cntvreplay="0"letvurl=""fytvurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=0000000001_1342934731354"cntvurl=""pptvurl=""hstvurl=""><h5>湖南卫视</h5></li><li title="东方卫视"class="item"key="dfws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300145&amp;livePlayerId=4264401"cntvid="dongfang"tvsouid="81"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300145&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/458"><h5>东方卫视</h5></li><li title="江苏卫视"class="item"key="jsws"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=0000000001_1342935258488"pluginurl=""cntvid="jiangsu"tvsouid="44"cntvreplay="0"letvurl=""cntvurl=""pptvurl=""hstvurl="http://live.wasu.cn/exo/id/457"><h5>江苏卫视</h5></li><li title="北京卫视"class="item"key="bjws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300166&amp;livePlayerId=4264401"cntvid="btv1"tvsouid="60"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300166&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/460"><h5>北京卫视</h5></li><li title="山东卫视"class="item"key="sdws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300161&amp;livePlayerId=4264401"cntvid="shandong"tvsouid="41"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300161&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/474"><h5>山东卫视</h5></li><li title="吉林卫视"class="item"key="jlws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300176&amp;livePlayerId=4264401"cntvid="jilin"tvsouid="35"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300176&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/1513376"><h5>吉林卫视</h5></li><li title="深圳卫视"class="item"key="szws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300188&amp;livePlayerId=4264401"cntvid="shenzhentv"tvsouid="93"cntvreplay=""letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300188&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/461"><h5>深圳卫视</h5></li><li title="广东卫视"class="item"key="gdws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300179&amp;livePlayerId=4264401"cntvid="guangdong"tvsouid="70"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300179&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/470"><h5>广东卫视</h5></li><li title="河南卫视"class="item"key="henanws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300159&amp;livePlayerId=4264401"cntvid="henan"tvsouid="38"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300159&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/17659"><h5>河南卫视</h5></li><li title="天津卫视"class="item"key="tjws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300160&amp;livePlayerId=4264401"cntvid="tianjin"tvsouid="57"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300160&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/18117"><h5>天津卫视</h5></li><li title="贵州卫视"class="item"key="gzws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300174&amp;livePlayerId=4264401"cntvid="guizhou"tvsouid="48"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://player.pptv.com/v/jliaicPaULe7kcmgI.swf"hstvurl="http://live.wasu.cn/exo/id/485"><h5>贵州卫视</h5></li><li title="青海卫视"class="item"key="qhws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300180&amp;livePlayerId=4264401"cntvid="qinghai"tvsouid="592"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300180&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/480"><h5>青海卫视</h5></li><li title="江西卫视"class="item"key="jxws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300168&amp;livePlayerId=4264401"cntvid="jiangxi"tvsouid="45"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300168&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/465"><h5>江西卫视</h5></li><li title="四川卫视"class="item"key="scws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300177&amp;livePlayerId=4264401"cntvid="sichuan"tvsouid="58"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300177&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/477"><h5>四川卫视</h5></li><li title="山西卫视"class="item"key="sxws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300167&amp;livePlayerId=4264401"cntvid="shan1xitv"tvsouid="39"cntvreplay="1"letvurl=""cntvurl=""pptvurl=""hstvurl="http://live.wasu.cn/exo/id/17961"><h5>山西卫视</h5></li><li title="广西卫视"class="item"key="gxws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300178&amp;livePlayerId=4264401"cntvid="guangxi"tvsouid="50"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300178&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/1513374"><h5>广西卫视</h5></li><li title="湖北卫视"class="item"key="hbws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300146&amp;livePlayerId=4264401"cntvid="hubei"tvsouid="47"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300146&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/1513380"><h5>湖北卫视</h5></li><li title="重庆卫视"class="item"key="cqws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300144&amp;livePlayerId=4264401"cntvid="chongqing"tvsouid="59"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300144&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/473"><h5>重庆卫视</h5></li><li title="东南卫视"class="item"key="dnws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300175&amp;livePlayerId=4264401"cntvid=""tvsouid="51"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300175&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/17658"><h5>东南卫视</h5></li><li title="旅游卫视"class="item"key="lyws"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=17803_1346818490324"pluginurl=""cntvid="traveltv"tvsouid="31"cntvreplay="1"letvurl=""cntvurl=""pptvurl=""hstvurl="http://live.wasu.cn/exo/id/467"><h5>旅游卫视</h5></li><li title="云南卫视"class="item"key="ynws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300181&amp;livePlayerId=4264401"cntvid="yunnan"tvsouid="49"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300181&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/1513377"><h5>云南卫视</h5></li><li title="内蒙古卫视"class="item"key="nmgws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300173&amp;livePlayerId=4264401"cntvid="neimenggu"tvsouid="56"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300173&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/1513359"><h5>内蒙古卫视</h5></li><li title="河北卫视"class="item"key="hebeiws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300143&amp;livePlayerId=4264401"cntvid="hebei"tvsouid="37"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300143&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/1513363"><h5>河北卫视</h5></li><li title="陕西卫视"class="item"key="shxws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300170&amp;livePlayerId=4264401"cntvid="shan3xitv"tvsouid="40"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300170&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/478"><h5>陕西卫视</h5></li><li title="兵团卫视"class="item"key="btws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300157&amp;livePlayerId=4264401"cntvid="bingtuan"tvsouid="1476"cntvreplay="1"letvurl=""fytvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300157&amp;livePlayerId=4264401"hstvurl=""><h5>兵团卫视</h5></li><li title="安徽卫视"class="item"key="ahws"nopluginurl=""pluginurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300162&amp;livePlayerId=4264401"cntvid="anhui"tvsouid="42"cntvreplay="1"letvurl=""cntvurl=""pptvurl="http://pub.pptv.com/player/iframe/index.html#w=550&amp;h=405&amp;outsite=hao123&amp;id=300162&amp;livePlayerId=4264401"hstvurl="http://live.wasu.cn/exo/id/459"><h5>安徽卫视</h5></li><li title="黑龙江卫视"class="item"key="hljws"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=265_1344618988477"pluginurl=""cntvid="heilongjiang"tvsouid="34"cntvreplay="1"letvurl=""cntvurl=""pptvurl=""hstvurl="http://live.wasu.cn/exo/id/487"><h5>黑龙江卫视</h5></li><li title="辽宁卫视"class="item"key="lnws"nopluginurl=""pluginurl="http://live.wasu.cn/exo/id/18119"cntvid="liaoning"tvsouid="2000"cntvreplay="1"letvurl=""cntvurl=""pptvurl=""hstvurl="http://live.wasu.cn/exo/id/18119"><h5>辽宁卫视</h5></li><li title="甘肃卫视"class="item"key="gsws"nopluginurl=""pluginurl=""cntvid="gansu"tvsouid="52"cntvreplay=""letvurl=""cntvurl=""pptvurl="http://player.pptv.com/v/dB59ib2PJOXfaWMA.swf"hstvurl=""><h5>甘肃卫视</h5></li></ul></li><li class="folder" folder="df" type="df"><h4>地方台</h4><ul class="folder-list"><li title="金鹰卡通"class="item"key="jykt"nopluginurl=""pluginurl="http://live.wasu.cn/exo/id/18116"cntvid=""tvsouid="129"cntvreplay=""letvurl=""cntvurl=""pptvurl="http://player.pptv.com/v/m1q9O6MJebcamAA.swf"hstvurl="http://live.wasu.cn/exo/id/18116"><h5>金鹰卡通</h5></li><li title="卡酷少儿"class="item"key="kkse"nopluginurl="-http://coop.fengyunlive.com/coop/iframe.htm?cid=5_1355972214548"pluginurl=""cntvid=""tvsouid="69"cntvreplay=""letvurl=""cntvurl=""pptvurl="http://player.pptv.com/v/rnngXsYsnNo9uyM.swf"hstvurl=""><h5>卡酷少儿</h5></li><li title="炫动卡通"class="item"key="kxkt"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=5_1355994993099"pluginurl=""cntvid=""tvsouid="558"cntvreplay=""letvurl=""cntvurl=""pptvurl=""hstvurl="http://live.wasu.cn/exo/id/899"><h5>炫动卡通</h5></li></ul></li><li class="folder" folder="pe" type="pe"><h4>体育台</h4><ul class="folder-list"><li title="CCTV5"class="item"key="cctv5"nopluginurl=""pluginurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv5"cntvid=""tvsouid="6"cntvreplay=""letvurl=""fytvurl=""cntvurl="http://player.cntv.cn/flashplayer/players/htmls/iframe/index.html?platform=baidu&amp;channel=cctv5"pptvurl=""hstvurl=""tvtype="pe"><h5>CCTV5</h5></li><li title="风云足球"class="item"key="cctv-fyzc"nopluginurl=""pluginurl="http://live.wasu.cn/exo/id/17754"cntvid=""tvsouid="400"cntvreplay=""letvurl="http://sports.letv.com/zt/hzsports262/index.html?streamid=fyzq&amp;typefrom=letv_live_hao123live&amp;cid=4"fytvurl=""cntvurl=""pptvurl=""hstvurl="http://live.wasu.cn/exo/id/17754"tvtype="pe"><h5>风云足球</h5></li><li title="劲爆体育"class="item"key="jbty"nopluginurl=""pluginurl="http://live.wasu.cn/exo/id/17664"cntvid=""tvsouid="933"cntvreplay=""letvurl="http://sports.letv.com/zt/hzsports262/index.html?streamid=jingbaotiyu_800&amp;typefrom=letv_live_hao123live&amp;cid=4"cntvurl=""pptvurl=""hstvurl=""tvtype="pe"><h5>劲爆体育</h5></li><li title="北京体育"class="item"key="bjty"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=btv6"pluginurl=""cntvid=""tvsouid="65"cntvreplay=""letvurl="http://sports.letv.com/zt/hzsports262/index.html?streamid=btv6_800&amp;typefrom=letv_live_hao123live&amp;cid=4"fytvurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=btv6"cntvurl=""pptvurl=""hstvurl=""tvtype="pe"><h5>北京体育</h5></li><li title="五星体育"class="item"key="wxty"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=wxty"pluginurl=""cntvid=""tvsouid="935"cntvreplay=""letvurl="http://sports.letv.com/zt/hzsports262/index.html?streamid=shanghaitiyu_800&amp;typefrom=letv_live_hao123live&amp;cid=4"cntvurl=""pptvurl=""hstvurl="http://live.wasu.cn/exo/id/44499"tvtype="pe"><h5>五星体育</h5></li><li title="山东体育"class="item"key="sdty"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=265_1343545356877"pluginurl=""cntvid=""tvsouid="268"cntvreplay=""letvurl=""cntvurl=""pptvurl=""hstvurl=""tvtype="pe"><h5>山东体育</h5></li><li title="湖北体育"class="item"key="hbty"nopluginurl="http://coop.fengyunlive.com/coop/iframe.htm?cid=hbty"pluginurl=""cntvid=""tvsouid="134"cntvreplay=""letvurl=""cntvurl=""pptvurl=""hstvurl="http://live.wasu.cn/exo/id/44778"tvtype="pe"><h5>湖北体育</h5></li><li title="广东体育"class="item"key="gdty"nopluginurl=""pluginurl=""cntvid=""tvsouid="72"cntvreplay=""letvurl="http://sports.letv.com/zt/hzsports262/index.html?streamid=guangdongtiyu&amp;typefrom=letv_live_hao123live&amp;cid=4"fytvurl=""cntvurl=""pptvurl=""hstvurl=""tvtype="pe"><h5>广东体育</h5></li></ul></li><li class="folder" folder="caipiao" type="caipiao"><h4>彩票</h4><ul class="folder-list"><li title="福彩开奖"class="item"key="ssq"nopluginurl=""pluginurl="http://www.zhcw.com/video/sphzzq/txhz/index.shtml"cntvid=""tvsouid=""cntvreplay=""letvurl=""fytvurl=""cntvurl=""pptvurl=""hstvurl=""tvtype="caipiao"><h5>福彩开奖</h5></li></ul></li></ul><ul tab="history" class="page folder-list page-history"></ul></div></aside><aside class="epg"><h3></h3><ul class="live-pro-now"></ul><p class="switcher"><i class="noti">换台</i><b class="prev"></b><b class="next"></b><b class="showall">快速选台</b></p><div class="switcher-layer"><div id="live-list-now"><div class="section-title"><span>正在直播</span></div><div class="live-list"><ul><li class="even"><span key="hnws" cntvid="hunan" tvsouid="46"><i style="background:url() no-repeat;"></i><em class="live-name">湖南卫视：</em><em class="live-pro">暂无数据</em></span><span key="dfws" cntvid="dongfang" tvsouid="81"><i style="background:url() no-repeat;"></i><em class="live-name">东方卫视：</em><em class="live-pro">暂无数据</em></span></li><li><span key="jsws" cntvid="jiangsu" tvsouid="44"><i style="background:url() no-repeat;"></i><em class="live-name">江苏卫视：</em><em class="live-pro">暂无数据</em></span><span key="bjws" cntvid="btv1" tvsouid="60"><i style="background:url() no-repeat;"></i><em class="live-name">北京卫视：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="sdws" cntvid="shandong" tvsouid="41"><i style="background:url() no-repeat;"></i><em class="live-name">山东卫视：</em><em class="live-pro">暂无数据</em></span><span key="jlws" cntvid="jilin" tvsouid="35"><i style="background:url() no-repeat;"></i><em class="live-name">吉林卫视：</em><em class="live-pro">暂无数据</em></span></li><li><span key="szws" cntvid="shenzhentv" tvsouid="93"><i style="background:url() no-repeat;"></i><em class="live-name">深圳卫视：</em><em class="live-pro">暂无数据</em></span><span key="gdws" cntvid="guangdong" tvsouid="70"><i style="background:url() no-repeat;"></i><em class="live-name">广东卫视：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="henanws" cntvid="henan" tvsouid="38"><i style="background:url() no-repeat;"></i><em class="live-name">河南卫视：</em><em class="live-pro">暂无数据</em></span><span key="tjws" cntvid="tianjin" tvsouid="57"><i style="background:url() no-repeat;"></i><em class="live-name">天津卫视：</em><em class="live-pro">暂无数据</em></span></li><li><span key="gzws" cntvid="guizhou" tvsouid="48"><i style="background:url() no-repeat;"></i><em class="live-name">贵州卫视：</em><em class="live-pro">暂无数据</em></span><span key="qhws" cntvid="qinghai" tvsouid="592"><i style="background:url() no-repeat;"></i><em class="live-name">青海卫视：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="jxws" cntvid="jiangxi" tvsouid="45"><i style="background:url() no-repeat;"></i><em class="live-name">江西卫视：</em><em class="live-pro">暂无数据</em></span><span key="scws" cntvid="sichuan" tvsouid="58"><i style="background:url() no-repeat;"></i><em class="live-name">四川卫视：</em><em class="live-pro">暂无数据</em></span></li><li><span key="sxws" cntvid="shan1xitv" tvsouid="39"><i style="background:url() no-repeat;"></i><em class="live-name">山西卫视：</em><em class="live-pro">暂无数据</em></span><span key="gxws" cntvid="guangxi" tvsouid="50"><i style="background:url() no-repeat;"></i><em class="live-name">广西卫视：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="hbws" cntvid="hubei" tvsouid="47"><i style="background:url() no-repeat;"></i><em class="live-name">湖北卫视：</em><em class="live-pro">暂无数据</em></span><span key="cqws" cntvid="chongqing" tvsouid="59"><i style="background:url() no-repeat;"></i><em class="live-name">重庆卫视：</em><em class="live-pro">暂无数据</em></span></li><li><span key="dnws" cntvid="" tvsouid="51"><i style="background:url() no-repeat;"></i><em class="live-name">东南卫视：</em><em class="live-pro">暂无数据</em></span><span key="lyws" cntvid="traveltv" tvsouid="31"><i style="background:url() no-repeat;"></i><em class="live-name">旅游卫视：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="ynws" cntvid="yunnan" tvsouid="49"><i style="background:url() no-repeat;"></i><em class="live-name">云南卫视：</em><em class="live-pro">暂无数据</em></span><span key="nmgws" cntvid="neimenggu" tvsouid="56"><i style="background:url() no-repeat;"></i><em class="live-name">内蒙古卫视：</em><em class="live-pro">暂无数据</em></span></li><li><span key="hebeiws" cntvid="hebei" tvsouid="37"><i style="background:url() no-repeat;"></i><em class="live-name">河北卫视：</em><em class="live-pro">暂无数据</em></span><span key="shxws" cntvid="shan3xitv" tvsouid="40"><i style="background:url() no-repeat;"></i><em class="live-name">陕西卫视：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="btws" cntvid="bingtuan" tvsouid="1476"><i style="background:url() no-repeat;"></i><em class="live-name">兵团卫视：</em><em class="live-pro">暂无数据</em></span><span key="cctv1" cntvid="cctv1" tvsouid="1"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV1：</em><em class="live-pro">暂无数据</em></span></li><li><span key="cctv2" cntvid="cctv2" tvsouid="3"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV2：</em><em class="live-pro">暂无数据</em></span><span key="cctv3" cntvid="cctv3" tvsouid="4"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV3：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="cctv4" cntvid="cctv4" tvsouid="5"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV4：</em><em class="live-pro">暂无数据</em></span><span key="cctv5" cntvid="cctv5" tvsouid="6"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV5：</em><em class="live-pro">暂无数据</em></span></li><li><span key="cctv6" cntvid="cctv6" tvsouid="7"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV6：</em><em class="live-pro">暂无数据</em></span><span key="cctv7" cntvid="cctv7" tvsouid="8"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV7：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="cctv8" cntvid="cctv8" tvsouid="9"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV8：</em><em class="live-pro">暂无数据</em></span><span key="cctv9" cntvid="cctv9" tvsouid="10"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV9：</em><em class="live-pro">暂无数据</em></span></li><li><span key="cctv10" cntvid="cctv10" tvsouid="11"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV10：</em><em class="live-pro">暂无数据</em></span><span key="cctv11" cntvid="cctv11" tvsouid="12"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV11：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="cctv12" cntvid="cctv12" tvsouid="13"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV12：</em><em class="live-pro">暂无数据</em></span><span key="cctvnews" cntvid="cctv13" tvsouid="14"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV-新闻：</em><em class="live-pro">暂无数据</em></span></li><li><span key="cctvmusic" cntvid="cctvmusic" tvsouid="16"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV-音乐：</em><em class="live-pro">暂无数据</em></span><span key="cctvkids" cntvid="cctvchild" tvsouid="15"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV-少儿：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="jykt" cntvid="" tvsouid="129"><i style="background:url() no-repeat;"></i><em class="live-name">金鹰卡通：</em><em class="live-pro">暂无数据</em></span><span key="ahws" cntvid="anhui" tvsouid="42"><i style="background:url() no-repeat;"></i><em class="live-name">安徽卫视：</em><em class="live-pro">暂无数据</em></span></li><li><span key="cctv5" cntvid="" tvsouid="6"><i style="background:url() no-repeat;"></i><em class="live-name">CCTV5：</em><em class="live-pro">暂无数据</em></span><span key="cctv-fyzc" cntvid="" tvsouid="400"><i style="background:url() no-repeat;"></i><em class="live-name">风云足球：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="jbty" cntvid="" tvsouid="933"><i style="background:url() no-repeat;"></i><em class="live-name">劲爆体育：</em><em class="live-pro">暂无数据</em></span><span key="hljws" cntvid="heilongjiang" tvsouid="34"><i style="background:url() no-repeat;"></i><em class="live-name">黑龙江卫视：</em><em class="live-pro">暂无数据</em></span></li><li><span key="lnws" cntvid="liaoning" tvsouid="2000"><i style="background:url() no-repeat;"></i><em class="live-name">辽宁卫视：</em><em class="live-pro">暂无数据</em></span><span key="bjty" cntvid="" tvsouid="65"><i style="background:url() no-repeat;"></i><em class="live-name">北京体育：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="wxty" cntvid="" tvsouid="935"><i style="background:url() no-repeat;"></i><em class="live-name">五星体育：</em><em class="live-pro">暂无数据</em></span><span key="sdty" cntvid="" tvsouid="268"><i style="background:url() no-repeat;"></i><em class="live-name">山东体育：</em><em class="live-pro">暂无数据</em></span></li><li><span key="hbty" cntvid="" tvsouid="134"><i style="background:url() no-repeat;"></i><em class="live-name">湖北体育：</em><em class="live-pro">暂无数据</em></span><span key="kkse" cntvid="" tvsouid="69"><i style="background:url() no-repeat;"></i><em class="live-name">卡酷少儿：</em><em class="live-pro">暂无数据</em></span></li><li class="even"><span key="kxkt" cntvid="" tvsouid="558"><i style="background:url() no-repeat;"></i><em class="live-name">炫动卡通：</em><em class="live-pro">暂无数据</em></span><span key="gdty" cntvid="" tvsouid="72"><i style="background:url() no-repeat;"></i><em class="live-name">广东体育：</em><em class="live-pro">暂无数据</em></span></li><li><span key="gsws" cntvid="gansu" tvsouid="52"><i style="background:url() no-repeat;"></i><em class="live-name">甘肃卫视：</em><em class="live-pro">暂无数据</em></span><span key="ssq" cntvid="" tvsouid=""><i style="background:url() no-repeat;"></i><em class="live-name">福彩开奖：</em><em class="live-pro">暂无数据</em></span></li></ul></div></div></div></aside><article class="player-frame"><iframe id="player-frame" src="about:blank" allowtransparency="true" onload="(typeof(this.style.maxWidth)=='undefined') && (this.contentWindow.document.body.style.backgroundColor='transparent');this.onload=null;" frameborder="0" scrolling="no"></iframe><div class="play-btn"></div><div class="forcctv5 hidden"><div class="tip-content"><span class="cctv5-title">CCTV5体育频道</span><span class="cctv5-ol"><em>正在直播:</em><em class="onlive">CCTV5体育频道</em></span><span class="cctv5-url"><a target="_blank" href="">观看地址</a></span></div></div></article></section>
+        </div>
+        <div id="content" class="center two_col">
+            <div id="program_list">
+                <h2>节目单</h2>
+                <span class="dropdown_button"><i class="l"></i><i class="r"></i><span class="title">选择电视台</span></span>
+                <span class="replay-tip" style="display:none;"><img src="/static/img/live/replay-tip.png" width="242" height="28" /></span>
+                <span class="source_link" style="float:right;font-size:12px;line-height:20px;color:#999;margin-right:4px;">节目单来源：<a href="http://tv.cntv.cn" target="_blank" style="margin-right:8px;">CNTV</a><a href="http://www.tvsou.com" target="_blank">搜视网</a></span>
+                <div class="dropdown hide">
+                    <ul class="tab"><li forkey="dl_cctv" class="cur" onclick="cctvTab()">央视台</li><li forkey="dl_stv" onclick="stvTab()">卫视台</li><li forkey="dl_df" onclick="dfTab()">地方台</li><li forkey="dl_pe" onclick="peTab()">体育台</li></ul>
+                    <div class="pages"><ul id="dl_cctv" class="dl_page clearfix"><li key="1" tvsoukey="1" cntvkey="cctv1">CCTV1</li><li key="3" tvsoukey="3" cntvkey="cctv2">CCTV2</li><li key="4" tvsoukey="4" cntvkey="cctv3">CCTV3</li><li key="5" tvsoukey="5" cntvkey="cctv4">CCTV4</li><li key="6" tvsoukey="6" cntvkey="cctv5">CCTV5</li><li key="7" tvsoukey="7" cntvkey="cctv6">CCTV6</li><li key="8" tvsoukey="8" cntvkey="cctv7">CCTV7</li><li key="9" tvsoukey="9" cntvkey="cctv8">CCTV8</li><li key="10" tvsoukey="10" cntvkey="cctv9">CCTV9</li><li key="11" tvsoukey="11" cntvkey="cctv10">CCTV10</li><li key="12" tvsoukey="12" cntvkey="cctv11">CCTV11</li><li key="13" tvsoukey="13" cntvkey="cctv12">CCTV12</li><li key="14" tvsoukey="14" cntvkey="cctv13">CCTV-新闻</li><li key="16" tvsoukey="16" cntvkey="cctvmusic">CCTV-音乐</li><li key="15" tvsoukey="15" cntvkey="cctvchild">CCTV-少儿</li></ul><ul id="dl_stv" class="dl_page clearfix"><li key="46" tvsoukey="46" cntvkey="hunan">湖南卫视</li><li key="81" tvsoukey="81" cntvkey="dongfang">东方卫视</li><li key="44" tvsoukey="44" cntvkey="jiangsu">江苏卫视</li><li key="60" tvsoukey="60" cntvkey="btv1">北京卫视</li><li key="41" tvsoukey="41" cntvkey="shandong">山东卫视</li><li key="35" tvsoukey="35" cntvkey="jilin">吉林卫视</li><li key="93" tvsoukey="93" cntvkey="shenzhentv">深圳卫视</li><li key="70" tvsoukey="70" cntvkey="guangdong">广东卫视</li><li key="38" tvsoukey="38" cntvkey="henan">河南卫视</li><li key="57" tvsoukey="57" cntvkey="tianjin">天津卫视</li><li key="48" tvsoukey="48" cntvkey="guizhou">贵州卫视</li><li key="592" tvsoukey="592" cntvkey="qinghai">青海卫视</li><li key="45" tvsoukey="45" cntvkey="jiangxi">江西卫视</li><li key="58" tvsoukey="58" cntvkey="sichuan">四川卫视</li><li key="39" tvsoukey="39" cntvkey="shan1xitv">山西卫视</li><li key="50" tvsoukey="50" cntvkey="guangxi">广西卫视</li><li key="47" tvsoukey="47" cntvkey="hubei">湖北卫视</li><li key="59" tvsoukey="59" cntvkey="chongqing">重庆卫视</li><li key="51" tvsoukey="51" cntvkey="">东南卫视</li><li key="31" tvsoukey="31" cntvkey="traveltv">旅游卫视</li><li key="49" tvsoukey="49" cntvkey="yunnan">云南卫视</li><li key="56" tvsoukey="56" cntvkey="neimenggu">内蒙古卫视</li><li key="37" tvsoukey="37" cntvkey="hebei">河北卫视</li><li key="40" tvsoukey="40" cntvkey="shan3xitv">陕西卫视</li><li key="1476" tvsoukey="1476" cntvkey="bingtuan">兵团卫视</li><li key="42" tvsoukey="42" cntvkey="anhui">安徽卫视</li><li key="34" tvsoukey="34" cntvkey="heilongjiang">黑龙江卫视</li><li key="2000" tvsoukey="2000" cntvkey="liaoning">辽宁卫视</li><li key="52" tvsoukey="52" cntvkey="gansu">甘肃卫视</li></ul><ul id="dl_df" class="dl_page clearfix"><li key="129" tvsoukey="129" cntvkey="">金鹰卡通</li><li key="69" tvsoukey="69" cntvkey="">卡酷少儿</li><li key="558" tvsoukey="558" cntvkey="">炫动卡通</li></ul><ul id="dl_pe" class="dl_page clearfix"><li key="6" tvsoukey="6" cntvkey="">CCTV5</li><li key="400" tvsoukey="400" cntvkey="">风云足球</li><li key="933" tvsoukey="933" cntvkey="">劲爆体育</li><li key="65" tvsoukey="65" cntvkey="">北京体育</li><li key="935" tvsoukey="935" cntvkey="">五星体育</li><li key="268" tvsoukey="268" cntvkey="">山东体育</li><li key="134" tvsoukey="134" cntvkey="">湖北体育</li><li key="72" tvsoukey="72" cntvkey="">广东体育</li></ul></div>
+                </div>
+                <ul class="" id="daytab"><li class="white">电视台数据加载中....</li></ul>
+                <div class="programs clearfix">
+                    <h5><em>上午节目<t>(00:00-12:00)</t></em><em>下午节目<t>(12:00-24:00)</t></em></h5>
+                    <ul id="pl1" class="clearfix"></ul>
+                    <ul id="pl2" class="clearfix"></ul>
+                </div>
+
+            </div>
+                        <section id="videolinks">
+              <h2>热播推荐</h2>
+              <div class="wrapper" script-role="page-slider">
+                <ul class="pages">
+                                                          <li class="page clearfix" key="0">
+                                          <span class="item" title="中国好声音 第2季">
+                        <a href="http://v.hao123.com/zongyi_intro/?id=8446&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img0.hao123.com/data/4402035a31429647b61c72d81aea12d8" style="display:block" alt="中国好声音 第2季"/>
+                          <t>中国好声音 第2季</t>
+                        </a>
+                        <i>导师“真实的谎言”</i>
+                      </span>
+                                                                                <span class="item" title="快乐大本营">
+                        <a href="http://v.hao123.com/zongyi_intro/?id=386&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img1.hao123.com/data/23bf01e47ee3abf2685fd5755e3dd5d1" style="display:block" alt="快乐大本营"/>
+                          <t>快乐大本营</t>
+                        </a>
+                        <i>杨颖隔空叫板谢娜</i>
+                      </span>
+                                                                                <span class="item" title="快乐男声">
+                        <a href="http://v.hao123.com/zongyi_intro/?id=8445&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img.hao123.com/data/8b762a57cf66b357a40fd1d3938a0261" style="display:block" alt="快乐男声"/>
+                          <t>快乐男声</t>
+                        </a>
+                        <i>华晨宇挑战崔健经典</i>
+                      </span>
+                                                                                <span class="item" title="超级演说家">
+                        <a href="http://v.hao123.com/zongyi_intro/?id=8513&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img.hao123.com/data/601ee3e65c95b2853989546ef3ee6a5b" style="display:block" alt="超级演说家"/>
+                          <t>超级演说家</t>
+                        </a>
+                        <i>大咖陈铭引志颖李咏讧</i>
+                      </span>
+                                                                                <span class="item" title="非诚勿扰">
+                        <a href="http://v.hao123.com/zongyi_intro/?id=290&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img1.hao123.com/data/303d0051e9f3b9e09f7a12f90e3df105" style="display:block" alt="非诚勿扰"/>
+                          <t>非诚勿扰</t>
+                        </a>
+                        <i>孟非遭丹麦女强吻</i>
+                      </span>
+                                                                                <span class="item" title="康熙来了">
+                        <a href="http://v.hao123.com/zongyi_intro/?id=377&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img3.hao123.com/data/297f389f3c3eb1964ab7c7bb9ee6e47b" style="display:block" alt="康熙来了"/>
+                          <t>康熙来了</t>
+                        </a>
+                        <i>请让我和男神见面</i>
+                      </span>
+                                        </li>
+                                                                              <li class="page clearfix" key="1">
+                                          <span class="item" title="今晚80后脱口秀">
+                        <a href="http://v.hao123.com/zongyi_intro/?id=1369&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img1.hao123.com/data/e9fd169b3ec5818a1922b088802d0af1" style="display:block" alt="今晚80后脱口秀"/>
+                          <t>今晚80后脱口秀</t>
+                        </a>
+                        <i>压力山大的人生</i>
+                      </span>
+                                                                                <span class="item" title="天天向上">
+                        <a href="http://v.hao123.com/zongyi_intro/?id=540&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img6.hao123.com/data/29bc35eed187fcebca47cff859b41ffd" style="display:block" alt="天天向上"/>
+                          <t>天天向上</t>
+                        </a>
+                        <i>搞怪男团脱口秀</i>
+                      </span>
+                                                                                <span class="item" title="我们约会吧">
+                        <a href="http://v.hao123.com/zongyi_intro/?id=599&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img0.hao123.com/data/738228cb89aeefc39a2ef64b7d6b3d1d" style="display:block" alt="我们约会吧"/>
+                          <t>我们约会吧</t>
+                        </a>
+                        <i>90后萌男PK邱启明</i>
+                      </span>
+                                                                                <span class="item" title="荒野求生">
+                        <a href="http://v.hao123.com/zongyi_intro/?id=6046&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img5.hao123.com/data/f6980e014732d2c1ee5807364c433dc9" style="display:block" alt="荒野求生"/>
+                          <t>荒野求生</t>
+                        </a>
+                        <i>贝尔展现求生技巧</i>
+                      </span>
+                                                                                <span class="item" title="假如生活欺骗了你">
+                        <a href="http://v.hao123.com/dianshi_intro/?id=19378&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img3.hao123.com/data/0a414ce98d81a98abef39840108c604d" style="display:block" alt="假如生活欺骗了你"/>
+                          <t>假如生活欺骗了你</t>
+                        </a>
+                        <i>陆毅首演现代陈世美</i>
+                      </span>
+                                                                                <span class="item" title="兰陵王">
+                        <a href="http://v.hao123.com/dianshi_intro/?id=19347&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img4.hao123.com/data/ab3b8fc548fc65c10c5ed3747493ab85" style="display:block" alt="兰陵王"/>
+                          <t>兰陵王</t>
+                        </a>
+                        <i>兰陵王的传奇一生</i>
+                      </span>
+                                        </li>
+                                                                              <li class="page clearfix" key="2">
+                                          <span class="item" title="小爸爸">
+                        <a href="http://v.hao123.com/dianshi_intro/?id=19400&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img6.hao123.com/data/fe6fb6e44bcbd6581bf660bc2bf41d72" style="display:block" alt="小爸爸"/>
+                          <t>小爸爸</t>
+                        </a>
+                        <i>文章一夜喜当爹</i>
+                      </span>
+                                                                                <span class="item" title="冲上云霄 第2季">
+                        <a href="http://v.hao123.com/dianshi_intro/?id=19191&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img1.hao123.com/data/b7c0b0b482e19cf35f63a2c43fba8e12" style="display:block" alt="冲上云霄 第2季"/>
+                          <t>冲上云霄 第2季</t>
+                        </a>
+                        <i>吴镇宇率众冲上云霄</i>
+                      </span>
+                                                                                <span class="item" title="Good Doctor">
+                        <a href="http://v.hao123.com/dianshi_intro/?id=19299&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img.hao123.com/data/44b7b4d5cf7d57bc8eb30376c34bd88a" style="display:block" alt="Good Doctor"/>
+                          <t>Good Doctor</t>
+                        </a>
+                        <i>外科医师奋斗记</i>
+                      </span>
+                                                                                <span class="item" title="变身超人">
+                        <a href="http://v.hao123.com/dianying_intro/?id=43630&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img2.hao123.com/data/64d1ff7d43fffc21055763e46fda7915" style="display:block" alt="变身超人"/>
+                          <t>变身超人</t>
+                        </a>
+                        <i>陈柏霖变身搞笑超人</i>
+                      </span>
+                                                                                <span class="item" title="忠烈杨家将">
+                        <a href="http://v.hao123.com/dianying_intro/?id=36551&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img5.hao123.com/data/58194abaaf150bfd6a21a3f664d2f34b" style="display:block" alt="忠烈杨家将"/>
+                          <t>忠烈杨家将</t>
+                        </a>
+                        <i>型男云集演绎沙场传奇</i>
+                      </span>
+                                                                                <span class="item" title="致青春">
+                        <a href="http://v.hao123.com/dianying_intro/?id=36488&amp;page=1&amp;frp=browse" target="_blank">
+                          <img src="http://img3.hao123.com/data/3bcb4eec339dd0f3a9fcbc8462c38740" style="display:block" alt="致青春"/>
+                          <t>致青春</t>
+                        </a>
+                        <i>无伤痛 不青春</i>
+                      </span>
+                                        </li>
+                                                      </ul>
+                <div class="controler">
+                  <b class="button prev inactive prev-inactive" ie6-fix="hover"></b>
+                  <b class="button next inactive next-inactive" ie6-fix="hover"></b>
+                </div>
+              </div>
+            </section>
+            <section id="livelinks">
+              <h2>直播网站推荐</h2>
+              <div class="clearfix wrapper">
+                              <a class="item" title="央视直播" href="http://tv.cntv.cn/live/" target="_blank">
+                  <img src="http://img4.hao123.com/data/fff037eca184e50d6b830c9d6397db57" alt="央视直播"/>
+                  <t>央视直播</t>
+                </a>
+                              <a class="item" title="湖南卫视" href="http://live.imgo.tv/" target="_blank">
+                  <img src="http://img3.hao123.com/data/2bcf78ab12d8f8cf18235c107c2e48d7" alt="湖南卫视"/>
+                  <t>湖南卫视</t>
+                </a>
+                              <a class="item" title="新浪NBA" href="http://sports.sina.com.cn/nba/" target="_blank">
+                  <img src="http://img3.hao123.com/data/8f30341313263fc68e64a28b10eb6f24" alt="新浪NBA"/>
+                  <t>新浪NBA</t>
+                </a>
+                              <a class="item" title="风云直播" href="http://www.fengyunzhibo.com/" target="_blank">
+                  <img src="http://img4.hao123.com/data/b52706e535723e08061be1e2e6d5015d" alt="风云直播"/>
+                  <t>风云直播</t>
+                </a>
+                              <a class="item" title="PPTV直播" href="http://live.pptv.com/" target="_blank">
+                  <img src="http://img4.hao123.com/data/0d243d978a10628b11cc09dc0c16ed46" alt="PPTV直播"/>
+                  <t>PPTV直播</t>
+                </a>
+                            </div>
+            </section>
+                    </div>
+                <!--end of #content-->
+<div class="footer" id="ft"><div class="ft_link"><a href="http://www.hao123.com/abouthao123.htm" target="_blank">关于hao123</a>&nbsp;|&nbsp;<a href="http://feedback.hao123.com/?catalog_id=8" style="color:#f00;" target="_blank">挑错有礼</a>&nbsp;|&nbsp;<a href="http://app.hao123.com/sms/getmsg.php" target="_blank">手机版</a>&nbsp;|&nbsp;<a href="http://www.hao123.com/indexk.htm" target="_blank">宽屏版</a></div><div class="copyright">&copy;Hao123-百度旗下网站<a class="feedback" target="_blank" href="http://www.miibeian.gov.cn/">京ICP证030173号</a></div></div>
+<t class="mask"></t>
+<div id="_video_player_box" style="display:none;"></div>
+<script type="text/javascript">var pageId = 'hao123-v-live';</script>
+<script src="http://www.hao123.com/js/base/tangram-1.3.9.js"></script>
+<script src="http://www.hao123.com/js/public20110926.js?v=20120615131133.js"></script>
+<script src="http://www.hao123.com/js/stock/place_holder.js"></script>
+<script>with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://img.baidu.com/hunter/hao123.js?st='+~(new Date()/864e5)];</script>
+<script src="http://s0.hao123.com/global/js/widget/g.sug.js" type="text/javascript"></script>
+<script type="text/javascript">
+  var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff60abe83e86964c3e30ba20fa7dc2709' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script src="http://www.hao123.com/js/common/lib/1.7.2.jquery.min.js"></script>
+<script src="http://www.hao123.com/resource/erji/public/js/base-lib.js?v=init"></script>
+<script src="http://www.hao123.com/resource/erji/public/js/base.js"></script>
+<script src="/static/js/live.js?v=13790584372"></script>
+<script src="http://www.hao123.com/js/common/erji-jsonce.js"></script>
+<script>(function initTrack(o){var d=document, x=d.createElement("script");x.src = "http://s0.hao123img.com/res/js/track.js?"+~(new Date/36e5);var a=[];if(o){for(i in o){a.push(i + ":" + (o[i]))}var config = a.join(";");x.setAttribute("data-log-config",config);var s=d.getElementsByTagName("script")[0].parentNode;var p= s||d.head;if(p){p.appendChild(x)}}})({pageId:'hao123-v-live',page:'hao123-v-live',level:2,title:'影视-直播'});</script>
+</body>
+</html>

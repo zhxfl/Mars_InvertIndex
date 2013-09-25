@@ -1,0 +1,544 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">科学</span> <span class="f14">分类下的开放分类共有131个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34567">数理化</a>(30)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34568">医药学</a>(30)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34569">生物学</a>(30)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34570">政治经济学</a>(29)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34604">系统科学</a>(1)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34619">交叉学科</a>(6)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34621">应用科学</a>(5)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34567" id="34567"></a>
+<div class="dirtit">数理化</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%A8%D2%E5"target="_blank">定义</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%A8%C0%ED"target="_blank">定理</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%AB%CA%BD"target="_blank">公式</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%AB%C0%ED"target="_blank">公理</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%D8%C6%CB"target="_blank">拓扑</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%FA%CA%FD"target="_blank">代数</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%B8%BA%CE"target="_blank">几何</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%F8%C9%E4"target="_blank">辐射</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%CB%C4%DC"target="_blank">核能</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%B5%D1%E9"target="_blank">实验</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%C2%CF%EB"target="_blank">猜想</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%C8%C1%A6%D1%A7"target="_blank">热力学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%B4%C5%D1%A7"target="_blank">电磁学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%E0%B6%D4%C2%DB"target="_blank">相对论</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%D6%CE%F6%D1%A7"target="_blank">分析学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%DF%BC%AD%D1%A7"target="_blank">逻辑学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%AF%BA%CF%C2%DB"target="_blank">集合论</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%FA%C2%CA%C2%DB"target="_blank">机率论</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%CB%BB%AF%D1%A7"target="_blank">核化学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A6%D3%C3%CA%FD%D1%A7"target="_blank">应用数学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%A3%B6%D9%C1%A6%D1%A7"target="_blank">牛顿力学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%AF%D1%A7%D4%AA%CB%D8"target="_blank">化学元素</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%DE%BB%FA%BB%AF%D1%A7"target="_blank">无机化学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%D0%BB%FA%BB%AF%D1%A7"target="_blank">有机化学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%D6%CE%F6%BB%AF%D1%A7"target="_blank">分析化学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BD%BF%D5%BA%BD%CC%EC"target="_blank">航空航天</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%BF%D7%D3%C1%A6%D1%A7"target="_blank">量子力学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%C4%B4%F3%B7%A2%C3%F7"target="_blank">四大发明</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%AF%D1%A7"target="_blank">化学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%EF%C0%ED"target="_blank">物理</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34568" id="34568"></a>
+<div class="dirtit">医药学</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%A9%CE%EF"target="_blank">药物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%D2%BD"target="_blank">中医</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%D3%FD"target="_blank">生育</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%AC%C9%F9"target="_blank">超声</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%A9%D2%B5"target="_blank">农业</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%A9%D1%A7"target="_blank">药学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%A1%C0%ED%D1%A7"target="_blank">病理学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C4%C0%ED%D1%A7"target="_blank">心理学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%A8%D2%BD%D1%A7"target="_blank">法医学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%A4%C0%ED%D1%A7"target="_blank">护理学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%A9%BC%C1%D1%A7"target="_blank">药剂学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%A9%C0%ED%D1%A7"target="_blank">药理学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%F9%B4%A1%D2%BD%D1%A7"target="_blank">基础医学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%A4%B7%C0%D2%BD%D1%A7"target="_blank">预防医学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF%D2%BD%D1%A7"target="_blank">生物医学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%D9%B4%B2%D2%BD%D1%A7"target="_blank">临床医学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%DA%C7%BB%D2%BD%D1%A7"target="_blank">口腔医学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BD%C1%C6%B1%A3%BD%A1"target="_blank">医疗保健</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BD%D1%A7%BC%BC%CA%F5"target="_blank">医学技术</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BD%C1%C6%C6%F7%D0%B5"target="_blank">医疗器械</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BD%D1%A7"target="_blank">医学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%B2%B2%A1"target="_blank">疾病</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BD%C1%C6"target="_blank">医疗</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%A9%C6%B7"target="_blank">药品</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%D2%A9"target="_blank">中药</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%A9%B7%BD"target="_blank">药方</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BD%D2%A9"target="_blank">医药</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%B3%C1%C6"target="_blank">食疗</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%B9%C9%FA%CB%D8"target="_blank">抗生素</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%D2%A9"target="_blank">西药</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34569" id="34569"></a>
+<div class="dirtit">生物学</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%F8%BB%AF"target="_blank">进化</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%B2%CE%EF%D1%A7"target="_blank">植物学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%E6%DF%B7%DB%D1%A7"target="_blank">孢粉学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AF%CE%EF%D1%A7"target="_blank">动物学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%F9%D2%F2%D1%A7"target="_blank">基因学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%C5%B4%AB%D1%A7"target="_blank">遗传学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%CE%CC%AC%D1%A7"target="_blank">形态学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B0%D0%D4%D1%A7"target="_blank">习性学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%C0%ED%D1%A7"target="_blank">生理学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B8%BE%FA%D1%A7"target="_blank">细菌学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B8%B0%FB%D1%A7"target="_blank">细胞学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%E2%D2%DF%D1%A7"target="_blank">免疫学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CC%AC%D1%A7"target="_blank">生态学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%C2%C9%FA%D1%A7"target="_blank">仿生学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%DF%CC%A5%D1%A7"target="_blank">胚胎学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%C5%C9%FA%D1%A7"target="_blank">优生学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%A2%C9%FA%CE%EF%D1%A7"target="_blank">微生物学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%C9%C3%D7%BF%C6%BC%BC"target="_blank">纳米科技</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF%CA%FD%D1%A7"target="_blank">生物数学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF%C9%F9%D1%A7"target="_blank">生物声学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B8%B0%FB%C9%FA%CE%EF%D1%A7"target="_blank">细胞生物学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%D6%D7%D3%C9%FA%CE%EF%D1%A7"target="_blank">分子生物学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF%B7%D6%C0%E0%D1%A7"target="_blank">生物分类学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF%CE%EF%C0%ED%D1%A7"target="_blank">生物物理学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%A2%C9%FA%CE%EF%C9%FA%C0%ED%D1%A7"target="_blank">微生物生理学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%A2%C9%FA%CE%EF%D2%C5%B4%AB%D1%A7"target="_blank">微生物遗传学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%A4%C9%FA%C9%FA%CE%EF%D1%A7"target="_blank">悉生生物学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF"target="_blank">生物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF%D1%A7"target="_blank">生物学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%A2%C9%FA%CE%EF"target="_blank">微生物</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34570" id="34570"></a>
+<div class="dirtit">政治经济学</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%FE%D6%CE%D1%A7"target="_blank">政治学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%AD%BC%C3%D1%A7"target="_blank">经济学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%F0%C8%DA%D1%A7"target="_blank">金融学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%CC%C6%B7%D1%A7"target="_blank">商品学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%E1%BC%C6%D1%A7"target="_blank">会计学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%B3%BC%C6%D1%A7"target="_blank">统计学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%C6%D5%FE%D1%A7"target="_blank">财政学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%F3%D2%B5%B9%DC%C0%ED"target="_blank">企业管理</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%FE%D6%CE%CB%BC%CF%EB"target="_blank">政治思想</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%FE%D6%CE%D6%C6%B6%C8"target="_blank">政治制度</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%D0%D5%FE%B9%DC%C0%ED"target="_blank">行政管理</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%FA%BC%CA%D5%FE%D6%CE"target="_blank">国际政治</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%F9%B1%BE%C0%ED%C2%DB"target="_blank">基本理论</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%C0%BD%E7%BE%AD%BC%C3"target="_blank">世界经济</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%A4%D2%B5%BE%AD%BC%C3"target="_blank">工业经济</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%A9%D2%B5%BE%AD%BC%C3"target="_blank">农业经济</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%CC%D2%B5%BE%AD%BC%C3"target="_blank">商业经济</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%CB%CA%E4%BE%AD%BC%C3"target="_blank">运输经济</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%C7%CA%D0%BE%AD%BC%C3"target="_blank">城市经济</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%BC%CA%F5%BE%AD%BC%C3%D1%A7"target="_blank">技术经济学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%FA%C3%F1%BE%AD%BC%C3%D1%A7"target="_blank">国民经济学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%FA%B7%C0%BE%AD%BC%C3%D1%A7"target="_blank">国防经济学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A6%D3%C3%BE%AD%BC%C3%D1%A7"target="_blank">应用经济学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%A2%B9%DB%BE%AD%BC%C3%D1%A7"target="_blank">微观经济学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%EA%B9%DB%BE%AD%BC%C3%D1%A7"target="_blank">宏观经济学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%F8%D3%F2%BE%AD%BC%C3%D1%A7"target="_blank">区域经济学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%CD%B6%AF%BE%AD%BC%C3%D1%A7"target="_blank">劳动经济学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%CB%BF%DA%BE%AD%BC%C3%D1%A7"target="_blank">人口经济学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%B9%FA%BE%AD%BC%C3%CA%B7"target="_blank">中国经济史</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34604" id="34604"></a>
+<div class="dirtit">系统科学</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B5%CD%B3%B9%A4%B3%CC"target="_blank">系统工程</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34619" id="34619"></a>
+<div class="dirtit">交叉学科</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%EF%C0%ED%BB%AF%D1%A7"target="_blank">物理化学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%C4%C1%CF%CE%EF%C0%ED%BB%AF%D1%A7"target="_blank">材料物理化学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF%BB%AF%D1%A7"target="_blank">生物化学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF%BB%AF%D1%A7%BC%BC%CA%F5"target="_blank">生物化学技术</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%CE%EF%C1%A6%D1%A7"target="_blank">生物力学</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%B7%BE%B3%BF%C6%D1%A7"target="_blank">环境科学</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34621" id="34621"></a>
+<div class="dirtit">应用科学</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%E7%BB%E1%D1%A7"target="_blank">社会学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%C6%D1%A7%C9%E7%BB%E1%D1%A7"target="_blank">科学社会学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%F8%D3%F2%C9%E7%BB%E1%D1%A7"target="_blank">区域社会学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%AD%BC%C3%C9%E7%BB%E1%D1%A7"target="_blank">经济社会学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BD%BF%D5"target="_blank">航空</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--04062638950289547274092423-->
+<script> var _trace_page_logid = 0406263895; </script>

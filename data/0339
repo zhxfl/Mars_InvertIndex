@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>百度百科植物大战</title>
+<link href="css/common.css" type="text/css" rel="stylesheet" />
+<script src="http://img.baidu.com/js/tangram-base-1.5.0.js" type="text/javascript"></script>
+<base target="_blank" />
+</head>
+
+<body>
+<div class="topbar">
+   <div class="inner">
+      <h1 class="logo"><a href="http://baike.baidu.com/">百度百科</a></h1>
+      <!--<div class="login-info">登录信息</div>-->
+   </div>
+</div>
+
+<div class="bg1">
+<div class="bg2">
+<div class="bg3">
+   <div class="banner">百度百科植物大战</div>
+   
+   <div class="intro">
+      <h2>活动简介</h2>
+      <div class="text">你知道具有极强抗旱能力的卷柏又名“九死还魂草”吗？你知道箭毒木因其剧烈的毒性被人称为“见血封喉”吗？</br>
+快来加入百科植物大战，为植物类词条完善百科名片，总分前200名人人有奖拿！第一名更可获得绝版iPhone 5一台！！</br>小伙伴们快来一起投入战斗吧！！
+<br>
+活动时间：2013年9月17日-2013年10月10日14点
+      </div>
+   </div>
+   
+   <div class="layout clearfix">
+      <div class="rules">
+         <h2>活动规则</h2>
+         <ul>
+            <li><em>★</em>点击右侧“我要参加”，进入任务页面，按照以下规则完成任务：</li>
+            <li><em>01</em>为词条添加百科名片（概述和基本信息栏）；</li>
+            <li><em>02</em>基本信息栏请至少填写6项内容，并建议您添加一张概述图片；</li>
+	<li><em>03</em>在添加百科名片之后，请将词条正文与名片中相重复的内容去除；</li>
+<li class="last"><em>04</em>请确保您添加的百科名片内容的正确性。</li>
+         </ul>
+      </div>
+      <div class="join"><a href="http://baike.baidu.com/cms/s/event/plants/task.html">我要参加</a></div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="layout">
+      <div class="rules reward">
+         <h2>活动奖惩</h2>
+         <ul>
+            <li><em>01</em>奖励：每完成一个任务词条可获得1分，总分排名<span style="color:red">前200名均可获得精美好礼！</li>
+<li><em>02</em>加分：将任务词条编辑成优质版本可额外获得20加分：<a href="http://tieba.baidu.com/p/2599417169
+" target="_blank"><span style="color:blue">查看详情</a></li>
+<li><em>03</em>惩罚：通过抽查和举报，违规将加倍扣分，严重者取消获奖资格。<a href="http://tieba.baidu.com/p/2599413058" target="_blank"><span style="color:blue">查看详情</a></li>
+<li><em>★</em>第1名：iPhone 5 16G版 3G手机（黑）</li>
+<li><em>☆</em>第2名：iPad mini（16G WIFI版）黑色</li>
+<li><em>☆</em>第3名：ThinkPad E125 3035-A22(联想)11.6英寸笔记本电脑</li>
+<li><em>☆</em>第4-10名：富士拍立得相机</li>
+<li><em>☆</em>第11-20名：IPOD SHUFFLE 2GB 银白</li>
+<li><em>☆</em>第21-50名：天文望远镜</li>
+<li><em>☆</em>第51-100名：学生用显微镜套装</li>
+<li><em>☆</em>第101-150名：罗技M185无线鼠标</li>
+<li class="last"><em>☆</em>第151-200名：简易书架</li>
+
+            
+         </ul>
+      </div>
+   </div> 
+   
+   <div class="prizes">
+      <div class="titbar">
+         <h2>奖品展示</h2>
+        
+      </div>
+      <ul class="clearfix">
+         <li><img src="img/pz_1.jpg" alt="" />iPhone 5</a></li>
+         <li><img src="img/pz_2.jpg" alt="" />iPad mini</a></li>
+         <li><img src="img/pz_3.jpg" alt="" />富士拍立得</a></li>
+         <li><img src="img/pz_4.jpg" alt="" />显微镜套装</a></li>
+      </ul>
+   </div>  
+   
+   <div class="footer">
+     <span class="copyright">&copy;2013 Baidu</span>
+     <a href="http://www.baidu.com/duty/">使用百度前必读</a>|<a href="http://www.baidu.com/search/baike_help.html#百科协议">百科协议</a>|<a href="http://baike.baidu.com/hezuo/">百度百科合作平台</a>
+   </div>
+   
+
+   <!-- 浮层 -->
+   <div class="side-pop" id="sidepop">
+      <span class="gotop" onclick="gotop()">top</span>
+      <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+         <em>分享到</em>
+         <a class="bds_qzone"></a>
+         <a class="bds_tsina"></a>
+         <a class="bds_tqq"></a>
+         <a class="bds_renren"></a>
+         <span class="bds_more"></span>
+      </div>
+   </div>
+   <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=324618" ></script>
+   <script type="text/javascript" id="bdshell_js"></script>
+   <script type="text/javascript">
+   var bds_config = {'bdText':'我加入了#百度百科植物大战#，总分前200名人人有奖拿！第一名更可获得绝版iPhone 5一台！！小伙伴们快来和我投入战斗吧！！@百度百科 http://baike.baidu.com/cms/s/event/plantswar/index.html  '};
+	document.getElementById("bdshell_js").src = "http://share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+   </script>
+
+
+
+   <!-- Baidu Button END -->
+   
+<script src="js/common.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F66d83bbaca8942a53fb0b2753329f518' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,1082 @@
+<!DOCTYPE html><!--STATUS OK--><html><head><meta charset="gbk"><title>百度贴吧——全球最大的中文社区</title><script>(function(){window.PDC={_timing:{},_opt:{sample:0.01},_analyzer:{loaded:false,url:"http://static.tieba.baidu.com/tb/pms/wpo.pda.js?v=2.8",callbacks:[]},_render_start:+new Date,extend:function(b,a){for(property in b){a[property]=b[property]}return a},metadata:function(){var c=this._opt;var e={env:{user:(c.is_login==true?1:0),product_id:c.product_id,page_id:PDC._is_sample(c.sample)?c.page_id:0},render_start:this._render_start,timing:this._timing};var a=[];var d=c.special_pages||[];for(var b=0;b<d.length;b++){if(PDC._is_sample(d[b]["sample"])){a.push(d[b]["id"])}}if(a.length>0){e.env["special_id"]="["+a.join(",")+"]"}return e},init:function(a){this.extend(a,this._opt)},mark:function(a,b){this._timing[a]=b||+new Date},view_start:function(){this.mark("vt")},tti:function(){this.mark("tti")},page_ready:function(){this.mark("fvt")},first_screen:function(){var g=document.getElementsByTagName("img"),a=+new Date;var f=[],e=this;function b(h){var j=window.pageYOffset?window.pageYOffset:document.documentElement.scrollTop;try{j+=h.getBoundingClientRect().top}catch(i){}return j}this._setFS=function(){var k=e._opt["fsHeight"]||document.documentElement.clientHeight;for(var j=0;j<f.length;j++){var l=f[j],h=l.img,n=l.time,m=b(h);if(m>0&&m<k){a=n>a?n:a}}e._timing.fs=a};var d=function(){if(this.removeEventListener){this.removeEventListener("load",d,false)}f.push({img:this,time:+new Date})};for(var c=0;c<g.length;c++){(function(){var h=g[c];if(h.addEventListener){!h.complete&&h.addEventListener("load",d,false)}else{if(h.attachEvent){h.attachEvent("onreadystatechange",function(){if(h.readyState=="complete"){d.call(h,d)}})}}})()}}};if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("let");PDC._setFS&&PDC._setFS();PDC._opt.ready!==false&&PDC._load_analyzer()})}else{window.addEventListener("load",function(){PDC.mark("lt")},false)}})();</script>
+
+<link rel="apple-touch-icon" href="http://tb2.bdstatic.com/tb/wap/img/touch.png" /><!--[if lt IE 9]><script>(function(){var tags = ['header','footer','figure','figcaption','details','summary','hgroup','nav','aside','article','section','mark','abbr','meter','output','progress','time','video','audio','canvas','dialog'];for(var i=tags.length - 1;i>-1;i--){ document.createElement(tags[i]);}})();</script><![endif]--><style>header,footer,section,article,aside,nav,figure{display:block;margin:0;padding:0;border:0}</style><link rel="shortcut icon" href="http://static.tieba.baidu.com/tb/favicon.ico" />
+<link rel="stylesheet" href="http://tb1.bdstatic.com/??tb/static-common/style/tb_ui_9164af08.css,tb/static-common/style/tb_common_146cc6a7.css" />
+<link rel="stylesheet" href="http://tb1.bdstatic.com/??/tb/_/padstyle_93e3a02e.css,/tb/_/top_banner_f213977a.css,/tb/_/mobile_tip_8f903bd4.css,/tb/_/poptip_6f29b423.css,tb/static-spage/layout/new_2_index/new_2_index_38176d01.css,/tb/_/search_65a4b229.css,/tb/_/search_dialog_911a0201.css,tb/static-spage/widget/carousel_area_v2/carousel_area_v2_55ef849f.css,tb/static-spage/widget/interest_num_v2/interest_num_v2_f2be9f5e.css,tb/static-spage/widget/shake_bear/shake_bear_65128c96.css,/tb/_/grade_e59e6947.css,tb/static-spage/widget/forum_directory/forum_directory_0b6f2ba3.css,tb/static-spage/widget/forum_rcmd_v2/forum_rcmd_v2_27082ceb.css,tb/static-spage/widget/activity_carousel/activity_carousel_2540aec6.css,tb/static-spage/widget/affairs_nav/affairs_nav_2d101e44.css,tb/static-spage/widget/affairs/affairs_1e95b124.css,tb/static-spage/widget/game_tab_v2/game_tab_v2_ddbad4fc.css,tb/static-spage/widget/aside_v2/aside_v2_9e548503.css,/tb/_/new_footer_fdd34ede.css" />
+<script>var PageData = {'tbs'  : "",'product' : "index",'page' : "index", 'user' : {"is_login":false,"user_forum_list":{"info":null}}};PageData.user.name_url = "";var Env = {};Env.server_time = 1380034726000;var Tbs = {"common":""};PageData.search_what = "";function resizePic_temp(o,Mw,Mh,need_margin,callback){var _Mw=Mw || 120;var _Mh=Mh || 120;var need_resize = false; var _image = new Image();_image.src = o.src;function getRightWH(Rw, Rh, Mw, Mh){var index=0, _Rw=Rw, _Rh=Rh;if(Rw>Mw) index+=1;if(Rh>Mh) index+=2;switch(index){case 1:_Rw = Mw;_Rh = Rh * Mw / Rw;case 2:_Rh = Mh;_Rw = Rw * Mh / Rh;case 3:_Rh = (Rh / Mh > Rw / Mw) ? Mh : Rh * Mw / Rw;_Rw = (Rh / Mh > Rw / Mw) ? Rw * Mh / Rh : Mw}if(index != 0){need_resize = true;}return [_Rw, _Rh]}var wh = getRightWH(_image.width, _image.height, _Mw,_Mh);o.style.width = wh[0] + 'px';o.style.height = wh[1]+'px';if(typeof callback=='function'){callback.apply(this, arguments);}o.style.visibility = 'visible';if(need_margin == true){o.style.marginTop = (Mh - parseInt(wh[1])) / 2 + 'px';}_image = null;return need_resize}function cutPic(o, l, need_margin){var image = new Image();image.src = o.src;var w = image.width;var h = image.height;if(w >= h && h >= l){w = w / h * l;h = l;var left = Math.round((w - h)/2);var right = Math.round(w - h - left);o.style.marginLeft = (-1*left)+'px';o.style.marginRight = (-1*right)+'px';}else if(h > w && w >= l){h = h / w * l;w = l;}if(h < l && need_margin){o.style.marginTop = (l - h) / 2 + 'px';}o.style.width = w + 'px';o.style.height = h + 'px';o.style.visibility = 'visible';}</script>
+<script>PDC.mark("ht");PDC.mark("vt");</script>
+</head><body><div id="local_flash_cnt"></div><div class="wrap1"><div class="wrap2"><script>
+PageData.tbs = "4b58914e498a84871380034726";
+PageData.is_iPad = 0;
+PageData.itbtbs = "a906665dd7a0c1c7";
+PageData.userTages = {};var pageId = "tieba-index";//clickmonkey
+</script>
+<div class="page-container">
+<div class="search-sec"><div id="head" class="search_bright clearfix" style=""><div class="search_top clearfix" ><a title="到贴吧首页" href="/" class="search_logo"  style=""></a><div class="search_nav j_search_nav" style=""><a param="word" href="http://news.baidu.com/ns?cl=2&amp;rn=20&amp;tn=news&amp;">新闻</a><a param="wd" href="http://www.baidu.com/s?cl=3&amp;">网页</a><b>贴吧</b><a param="word" href="http://zhidao.baidu.com/q?ct=17&amp;pn=0&amp;tn=ikaslist&amp;rn=10&amp;">知道</a><a param="key" href="http://music.baidu.com/search?fr=tieba&">音乐</a><a param="word" href="http://image.baidu.com/i?tn=baiduimage&amp;ct=201326592&amp;lm=-1&amp;cl=2&amp;">图片</a><a param="word" href="http://v.baidu.com/v?ct=301989888&amp;rn=20&amp;pn=0&amp;db=0&amp;s=21&amp;">视频</a><a param="word" href="http://map.baidu.com/m?fr=map006&amp;">地图</a><a href="http://baike.baidu.com/" param="searchword/?pic=1&fr=tieba&word" >百科</a></div></div><div class="search_main_wrap"><div class="search_main clearfix"><div class="search_form"><a id="search_logo_small" class="" title="到贴吧首页" href="/"></a><form name="f1" class="clearfix j_search_form" action="/f" id="tb_header_search_form"><input class="search_ipt search_inp_border j_search_input tb_header_search_input" name="kw1" value="" type="text" autocomplete="off" size="42" tabindex="1" id="wd1" maxlength="100" x-webkit-grammar="builtin:search" x-webkit-speech="true"/><input autocomplete="off" type="hidden" name="kw" value="" id="wd2" /><a class="search_btn search_btn_enter_ba j_enter_ba" href="#" onclick="return false;">进入贴吧</a><a class="search_btn j_search_post" href="#" onclick="return false;">全吧搜索</a><a class="senior-search-link" href="http://tieba.baidu.com/f/search/adv">高级搜索</a></form><p style="display:none;" class="switch_radios"><input type="radio" class="nowtb" name="tb" id="nowtb"><label for="nowtb">吧内搜索</label><input type="radio" class="searchtb" name="tb" id="searchtb"><label for="searchtb">搜贴</label><input type="radio" class="authortb" name="tb" id="authortb"><label for="authortb">搜人</label><input type="radio" class="jointb" checked="checked" name="tb" id="jointb"><label for="jointb">进吧</label><input type="radio" class="searchtag" name="tb" id="searchtag" style="display:none;"><label for="searchtag" style="display:none;">搜标签</label></p></div></div></div>  </div></div>
+<div class="main-sec clearfix">
+<div class="top-sec clearfix"><div id="rec_left" class="rec_left">
+ 		<div class="carousel_wrap tbui_slideshow_container" id="carousel_wrap">
+        <ul class="img_list tbui_slideshow_list">
+<li alog-group="img_list_21pic" alog-alias="img_list_21pic" class="img_list_3pic tbui_slideshow_slide"  style="display:list-item;">
+		<a href="http://tuan.baidu.com/event/201309dacu/index.html?fr=tieba" target="_blank" class="img_box carousel_pic_wrap img_box300">
+      <div class="carousel_large_pic carousel_large_pic300">
+          <img height="180" width="300" src="http://tb1.bdstatic.com/tb/cms/0924huanghoutu.jpg">
+          <div class="img_bg"></div>
+          <div class="img_txt">
+            	<p class="img_title">全民满减，见证全网底价新坐标！</p>
+          </div>                         
+      </div>
+    </a>
+    <a href="http://tieba.baidu.com/tb/picture/index.html" target="_blank" class="img_box carousel_pic_wrap img_box187">
+      <div class="carousel_large_pic carousel_large_pic187">
+          <img height="180" width="187" src="http://tb1.bdstatic.com/tb/cms/lishu09242.jpg">
+          <div class="img_bg"></div>
+          <div class="img_txt">
+          		<p class="img_title">和小伙伴重走童年路</p>
+          </div>                        
+      </div>
+  	</a>
+    <a href="http://tieba.baidu.com/p/2611370793" target="_blank" class="img_box carousel_pic_wrap img_box187">
+    		<div class="carousel_large_pic carousel_large_pic187">
+         	<img height="180" width="187" src="http://tb1.bdstatic.com/tb/r/image/2013-09-23/8df18494ab39bd91fe71b08b21c00de4.jpg">
+          <div class="img_bg"></div>
+          <div class="img_txt">
+              <p class="img_title">林俊杰北京演唱会抢票</p>
+          </div>
+        </div>
+    </a>
+</li>
+<li alog-group="img_list_3pic" alog-alias="img_list_3pic" class="img_list_3pic tbui_slideshow_slide"  style="display:none;">
+		<a href="http://tieba.baidu.com/p/2611862470" target="_blank" class="img_box carousel_pic_wrap">
+      <div class="carousel_large_pic">
+          <img height="180" width="225" src="http://tb1.bdstatic.com/tb/cms/bazhudaxue20130924v0.jpg">
+          <div class="img_bg"></div>
+          <div class="img_txt">
+            	<p class="img_title">扒一扒吧主讲师团那些事</p>
+          </div>                        
+      </div>
+    </a>
+    <a href="http://tieba.baidu.com/p/2598879985" target="_blank" class="img_box carousel_pic_wrap">
+      <div class="carousel_large_pic">
+          <img height="180" width="225" src="http://hiphotos.baidu.com/baidu/pic/item/d043ad4bd11373f0058d3faea60f4bfbfbed0454.jpg">
+          <div class="img_bg"></div>
+          <div class="img_txt">
+          		<p class="img_title">牛尔吧送高端美容圣品！</p>
+          </div>                        
+      </div>
+  	</a>
+     <a href="http://tieba.baidu.com/p/2613354882" target="_blank" class="img_box carousel_pic_wrap">
+    		<div class="carousel_large_pic">
+         	<img height="180" width="225" src="http://tb1.bdstatic.com/tb/r/image/2013-09-24/335c1215d9305085c325eb280de91ce6.jpg">
+          <div class="img_bg"></div>
+          <div class="img_txt">
+              <p class="img_title">红米手机资格号定时放送</p>
+          </div>
+        </div>
+    </a>
+</li>
+<li alog-group="img_list_1pic" alog-alias="img_list_1pic" class="img_list_1pic tbui_slideshow_slide">
+     <a location="index_carousel_3" class=" img690" target="_blank" href="http://wifi.baidu.com">
+         <img height="180" width="690" src="http://tb1.bdstatic.com/tb/cms/0924xiaoduwifi.jpg">
+     </a> 
+</li>
+<li class="img_list_2pic tbui_slideshow_slide" style="display: none;" alog-alias="img_list_2pic" alog-group="img_list_2pic">
+		<div class="img_box img_box_2pic1">
+      <a href="http://tieba.baidu.com/f?ie=utf-8&kw=oppo" target="_blank">
+          <img src="http://tieba.baidu.com/tb/r/image/2013-09-24/6575c39aa18f930ca4a2e091f42de273.jpg" width="280" height="180">
+          <div class="img_bg"></div>
+          <div class="img_txt">
+            	<p class="img_title">旋转摄像头OPPO N1上市</p>
+          </div>                        
+      </a>
+    </div>
+    <div class="img_box img_box_2pic2">
+      <a href="http://wanba.baidu.com/login_game_by_zone.xhtml?type=newestserver&id=614&pid=10400300614_878717" target="_blank">
+          <img src="http://wanba.baidu.com/tieba_pic/0916-rexue-4.jpg" width="400" height="180">
+          <div class="img_bg"></div>
+          <div class="img_txt">
+          		<p class="img_title">《热战绿色版》青春虽然不在，但是爱到永远  </p>
+          </div>                        
+      </a>
+    </div>
+</li>
+       </ul>
+   </div>
+   <div class="top_progress_bar">
+   		<span id="top_progress_prev" class="top_progress_prev">1</span>
+	    <ul id="img_page" class="img_page">         	
+	       <li>1</li>  
+	       <li>2</li>              
+	       <li>3</li>
+	       <li>4</li>                  
+	    </ul>
+	    <span id="top_progress_next" class="top_progress_next">2</span>
+    </div>
+ </div><div class="rec_right " id="rec_right">
+<div id="in_forum_num" class="num_list num_list02">
+<span class="num_span"><i class="num_icon"></i></span>
+<span class="num_span"><i class="num_icon"></i></span>
+<span class="num_span"><i class="num_icon"></i></span>
+<span class="num_span"><i class="num_icon"></i></span>
+<span class="num_span"><i class="num_icon"></i></span>
+<span class="num_span"><i class="num_icon"></i></span>
+<span class="num_span"><i class="num_icon"></i></span>
+</div>
+<a href="#" class="btn_login"></a>
+</div>
+</div>
+<div class="content-sec clearfix">
+<div class="left-sec"><div class="left-cont-wraper" id="left-cont-wraper">
+<div class="u-f-t ufw-gap">
+<div class="title">贴吧分类</div><div class="gap" style="width:125px"></div>
+</div>
+<div class="f-d-w" id="f-d-w" alog-alias="left-forums-category" alog-group="left-forums-category">
+<div class="f-d-item first-border-top" data-for="entertainment">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon entertainment"></span>
+<a title="娱乐明星" target="_blank" href="/f/index/forumpark?pcn=娱乐明星&pci=0&ct=1&rn=20&pn=1">娱乐明星</a>
+</div>
+<div class="directory-wraper">
+<a title="港台东南亚明星" target="_blank" href="/f/index/forumpark?cn=港台东南亚明星&ci=0&pcn=娱乐明星&pci=0&ct=1&rn=20&pn=1">港台东南亚明星</a>
+<a title="内地明星" target="_blank" href="/f/index/forumpark?cn=内地明星&ci=0&pcn=娱乐明星&pci=0&ct=1&rn=20&pn=1">内地明星</a>
+<a title="2013快乐男声" target="_blank" href="/f/index/forumpark?cn=2013快乐男声&ci=0&pcn=娱乐明星&pci=0&ct=1&rn=20&pn=1">2013快乐男声</a>
+<a title="2013中国好声音" target="_blank" href="/f/index/forumpark?cn=2013中国好声音&ci=0&pcn=娱乐明星&pci=0&ct=1&rn=20&pn=1">2013中国好声音</a>
+<a title="韩国明星" target="_blank" href="/f/index/forumpark?cn=韩国明星&ci=0&pcn=娱乐明星&pci=0&ct=1&rn=20&pn=1">韩国明星</a>
+<a title="日本明星" target="_blank" href="/f/index/forumpark?cn=日本明星&ci=0&pcn=娱乐明星&pci=0&ct=1&rn=20&pn=1">日本明星</a>
+<a title="时尚人物" target="_blank" href="/f/index/forumpark?cn=时尚人物&ci=0&pcn=娱乐明星&pci=0&ct=1&rn=20&pn=1">时尚人物</a>
+<a title="欧美明星" target="_blank" href="/f/index/forumpark?cn=欧美明星&ci=0&pcn=娱乐明星&pci=0&ct=1&rn=20&pn=1">欧美明星</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="tvshows">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon tvshows"></span>
+<a title="爱综艺" target="_blank" href="/f/index/forumpark?pcn=电视节目&pci=0&ct=1&rn=20&pn=1">爱综艺</a>
+</div>
+<div class="directory-wraper">
+<a title="内地综艺" target="_blank" href="/f/index/forumpark?cn=内地综艺&ci=0&pcn=电视节目&pci=0&ct=1&rn=20&pn=1">内地综艺</a>
+<a title="台湾综艺" target="_blank" href="/f/index/forumpark?cn=台湾综艺&ci=0&pcn=电视节目&pci=0&ct=1&rn=20&pn=1">台湾综艺</a>
+<a title="韩国综艺" target="_blank" href="/f/index/forumpark?cn=韩国综艺&ci=0&pcn=电视节目&pci=0&ct=1&rn=20&pn=1">韩国综艺</a>
+<a title="时尚·生活服务" target="_blank" href="/f/index/forumpark?cn=时尚·生活服务&ci=0&pcn=电视节目&pci=0&ct=1&rn=20&pn=1">时尚·生活服务</a>
+<a title="体育运动·健身" target="_blank" href="/f/index/forumpark?cn=体育运动·健身&ci=0&pcn=电视节目&pci=0&ct=1&rn=20&pn=1">体育运动·健身</a>
+<a title="财经·职场" target="_blank" href="/f/index/forumpark?cn=财经·职场&ci=0&pcn=电视节目&pci=0&ct=1&rn=20&pn=1">财经·职场</a>
+<a title="新闻资讯" target="_blank" href="/f/index/forumpark?cn=新闻资讯&ci=0&pcn=电视节目&pci=0&ct=1&rn=20&pn=1">新闻资讯</a>
+<a title="音乐·文艺" target="_blank" href="/f/index/forumpark?cn=音乐·文艺&ci=0&pcn=电视节目&pci=0&ct=1&rn=20&pn=1">音乐·文艺</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="teleplay">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon teleplay"></span>
+<a title="追剧狂" target="_blank" href="/f/index/forumpark?pcn=电视剧&pci=0&ct=1&rn=20&pn=1">追剧狂</a>
+</div>
+<div class="directory-wraper">
+<a title="韩国电视剧" target="_blank" href="/f/index/forumpark?cn=韩国电视剧&ci=0&pcn=电视剧&pci=0&ct=1&rn=20&pn=1">韩国电视剧</a>
+<a title="香港电视剧" target="_blank" href="/f/index/forumpark?cn=香港电视剧&ci=0&pcn=电视剧&pci=0&ct=1&rn=20&pn=1">香港电视剧</a>
+<a title="美剧" target="_blank" href="/f/index/forumpark?cn=美剧&ci=0&pcn=电视剧&pci=0&ct=1&rn=20&pn=1">美剧</a>
+<a title="日本电视剧" target="_blank" href="/f/index/forumpark?cn=日本电视剧&ci=0&pcn=电视剧&pci=0&ct=1&rn=20&pn=1">日本电视剧</a>
+<a title="内地电视剧" target="_blank" href="/f/index/forumpark?cn=内地电视剧&ci=0&pcn=电视剧&pci=0&ct=1&rn=20&pn=1">内地电视剧</a>
+<a title="台湾电视剧" target="_blank" href="/f/index/forumpark?cn=台湾电视剧&ci=0&pcn=电视剧&pci=0&ct=1&rn=20&pn=1">台湾电视剧</a>
+<a title="东南亚电视剧" target="_blank" href="/f/index/forumpark?cn=东南亚电视剧&ci=0&pcn=电视剧&pci=0&ct=1&rn=20&pn=1">东南亚电视剧</a>
+<a title="其他地区电视剧" target="_blank" href="/f/index/forumpark?cn=其他地区电视剧&ci=0&pcn=电视剧&pci=0&ct=1&rn=20&pn=1">其他地区电视剧</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="movie">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon movie"></span>
+<a title="看电影" target="_blank" href="/f/index/forumpark?pcn=电影&pci=0&ct=1&rn=20&pn=1">看电影</a>
+</div>
+<div class="directory-wraper">
+<a title="香港电影" target="_blank" href="/f/index/forumpark?cn=香港电影&ci=0&pcn=电影&pci=0&ct=1&rn=20&pn=1">香港电影</a>
+<a title="欧美电影" target="_blank" href="/f/index/forumpark?cn=欧美电影&ci=0&pcn=电影&pci=0&ct=1&rn=20&pn=1">欧美电影</a>
+<a title="内地电影" target="_blank" href="/f/index/forumpark?cn=内地电影&ci=0&pcn=电影&pci=0&ct=1&rn=20&pn=1">内地电影</a>
+<a title="韩国电影" target="_blank" href="/f/index/forumpark?cn=韩国电影&ci=0&pcn=电影&pci=0&ct=1&rn=20&pn=1">韩国电影</a>
+<a title="日本电影" target="_blank" href="/f/index/forumpark?cn=日本电影&ci=0&pcn=电影&pci=0&ct=1&rn=20&pn=1">日本电影</a>
+<a title="台湾电影" target="_blank" href="/f/index/forumpark?cn=台湾电影&ci=0&pcn=电影&pci=0&ct=1&rn=20&pn=1">台湾电影</a>
+<a title="电影话题" target="_blank" href="/f/index/forumpark?cn=电影话题&ci=0&pcn=电影&pci=0&ct=1&rn=20&pn=1">电影话题</a>
+<a title="东南亚电影" target="_blank" href="/f/index/forumpark?cn=东南亚电影&ci=0&pcn=电影&pci=0&ct=1&rn=20&pn=1">东南亚电影</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="literature">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon literature"></span>
+<a title="小说" target="_blank" href="/f/index/forumpark?pcn=小说&pci=161&ct=0&rn=20&pn=1">小说</a>
+</div>
+<div class="directory-wraper">
+<a title="奇幻" target="_blank" href="/f/index/forumpark?cn=奇幻&ci=403&pcn=小说&pci=161&ct=0&rn=20&pn=1">奇幻</a>
+<a title="言情" target="_blank" href="/f/index/forumpark?cn=言情&ci=177&pcn=小说&pci=161&ct=0&rn=20&pn=1">言情</a>
+<a title="灵异" target="_blank" href="/f/index/forumpark?cn=灵异&ci=404&pcn=小说&pci=161&ct=0&rn=20&pn=1">灵异</a>
+<a title="穿越" target="_blank" href="/f/index/forumpark?cn=穿越&ci=162&pcn=小说&pci=161&ct=0&rn=20&pn=1">穿越</a>
+<a title="连载" target="_blank" href="/f/index/forumpark?cn=连载&ci=169&pcn=小说&pci=161&ct=0&rn=20&pn=1">连载</a>
+<a title="修真" target="_blank" href="/f/index/forumpark?cn=修真&ci=412&pcn=小说&pci=161&ct=0&rn=20&pn=1">修真</a>
+<a title="历史" target="_blank" href="/f/index/forumpark?cn=历史&ci=121&pcn=小说&pci=161&ct=0&rn=20&pn=1">历史</a>
+<a title="架空文" target="_blank" href="/f/index/forumpark?cn=架空文&ci=409&pcn=小说&pci=161&ct=0&rn=20&pn=1">架空文</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="livingexpert">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon livingexpert"></span>
+<a title="生活家" target="_blank" href="/f/index/forumpark?pcn=生活家&pci=214&ct=0&rn=20&pn=1">生活家</a>
+</div>
+<div class="directory-wraper">
+<a title="小而美" target="_blank" href="/f/index/forumpark?cn=小而美&ci=244&pcn=生活家&pci=214&ct=0&rn=20&pn=1">小而美</a>
+<a title="DIY" target="_blank" href="/f/index/forumpark?cn=DIY&ci=72&pcn=生活家&pci=214&ct=0&rn=20&pn=1">DIY</a>
+<a title="美食" target="_blank" href="/f/index/forumpark?cn=美食&ci=380&pcn=生活家&pci=214&ct=0&rn=20&pn=1">美食</a>
+<a title="摄影" target="_blank" href="/f/index/forumpark?cn=摄影&ci=82&pcn=生活家&pci=214&ct=0&rn=20&pn=1">摄影</a>
+<a title="旅行" target="_blank" href="/f/index/forumpark?cn=旅行&ci=92&pcn=生活家&pci=214&ct=0&rn=20&pn=1">旅行</a>
+<a title="画画" target="_blank" href="/f/index/forumpark?cn=画画&ci=91&pcn=生活家&pci=214&ct=0&rn=20&pn=1">画画</a>
+<a title="手绘" target="_blank" href="/f/index/forumpark?cn=手绘&ci=94&pcn=生活家&pci=214&ct=0&rn=20&pn=1">手绘</a>
+<a title="植物" target="_blank" href="/f/index/forumpark?cn=植物&ci=225&pcn=生活家&pci=214&ct=0&rn=20&pn=1">植物</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="xianqu">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon xianqu"></span>
+<a title="闲·趣" target="_blank" href="/f/index/forumpark?pcn=闲·趣&pci=429&ct=0&rn=20&pn=1">闲·趣</a>
+</div>
+<div class="directory-wraper">
+<a title="萌宠" target="_blank" href="/f/index/forumpark?cn=萌宠&ci=4&pcn=闲·趣&pci=429&ct=0&rn=20&pn=1">萌宠</a>
+<a title="萝莉" target="_blank" href="/f/index/forumpark?cn=萝莉&ci=6&pcn=闲·趣&pci=429&ct=0&rn=20&pn=1">萝莉</a>
+<a title="重口味" target="_blank" href="/f/index/forumpark?cn=重口味&ci=257&pcn=闲·趣&pci=429&ct=0&rn=20&pn=1">重口味</a>
+<a title="吐槽" target="_blank" href="/f/index/forumpark?cn=吐槽&ci=152&pcn=闲·趣&pci=429&ct=0&rn=20&pn=1">吐槽</a>
+<a title="恐怖" target="_blank" href="/f/index/forumpark?cn=恐怖&ci=255&pcn=闲·趣&pci=429&ct=0&rn=20&pn=1">恐怖</a>
+<a title="星座" target="_blank" href="/f/index/forumpark?cn=星座&ci=263&pcn=闲·趣&pci=429&ct=0&rn=20&pn=1">星座</a>
+<a title="爆料" target="_blank" href="/f/index/forumpark?cn=爆料&ci=42&pcn=闲·趣&pci=429&ct=0&rn=20&pn=1">爆料</a>
+<a title="喵星人" target="_blank" href="/f/index/forumpark?cn=喵星人&ci=5&pcn=闲·趣&pci=429&ct=0&rn=20&pn=1">喵星人</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="game">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon game"></span>
+<a title="游戏" target="_blank" href="/f/index/forumpark?pcn=游戏&pci=0&ct=1&rn=20&pn=1">游戏</a>
+</div>
+<div class="directory-wraper">
+<a title="客户端网游" target="_blank" href="/f/index/forumpark?cn=客户端网游&ci=0&pcn=游戏&pci=0&ct=1&rn=20&pn=1">客户端网游</a>
+<a title="桌游" target="_blank" href="/f/index/forumpark?cn=桌游&ci=0&pcn=游戏&pci=0&ct=1&rn=20&pn=1">桌游</a>
+<a title="游戏角色" target="_blank" href="/f/index/forumpark?cn=游戏角色&ci=0&pcn=游戏&pci=0&ct=1&rn=20&pn=1">游戏角色</a>
+<a title="网页版网游" target="_blank" href="/f/index/forumpark?cn=网页版网游&ci=0&pcn=游戏&pci=0&ct=1&rn=20&pn=1">网页版网游</a>
+<a title="手机游戏" target="_blank" href="/f/index/forumpark?cn=手机游戏&ci=0&pcn=游戏&pci=0&ct=1&rn=20&pn=1">手机游戏</a>
+<a title="小游戏" target="_blank" href="/f/index/forumpark?cn=小游戏&ci=0&pcn=游戏&pci=0&ct=1&rn=20&pn=1">小游戏</a>
+<a title="单机游戏" target="_blank" href="/f/index/forumpark?cn=单机游戏&ci=0&pcn=游戏&pci=0&ct=1&rn=20&pn=1">单机游戏</a>
+<a title="掌机游戏" target="_blank" href="/f/index/forumpark?cn=掌机游戏&ci=0&pcn=游戏&pci=0&ct=1&rn=20&pn=1">掌机游戏</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="cartoon">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon cartoon"></span>
+<a title="动漫宅" target="_blank" href="/f/index/forumpark?pcn=动漫宅&pci=206&ct=0&rn=20&pn=1">动漫宅</a>
+</div>
+<div class="directory-wraper">
+<a title="日本动漫" target="_blank" href="/f/index/forumpark?cn=日本动漫&ci=312&pcn=动漫宅&pci=206&ct=0&rn=20&pn=1">日本动漫</a>
+<a title="国产动漫" target="_blank" href="/f/index/forumpark?cn=国产动漫&ci=313&pcn=动漫宅&pci=206&ct=0&rn=20&pn=1">国产动漫</a>
+<a title="欧美动漫" target="_blank" href="/f/index/forumpark?cn=欧美动漫&ci=314&pcn=动漫宅&pci=206&ct=0&rn=20&pn=1">欧美动漫</a>
+<a title="搞笑漫画" target="_blank" href="/f/index/forumpark?cn=搞笑漫画&ci=319&pcn=动漫宅&pci=206&ct=0&rn=20&pn=1">搞笑漫画</a>
+<a title="热血动漫" target="_blank" href="/f/index/forumpark?cn=热血动漫&ci=323&pcn=动漫宅&pci=206&ct=0&rn=20&pn=1">热血动漫</a>
+<a title="推理" target="_blank" href="/f/index/forumpark?cn=推理&ci=83&pcn=动漫宅&pci=206&ct=0&rn=20&pn=1">推理</a>
+<a title="声优" target="_blank" href="/f/index/forumpark?cn=声优&ci=210&pcn=动漫宅&pci=206&ct=0&rn=20&pn=1">声优</a>
+<a title="COS" target="_blank" href="/f/index/forumpark?cn=COS&ci=212&pcn=动漫宅&pci=206&ct=0&rn=20&pn=1">COS</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="sports">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon sports"></span>
+<a title="体育" target="_blank" href="/f/index/forumpark?pcn=体育&pci=0&ct=1&rn=20&pn=1">体育</a>
+</div>
+<div class="directory-wraper">
+<a title="nba球队及赛事" target="_blank" href="/f/index/forumpark?cn=nba球队及赛事&ci=0&pcn=体育&pci=0&ct=1&rn=20&pn=1">nba球队及赛事</a>
+<a title="中国足球俱乐部及赛事" target="_blank" href="/f/index/forumpark?cn=中国足球俱乐部及赛事&ci=0&pcn=体育&pci=0&ct=1&rn=20&pn=1">中国足球俱乐部及赛事</a>
+<a title="台球" target="_blank" href="/f/index/forumpark?cn=台球&ci=0&pcn=体育&pci=0&ct=1&rn=20&pn=1">台球</a>
+<a title="赛车" target="_blank" href="/f/index/forumpark?cn=赛车&ci=0&pcn=体育&pci=0&ct=1&rn=20&pn=1">赛车</a>
+<a title="田径" target="_blank" href="/f/index/forumpark?cn=田径&ci=0&pcn=体育&pci=0&ct=1&rn=20&pn=1">田径</a>
+<a title="田径明星" target="_blank" href="/f/index/forumpark?cn=田径明星&ci=0&pcn=体育&pci=0&ct=1&rn=20&pn=1">田径明星</a>
+<a title="英国足球俱乐部及赛事" target="_blank" href="/f/index/forumpark?cn=英国足球俱乐部及赛事&ci=0&pcn=体育&pci=0&ct=1&rn=20&pn=1">英国足球俱乐部及赛事</a>
+<a title="西班牙足球俱乐部及赛事" target="_blank" href="/f/index/forumpark?cn=西班牙足球俱乐部及赛事&ci=0&pcn=体育&pci=0&ct=1&rn=20&pn=1">西班牙足球俱乐部及赛事</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="xingqing">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon xingqing"></span>
+<a title="性情中人" target="_blank" href="/f/index/forumpark?pcn=性情中人&pci=229&ct=0&rn=20&pn=1">性情中人</a>
+</div>
+<div class="directory-wraper">
+<a title="美女" target="_blank" href="/f/index/forumpark?cn=美女&ci=52&pcn=性情中人&pci=229&ct=0&rn=20&pn=1">美女</a>
+<a title="爆照" target="_blank" href="/f/index/forumpark?cn=爆照&ci=424&pcn=性情中人&pci=229&ct=0&rn=20&pn=1">爆照</a>
+<a title="自拍" target="_blank" href="/f/index/forumpark?cn=自拍&ci=56&pcn=性情中人&pci=229&ct=0&rn=20&pn=1">自拍</a>
+<a title="治愈系" target="_blank" href="/f/index/forumpark?cn=治愈系&ci=253&pcn=性情中人&pci=229&ct=0&rn=20&pn=1">治愈系</a>
+<a title="丝袜" target="_blank" href="/f/index/forumpark?cn=丝袜&ci=359&pcn=性情中人&pci=229&ct=0&rn=20&pn=1">丝袜</a>
+<a title="单身" target="_blank" href="/f/index/forumpark?cn=单身&ci=44&pcn=性情中人&pci=229&ct=0&rn=20&pn=1">单身</a>
+<a title="女神" target="_blank" href="/f/index/forumpark?cn=女神&ci=59&pcn=性情中人&pci=229&ct=0&rn=20&pn=1">女神</a>
+<a title="女女" target="_blank" href="/f/index/forumpark?cn=女女&ci=241&pcn=性情中人&pci=229&ct=0&rn=20&pn=1">女女</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="academy">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon academy"></span>
+<a title="高校" target="_blank" href="/f/index/forumpark?pcn=高等院校&pci=0&ct=1&rn=20&pn=1">高校</a>
+</div>
+<div class="directory-wraper">
+<a title="北京院校" target="_blank" href="/f/index/forumpark?cn=北京院校&ci=0&pcn=高等院校&pci=0&ct=1&rn=20&pn=1">北京院校</a>
+<a title="山东院校" target="_blank" href="/f/index/forumpark?cn=山东院校&ci=0&pcn=高等院校&pci=0&ct=1&rn=20&pn=1">山东院校</a>
+<a title="江苏院校" target="_blank" href="/f/index/forumpark?cn=江苏院校&ci=0&pcn=高等院校&pci=0&ct=1&rn=20&pn=1">江苏院校</a>
+<a title="四川院校" target="_blank" href="/f/index/forumpark?cn=四川院校&ci=0&pcn=高等院校&pci=0&ct=1&rn=20&pn=1">四川院校</a>
+<a title="湖北院校" target="_blank" href="/f/index/forumpark?cn=湖北院校&ci=0&pcn=高等院校&pci=0&ct=1&rn=20&pn=1">湖北院校</a>
+<a title="河北院校" target="_blank" href="/f/index/forumpark?cn=河北院校&ci=0&pcn=高等院校&pci=0&ct=1&rn=20&pn=1">河北院校</a>
+<a title="安徽院校" target="_blank" href="/f/index/forumpark?cn=安徽院校&ci=0&pcn=高等院校&pci=0&ct=1&rn=20&pn=1">安徽院校</a>
+<a title="陕西院校" target="_blank" href="/f/index/forumpark?cn=陕西院校&ci=0&pcn=高等院校&pci=0&ct=1&rn=20&pn=1">陕西院校</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="district">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon district"></span>
+<a title="地区" target="_blank" href="/f/index/forumpark?pcn=地区&pci=0&ct=1&rn=20&pn=1">地区</a>
+</div>
+<div class="directory-wraper">
+<a title="山东" target="_blank" href="/f/index/forumpark?cn=山东&ci=0&pcn=地区&pci=0&ct=1&rn=20&pn=1">山东</a>
+<a title="河北" target="_blank" href="/f/index/forumpark?cn=河北&ci=0&pcn=地区&pci=0&ct=1&rn=20&pn=1">河北</a>
+<a title="河南" target="_blank" href="/f/index/forumpark?cn=河南&ci=0&pcn=地区&pci=0&ct=1&rn=20&pn=1">河南</a>
+<a title="山西" target="_blank" href="/f/index/forumpark?cn=山西&ci=0&pcn=地区&pci=0&ct=1&rn=20&pn=1">山西</a>
+<a title="江苏" target="_blank" href="/f/index/forumpark?cn=江苏&ci=0&pcn=地区&pci=0&ct=1&rn=20&pn=1">江苏</a>
+<a title="辽宁" target="_blank" href="/f/index/forumpark?cn=辽宁&ci=0&pcn=地区&pci=0&ct=1&rn=20&pn=1">辽宁</a>
+<a title="四川" target="_blank" href="/f/index/forumpark?cn=四川&ci=0&pcn=地区&pci=0&ct=1&rn=20&pn=1">四川</a>
+<a title="广东" target="_blank" href="/f/index/forumpark?cn=广东&ci=0&pcn=地区&pci=0&ct=1&rn=20&pn=1">广东</a>
+</div>
+</div>
+</div>
+<div class="f-d-item " data-for="humanity">
+<div class="f-d-item-content">
+<div class="title">
+<span class="typeicon humanity"></span>
+<a title="人文自然" target="_blank" href="/f/index/forumpark?pcn=人文自然&pci=0&ct=1&rn=20&pn=1">人文自然</a>
+</div>
+<div class="directory-wraper">
+<a title="艺术" target="_blank" href="/f/index/forumpark?cn=艺术&ci=0&pcn=人文自然&pci=0&ct=1&rn=20&pn=1">艺术</a>
+<a title="军事" target="_blank" href="/f/index/forumpark?cn=军事&ci=0&pcn=人文自然&pci=0&ct=1&rn=20&pn=1">军事</a>
+<a title="民族文化" target="_blank" href="/f/index/forumpark?cn=民族文化&ci=0&pcn=人文自然&pci=0&ct=1&rn=20&pn=1">民族文化</a>
+<a title="语言文化" target="_blank" href="/f/index/forumpark?cn=语言文化&ci=0&pcn=人文自然&pci=0&ct=1&rn=20&pn=1">语言文化</a>
+<a title="动植物" target="_blank" href="/f/index/forumpark?cn=动植物&ci=0&pcn=人文自然&pci=0&ct=1&rn=20&pn=1">动植物</a>
+<a title="历史" target="_blank" href="/f/index/forumpark?cn=历史&ci=0&pcn=人文自然&pci=0&ct=1&rn=20&pn=1">历史</a>
+<a title="姓氏文化" target="_blank" href="/f/index/forumpark?cn=姓氏文化&ci=0&pcn=人文自然&pci=0&ct=1&rn=20&pn=1">姓氏文化</a>
+</div>
+</div>
+</div>
+<div class="all-wraper">
+<a target="_blank" href="/f/index/forumclass" class="all">
+<span class="more-txt">查看全部</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="right-sec clearfix">
+<div class="r-top-sec"><div class="forum_recommend" alog-alias="forum_recommend">
+<div class="day_rcmd clearfix" id="day_rcmd" alog-group="day_rcmd">
+<span class="class_title">朵朵奇吧</span>
+<div class="rcmd_forum_list">
+<div class="rcmd_forum clearfix">
+<a href="/f?ie=utf-8&kw=%C0%B1%C2%E8%D5%FD%B4%AB" target="_blank" class="rcmd_forum_img"><img src="http://tb1.bdstatic.com/tb/cms/0924lamazhengzhuanba.jpg" width="95" height="95" alt="辣妈正传"/></a>
+<div class="rcmd_forum_desc">
+<p class="rcmd_f_name"><a href="/f?ie=utf-8&kw=%C0%B1%C2%E8%D5%FD%B4%AB" target="_blank">辣妈正传吧</a></p>
+<p class="rcmd_f_reason">电视剧《辣妈正传》正在热播，来这里边看边聊，全方位零死角大揭秘。</p>
+<p class="rcmd_f_num"><span class="rcmd_f_m_num">5985</span><span class="rcmd_f_p_num">49682</span></p>
+</div>
+</div>
+</div>
+<div class="rcmd_forum_list">
+<div class="rcmd_forum clearfix">
+<a href="/f?ie=utf-8&kw=%CB%FE%C2%DE%C5%C6" target="_blank" class="rcmd_forum_img"><img src="http://tb1.bdstatic.com/tb/cms/0924taluopaiba.jpg" width="95" height="95" alt="塔罗牌"/></a>
+<div class="rcmd_forum_desc">
+<p class="rcmd_f_name"><a href="/f?ie=utf-8&kw=%CB%FE%C2%DE%C5%C6" target="_blank">塔罗牌吧</a></p>
+<p class="rcmd_f_reason">一种源于西方的古老占卜工具，无论你是喜欢还是好奇，都来跟我们一起进入神秘的塔罗牌世界吧！</p>
+<p class="rcmd_f_num"><span class="rcmd_f_m_num">39036</span><span class="rcmd_f_p_num">396202</span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="good_rcmd" id="good_rcmd" alog-group="good_rcmd">
+<span class="class_title">贴吧十大姓氏</span>
+<div class="good_forum_list clearfix">
+<a class="good_rcmd_left" id="good_rcmd_left" href="#" onclick="return false;"></a>
+<div class="good_rcmd_center" id="good_rcmd_center">
+<ul id="gr_f_list" class="gr_f_list clearfix">
+<li class="clearfix">
+<a class="good_forum clearfix" href="/f?ie=utf-8&kw=%D5%D4" target="_blank">
+<img src="http://tb1.bdstatic.com/tb/cms/0924zhaoba.jpg" width="65" height="65" class="gf_pic"/>
+<div class="gf_desc">
+<p class="gf_fname">赵吧</p>
+<p class="gf_m_num">3010</p>
+<p class="gf_tag"></p>
+</div>
+</a>
+<li class="clearfix">
+<a class="good_forum clearfix" href="/f?ie=utf-8&kw=%C1%F5" target="_blank">
+<img src="http://tb1.bdstatic.com/tb/cms/0924liuba.jpg" width="65" height="65" class="gf_pic"/>
+<div class="gf_desc">
+<p class="gf_fname">刘吧</p>
+<p class="gf_m_num">8132</p>
+<p class="gf_tag"></p>
+</div>
+</a>
+<li class="clearfix">
+<a class="good_forum clearfix" href="/f?ie=utf-8&kw=%C0%EE" target="_blank">
+<img src="http://tb1.bdstatic.com/tb/cms/0924liba.jpg" width="65" height="65" class="gf_pic"/>
+<div class="gf_desc">
+<p class="gf_fname">李吧</p>
+<p class="gf_m_num">8601</p>
+<p class="gf_tag"></p>
+</div>
+</a>
+<li class="clearfix">
+<a class="good_forum clearfix" href="/f?ie=utf-8&kw=%B3%C2" target="_blank">
+<img src="http://tb1.bdstatic.com/tb/cms/0924chenba.jpg" width="65" height="65" class="gf_pic"/>
+<div class="gf_desc">
+<p class="gf_fname">陈吧</p>
+<p class="gf_m_num">7083</p>
+<p class="gf_tag"></p>
+</div>
+</a>
+<li class="clearfix">
+<a class="good_forum clearfix" href="/f?ie=utf-8&kw=%D5%C5" target="_blank">
+<img src="http://tb1.bdstatic.com/tb/cms/0924zhangba.jpg" width="65" height="65" class="gf_pic"/>
+<div class="gf_desc">
+<p class="gf_fname">张吧</p>
+<p class="gf_m_num">5995</p>
+<p class="gf_tag"></p>
+</div>
+</a>
+<li class="clearfix">
+<a class="good_forum clearfix" href="/f?ie=utf-8&kw=%CD%F5" target="_blank">
+<img src="http://tb1.bdstatic.com/tb/cms/0924wangba.jpg" width="65" height="65" class="gf_pic"/>
+<div class="gf_desc">
+<p class="gf_fname">王吧</p>
+<p class="gf_m_num">4631</p>
+<p class="gf_tag"></p>
+</div>
+</a>
+<li class="clearfix">
+<a class="good_forum clearfix" href="/f?ie=utf-8&kw=%B0%AE%D0%C2%BE%F5%C2%DE" target="_blank">
+<img src="http://tb1.bdstatic.com/tb/cms/0924aixinjueluoba.jpg" width="65" height="65" class="gf_pic"/>
+<div class="gf_desc">
+<p class="gf_fname">爱新觉罗吧</p>
+<p class="gf_m_num">4274</p>
+<p class="gf_tag">清宫</p>
+</div>
+</a>
+<li class="clearfix">
+<a class="good_forum clearfix" href="/f?ie=utf-8&kw=%D0%EC" target="_blank">
+<img src="http://tb1.bdstatic.com/tb/cms/0924xuba.jpg" width="65" height="65" class="gf_pic"/>
+<div class="gf_desc">
+<p class="gf_fname">徐吧</p>
+<p class="gf_m_num">3203</p>
+<p class="gf_tag"></p>
+</div>
+</a>
+<li class="clearfix">
+<a class="good_forum clearfix" href="/f?ie=utf-8&kw=%CE%E2" target="_blank">
+<img src="http://tb1.bdstatic.com/tb/cms/0924wuba.jpg" width="65" height="65" class="gf_pic"/>
+<div class="gf_desc">
+<p class="gf_fname">吴吧</p>
+<p class="gf_m_num">3591</p>
+<p class="gf_tag"></p>
+</div>
+</a>
+<li class="clearfix">
+<a class="good_forum clearfix" href="/f?ie=utf-8&kw=%D1%EE" target="_blank">
+<img src="http://tb1.bdstatic.com/tb/cms/0924yangba.jpg" width="65" height="65" class="gf_pic"/>
+<div class="gf_desc">
+<p class="gf_fname">杨吧</p>
+<p class="gf_m_num">3666</p>
+<p class="gf_tag"></p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<a class="good_rcmd_right" id="good_rcmd_right" href="#" onclick="return false;"></a>
+</div>
+</div>
+</div>
+<script>
+if(typeof PDC != 'undefined'){
+PDC.first_screen();//性能监控系统添加首屏时间监控
+}
+</script>
+</div>
+<div class="r-left-sec"><div class="platact_bigouter">
+<div id="sp_plat_act_carousel" class="platact_outer tbui_slideshow_container">
+<ul class="tbui_slideshow_list">
+<li class="tbui_slideshow_slide platact_inner" style="display:block;">
+<a class="platact_imglink" href="http://tieba.baidu.com/p/2598879985?come_from=index" target="_blank"><img src="http://m.tiebaimg.com/timg?wapp&amp;imgtype=0&amp;quality=100&amp;size=b5000_5000&amp;cut_x=0&amp;cut_w=0&amp;cut_y=0&amp;cut_h=0&amp;sec=1369815402&amp;di=92ec83d6244825e1b73e48bd9d201650&amp;wh_rate=null&amp;src=http%3A%2F%2Ftb1.bdstatic.com%2Ftb%2Fcms%2Fplatforum%2Fplatforum_niuer_first_cover.jpg" title="换季送大礼！高端洋气上档次，美容圣品等你拿！" alt="换季送大礼！高端洋气上档次，美容圣品等你拿！"></a>
+<div class="platact_desc">
+<h6 class="platact_desctitle"><a href="/f?ie=utf-8&kw=%C5%A3%B6%FB" target="_blank" class="platact_fname">牛尔吧</a><a href="http://tieba.baidu.com/p/2598879985?come_from=index" target="_blank" class="platact_blue">换季送大礼！高端洋气上档次，美容圣品等你拿！</a></h6>
+<p class="platact_deacli">时间：2013.09.16-2013.10.16</p>
+<p class="platact_deacli">奖品：精美书籍《牛尔十八年：我的美丽之路》、Naruko森玫瑰雪..</p>
+<a href="http://tieba.baidu.com/p/2598879985?come_from=index" target="_blank" class="platact_lucky"></a>
+</div>
+</li>
+<li class="tbui_slideshow_slide platact_inner" style="display:none;">
+<a class="platact_imglink" href="http://tieba.baidu.com/p/2600632699?come_from=index" target="_blank"><img src="http://m.tiebaimg.com/timg?wapp&amp;imgtype=0&amp;quality=100&amp;size=b5000_5000&amp;cut_x=0&amp;cut_w=0&amp;cut_y=0&amp;cut_h=0&amp;sec=1369815402&amp;di=74c90e62343207c038893037100b4e3b&amp;wh_rate=null&amp;src=http%3A%2F%2Fhiphotos.baidu.com%2Fbaidu%2Fpic%2Fitem%2F4afbfbedab64034fc42bc037adc379310a551d18.jpg" title="Dota2吧中秋好礼等你triple kill！" alt="Dota2吧中秋好礼等你triple kill！"></a>
+<div class="platact_desc">
+<h6 class="platact_desctitle"><a href="/f?ie=utf-8&kw=dota2" target="_blank" class="platact_fname">dota2吧</a><a href="http://tieba.baidu.com/p/2600632699?come_from=index" target="_blank" class="platact_blue">Dota2吧中秋好礼等你triple kill！</a></h6>
+<p class="platact_deacli">时间：2013.09.18-2013.9.26</p>
+<p class="platact_deacli">奖品：dota2正版T恤、dota2小绿本、百度保温水杯</p>
+<a href="http://tieba.baidu.com/p/2600632699?come_from=index" target="_blank" class="platact_lucky"></a>
+</div>
+</li>
+<li class="tbui_slideshow_slide platact_inner" style="display:none;">
+<a class="platact_imglink" href="http://tieba.baidu.com/p/2600978466?come_from=index" target="_blank"><img src="http://m.tiebaimg.com/timg?wapp&amp;imgtype=0&amp;quality=100&amp;size=b5000_5000&amp;cut_x=0&amp;cut_w=0&amp;cut_y=0&amp;cut_h=0&amp;sec=1369815402&amp;di=ecef84bd73466a479941f817f0d88eda&amp;wh_rate=null&amp;src=http%3A%2F%2Fhiphotos.baidu.com%2Fbaidu%2Fpic%2Fitem%2Fb999a9014c086e06d7e3597a00087bf40ad1cbbc.jpg" title="双节来临，世纪佳缘吧送你甜蜜大礼！" alt="双节来临，世纪佳缘吧送你甜蜜大礼！"></a>
+<div class="platact_desc">
+<h6 class="platact_desctitle"><a href="/f?ie=utf-8&kw=%CA%C0%BC%CD%BC%D1%D4%B5" target="_blank" class="platact_fname">世纪佳缘吧</a><a href="http://tieba.baidu.com/p/2600978466?come_from=index" target="_blank" class="platact_blue">双节来临,世纪佳缘吧送你甜蜜大礼!</a></h6>
+<p class="platact_deacli">时间：2013.09.18-2013.9.26</p>
+<p class="platact_deacli">奖品：世纪佳缘玩偶、临仓普洱茶、世纪佳缘马克杯、世纪佳缘爱真心线上服务</p>
+<a href="http://tieba.baidu.com/p/2600978466?come_from=index" target="_blank" class="platact_lucky"></a>
+</div>
+</li>
+<li class="tbui_slideshow_slide platact_inner" style="display:none;">
+<a class="platact_imglink" href="http://tieba.baidu.com/p/2599100857?come_from=index" target="_blank"><img src="http://m.tiebaimg.com/timg?wapp&amp;imgtype=0&amp;quality=100&amp;size=b5000_5000&amp;cut_x=0&amp;cut_w=0&amp;cut_y=0&amp;cut_h=0&amp;sec=1369815402&amp;di=4abd4bba009950635ed6d0e577c21e24&amp;wh_rate=null&amp;src=http%3A%2F%2Ftb1.bdstatic.com%2Ftb%2Fcms%2Fplatforum%2Fplatforum_mogujie_zhongqiu_cover.jpg%3Fv%3D3" title="蘑菇街庆中秋福利抽奖走起！" alt="蘑菇街庆中秋福利抽奖走起！"></a>
+<div class="platact_desc">
+<h6 class="platact_desctitle"><a href="/f?ie=utf-8&kw=%C4%A2%B9%BD%BD%D6" target="_blank" class="platact_fname">蘑菇街吧</a><a href="http://tieba.baidu.com/p/2599100857?come_from=index" target="_blank" class="platact_blue">蘑菇街庆中秋福利抽奖走起！</a></h6>
+<p class="platact_deacli">时间：2013.09.16-2013.09.25</p>
+<p class="platact_deacli">奖品：拍立得、牙牙抱枕、歌德925纯银韩国带钻花朵耳钉、蘑镜</p>
+<a href="http://tieba.baidu.com/p/2599100857?come_from=index" target="_blank" class="platact_lucky"></a>
+</div>
+</li>
+</ul>
+</div>
+<div class="dr_progress_bar platact_naving">
+<span id="sp_plat_act_carousel_next" class="turn_next" style="float:right"></span>
+<ul class="page_turn" id="sp_plat_act_carousel_dot" style="float:right">
+<li class="turn_icon"></li>
+<li class="turn_icon"></li>
+<li class="turn_icon"></li>
+<li class="turn_icon"></li>
+</ul>
+<span id="sp_plat_act_carousel_prev" class="turn_pre" style="float:right"></span>
+</div>
+</div>
+<div class="sub_nav_wrap clearfix" id="sub_nav_wrap" alog-alias="sub_nav_wrap" alog-group="sub_nav_wrap">
+<ul class="sub_nav_list">
+<li style="margin-left:8px">
+<a href="#" tag_id="all" hot_index="0" id="j_remen_nav" class="nav_li nav_li_all cur">热门动态</a>
+</li>
+<li class="sub_nav_line" id="tag_nav_1" style="display:none"></li>
+<li>
+<a href="#" id="tag1" tag_id="" hot_index="1" class="nav_li nav_li_"></a>
+</li>
+<li class="sub_nav_line" id="tag_nav_2" style="display:none"></li>
+<li>
+<a href="#" id="tag2" tag_id="" hot_index="1" class="nav_li nav_li_"></a>
+</li>
+<li class="sub_nav_line" id="tag_nav_3" style="display:none"></li>
+<li>
+<a href="#" id="tag3" tag_id="" hot_index="1" class="nav_li nav_li_"></a>
+</li>
+<li class="nav_hover" style="">
+</li>
+</ul>
+<span href="#" class="btn_edit triangle-down">热门分类</span>
+<ul class="personal-affairs" id="personal">
+<i class="edit_arrow pointer"></i>
+<li tag_id="like" class="top personal-affairs-li-bg"><a href="#">关注的吧</a></li>
+<li tag_id="like_tag" class="lower"><a href="#">关注的标签</a></li>
+</ul>
+<ul class="edit_list" id="tag_edit_list">
+<li tag-id="383" class="tag-first-border"><a href="javascript:void(0)">追星族</a></li>
+<li tag-id="384" class=""><a href="javascript:void(0)">影视迷</a></li>
+<li tag-id="275" class=""><a href="javascript:void(0)">体育迷</a></li>
+<li tag-id="71" class=""><a href="javascript:void(0)">发烧友</a></li>
+</ul>
+</div>
+<div id="personal-sub-nav" >
+<span>这里会显示<font color="#666">你关注的吧</font>下精彩的内容</span>
+<a href="#" class="tag_subscribe">编辑关注的标签</a>
+<a href="http://tieba.baidu.com/i//forum" target="_blank">编辑关注的吧</a>
+</div>
+<div id="like-tag-nav">
+<span></span><a href="#" class=""></a>
+</div>
+<div id="info-section"></div>
+<ul class="new_list" id="new_list" alog-alias="feedlist0" alog-group="feedlist0">
+<li class="clearfix j_feed_li " fid="339"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style2" tag_id="83" title="点击查看与推理相关贴子"><a href="#" class="tag-name" tag_id="83" tag-id="83">推理</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%BF%C2%C4%CF" target="_blank" class="n_name" title="柯南">柯南吧</a></div><div class="thread-name-wraper"><a href="/p/2536622065" target="_blank" class="title" title="柯南神吐槽！从第一集开始">柯南神吐槽！从第一集开始</a><span class="list-post-num"><em data-num="903">903</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">首先象征我们柯南的标题 </div><ul class="n_img clearfix" data-field="{'fname_u':'%BF%C2%C4%CF','tid':'2536622065'}"><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C289%3Bap%3D%BF%C2%C4%CF%B0%C9%2C90%2C297/sign=5a7d13710b7b0208188437a50bbc90b2/7043fbf2b21193138405c46464380cd790238d9b.jpg" oriWidth="462" oriHeight="321" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D1%2C0%2C459%2C321%3Bwh%3D150%2C105%3B/sign=11649b2ed0c8a786aa65104e5a38e50d/7043fbf2b21193138405c46464380cd790238d9b.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C289%3Bap%3D%BF%C2%C4%CF%B0%C9%2C90%2C297/sign=3ed6f31eae51f3ded7ffb120fd8b927e/87c27d1ed21b0ef4b815a38adcc451da80cb3e60.jpg" oriWidth="462" oriHeight="321" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D1%2C0%2C459%2C321%3Bwh%3D150%2C105%3B/sign=511359c810dfa9ece9610c575fe1db33/87c27d1ed21b0ef4b815a38adcc451da80cb3e60.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C317%3Bap%3D%BF%C2%C4%CF%B0%C9%2C90%2C325/sign=b7c8af6f86d6277ffd5f3a7c415d7d51/ca50352ac65c1038638af516b3119313b17e8969.jpg" oriWidth="445" oriHeight="349" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C31%2C445%2C312%3Bwh%3D150%2C105%3B/sign=8098f6fd8718367ab9c6259d1343a7e7/ca50352ac65c1038638af516b3119313b17e8969.jpg" width="150" height="105"><div class="feed_highlight"></div></li></ul><div class="n_reply"><a href="http://www.baidu.com/p/time小纯?from=tieba" title="主题作者" target="_blank" class="post_author">time小纯</a><span class="time">9月 19日 10:52</span></div></div></li><li class="clearfix j_feed_li " fid="1111734"><div class="n_right"><div><div class="title-tag-wraper"><a href="/f?ie=utf-8&kw=%CD%BC%BD%E2 " target="_blank" class="n_name" title="图解">图解吧</a></div><div class="thread-name-wraper"><a href="/p/2609891370" target="_blank" class="title" title="万万没想到！图解神级恶搞大片笑出翔">万万没想到！图解神级恶搞大片笑出翔</a><span class="list-post-num"><em data-num="404">404</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt"> 求眼熟！~这个系列每周二会持续更新~所以点击收藏哦。 </div><ul class="n_img clearfix" data-field="{'fname_u':'%CD%BC%BD%E2','tid':'2609891370'}"><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/a518367adab44aed1d8233d0b11c8701a18bfb32.jpg" oriWidth="264" oriHeight="398" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C19%2C264%2C185%3Bwh%3D150%2C105%3B/sign=faccc8cb39c79f3d9baebe708791e120/a518367adab44aed1d8233d0b11c8701a18bfb32.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C349%3Bap%3D%CD%BC%BD%E2%B0%C9%2C90%2C357/sign=5ee31b40af345982d1c7edd6659153cc/b158d109b3de9c82186676bb6e81800a19d84387.jpg" oriWidth="643" oriHeight="381" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D49%2C0%2C544%2C381%3Bwh%3D150%2C105%3B/sign=7f3e80f73887e9505658a92c2d0c6a6f/b158d109b3de9c82186676bb6e81800a19d84387.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C372%3Bap%3D%CD%BC%BD%E2%B0%C9%2C90%2C380/sign=54300a7ac88065386fa7ac57feb8c325/fe54564e9258d10974fd2686d358ccbf6c814dec.jpg" oriWidth="649" oriHeight="404" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D35%2C0%2C577%2C404%3Bwh%3D150%2C105%3B/sign=fdd08083eb50352aa52e7f486e70cede/fe54564e9258d10974fd2686d358ccbf6c814dec.jpg" width="150" height="105"><div class="feed_highlight"></div></li></ul><div class="n_reply"><a href="http://www.baidu.com/p/阳光一直在躲?from=tieba" title="主题作者" target="_blank" class="post_author">阳光一直在躲</a><span class="time">今天 11:12</span></div></div></li><li class="clearfix j_feed_li " fid="124146"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style4" tag_id="69" title="点击查看与欧美风相关贴子"><a href="#" class="tag-name" tag_id="69" tag-id="69">欧美风</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%C5%B7%C3%C0%B5%E7%D3%B0" target="_blank" class="n_name" title="欧美电影">欧美电影吧</a></div><div class="thread-name-wraper"><a href="/p/2566979731" target="_blank" class="title" title="暑假画的大牌明星们，有你喜欢的吗？">暑假画的大牌明星们，有你喜欢的吗？</a><span class="list-post-num"><em data-num="866">866</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">大概去年10月份，我发了一篇标题为《我画的一些明星》（休·杰克曼封面）帖子，很荣幸被吧主加精，受到了大家的关注。经过了几个月的努力，...</div><ul class="n_img clearfix" data-field="{'fname_u':'%C5%B7%C3%C0%B5%E7%D3%B0','tid':'2566979731'}"><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/402762d0f703918f62664109503d269758eec4ba.jpg" oriWidth="560" oriHeight="746" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C39%2C560%2C392%3Bwh%3D150%2C105%3B/sign=74771b95d1160924c86af85be93719c9/402762d0f703918f62664109503d269758eec4ba.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/a913632762d0f703502ce91f09fa513d2797c553.jpg" oriWidth="560" oriHeight="746" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C39%2C560%2C392%3Bwh%3D150%2C105%3B/sign=f878ff0e5366d0166a56c468aa1bf834/a913632762d0f703502ce91f09fa513d2797c553.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/e81349540923dd5460d2dbabd009b3de9d82484b.jpg" oriWidth="560" oriHeight="746" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C39%2C560%2C392%3Bwh%3D150%2C105%3B/sign=e1b629aa242dd42a4b465beb3e0b7786/e81349540923dd5460d2dbabd009b3de9d82484b.jpg" width="150" height="105"><div class="feed_highlight"></div></li></ul><div class="n_reply"><a href="http://www.baidu.com/p/Rock·Shine?from=tieba" title="主题作者" target="_blank" class="post_author">Rock·Shine</a><span class="time">今天 00:14</span></div></div></li><li class="clearfix j_feed_li " fid="59310"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style1" tag_id="56" title="点击查看与自拍相关贴子"><a href="#" class="tag-name" tag_id="56" tag-id="56">自拍</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%D0%CD%C4%D0" target="_blank" class="n_name" title="型男">型男吧</a></div><div class="thread-name-wraper"><a href="/p/2523527699" target="_blank" class="title" title="这里有花美男！一个忠犬受的型男路">这里有花美男！一个忠犬受的型男路</a><span class="list-post-num"><em data-num="184">184</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt"> </div><ul class="n_img clearfix" data-field="{'fname_u':'%D0%CD%C4%D0','tid':'2523527699'}"><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C354%3Bap%3D%D0%CD%C4%D0%B0%C9%2C90%2C362/sign=8cb3f4cafcfaaf5190ae89fbe531f68f/e0fdfc039245d6889697ee48a5c27d1ed31b2440.jpg" oriWidth="580" oriHeight="386" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D14%2C0%2C551%2C386%3Bwh%3D150%2C105%3B/sign=39443d3b37d12f2eda4af42072f3e14e/e0fdfc039245d6889697ee48a5c27d1ed31b2440.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C608%3Bap%3D%D0%CD%C4%D0%B0%C9%2C90%2C616/sign=dc1e08e40dd79123f4ad9c30c4513be3/754e9258d109b3de8a1cbc84cdbf6c81810a4cbe.jpg" oriWidth="480" oriHeight="640" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C34%2C480%2C336%3Bwh%3D150%2C105%3B/sign=33b3b9f62934349b604934c5f4da39fd/754e9258d109b3de8a1cbc84cdbf6c81810a4cbe.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C534%3Bap%3D%D0%CD%C4%D0%B0%C9%2C90%2C542/sign=4b80022c83025aafc77f768f9288c905/402762d0f703918f3a7f7926503d269758eec4b4.jpg" oriWidth="436" oriHeight="566" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C31%2C436%2C305%3Bwh%3D150%2C105%3B/sign=2c6e23bad1160924c86af85be93719c9/402762d0f703918f3a7f7926503d269758eec4b4.jpg" width="150" height="105"><div class="feed_highlight"></div></li></ul><div class="n_reply"><a href="http://www.baidu.com/p/安小峰丶?from=tieba" title="主题作者" target="_blank" class="post_author">安小峰丶</a><span class="time">今天 11:25</span></div></div></li><li class="clearfix j_feed_li " fid="5747980"><div class="n_right"><div><div class="title-tag-wraper"><a href="/f?ie=utf-8&kw=%B2%BB%BB%AF%D7%B1%B2%BB%B3%F6%C3%C5 " target="_blank" class="n_name" title="不化妆不出门">不化妆不出门吧</a></div><div class="thread-name-wraper"><a href="/p/2610119345" target="_blank" class="title" title="造女神：简单几步打造似有似无韩式裸妆">造女神：简单几步打造似有似无韩式裸妆</a><span class="list-post-num"><em data-num="43">43</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">大家好，我是张涵棋，大家叫我涵涵就好了。 这次给大家带来的是韩国丽人裸妆妆容，以后有空会经常来贴吧分享我的一些美妆化妆，服装搭配的...</div><ul class="n_img clearfix" data-field="{'fname_u':'%B2%BB%BB%AF%D7%B1%B2%BB%B3%F6%C3%C5','tid':'2610119345'}"><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C408%3Bap%3D%B2%BB%BB%AF%D7%B1%B2%BB%B3%F6%C3%C5%B0%C9%2C90%2C416/sign=d5f1bc8f4510b912ab8cfebaaa989e62/8a773912b31bb051e0f9481c347adab44aede021.jpg" oriWidth="923" oriHeight="440" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D147%2C0%2C629%2C440%3Bwh%3D150%2C105%3B/sign=eb3e7a8b8e5494ee936d555910c4d4c9/8a773912b31bb051e0f9481c347adab44aede021.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C718%3Bap%3D%B2%BB%BB%AF%D7%B1%B2%BB%B3%F6%C3%C5%B0%C9%2C90%2C726/sign=274503bb6e81800a7aa8814ad850519b/2cb30f2442a7d9333e881e47af4bd11373f001e6.jpg" oriWidth="500" oriHeight="750" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C35%2C500%2C350%3Bwh%3D150%2C105%3B/sign=594c3cdab68f8c54f79c9f6f071901c6/2cb30f2442a7d9333e881e47af4bd11373f001e6.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/cp%3Dtieba%2C10%2C718%3Bap%3D%B2%BB%BB%AF%D7%B1%B2%BB%B3%F6%C3%C5%B0%C9%2C90%2C726/sign=db02f36957fbb2fb20665056262f42c5/2ff431adcbef7609c9da62ab2cdda3cc7cd99e35.jpg" oriWidth="500" oriHeight="750" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C35%2C500%2C350%3Bwh%3D150%2C105%3B/sign=6bc8769dab014c080d7472e5374b2e3b/2ff431adcbef7609c9da62ab2cdda3cc7cd99e35.jpg" width="150" height="105"><div class="feed_highlight"></div></li></ul><div class="n_reply"><a href="http://www.baidu.com/p/张涵棋o?from=tieba" title="主题作者" target="_blank" class="post_author">张涵棋o</a><span class="time">今天 11:24</span></div></div></li><li class="clearfix j_feed_li " fid="5137502"><div class="n_right"><div><div class="title-tag-wraper"><a href="/f?ie=utf-8&kw=%D1%F8%C9%B6%CB%C0%C9%B6 " target="_blank" class="n_name" title="养啥死啥">养啥死啥吧</a></div><div class="thread-name-wraper"><a href="/p/2609308954" target="_blank" class="title" title="史上最可怕的主银！几万只蚊子幼虫如何保存？">史上最可怕的主银！几万只蚊子幼虫如何保存？</a><span class="list-post-num"><em data-num="89">89</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt"> </div><ul class="n_img clearfix" data-field="{'fname_u':'%D1%F8%C9%B6%CB%C0%C9%B6','tid':'2609308954'}"><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/f42a6059252dd42a98274a9f013b5bb5c9eab8dc.jpg" oriWidth="900" oriHeight="992" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C63%2C900%2C630%3Bwh%3D150%2C105%3B/sign=f3bafc22cdfc1e17e9f0d67177a0da35/f42a6059252dd42a98274a9f013b5bb5c9eab8dc.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/c5cd7b899e510fb33d83d2a3db33c895d1430c6f.jpg" oriWidth="900" oriHeight="598" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D22%2C0%2C854%2C598%3Bwh%3D150%2C105%3B/sign=f9b4d9500b23dd54353cfd28ec3b81f2/c5cd7b899e510fb33d83d2a3db33c895d1430c6f.jpg" width="150" height="105"><div class="feed_highlight"></div></li></ul><div class="n_reply"><a href="http://www.baidu.com/p/山岗的月色?from=tieba" title="主题作者" target="_blank" class="post_author">山岗的月色</a><span class="time">今天 10:55</span></div></div></li><li class="clearfix j_feed_li " fid="15556"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style3" tag_id="190" title="点击查看与韩剧相关贴子"><a href="#" class="tag-name" tag_id="190" tag-id="190">韩剧</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%BA%AB%BE%E7" target="_blank" class="n_name" title="韩剧">韩剧吧</a></div><div class="thread-name-wraper"><a href="/p/2548032833" target="_blank" class="title" title="追忆长久岁月中有韩剧陪伴的细微感动和幸福">追忆长久岁月中有韩剧陪伴的细微感动和幸福</a><span class="list-post-num"><em data-num="1557">1557</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">爱剧也爱剧吧，谨以此贴表示，更望与大家多多交流~~ 男神们的大势剧镇楼 暑期档终结了，好看的新剧也接二连三地到来了。对和楼楼一样是追剧...</div><div class="n_reply"><a href="http://www.baidu.com/p/蘑菇有天?from=tieba" title="主题作者" target="_blank" class="post_author">蘑菇有天</a><span class="time">今天 11:26</span></div></div></li><li class="clearfix j_feed_li " fid="631163"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style1" tag_id="46" title="点击查看与搞笑相关贴子"><a href="#" class="tag-name" tag_id="46" tag-id="46">搞笑</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%B0%AE%C7%E9%B9%AB%D4%A2" target="_blank" class="n_name" title="爱情公寓">爱情公寓吧</a></div><div class="thread-name-wraper"><a href="/p/2598889181" target="_blank" class="title" title="大片欣赏！陈赫婚纱照及拍摄花絮">大片欣赏！陈赫婚纱照及拍摄花絮</a><span class="list-post-num"><em data-num="390">390</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt"> 一楼送给赫赫 今天2013年09月17日 赫赫大婚的日子 希望永远幸福哦</div><div class="n_reply"><a href="http://www.baidu.com/p/531086675?from=tieba" title="主题作者" target="_blank" class="post_author">531086675</a><span class="time">今天 11:12</span></div></div></li><li class="clearfix j_feed_li " fid="30"><div class="n_right"><div><div class="title-tag-wraper"><a href="/f?ie=utf-8&kw=%C0%FA%CA%B7 " target="_blank" class="n_name" title="历史">历史吧</a></div><div class="thread-name-wraper"><a href="/p/2594561455" target="_blank" class="title" title="中国56个民族服饰，来看看各种服饰的美女们">中国56个民族服饰，来看看各种服饰的美女们</a><span class="list-post-num"><em data-num="1120">1120</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">旋玑姑娘镇楼！！！ 刚发了一贴不知道怎么回事被度娘吞了，现在换了张镇楼图再来一发！ 按照人口数量的顺序来上图吧！</div><div class="n_reply"><a href="http://www.baidu.com/p/潇湘晚枫林?from=tieba" title="主题作者" target="_blank" class="post_author">潇湘晚枫林</a><span class="time">今天 11:25</span></div></div></li><li class="clearfix j_feed_li " fid="11772"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style2" tag_id="312" title="点击查看与日本动漫相关贴子"><a href="#" class="tag-name" tag_id="312" tag-id="312">日本动漫</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%BA%A3%D4%F4%CD%F5" target="_blank" class="n_name" title="海贼王">海贼王吧</a></div><div class="thread-name-wraper"><a href="/p/2599120087" target="_blank" class="title" title="海贼王真人版各种cosplay">海贼王真人版各种cosplay</a><span class="list-post-num"><em data-num="3165">3165</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt"> 大将黄猿镇楼 </div><div class="n_reply"><a href="http://www.baidu.com/p/孤独误会清风?from=tieba" title="主题作者" target="_blank" class="post_author">孤独误会清风</a><span class="time">今天 11:24</span></div></div></li><li class="clearfix j_feed_li " fid="1546493"><div class="n_right"><div><div class="title-tag-wraper"><a href="/f?ie=utf-8&kw=%BC%BC%CA%F5%D5%AC " target="_blank" class="n_name" title="技术宅">技术宅吧</a></div><div class="thread-name-wraper"><a href="/p/2555084886" target="_blank" class="title" title="什么星空投影灯都弱爆了，看哥的高端月球投影灯">什么星空投影灯都弱爆了，看哥的高端月球投影灯</a><span class="list-post-num"><em data-num="277">277</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">夜里屋里漆黑一片睡不着于是就想如果能在卧室的天花板上看月亮那多有情调！琢磨了半天于是自己用铝塑板+康奈鞋格盒子+报废cpu散热片+报废手...</div><div class="n_reply"><a href="http://www.baidu.com/p/蚁民之泪?from=tieba" title="主题作者" target="_blank" class="post_author">蚁民之泪</a><span class="time">今天 11:24</span></div></div></li><li class="clearfix j_feed_li " fid="689391"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style4" tag_id="79" title="点击查看与教程相关贴子"><a href="#" class="tag-name" tag_id="79" tag-id="79">教程</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%CE%B4%BD%E2%D6%AE%C3%D5" target="_blank" class="n_name" title="未解之谜">未解之谜吧</a></div><div class="thread-name-wraper"><a href="/p/2545143400" target="_blank" class="title" title="神级科普，带你了解地球上的一些真相">神级科普，带你了解地球上的一些真相</a><span class="list-post-num"><em data-num="2635">2635</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">不删帖将会不断更新 原创更新慢 所以噜众别催噜主 </div><ul class="n_img clearfix" data-field="{'fname_u':'%CE%B4%BD%E2%D6%AE%C3%D5','tid':'2545143400'}"><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/c91353ee3d6d55fba40765ff6c224f4a22a4ddae.jpg" oriWidth="1280" oriHeight="720" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D125%2C0%2C1029%2C720%3Bwh%3D150%2C105%3B/sign=59b6064d472309f7f320f7524f3f3ec6/c91353ee3d6d55fba40765ff6c224f4a22a4ddae.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/2693753e6709c93def321d2e9e3df8dcd30054af.jpg" oriWidth="1280" oriHeight="960" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C90%2C1280%2C896%3Bwh%3D150%2C105%3B/sign=9e141fe8203fb80e189e3b970be10317/2693753e6709c93def321d2e9e3df8dcd30054af.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/8ca368d0f703918fae752f13503d26975beec4c3.jpg" oriWidth="531" oriHeight="564" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C37%2C531%2C372%3Bwh%3D150%2C105%3B/sign=4409d1ea728da9775a60dc6b8d61d42a/8ca368d0f703918fae752f13503d26975beec4c3.jpg" width="150" height="105"><div class="feed_highlight"></div></li></ul><div class="n_reply"><a href="http://www.baidu.com/p/ARCHANGELAU?from=tieba" title="主题作者" target="_blank" class="post_author">ARCHANGELAU</a><span class="time">今天 11:26</span></div></div></li><li class="clearfix j_feed_li " fid="1474277"><div class="n_right"><div><div class="title-tag-wraper"><a href="/f?ie=utf-8&kw=%BF%D5%BC%E4%CB%D8%B2%C4 " target="_blank" class="n_name" title="空间素材">空间素材吧</a></div><div class="thread-name-wraper"><a href="/p/2515845830" target="_blank" class="title" title="软妹们，我来教你们折一些萌萌的东西好不好">软妹们，我来教你们折一些萌萌的东西好不好</a><span class="list-post-num"><em data-num="3664">3664</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">明信片镇不镇的住 罒ω罒</div><div class="n_reply"><a href="http://www.baidu.com/p/如果_永垂不朽?from=tieba" title="主题作者" target="_blank" class="post_author">如果_永垂不朽</a><span class="time">今天 11:08</span></div></div></li><li class="clearfix j_feed_li " fid="582942"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style3" tag_id="191" title="点击查看与美剧相关贴子"><a href="#" class="tag-name" tag_id="191" tag-id="191">美剧</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%C3%C0%BE%E7" target="_blank" class="n_name" title="美剧">美剧吧</a></div><div class="thread-name-wraper"><a href="/p/2582313880" target="_blank" class="title" title="黑剧大盘点，你的剧被黑了吗？">黑剧大盘点，你的剧被黑了吗？</a><span class="list-post-num"><em data-num="1718">1718</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">【四大名帅镇楼】 俗话说：“爱到深处自然黑”，这里的剧有我喜欢的，所以爱之深，责之切。当然也有我讨厌的。不过我最喜欢的几部剧就没拿...</div><ul class="n_img clearfix" data-field="{'fname_u':'%C3%C0%BE%E7','tid':'2582313880'}"><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/42853ca85edf8db1d4e810ae0823dd54544e741e.jpg" oriWidth="450" oriHeight="400" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C32%2C450%2C315%3Bwh%3D150%2C105%3B/sign=15bdabe5bf096b63955604103103ab77/42853ca85edf8db1d4e810ae0823dd54544e741e.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/9eef11d8bc3eb1351dd4d871a71ea8d3ff1f44c9.jpg" oriWidth="560" oriHeight="312" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D57%2C0%2C446%2C312%3Bwh%3D150%2C105%3B/sign=1b049ca6113853439880dd61ae268752/9eef11d8bc3eb1351dd4d871a71ea8d3ff1f44c9.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/9c6eae1ea8d3fd1f722fcdf0314e251f94ca5f3e.jpg" oriWidth="355" oriHeight="236" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D8%2C0%2C337%2C236%3Bwh%3D150%2C105%3B/sign=2d0cd078b8014a9095711cfd944f1522/9c6eae1ea8d3fd1f722fcdf0314e251f94ca5f3e.jpg" width="150" height="105"><div class="feed_highlight"></div></li></ul><div class="n_reply"><a href="http://www.baidu.com/p/yinx501?from=tieba" title="主题作者" target="_blank" class="post_author">yinx501</a><span class="time">今天 11:22</span></div></div></li><li class="clearfix j_feed_li " fid="496"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style2" tag_id="302" title="点击查看与内地明星相关贴子"><a href="#" class="tag-name" tag_id="302" tag-id="302">内地明星</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%D5%C2%D7%D3%E2%F9" target="_blank" class="n_name" title="章子怡">章子怡吧</a></div><div class="thread-name-wraper"><a href="/p/2609554008" target="_blank" class="title" title="身为苦逼宅女，谁说搞不定高富帅！快来用此句式造句">身为苦逼宅女，谁说搞不定高富帅！快来用此句式造句</a><span class="list-post-num"><em data-num="160">160</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt"> 身为苦逼宅女，谁说搞不定高富帅！！！ 【身为某某某 谁说不能某某某某某某】大家一起以此格式造句吧，这游戏真好玩，根本就停不下来小伙...</div><ul class="n_img clearfix" data-field="{'fname_u':'%D5%C2%D7%D3%E2%F9','tid':'2609554008'}"><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/55094b36acaf2edd18fce4dd8f1001e9390193f1.jpg" oriWidth="400" oriHeight="600" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C28%2C400%2C280%3Bwh%3D150%2C105%3B/sign=d5368591087b0208188665a15fe9dee1/55094b36acaf2edd18fce4dd8f1001e9390193f1.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/518b4710b912c8fcced95bf9fe039245d68821df.jpg" oriWidth="400" oriHeight="600" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C28%2C400%2C280%3Bwh%3D150%2C105%3B/sign=01e3a9a9c9ef76092844c3df13ed8ffe/518b4710b912c8fcced95bf9fe039245d68821df.jpg" width="150" height="105"><div class="feed_highlight"></div></li><li><img title="点击查看大图" original="http://imgsrc.baidu.com/forum/pic/item/0b381f30e924b899c957d40c6c061d950a7bf69f.jpg" oriWidth="400" oriHeight="600" class="m_pic" src="http://imgsrc.baidu.com/forum/crop%3D0%2C28%2C400%2C280%3Bwh%3D150%2C105%3B/sign=daf75515708b4710da60a78cfefeefcf/0b381f30e924b899c957d40c6c061d950a7bf69f.jpg" width="150" height="105"><div class="feed_highlight"></div></li></ul><div class="n_reply"><a href="http://www.baidu.com/p/二囧囧?from=tieba" title="主题作者" target="_blank" class="post_author">二囧囧</a><span class="time">今天 11:23</span></div></div></li><li class="clearfix j_feed_li " fid="1566944"><div class="n_right"><div><div class="title-tag-wraper"><a href="/f?ie=utf-8&kw=%CE%D2%D2%AA%C9%CF%CA%D7%D2%B3 " target="_blank" class="n_name" title="我要上首页">我要上首页吧</a></div><div class="thread-name-wraper"><a href="/p/2594779436" target="_blank" class="title" title="2013贴吧首页志愿者金秋纳新开始啦！">2013贴吧首页志愿者金秋纳新开始啦！</a><span class="list-post-num"><em data-num="263">263</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">报名请认真阅读各组职责，通过审核加群后不知道各组职责的，立即除名！！！ 因为审核组的特殊性，年龄低于21岁的请勿报名！ 如果瞒报年龄或...</div><div class="n_reply"><a href="http://www.baidu.com/p/红豆爱阿翁?from=tieba" title="主题作者" target="_blank" class="post_author">红豆爱阿翁</a><span class="time">今天 11:01</span></div></div></li><li class="clearfix j_feed_li " fid="5023533"><div class="n_right"><div><div class="title-tag-wraper"><a href="/f?ie=utf-8&kw=%C9%A5%D0%C4%B2%A1%BF%F1%B1%B3%B5%A5%B4%CA " target="_blank" class="n_name" title="丧心病狂背单词">丧心病狂背单词吧</a></div><div class="thread-name-wraper"><a href="/p/2575053182" target="_blank" class="title" title="说说自己喜欢或讨厌英语的N多理由吧">说说自己喜欢或讨厌英语的N多理由吧</a><span class="list-post-num"><em data-num="213">213</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">喜欢英语因为可以学习更多知识。 讨厌是太难学了~~~~记单词，背单词，快丧心病狂了！</div><div class="n_reply"><a href="http://www.baidu.com/p/加多利多575?from=tieba" title="主题作者" target="_blank" class="post_author">加多利多575</a><span class="time">今天 11:03</span></div></div></li><li class="clearfix j_feed_li " fid="385763"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style2" tag_id="259" title="点击查看与娱乐八卦相关贴子"><a href="#" class="tag-name" tag_id="259" tag-id="259">娱乐八卦</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%BF%EC%C0%D6%C4%D0%C9%F9" target="_blank" class="n_name" title="快乐男声">快乐男声吧</a></div><div class="thread-name-wraper"><a href="/p/2605764769" target="_blank" class="title" title="盘点快男二十强比拼，每场表现热血点评">盘点快男二十强比拼，每场表现热血点评</a><span class="list-post-num"><em data-num="493">493</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt">非专业点评，揭秘各场快男诞生，某TY某水果的各种黑幕？如果你是导演策划现在的快男是什么节奏~ ★^_^☆^_^★^_^☆^_^★^_^☆^_^★^_^☆ —...</div><div class="n_reply"><a href="http://www.baidu.com/p/青春就是犯二货?from=tieba" title="主题作者" target="_blank" class="post_author">青春就是犯二货</a><span class="time">今天 11:11</span></div></div></li><li class="clearfix j_feed_li " fid="699084"><div class="n_right"><div><div class="title-tag-wraper"><a href="/f?ie=utf-8&kw=%B9%C5%D7%B0%B5%E7%CA%D3%BE%E7 " target="_blank" class="n_name" title="古装电视剧">古装电视剧吧</a></div><div class="thread-name-wraper"><a href="/p/2549651044" target="_blank" class="title" title="说一说古装剧应具备的那些因素">说一说古装剧应具备的那些因素</a><span class="list-post-num"><em data-num="366">366</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt"> 皓南哥哥来镇楼！ 楼主个人最喜欢的古装剧集中在80-90年代，如今是好多年没有看古装剧了，主要是自己感觉在现在的古装影视作品中找不到当...</div><div class="n_reply"><a href="http://www.baidu.com/p/娴思细梦?from=tieba" title="主题作者" target="_blank" class="post_author">娴思细梦</a><span class="time">今天 11:05</span></div></div></li><li class="clearfix j_feed_li " fid="59310"><div class="n_right"><div><div class="title-tag-wraper"><div class="tag tag-style1" tag_id="56" title="点击查看与自拍相关贴子"><a href="#" class="tag-name" tag_id="56" tag-id="56">自拍</a><a href="#" class="triangle"></a></div><a href="/f?ie=utf-8&kw=%D0%CD%C4%D0" target="_blank" class="n_name" title="型男">型男吧</a></div><div class="thread-name-wraper"><a href="/p/2366236222" target="_blank" class="title" title="教你怎样做一个招妹纸喜欢的男人">教你怎样做一个招妹纸喜欢的男人</a><span class="list-post-num"><em data-num="1850">1850</em><span class="list-triangle-border"></span><span class="list-triangle-body"></span></span></div></div><div class="n_txt"> 就算是搬砖工,再卑微再平凡,也要有一个喜欢的女孩.她可以不是白富美,至少能给你一个努力的方向.</div><div class="n_reply"><a href="http://www.baidu.com/p/噯···佷簡單?from=tieba" title="主题作者" target="_blank" class="post_author">噯···佷簡單</a><span class="time">今天 11:22</span></div></div></li></ul>
+<div id="data_loading" class="data_loading"><img src="/tb/static-spage/img/loading.gif" width="22" height="22"/><span class="load_tip">正在加载，请稍候...</span></div>
+<div id="btn_more" class="btn_more"><a href="#" style="text-decoration:none">更多精彩贴子</a></div>
+<div id="data_error_bar" class="data_error_bar"><a href="#">数据加载失败，请点击重试</a></div>
+</div>
+<div class="r-right-sec"><div class="right_wrap" id="right_wrap">
+<div id="game_item" class="item game_item game_tab_nologin">
+<div class="item_hd">
+<div class="game_tab_more"><a href="/game/index" target="_blank" hidefocus>更多>></a></div>
+<ul class="game_tab">
+<li class="game_tab_li_01 cur" data-index="1">热门游戏</li>
+<li class="game_tab_li_02" data-index="2">玩过的游戏</li>
+</ul>
+<div class="game_tab_hover"></div>
+</div>
+<div class="game_hot_area">
+<ul>
+<li><span></span><a href="http://wanba.baidu.com/login_game_for_general_stat.xhtml?id=614&amp;firstDir=&amp;secondDir=&amp;barName=index_ui" target="_blank" hidefocus>热战绿色版</a></li>
+<li><span></span><a href="http://wanba.baidu.com/login_game_for_general_stat.xhtml?id=533&amp;firstDir=&amp;secondDir=&amp;barName=index_ui" target="_blank" hidefocus>书剑江湖</a></li>
+<li><span></span><a href="http://wanba.baidu.com/login_game_for_general_stat.xhtml?id=530&amp;firstDir=&amp;secondDir=&amp;barName=index_ui" target="_blank" hidefocus>舞动</a></li>
+<li><span></span><a href="http://wanba.baidu.com/login_game_for_general_stat.xhtml?id=495&amp;firstDir=&amp;secondDir=&amp;barName=index_ui" target="_blank" hidefocus>大闹天宫OL</a></li>
+<li><span></span><a href="http://wanba.baidu.com/login_game_for_general_stat.xhtml?id=574&amp;firstDir=&amp;secondDir=&amp;barName=index_ui" target="_blank" hidefocus>决战世界杯</a></li>
+<li><span></span><a href="http://wanba.baidu.com/login_game_for_general_stat.xhtml?id=434&amp;firstDir=&amp;secondDir=&amp;barName=index_ui" target="_blank" hidefocus>斗破乾坤</a></li>
+<li><span></span><a href="http://wanba.baidu.com/login_game_for_general_stat.xhtml?id=508&amp;firstDir=&amp;secondDir=&amp;barName=index_ui" target="_blank" hidefocus>问剑</a></li>
+<li><span></span><a href="http://wanba.baidu.com/login_game_for_general_stat.xhtml?id=509&amp;firstDir=&amp;secondDir=&amp;barName=index_ui" target="_blank" hidefocus>问仙</a></li>
+</ul>
+</div>
+<div class="game_history_area">
+<ul>
+</ul>
+<div class="game_no_history">你还没有玩过游戏，快去找个喜欢的<a target="_blank" href="/game/index">游戏</a>玩玩吧</div>
+</div>
+</div>
+<div alog-alias="daren" class="item item01">
+ 	<div class="item_hd">
+ 			<div class="dr_progress_bar">
+		      <span id="page_turn_pre" class="turn_pre"></span>
+		      <ul alog-group="daren_nav" id="controller" class="page_turn">
+		          <li class="turn_icon turn_icon_cur"></li>
+		          <li class="turn_icon"></li>
+		          <li class="turn_icon"></li>
+		          <li class="turn_icon"></li>
+		      </ul>
+		      <span id="page_turn_next" class="turn_next"></span>
+      </div>
+     	<span class="title">达人堂</span>
+  </div>
+  <div class="tbui_slideshow_container slide_scroll" id="slide_scroll">
+    <ul alog-group="daren_content" id="daren" class="tbui_slideshow_list">
+<li class="tbui_slideshow_slide">
+    <div class="dr_container">
+        <div class="dr_detail_wrap">
+            <div class="dr_detail">
+                <a href="http://tieba.baidu.com/i/375010376?st_mod=pb&fr=tb0_forum&st_type=uface" target="_blank">手工达人-铭杰</a>
+                <p class="dr_forum">所属吧：我乐个趣吧</p>
+                <p>小桥·流水·人家，是每个人心中的梦。</p>
+            </div>
+            <img src="http://tb1.bdstatic.com/tb/cms/lishu09223.jpg" width="85" height="85"/>
+         </div>
+         <div class="dr_desc">
+            <a href="http://tieba.baidu.com/p/2523882687" target="_blank">亲手打造我的梦里水乡</a>
+            <p>圆形底座，直径1米，全手工制作，断断续续花了将近一个月时间。</p>
+         </div>
+    </div>
+</li>
+<li class="tbui_slideshow_slide">
+    <div class="dr_container">
+        <div class="dr_detail_wrap">
+            <div class="dr_detail">
+                <a href="http://www.baidu.com/p/%E5%BC%A0%E6%88%90%E6%9C%8B%E5%B8%88?from=tieba" target="_blank">武术达人-张成</a>
+                <p class="dr_forum">所属吧：武术吧</p>
+                <p>从小就在武当山跟从师傅练武。</p>
+            </div>
+            <img src="http://tb1.bdstatic.com/tb/cms/lishu09163.jpg" width="85" height="85"/>
+         </div>
+         <div class="dr_desc">
+            <a href="http://tieba.baidu.com/p/2543786048" target="_blank">习武人士的修行经历</a>
+            <p>曾经多次想要放弃武术，因为太苦太枯燥。但师傅让我坚持走到了今天。</p>
+         </div>
+    </div>
+</li>
+<li class="tbui_slideshow_slide">
+    <div class="dr_container">
+        <div class="dr_detail_wrap">
+            <div class="dr_detail">
+                <a href="http://tieba.baidu.com/i/266685131?st_mod=pb&fr=tb0_forum&st_type=uface" target="_blank">美食达人-七七</a>
+                <p class="dr_forum">所属吧：美食吧</p>
+                <p>食色主义，不仅要做好吃的，更要做好看的。</p>
+            </div>
+            <img src="http://tb1.bdstatic.com/tb/cms/lishu09055.jpg" width="85" height="85"/>
+         </div>
+         <div class="dr_desc">
+            <a href="http://tieba.baidu.com/p/2167793956" target="_blank">七七的厨房：我的烹饪小点</a>
+            <p>我做的情人节玫瑰馒头。紫薯的颜色适合营造浪漫气氛，叶子是抹茶。</p>
+         </div>
+    </div>
+</li>
+<li class="tbui_slideshow_slide">
+    <div class="dr_container">
+        <div class="dr_detail_wrap">
+            <div class="dr_detail">
+                <a href="http://tieba.baidu.com/i/379464019?st_mod=pb&fr=tb0_forum&st_type=uface" target="_blank">美妆达人-孙小樱</a>
+                <p class="dr_forum">不化妆不出门吧</p>
+                <p>一个缺乏安全感的摩羯座姑娘。</p>
+            </div>
+            <img src="http://tieba.baidu.com/tb/cms/lishu09040.jpg" width="85" height="85"/>
+         </div>
+         <div class="dr_desc">
+            <a href="http://tieba.baidu.com/p/2580851451" target="_blank">教你这样化妆，自拍更好看</a>
+            <p>爱臭美的姑娘对彩妆小有研究，这样的妆容既适合出去玩也适合自拍。</p>
+         </div>
+    </div>
+</li>
+    </ul>
+  </div>
+</div>
+
+<div class="item item02" alog-alias="top5">
+ 	<div class="item_hd">
+     	<span class="title">热门话题</span>
+  </div>
+  <div class="">
+    <ul alog-group="top5wrap" class="top_list top_list1">
+<li class="clearfix">
+<div class="t_left">
+<i class="rank_num rank_num01"></i>
+</div> 
+<div class="t_right">                        	
+     <a class="t_title" href="http://tieba.baidu.com/p/2608860060" target="_blank">没女朋友的24条特征</a>
+     <div class="expand">中枪的都是屌丝 如何逆袭猛戳进来</div>
+     <p title="727756个回复" class="tb_icon icon_baNum">727756</p>                            
+     <i class="rank_up"></i>
+</div> 
+</li>
+
+<li class="clearfix">
+<div class="t_left">
+<i class="rank_num rank_num02"></i>
+</div>
+<div class="t_right">                        	
+     <a class="t_title" href="http://tieba.baidu.com/p/2609797931" target="_blank">
+爱情公寓游戏 你的结局是什么</a>     <p title="632378" class="tb_icon icon_baNum">632378</p>                            
+     <i class="rank_up"></i>
+</div>
+</li>
+
+<li class=" clearfix">
+<div class="t_left">
+<i class="rank_num rank_num03"></i>
+</div>
+<div class="t_right">                        	
+	<a class="t_title" href="http://tieba.baidu.com/p/2610971136" target="_blank">
+如果悟空那会儿这样大闹天宫</a>
+	<p title="556312个回复" class="tb_icon icon_baNum">556312</p>                            
+	<i class="rank_up"></i>
+</div>
+</li>
+<li class=" clearfix">
+<div class="t_left">
+<i class="rank_num rank_num04"></i>
+</div>
+<div class="t_right">                        	
+	<a class="t_title" href="http://tieba.baidu.com/p/2587080836" target="_blank">
+一眼看穿男屌，伪娘，绿茶婊</a>                
+<p title="562199个回复" class="tb_icon icon_baNum">562199</p>                            
+	<i class="rank_down"></i>
+</div>
+</li>
+<li class=" clearfix">
+<div class="t_left">
+<i class="rank_num rank_num05"></i>
+</div>
+<div class="t_right">                        	
+     <a class="t_title" href="http://tieba.baidu.com/p/2591446388" target="_blank">
+棒子又玩新花样 生吃鱿鱼！</a>
+     <p title="397695个回复" class="tb_icon icon_baNum">397695</p>                            
+     <i class="rank_down"></i>
+</div>
+</li>		    
+    </ul>
+  </div>
+</div>
+<div alog-alias="notice_item" id="notice_item" class="item notice_item">
+   <div class="item_hd">
+     	<span class="title">公告板</span>
+  </div>
+<a class="notice" href="http://weishi.baidu.com/?tieba" target="_blank">
+      <img width="220" height="90" src="http://tb1.bdstatic.com/tb/cms/0923dongnanba.gif">
+  </a>
+  <ul alog-group="notice_list" class="notice_list">
+
+        <li>
+        	<a href="http://developer.baidu.com/map/news/gy/" target="_blank">爱分享涨姿势，ipad大奖免费抢！</a>
+        </li>
+        <li>
+        	<a href="http://tuan.baidu.com/event/2013dksg/index.html" target="_blank">30元即可和TA一起品味精致生活！</a>
+        </li>
+        <li>
+        	<a href="http://map.baidu.com/zt/hotel_shiyi/?from=tieba" target="_blank">5折订酒店，双倍返现金，疯狂开抢！</a>
+        </li>
+
+	<li>
+        	<a href="http://tieba.baidu.com/p/1776883428" target="_blank">关于百度贴吧站外官方认证账号的说明</a>
+        </li>
+ 
+        <li>
+        	<a href="http://tieba.baidu.com/p/1360786312" target="_blank">严厉打击爆吧、拆吧等行为的声明</a>
+        </li>
+
+    </ul>
+</div>
+<script>
+var pv_img = new Image();
+pv_img.src = "http://static.tieba.baidu.com/tb/img/pv.gif?fr=tb0_forum&st_mod=new_spage&st_type=pv_sum&_t="+(new Date().getTime());
+</script><!--
+<div alog-alias="daren" class="item item01">
+<div class="item_hd">
+<div class="dr_progress_bar">
+<span id="page_turn_pre" class="turn_pre"></span>
+<ul monkey="daren_nav" id="controller" class="page_turn">
+<li class="turn_icon turn_icon_cur"></li>
+<li class="turn_icon"></li>
+<li class="turn_icon"></li>
+<li class="turn_icon"></li>
+</ul>
+<span id="page_turn_next" class="turn_next"></span>
+</div>
+<span class="title">达人堂</span>
+</div>
+<div class="tbui_slideshow_container slide_scroll" id="slide_scroll">
+<ul monkey="daren_content" class="tbui_slideshow_list">
+<li class="tbui_slideshow_slide">
+<div class="dr_container">
+<div class="dr_detail_wrap">
+<div class="dr_detail">
+<a href="#" target="_blank">自拍达人-MOLLY</a>
+<p class="dr_forum">所属吧：摄影吧</p>
+<p>参加过国家地理摄影比赛,在摄影吧深得人心</p>
+</div>
+<img src="/tb/static-spage/img/car/daren1.png" width="85" height="85"/>
+</div>
+<div class="dr_desc">
+<a href="#" target="_blank">我就是爱摄影的吃货</a>
+<p>黑色飘逸的抹胸裙，因为蓝绿色的点缀变得清新活泼。胸前的蝴蝶结特。</p>
+</div>
+</div>
+</li>
+<li class="tbui_slideshow_slide">
+<div class="dr_container">
+<div class="dr_detail_wrap">
+<div class="dr_detail">
+<a href="#" target="_blank">屌丝达人-DSF</a>
+<p>所属吧：北京吧</p>
+<p>参加过国家地理摄影比赛,在摄影吧深得人心</p>
+</div>
+<img src="/tb/static-spage/img/car/daren2.png" width="85" height="85"/>
+</div>
+<div class="dr_desc">
+<a href="#" target="_blank">我就是爱摄影的吃货</a>
+<p>黑色飘逸的抹胸裙，因为蓝绿色的点缀变得清新活泼。胸前的蝴蝶结特。</p>
+</div>
+</div>
+</li>
+<li class="tbui_slideshow_slide">
+<div class="dr_container">
+<div class="dr_detail_wrap">
+<div class="dr_detail">
+<a href="#" target="_blank">摄影达人-FD发</a>
+<p>所属吧：内蒙吧</p>
+</div>
+<img src="/tb/static-spage/img/car/daren3.png" width="85" height="85"/>
+</div>
+<div class="dr_desc">
+<a href="#" target="_blank">哇嘎嘎嘻哈哈哇塞塞</a>
+<p>黑色飘逸的抹胸裙，因为蓝绿色的点缀变得清新活泼。胸前的蝴蝶结特。</p>
+</div>
+</div>
+</li>
+<li class="tbui_slideshow_slide">
+<div class="dr_container">
+<div class="dr_detail_wrap">
+<div class="dr_detail">
+<a href="#" target="_blank">自拍达人-FDFDF</a>
+<p>所属吧：摄影吧</p>
+</div>
+<img src="/tb/static-spage/img/car/daren4.png" width="85" height="85"/>
+</div>
+<div class="dr_desc">
+<a href="#" target="_blank">我就是爱摄影的吃货</a>
+<p>黑色飘逸的抹胸裙，因为蓝绿色的点缀变得清新活泼。胸前的蝴蝶结特。</p>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="item item02 top5" alog-alias="top5">
+<div class="item_hd">
+<span class="title">热门话题</span>
+</div>
+<div class="">
+<ul alog-group="top5wrap" class="top_list top_list1">
+<li class="clearfix">
+<div class="t_left">
+<i class="rank_num rank_num01"></i>
+</div>
+<div class="t_right">
+<a class="t_title" href="http://tieba.baidu.com/f?kw=%B5%DA%CA%AE%B7%C5%D3%B3%CA%D2" target="_blank">【第十放映室吧】深度影评</a>
+<div class="expand">
+挥手告别，回忆过往的犀利经典评论！
+</div>
+<p title="5876402个回复" class="tb_icon icon_baNum">5876402</p>
+<i class="rank_up"></i>
+</div>
+</li>
+<li class="clearfix">
+<div class="t_left">
+<i class="rank_num rank_num02"></i>
+</div>
+<div class="t_right">
+<a class="t_title" href="http://tieba.baidu.com/f?kw=%B9%C5%BD%A3%C6%E6%CC%B7%B5%E7%CA%D3%BE%E7" target="_blank">【古剑奇谭吧】琴心剑魄</a>
+<p title="3581380" class="tb_icon icon_baNum">3581380</p>
+<i class="rank_up"></i>
+</div>
+</li>
+<li class=" clearfix">
+<div class="t_left">
+<i class="rank_num rank_num03"></i>
+</div>
+<div class="t_right">
+<a class="t_title" href="http://tieba.baidu.com/f?kw=%CE%E2%D2%E0%B7%B2" target="_blank">【吴亦凡吧】贵族气质美男</a>
+<p title="2793058个回复" class="tb_icon icon_baNum">2793058</p>
+<i class="rank_up"></i>
+</div>
+</li>
+<li class=" clearfix">
+<div class="t_left">
+<i class="rank_num rank_num04"></i>
+</div>
+<div class="t_right">
+<a class="t_title" href="http://tieba.baidu.com/f?kw=%B4%F3%D1%A7" target="_blank">【大学吧】花样年华</a>
+<p title="1946825个回复" class="tb_icon icon_baNum">1946825</p>
+<i class="rank_down"></i>
+</div>
+</li>
+<li class=" clearfix">
+<div class="t_left">
+<i class="rank_num rank_num05"></i>
+</div>
+<div class="t_right">
+<a class="t_title" href="http://tieba.baidu.com/f?ie=utf-8&amp;kw=%E5%81%A5%E8%BA%AB" target="_blank">【健身吧】拼的就是身体</a>
+<p title="1754668个回复" class="tb_icon icon_baNum">1754668</p>
+<i class="rank_down"></i>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div alog-alias="notice_item" class="item notice_item">
+<div class="item_hd">
+<span class="title">公告板</span>
+</div>
+<a class="notice" href="http://map.baidu.com/zt/jingcai2013/?fr=tb" target="_blank">
+<img width="220" height="90" src="/tb/static-spage/img/car/notice.jpg">
+</a>
+<ul alog-group="notice_list" class="notice_list">
+<li>
+<a href="http://lvyou.baidu.com/event/s/letusgo-9/#ok?fr=tieba" target="_blank">夏日香气！全网最美香港汇聚</a>
+</li>
+<li>
+<a href="http://map.baidu.com/zt/movie2013/?from=tieba" target="_blank">百度地图电影选座购票活动</a>
+</li>
+<li>
+<a href="http://jingyan.baidu.com/z/partner/" target="_blank">写经验，和基友一起赢家电！</a>
+</li>
+<li>
+<a href="http://wenku.baidu.com/vip/privilege" target="_blank">0.1元限价抢购文库会员特权</a>
+</li>
+<li>
+<a href="http://tieba.baidu.com/p/1776883428" target="_blank">关于百度贴吧站外官方认证账号的说明</a>
+</li>
+<li>
+<a href="http://tieba.baidu.com/p/1360786312" target="_blank">严厉打击爆吧、拆吧等行为的声明</a>
+</li>
+<li>
+<a href="http://tieba.baidu.com/p/1442176229" target="_blank">贴吧等级作弊行为举报处</a>
+</li>
+</ul>
+</div>
+-->
+</div>
+</div>
+</div>
+</div>
+<div class="bottom-bg"></div>
+</div>
+</div>
+<div class="footer" alog-alias="footer"><p alog-group="copy">&copy;2013 Baidu <a href="http://www.baidu.com/duty/">使用百度前必读</a><a href="http://static.tieba.baidu.com/tb/eula.html">贴吧协议</a><a href="http://tieba.baidu.com/tousu/new">投诉反馈</a> 信息网络传播视听节目许可证 0110516 <a href="http://net.china.cn/chinese/index.htm" target="_blank"><img src="http://tb2.bdstatic.com/tb/static-common/img/net_35acb90d.png" width="20"></a><a href="http://www.bj.cyberpolice.cn/index.htm" target="_blank"><img title="首都网络110报警服务" src="http://tb2.bdstatic.com/tb/static-common/img/110_55b23fec.png" width="20"></a></p></div><script>
+if(typeof PDC != 'undefined'){
+PDC.init({
+is_login: PageData.user.is_login,
+sample: 0.2,
+product_id: 14,
+page_id: 3,
+fsHeight: 600
+});
+}
+</script>
+
+ </div></div><script>PageUnitData={"search_input_tip":"\u8f93\u5165\u4f60\u611f\u5174\u8da3\u7684\u4e1c\u4e1c","search_input_force":"0"};</script>
+<script>var _JSSTAMP = {"spage\/component\/feed_data\/feed_data.js":"feed_data_2a5d6876.js","common\/component\/dynamic_load\/dynamic_load.js":"\/tb\/_\/dynamic_load_cb1081c8.js","spage\/component\/popframe\/popframe.js":"popframe_edeeb131.js","common\/component\/slide_show\/slide_show.js":"\/tb\/_\/slide_show_9d429b70.js","common\/component\/aside_float_bar\/aside_float_bar.js":"\/tb\/_\/aside_float_bar_66ff2e36.js","common\/component\/scroll_panel\/scroll_panel.js":"\/tb\/_\/scroll_panel_6bcc3d38.js","common\/component\/frs_version\/version_cookie.js":"\/tb\/_\/version_cookie_25af21ea.js","common\/component\/vote\/image_item.js":"\/tb\/_\/image_item_2126b1a8.js","common\/component\/vote\/text_item_list.js":"\/tb\/_\/text_item_list_ff05f193.js","common\/component\/vote\/text_item.js":"\/tb\/_\/text_item_afe05bc3.js","common\/component\/vote\/data_manager.js":"\/tb\/_\/data_manager_25411682.js","common\/component\/vote\/image_item_list.js":"\/tb\/_\/image_item_list_370aff47.js","common\/component\/vote\/result_panel.js":"\/tb\/_\/result_panel_634f648e.js","common\/component\/vote\/vcode_box.js":"\/tb\/_\/vcode_box_57603586.js","common\/component\/vote\/progress_bar.js":"\/tb\/_\/progress_bar_1a464a2e.js","common\/component\/search_handler\/search_handler.js":"\/tb\/_\/search_handler_89d28599.js","common\/component\/search_dialog\/search_dialog.js":"\/tb\/_\/search_dialog_54e01caa.js","common\/component\/image_uploader\/image_uploader.js":"\/tb\/_\/image_uploader_be874e80.js","common\/component\/image_htmlx_editor\/filter_loader.js":"\/tb\/_\/filter_loader_dbc39c2d.js","common\/component\/image_htmlx_editor\/filter_worker.js":"\/tb\/_\/filter_worker_5008496c.js","common\/component\/image_htmlx_editor\/image_htmlx_editor.js":"\/tb\/_\/image_htmlx_editor_e85cdabe.js","common\/component\/image_htmlx_editor\/clip_resize.js":"\/tb\/_\/clip_resize_553528aa.js","common\/component\/image_water\/water_flash.js":"\/tb\/_\/water_flash_36762161.js","common\/component\/image_water\/water_html5.js":"\/tb\/_\/water_html5_c64e7810.js","common\/component\/image_water\/image_water.js":"\/tb\/_\/image_water_cc5f4cbe.js","common\/component\/sketchpad\/sketchpad.js":"\/tb\/_\/sketchpad_1526d88a.js","common\/component\/interest_smiley\/interest_smiley.js":"\/tb\/_\/interest_smiley_234933da.js","common\/component\/captcha_dialog\/captcha_dialog.js":"\/tb\/_\/captcha_dialog_be604b4a.js","common\/component\/postor_service\/postor_service.js":"\/tb\/_\/postor_service_2ac2f356.js","common\/component\/suggestion\/suggestion.js":"\/tb\/_\/suggestion_b25ba839.js","common\/component\/toolbar\/toolbar.js":"\/tb\/_\/toolbar_cf7e441d.js","common\/component\/sketchpad_dialog\/sketchpad_dialog.js":"\/tb\/_\/sketchpad_dialog_ce8863e7.js","common\/component\/tabs\/tabs.js":"\/tb\/_\/tabs_b4690774.js","common\/component\/word_limit\/word_limit.js":"\/tb\/_\/word_limit_5bae85db.js","common\/component\/editor_pic\/editor_pic.js":"\/tb\/_\/editor_pic_0396eada.js","common\/component\/editor_video\/editor_video.js":"\/tb\/_\/editor_video_68c7e0c3.js","common\/component\/editor_smiley\/editor_smiley.js":"\/tb\/_\/editor_smiley_56c76a91.js","common\/component\/editor_music\/editor_music.js":"\/tb\/_\/editor_music_7eb733e8.js","common\/component\/editor_sketchpad\/editor_sketchpad.js":"\/tb\/_\/editor_sketchpad_644df4ca.js","common\/component\/area_select\/area_select.js":"\/tb\/_\/area_select_a08b59c6.js","common\/component\/follower\/follower.js":"\/tb\/_\/follower_ac4aad60.js","common\/component\/sketchpad\/sketchpad_core.js":"\/tb\/_\/sketchpad_core_a150a062.js","common\/component\/image_uploader_manager\/image_uploader_manager.js":"\/tb\/_\/image_uploader_manager_6437db95.js","common\/component\/image_uploader_manager\/uploader_flash.js":"\/tb\/_\/uploader_flash_246d8dba.js","common\/component\/image_uploader_manager\/uploader_html5.js":"\/tb\/_\/uploader_html5_8e389333.js","common\/component\/image_exif\/image_exif.js":"\/tb\/_\/image_exif_0bd01ba7.js","common\/component\/captcha\/captcha.js":"\/tb\/_\/captcha_1de8a7b8.js","common\/component\/captcha_meizhi\/captcha_meizhi.js":"\/tb\/_\/captcha_meizhi_ec604d2f.js","common\/component\/suggestion\/action.js":"\/tb\/_\/action_070989c5.js","common\/component\/image_clipper\/image_clipper.js":"\/tb\/_\/image_clipper_b0c498f9.js","common\/component\/image_previewer\/image_previewer.js":"\/tb\/_\/image_previewer_ee8440f3.js","common\/component\/image_editor\/image_editor.js":"\/tb\/_\/image_editor_76d26aae.js","common\/component\/image_previewer_list\/image_previewer_list.js":"\/tb\/_\/image_previewer_list_31ec5fe7.js","common\/component\/image_previewer_rotate\/image_previewer_rotate.js":"\/tb\/_\/image_previewer_rotate_a35ffbb3.js","common\/component\/image_uploader_queue\/image_uploader_queue.js":"\/tb\/_\/image_uploader_queue_71ca8cfb.js","common\/component\/image_editor\/image_cliper.js":"\/tb\/_\/image_cliper_1955b83f.js","common\/component\/image_editor\/image_transformer.js":"\/tb\/_\/image_transformer_a610529a.js","common\/component\/image_progress_bar\/image_progress_bar.js":"\/tb\/_\/image_progress_bar_e53fd1a1.js","common\/component\/htmlx_img_filter\/loader.js":"\/tb\/_\/loader_8b5ca927.js","common\/component\/htmlx_img_filter\/worker.js":"\/tb\/_\/worker_8fb4596b.js","common\/component\/htmlx_img_clip\/resize.js":"\/tb\/_\/resize_c6722538.js","common\/component\/image_viewer\/data_interface.js":"\/tb\/_\/data_interface_d273d85c.js","common\/component\/image_viewer\/image_nav_item.js":"\/tb\/_\/image_nav_item_fd66b1e4.js","common\/component\/image_viewer\/image_pager.js":"\/tb\/_\/image_pager_e76e75e1.js","common\/component\/image_viewer\/scroll_pannel.js":"\/tb\/_\/scroll_pannel_38e89ae9.js","common\/component\/image_viewer\/image_postor.js":"\/tb\/_\/image_postor_341727de.js","common\/component\/block_user\/block_user.js":"\/tb\/_\/block_user_2d001db6.js","common\/component\/image_viewer\/hint.js":"\/tb\/_\/hint_d90feefe.js","common\/component\/image_viewer\/image_original.js":"\/tb\/_\/image_original_ec566dd7.js","common\/component\/image_viewer\/image_nav.js":"\/tb\/_\/image_nav_2d22df78.js","common\/component\/image_viewer\/image_comments.js":"\/tb\/_\/image_comments_f39f2bea.js","common\/component\/image_viewer\/dropdown_list.js":"\/tb\/_\/dropdown_list_b8f9fa1a.js","common\/component\/image_viewer\/tb_fav.js":"\/tb\/_\/tb_fav_605feea8.js","common\/component\/image_viewer\/games.js":"\/tb\/_\/games_cd84d45f.js","common\/component\/image_viewer\/image_thumbnail.js":"\/tb\/_\/image_thumbnail_96ec8d65.js","common\/component\/image_viewer\/image_preloader.js":"\/tb\/_\/image_preloader_7c10751e.js","common\/component\/image_viewer\/full_screen_manager.js":"\/tb\/_\/full_screen_manager_1c9134fb.js","common\/component\/editor_video\/editor_urlvideo.js":"\/tb\/_\/editor_urlvideo_a081888b.js","common\/component\/editor_video\/editor_localvideo.js":"\/tb\/_\/editor_localvideo_63a41cd4.js","common\/component\/editor_pic\/editorpic_upload.js":"\/tb\/_\/editorpic_upload_adebccf4.js","common\/component\/editor_music\/editor_music_helper.js":"\/tb\/_\/editor_music_helper_80b0c284.js","common\/component\/editor_pic_meizhi\/editor_pic_meizhi_upload.js":"\/tb\/_\/editor_pic_meizhi_upload_fec5b9eb.js","common\/component\/image_flash_editor\/image_flash_editor.js":"\/tb\/_\/image_flash_editor_14f61c21.js","common\/component\/post_service\/post_service.js":"\/tb\/_\/post_service_b2150045.js","common\/component\/post_prefix\/post_prefix.js":"\/tb\/_\/post_prefix_894a4641.js","common\/component\/post_signature\/post_signature.js":"\/tb\/_\/post_signature_45d117eb.js","common\/component\/mouse_pwd\/mouse_pwd.js":"\/tb\/_\/mouse_pwd_dc9e1f43.js","common\/component\/post_service\/post_result_handler_manager.js":"\/tb\/_\/post_result_handler_manager_8709f77f.js","common\/component\/ueditor_video\/ueditor_urlvideo.js":"\/tb\/_\/ueditor_urlvideo_948991ea.js","common\/component\/ueditor_video\/ueditor_localvideo.js":"\/tb\/_\/ueditor_localvideo_c8f2d48b.js","common\/component\/attachment_uploader\/attachment_item_ui.js":"\/tb\/_\/attachment_item_ui_e11fe281.js","common\/component\/attachment_uploader\/attachment_uploader_ui.js":"\/tb\/_\/attachment_uploader_ui_1137f81e.js","common\/component\/attachment_uploader\/attachment_uploader.js":"\/tb\/_\/attachment_uploader_1b2101ea.js","common\/component\/picture_album_selector\/picture_album_selector.js":"\/tb\/_\/picture_album_selector_95dd7ad6.js","common\/component\/picture_selector\/picture_selector.js":"\/tb\/_\/picture_selector_42a0bd24.js","common\/component\/picture_uploader\/picture_uploader.js":"\/tb\/_\/picture_uploader_f83b9960.js","common\/component\/picture_web_selector\/picture_web_selector.js":"\/tb\/_\/picture_web_selector_bafc4c3e.js","common\/component\/scrawl\/scrawl.js":"\/tb\/_\/scrawl_b1e71d96.js","common\/component\/ueditor_emotion\/ueditor_emotion.js":"\/tb\/_\/ueditor_emotion_59558792.js","common\/component\/ueditor_music\/ueditor_music.js":"\/tb\/_\/ueditor_music_fd645e54.js","common\/component\/ueditor_video\/ueditor_video.js":"\/tb\/_\/ueditor_video_30556272.js","common\/component\/placeholder\/placeholder.js":"\/tb\/_\/placeholder_d95d3899.js","common\/component\/ueditor_music\/ueditor_music_search.js":"\/tb\/_\/ueditor_music_search_9d781790.js","common\/component\/ueditor_music\/ueditor_music_helper.js":"\/tb\/_\/ueditor_music_helper_d9f35de9.js"};</script><script src="http://tb1.bdstatic.com/??tb/static-common/lib/tb_lib_8b3b49a3.js,tb/static-common/ui/common_logic_v2_4d4dd951.js"></script>
+<script src="http://tb1.bdstatic.com/tb/static-common/js/tb_ui_ac13f64f.js"></script>
+<script src="http://tb1.bdstatic.com/??/tb/_/browser_statistics_bddb5f0c.js,/tb/_/top_banner_c37f4865.js,/tb/_/footer_519c6e31.js,/tb/_/mobile_tip_7be162ad.js,/tb/_/poptip_7ce39766.js,/tb/_/search_cfd9e21b.js,/tb/_/search_dialog_54e01caa.js,tb/static-spage/widget/carousel_area_v2/carousel_area_v2_eef5b344.js,tb/static-spage/widget/interest_num_v2/interest_num_v2_69b68fe0.js,tb/static-spage/widget/forum_directory/forum_directory_8d064015.js,tb/static-spage/widget/forum_rcmd_v2/forum_rcmd_v2_42b20966.js,tb/static-spage/widget/activity_carousel/activity_carousel_ecf8427e.js,tb/static-spage/widget/affairs_nav/affairs_nav_d93a7177.js,tb/static-spage/widget/affairs/affairs_d0a476fa.js,tb/static-spage/widget/game_tab_v2/game_tab_v2_d02994ac.js,tb/static-spage/widget/aside_v2/aside_v2_0f8563ab.js,/tb/_/new_footer_31d6cfe0.js,tb/static-spage/widget/stats/stats_d1d6936b.js"></script>
+<script>_.Module.use('common/widget/search',[$('#head'),{style:'bright',forumName:'', searchFixed:''}]);</script><script>
+_.Module.use("spage/widget/CarouselArea", [""]);
+</script>
+<script>
+_.Module.use('spage/widget/interest_num',["", "8186309"]);
+</script>
+<script>
+_.Module.use('spage/widget/forumDirectory',{"forums":[],"directory":{"entertainment":{"directory_group":[{"name":"\u5a31\u4e50\u660e\u661f","type":1,"id":0,"second_class":[{"name":"\u6e2f\u53f0\u4e1c\u5357\u4e9a\u660e\u661f","id":0,"type":1},{"name":"\u5185\u5730\u660e\u661f","id":0,"type":1},{"name":"2013\u5feb\u4e50\u7537\u58f0","id":0,"type":1},{"name":"2013\u4e2d\u56fd\u597d\u58f0\u97f3","id":0,"type":1},{"name":"\u97e9\u56fd\u660e\u661f","id":0,"type":1},{"name":"\u65e5\u672c\u660e\u661f","id":0,"type":1},{"name":"\u65f6\u5c1a\u4eba\u7269","id":0,"type":1},{"name":"\u6b27\u7f8e\u660e\u661f","id":0,"type":1},{"name":"\u4e3b\u6301\u4eba","id":0,"type":1},{"name":"\u5176\u4ed6\u5a31\u4e50\u660e\u661f","id":0,"type":1},{"name":"\u5a31\u4e50\u660e\u661f\u8bdd\u9898","id":0,"type":1},{"name":"\u5bfc\u6f14","id":0,"type":1},{"name":"\u620f\u66f2\u66f2\u827a\u660e\u661f","id":0,"type":1},{"name":"2012\u4e2d\u56fd\u597d\u58f0\u97f3","id":0,"type":1},{"name":"\u97f3\u4e50\u5236\u4f5c\u4eba","id":0,"type":1},{"name":"\u5176\u4ed6\u7c89\u4e1d\u7ec4\u7ec7","id":0,"type":1}],"nick_name":"\u5a31\u4e50\u660e\u661f"}],"recommend_forum":["\u4e2d\u56fd\u597d\u58f0\u97f3","\u5feb\u4e50\u7537\u58f0","\u674e\u4ee3\u6cab","exo","\u9648\u4e54\u6069","\u59da\u8d1d\u5a1c","\u9e7f\u6657","\u674e\u5b87\u6625 ","\u5218\u8bd7\u8bd7","\u5434\u5947\u9686","\u6ee8\u5d0e\u6b65","yuripleskun","\u5f20\u6839\u9521","\u6797\u5915","exo\u738b\u9053","\u5c0fS","\u7537\u58f0\u5b66\u9662"],"recommend_img":{"comment":[],"src":"http:\/\/tieba.baidu.com\/tb\/cms\/mingxing0729.png","href":"http:\/\/tieba.baidu.com\/tb\/stars.html"}},"tvshows":{"directory_group":[{"name":"\u7535\u89c6\u8282\u76ee","type":1,"id":0,"second_class":[{"name":"\u5185\u5730\u7efc\u827a","id":0,"type":1},{"name":"\u53f0\u6e7e\u7efc\u827a","id":0,"type":1},{"name":"\u97e9\u56fd\u7efc\u827a","id":0,"type":1},{"name":"\u65f6\u5c1a\u00b7\u751f\u6d3b\u670d\u52a1","id":0,"type":1},{"name":"\u4f53\u80b2\u8fd0\u52a8\u00b7\u5065\u8eab","id":0,"type":1},{"name":"\u8d22\u7ecf\u00b7\u804c\u573a","id":0,"type":1},{"name":"\u65b0\u95fb\u8d44\u8baf","id":0,"type":1},{"name":"\u97f3\u4e50\u00b7\u6587\u827a","id":0,"type":1},{"name":"\u7535\u89c6\u53f0\u53ca\u9891\u9053","id":0,"type":1},{"name":"\u5176\u4ed6\u8282\u76ee\u53ca\u8bdd\u9898","id":0,"type":1},{"name":"\u79d1\u6559\u8bb0\u5f55\u00b7\u793e\u4f1a\u4e0e\u6cd5","id":0,"type":1},{"name":"\u5c11\u513f\u00b7\u6559\u80b2","id":0,"type":1},{"name":"\u5e7f\u64ad\u7535\u53f0","id":0,"type":1}],"nick_name":"\u7231\u7efc\u827a"}],"recommend_forum":["\u5feb\u4e50\u5927\u672c\u8425","\u56fd\u5149\u5e2e\u5e2e\u5fd9","\u5927\u5b66\u751f\u4e86\u6ca1","nba\u6700\u524d\u7ebf","\u975e\u8bda\u52ff\u6270","\u5929\u5929\u5411\u4e0a","\u6211\u7231\u9ed1\u6da9\u4f1a","\u5eb7\u7199\u6765\u4e86","\u6253\u6e14\u6652\u7f51","\u6e56\u5357\u536b\u89c6","tvb","\u6c5f\u82cf\u536b\u89c6","\u6d59\u6c5f\u536b\u89c6","\u6d41\u8a00\u7ec8\u7ed3\u8005","\u7a7a\u4e2d\u6d69\u52ab","\u804c\u6765\u804c\u5f80","\u7238\u7238\u4f60\u53bb\u54ea\u513f","\u8d64\u811a\u7684\u670b\u53cb\u4eec","\u4e24\u5929\u4e00\u591c","\u82b1\u6837\u7237\u7237","\u5343\u91cc\u5171\u826f\u5bb5","\u4e00\u6218\u5230\u5e95","\u6211\u4eec\u7ea6\u4f1a\u5427","\u820c\u5c16\u4e0a\u7684\u4e2d\u56fd","\u4e2d\u56fd\u68a6\u4e4b\u58f0","\u975e\u5e38\u4e86\u5f97","\u767e\u53d8\u5927\u5496\u79c0"],"recommend_img":{"comment":[],"src":[],"href":[]}},"teleplay":{"directory_group":[{"name":"\u7535\u89c6\u5267","type":1,"id":0,"second_class":[{"name":"\u97e9\u56fd\u7535\u89c6\u5267","id":0,"type":1},{"name":"\u9999\u6e2f\u7535\u89c6\u5267","id":0,"type":1},{"name":"\u7f8e\u5267","id":0,"type":1},{"name":"\u65e5\u672c\u7535\u89c6\u5267","id":0,"type":1},{"name":"\u5185\u5730\u7535\u89c6\u5267","id":0,"type":1},{"name":"\u53f0\u6e7e\u7535\u89c6\u5267","id":0,"type":1},{"name":"\u4e1c\u5357\u4e9a\u7535\u89c6\u5267","id":0,"type":1},{"name":"\u5176\u4ed6\u5730\u533a\u7535\u89c6\u5267","id":0,"type":1},{"name":"\u7535\u89c6\u5267\u89d2\u8272","id":0,"type":1},{"name":"\u7535\u89c6\u5267\u8bdd\u9898","id":0,"type":1}],"nick_name":"\u8ffd\u5267\u72c2"}],"recommend_forum":["\u6700\u7f8e\u7684\u65f6\u5149","monstar","\u97e9\u7248\u60f3\u4f60","\u542c\u89c1\u4f60\u7684\u58f0\u97f3","\u51b2\u4e0a\u4e91\u97042","\u6b65\u6b65\u60ca\u60c5","\u5438\u8840\u9b3c\u65e5\u8bb0","\u751f\u6d3b\u5927\u7206\u70b8","\u884c\u5c38\u8d70\u8089","\u90aa\u6076\u529b\u91cf","\u7834\u4ea7\u59d0\u59b9","2013\u65e5\u7248\u6076\u4f5c\u5267","\u771f\u5047\u5b66\u56ed","\u795e\u63a2\u4f3d\u5229\u7565","\u4e00\u543b\u5b9a\u60c5","\u4e16\u754c\u5947\u5999\u7269\u8bed","\u7231\u60c5\u516c\u5bd3","\u7ec8\u6781\u4e00\u73ed3","\u597d\u5fc3\u4f5c\u602a","\u9739\u96f3","\u4e24\u4e2a\u7238\u7238","\u6076\u4f5c\u5267\u4e4b\u543b","\u6211\u53ef\u80fd\u4e0d\u4f1a\u7231\u4f60","\u4e00\u8bfa\u503e\u60c5","\u795e\u63a2\u590f\u6d1b\u514b","\u5510\u987f\u5e84\u56ed","\u8fdc\u53e4\u5165\u4fb5","\u970d\u666f\u826f","\u97e9\u5267","\u7f8e\u5267","\u6cf0\u5267","\u65e5\u5267","\u53e4\u88c5\u7535\u89c6\u5267"],"recommend_img":{"comment":[],"src":[],"href":[]}},"movie":{"directory_group":[{"name":"\u7535\u5f71","type":1,"id":0,"second_class":[{"name":"\u9999\u6e2f\u7535\u5f71","id":0,"type":1},{"name":"\u6b27\u7f8e\u7535\u5f71","id":0,"type":1},{"name":"\u5185\u5730\u7535\u5f71","id":0,"type":1},{"name":"\u97e9\u56fd\u7535\u5f71","id":0,"type":1},{"name":"\u65e5\u672c\u7535\u5f71","id":0,"type":1},{"name":"\u53f0\u6e7e\u7535\u5f71","id":0,"type":1},{"name":"\u7535\u5f71\u8bdd\u9898","id":0,"type":1},{"name":"\u4e1c\u5357\u4e9a\u7535\u5f71","id":0,"type":1},{"name":"\u5176\u4ed6\u5730\u533a\u7535\u5f71","id":0,"type":1}],"nick_name":"\u770b\u7535\u5f71"}],"recommend_forum":["\u7535\u5f71\u7968\u623f","\u6050\u6016\u7247","\u5fae\u7535\u5f71","\u5f71\u89c6\u540c\u4eba","\u5965\u65af\u5361","\u79d1\u5e7b\u7247","\u9999\u6e2f\u7535\u5f71","\u7ecf\u5178\u7535\u5f71","\u56fe\u89e3\u7535\u5f71","\u5c0f\u6e05\u65b0\u7535\u5f71","\u7eaa\u5f55\u7247","\u597d\u83b1\u575e","\u6b27\u7f8e\u7535\u5f71","\u7535\u5f71\u63a8\u8350","\u60ac\u7591\u7247","\u5c0f\u65f6\u4ee3\u7535\u5f71","\u4e0d\u4e8c\u795e\u63a2","\u4e2d\u56fd\u5408\u4f19\u4eba","\u5929\u53f0\u7231\u60c5","\u94a2\u94c1\u4fa0","\u590d\u4ec7\u8005\u8054\u76df","\u901f\u5ea6\u4e0e\u6fc0\u60c5","\u7535\u952f\u60ca\u9b42","\u6bd4\u60b2\u4f24\u66f4\u60b2\u4f24\u7684\u6545\u4e8b","\u602a\u8c08\u65b0\u8033\u888b","\u5492\u6028","\u7a7f\u8d8a\u65f6\u7a7a\u7684\u5c11\u5973","\u90a3\u4e9b\u5e74\u6211\u4eec\u4e00\u8d77\u8ffd\u7684\u5973\u5b69","yesorno","\u518d\u4e00\u6b21\u5fc3\u8df3","\u66b9\u7f57\u4e4b\u604b","\u521d\u604b\u8fd9\u4ef6\u5c0f\u4e8b","\u7ea2\u78e8\u574a"],"recommend_img":{"comment":[],"src":[],"href":[]}},"literature":{"directory_group":[{"name":"\u5c0f\u8bf4","id":161,"second_class":[{"name":"\u5947\u5e7b","id":"403","type":0},{"name":"\u8a00\u60c5","id":"177","type":0},{"name":"\u7075\u5f02","id":"404","type":0},{"name":"\u7a7f\u8d8a","id":"162","type":0},{"name":"\u8fde\u8f7d","id":"169","type":0},{"name":"\u4fee\u771f","id":"412","type":0},{"name":"\u5386\u53f2","id":"121","type":0},{"name":"\u67b6\u7a7a\u6587","id":"409","type":0},{"name":"\u5c0f\u8bf4\u63a8\u8350","id":"413","type":0},{"name":"\u79d1\u5e7b","id":"170","type":0},{"name":"\u4e66\u8bc4","id":"173","type":0},{"name":"\u6e38\u620f\u6539\u7f16","id":"406","type":0},{"name":"\u91cd\u751f\u6587","id":"407","type":0},{"name":"\u540e\u5bab","id":"167","type":0},{"name":"\u6e05\u5bab","id":"171","type":0},{"name":"YY\u6587","id":"408","type":0},{"name":"\u519b\u4e8b\u6587","id":"410","type":0},{"name":"\u4ed9\u4fa0","id":"411","type":0},{"name":"\u5bab\u6597","id":"165","type":0},{"name":"\u5c0f\u8bf4\u4eba\u7269","id":"175","type":0},{"name":"\u6b66\u4fa0","id":"405","type":0}],"type":0,"nick_name":"\u5c0f\u8bf4"}],"recommend_forum":["\u76d7\u5893\u7b14\u8bb0","\u6211\u4eec\u662f\u5144\u5f1f","\u6b65\u6b65\u60ca\u5fc3","\u9b3c\u5439\u706f","\u9189\u6795\u6c5f\u5c71","\u4e09\u4f53","\u608d\u621a","\u5bb0\u6267\u5929\u4e0b","\u660e\u672b\u8fb9\u519b\u4e00\u5c0f\u5175","\u80dc\u8005\u4e3a\u738b\u5c0f\u8bf4","\u4eba\u751f\u82e5\u53ea\u5982\u521d\u89c1","\u5b50\u4e0d\u8bed","\u534e\u80e5\u5f15","\u6700\u7ec8\u8fdb\u5316","\u5f20\u8d77\u7075","\u9646\u96ea\u742a","\u82b1\u5343\u9aa8","\u5434\u90aa","\u89e3\u8bed\u82b1","\u795e\u96d5\u4fa0\u4fa3","\u7b11\u50b2\u6c5f\u6e56","\u82f1\u96c4\u5fd7","\u65e5\u6708\u5f53\u7a7a","\u51e4\u6b4c\u7075\u98de\u7ecf","\u706b\u7206\u5929\u738b","\u533b\u9053\u5b98\u9014","\u82d7\u7586\u86ca\u4e8b","\u65e0\u9650\u66d9\u5149","\u6050\u614c\u6cb8\u817e","\u72c2\u87d2\u4e4b\u707e","\u5510\u7816","\u7a7f\u8d8a\u5c0f\u8bf4","\u53e4\u4ee3\u8a00\u60c5","\u7075\u5f02\u602a\u8c08"],"recommend_img":{"comment":[],"src":[],"href":[]}},"livingexpert":{"directory_group":[{"name":"\u751f\u6d3b\u5bb6","id":214,"second_class":[{"name":"\u5c0f\u800c\u7f8e","id":"244","type":0},{"name":"DIY","id":"72","type":0},{"name":"\u7f8e\u98df","id":"380","type":0},{"name":"\u6444\u5f71","id":"82","type":0},{"name":"\u65c5\u884c","id":"92","type":0},{"name":"\u753b\u753b","id":"91","type":0},{"name":"\u624b\u7ed8","id":"94","type":0},{"name":"\u690d\u7269","id":"225","type":0},{"name":"\u51b7\u95e8\u6536\u85cf","id":"376","type":0},{"name":"\u610f\u5883","id":"95","type":0},{"name":"\u624b\u5de5","id":"358","type":0},{"name":"\u751c\u54c1","id":"378","type":0},{"name":"\u53e4\u73a9","id":"202","type":0},{"name":"\u5bb6\u5c45","id":"226","type":0},{"name":"\u5962\u4f88\u54c1","id":"93","type":0},{"name":"\u591a\u8089\u690d\u7269","id":"357","type":0},{"name":"\u6a21\u578b","id":"203","type":0}],"type":0,"nick_name":"\u751f\u6d3b\u5bb6"}],"recommend_forum":["\u591a\u6d46\u690d\u7269","\u5496\u5561","\u5355\u53cd","\u82ad\u857e","\u70d8\u7119","\u7f8e\u98df","\u84b8\u6c7d\u670b\u514b","\u624b\u7ed8","\u65c5\u884c","\u6b7b\u98de","\u552f\u7f8e\u610f\u5883","\u9690\u5c45","\u590d\u53e4","\u660e\u4fe1\u7247","\u624b\u5de5","\u88c5\u4fee\u65e5\u8bb0","\u53d8\u5f62\u91d1\u521a\u73a9\u5177","\u6298\u8033\u732b","\u6c7d\u8f66\u6a21\u578b","\u73a9\u5177\u5175\u4eba","\u5962\u4f88\u54c1","\u80cc\u5305\u5ba2","\u6cf0\u8fea","\u6ed1\u677f","\u53e4\u73a9\u6536\u85cf","\u6b4c\u8bcd","\u751f\u77f3\u82b1","\u5f69\u94c5","\u4eba\u50cf\u6444\u5f71","\u97f3\u4e50"],"recommend_img":{"comment":[],"src":[],"href":[]}},"xianqu":{"directory_group":[{"name":"\u95f2\u00b7\u8da3","id":429,"second_class":[{"name":"\u840c\u5ba0","id":"4","type":0},{"name":"\u841d\u8389","id":"6","type":0},{"name":"\u91cd\u53e3\u5473","id":"257","type":0},{"name":"\u5410\u69fd","id":"152","type":0},{"name":"\u6050\u6016","id":"255","type":0},{"name":"\u661f\u5ea7","id":"263","type":0},{"name":"\u7206\u6599","id":"42","type":0},{"name":"\u55b5\u661f\u4eba","id":"5","type":0},{"name":"\u6c6a\u661f\u4eba","id":"9","type":0},{"name":"\u7ae5\u5e74","id":"8","type":0},{"name":"\u5185\u6db5","id":"254","type":0},{"name":"\u6b63\u592a","id":"11","type":0}],"type":0,"nick_name":"\u95f2\u00b7\u8da3"}],"recommend_forum":["\u732b","\u7f51\u7edc\u7ea2\u4eba","\u5f31\u667a","\u5a03\u5a03\u8138","\u5904\u5973\u5ea7","\u840c\u59b9\u5b50","\u5e05\u54e5","\u9b3c\u6545\u4e8b","\u54c8\u58eb\u5947","\u751c\u7d20\u7eaf","\u7206\u6599","\u6252\u76ae","\u4ed3\u9f20","\u8be1\u5f02","lolita","\u641e\u7b11","\u5185\u6db5\u56fe","\u5929\u874e\u5ea7","\u91cd\u53e3\u5473","\u51b7\u7b11\u8bdd","\u7eff\u5e3d\u5b50\u5c0f\u540c\u5b66","\u6050\u6016\u56fe\u7247","\u53ef\u7231\u6b63\u592a","\u6076\u641e","\u5341\u4e8c\u661f\u5ea7","\u5854\u7f57\u724c","\u5fc3\u7406\u6d4b\u8bd5","\u70ed\u95e8\u4e8b\u4ef6"],"recommend_img":{"comment":[],"src":[],"href":[]}},"game":{"directory_group":[{"name":"\u6e38\u620f","type":1,"id":0,"second_class":[{"name":"\u5ba2\u6237\u7aef\u7f51\u6e38","id":0,"type":1},{"name":"\u684c\u6e38","id":0,"type":1},{"name":"\u6e38\u620f\u89d2\u8272","id":0,"type":1},{"name":"\u7f51\u9875\u7248\u7f51\u6e38","id":0,"type":1},{"name":"\u624b\u673a\u6e38\u620f","id":0,"type":1},{"name":"\u5c0f\u6e38\u620f","id":0,"type":1},{"name":"\u5355\u673a\u6e38\u620f","id":0,"type":1},{"name":"\u638c\u673a\u6e38\u620f","id":0,"type":1},{"name":"\u7535\u89c6\u6e38\u620f","id":0,"type":1},{"name":"\u5176\u4ed6\u6e38\u620f\u53ca\u8bdd\u9898","id":0,"type":1}],"nick_name":"\u6e38\u620f"}],"recommend_forum":["\u5251\u7075","Minecraft","\u6211\u53ebmtonline","\u75af\u72c2\u731c\u56fe","\u5029\u5973ol","\u602a\u7269\u730e\u4ebaonline","nba2kol","\u5251\u7f51\u4e09","\u5766\u514b\u4e16\u754c","\u6269\u6563\u6027ma\u56fd\u670d","\u624b\u673a\u6e38\u620f","lol","\u5730\u4e0b\u57ce\u4e0e\u52c7\u58eb","\u82f1\u96c4\u8054\u76df","dota","\u7a7f\u8d8a\u706b\u7ebf","\u68a6\u5e7b\u897f\u6e38","\u5251\u7f513","dota2","qq\u98de\u8f66","\u53cd\u6050\u7cbe\u82f1OL","\u9f99\u4e4b\u8c37","qq\u70ab\u821e","dnf\u7ea2\u773c","\u5929\u7ffc\u51b3","\u68a6\u4e09\u56fd","\u4ed9\u5251\u5947\u4fa0\u4f20","\u5192\u9669\u5c9b","\u8dd1\u8dd1\u5361\u4e01\u8f66","\u53e4\u5251\u5947\u8c2d","\u5929\u9f99\u7f51\u6e38","\u6597\u4ed9","\u53e3\u888b\u5996\u602a"],"recommend_img":{"comment":[],"src":[],"href":[]}},"cartoon":{"directory_group":[{"name":"\u52a8\u6f2b\u5b85","id":206,"second_class":[{"name":"\u65e5\u672c\u52a8\u6f2b","id":"312","type":0},{"name":"\u56fd\u4ea7\u52a8\u6f2b","id":"313","type":0},{"name":"\u6b27\u7f8e\u52a8\u6f2b","id":"314","type":0},{"name":"\u641e\u7b11\u6f2b\u753b","id":"319","type":0},{"name":"\u70ed\u8840\u52a8\u6f2b","id":"323","type":0},{"name":"\u63a8\u7406","id":"83","type":0},{"name":"\u58f0\u4f18","id":"210","type":0},{"name":"COS","id":"212","type":0},{"name":"\u66b4\u8d70\u6f2b\u753b","id":"316","type":0},{"name":"\u803d\u7f8e\u6f2b\u753b","id":"317","type":0},{"name":"\u5c11\u5973\u6f2b\u753b","id":"318","type":0},{"name":"\u79d1\u5e7b\u7cfb","id":"320","type":0},{"name":"\u5192\u9669","id":"321","type":0},{"name":"\u9752\u6625\u604b\u7231","id":"322","type":0},{"name":"\u540c\u4eba","id":"417","type":0},{"name":"\u624b\u529e","id":"418","type":0}],"type":0,"nick_name":"\u52a8\u6f2b\u5b85"}],"recommend_forum":["Free\u7537\u5b50\u6e38\u6cf3\u90e8","\u6d77\u8d3c\u738b","\u706b\u5f71\u5fcd\u8005","\u8fdb\u51fb\u7684\u5de8\u4eba","\u52a8\u6f2b","\u67ef\u5357","\u79e6\u65f6\u660e\u6708","\u540e\u5bab\u52a8\u6f2b","\u6b7b\u795e","\u94f6\u9b42","\u5996\u7cbe\u7684\u5c3e\u5df4","\u66b4\u8d70\u6f2b\u753b","\u90a3\u5e74\u90a3\u5154\u90a3\u4e9b\u4e8b\u513f","\u5bab\u5d0e\u9a8f","\u5bb6\u5ead\u6559\u5e08","\u9ed1\u5b50\u7684\u7bee\u7403","Cosplay","\u52a8\u6f2b\u6b4c\u66f2","\u8a00\u53f6\u4e4b\u5ead","\u5341\u4e07\u4e2a\u51b7\u7b11\u8bdd","\u590f\u76ee\u53cb\u4eba\u5e10","\u9ad8\u8fbe\u6a21\u578b","\u540c\u4eba","\u624b\u529e"],"recommend_img":{"comment":[],"src":[],"href":[]}},"sports":{"directory_group":[{"name":"\u4f53\u80b2","type":1,"id":0,"second_class":[{"name":"nba\u7403\u961f\u53ca\u8d5b\u4e8b","id":0,"type":1},{"name":"\u4e2d\u56fd\u8db3\u7403\u4ff1\u4e50\u90e8\u53ca\u8d5b\u4e8b","id":0,"type":1},{"name":"\u53f0\u7403","id":0,"type":1},{"name":"\u8d5b\u8f66","id":0,"type":1},{"name":"\u7530\u5f84","id":0,"type":1},{"name":"\u7530\u5f84\u660e\u661f","id":0,"type":1},{"name":"\u82f1\u56fd\u8db3\u7403\u4ff1\u4e50\u90e8\u53ca\u8d5b\u4e8b","id":0,"type":1},{"name":"\u897f\u73ed\u7259\u8db3\u7403\u4ff1\u4e50\u90e8\u53ca\u8d5b\u4e8b","id":0,"type":1},{"name":"\u5fb7\u56fd\u8db3\u7403\u4ff1\u4e50\u90e8\u53ca\u8d5b\u4e8b","id":0,"type":1},{"name":"\u610f\u5927\u5229\u8db3\u7403\u4ff1\u4e50\u90e8\u53ca\u8d5b\u4e8b","id":0,"type":1},{"name":"\u6cd5\u56fd\u8db3\u7403\u4ff1\u4e50\u90e8\u53ca\u8d5b\u4e8b","id":0,"type":1},{"name":"\u8db3\u7403\u660e\u661f","id":0,"type":1},{"name":"\u7bee\u7403\u660e\u661f","id":0,"type":1},{"name":"\u7f51\u7403\u660e\u661f","id":0,"type":1},{"name":"\u4f53\u64cd\u660e\u661f","id":0,"type":1},{"name":"\u53f0\u7403\u660e\u661f","id":0,"type":1},{"name":"\u7bee\u7403\u56fd\u5bb6\u961f\u3001\u534f\u4f1a\u53ca\u8d5b\u4e8b","id":0,"type":1},{"name":"cba\u7403\u961f\u53ca\u8d5b\u4e8b","id":0,"type":1},{"name":"\u7535\u5b50\u7ade\u6280\u53ca\u9009\u624b","id":0,"type":1},{"name":"\u6392\u7403","id":0,"type":1},{"name":"\u6392\u7403\u660e\u661f","id":0,"type":1},{"name":"\u68cb\u724c\u7c7b","id":0,"type":1},{"name":"\u6b66\u672f\u640f\u51fb","id":0,"type":1},{"name":"\u6c34\u4e0a\u8fd0\u52a8","id":0,"type":1},{"name":"\u6c34\u4e0a\u8fd0\u52a8\u660e\u661f","id":0,"type":1},{"name":"\u51ac\u5b63\u9879\u76ee\u660e\u661f","id":0,"type":1},{"name":"\u51b0\u4e0a\u8fd0\u52a8","id":0,"type":1},{"name":"\u4e52\u7fbd\u660e\u661f","id":0,"type":1},{"name":"\u4f11\u95f2\u4f53\u80b2","id":0,"type":1},{"name":"\u821e\u8e48","id":0,"type":1},{"name":"\u4e52\u7fbd\u00b7\u7f51\u7403","id":0,"type":1},{"name":"\u8d5b\u8f66\u660e\u661f","id":0,"type":1},{"name":"\u8db3\u7403\u56fd\u5bb6\u961f\u53ca\u534f\u4f1a","id":0,"type":1},{"name":"\u4f53\u80b2\u76f8\u5173\u8bdd\u9898","id":0,"type":1},{"name":"\u4f53\u80b2\u8bb0\u8005\u53ca\u5a92\u4f53","id":0,"type":1},{"name":"\u5176\u4ed6\u4f53\u80b2\u660e\u661f","id":0,"type":1},{"name":"\u5176\u4ed6\u4f53\u80b2\u9879\u76ee\u53ca\u8d5b\u4e8b","id":0,"type":1},{"name":"\u5176\u4ed6\u8db3\u7403\u4ff1\u4e50\u90e8\u53ca\u8d5b\u4e8b","id":0,"type":1}],"nick_name":"\u4f53\u80b2"}],"recommend_forum":["\u963f\u68ee\u7eb3","\u5e7f\u5ddefc","we","\u5c71\u5730\u8f66","\u4e2d\u8d85","\u62dc\u4ec1\u6155\u5c3c\u9ed2","\u6b7b\u98de","\u7687\u65cf","\u70ed\u706b","\u7bee\u7403","\u516c\u8def\u8f66","\u8def\u4e9a","pis","\u9c81\u80fd\u6cf0\u5c71fc","\u5e93\u91cc","\u73af\u6cd5","\u591a\u7279\u8499\u5fb7","\u52d2\u5e03\u6717\u00b7\u8a79\u59c6\u65af","fixedgear","\u6ed1\u677f","\u5185\u9a6c\u5c14","\u5fb7\u7ea6\u79d1\u7ef4\u5947","\u7fbd\u6bdb\u7403","\u4e2d\u56fd\u5973\u7f51\u5a1c\u5a1c","\u7a46\u91cc\u5c3c\u5965","\u4fdd\u7f57\u4e54\u6cbb","\u7f57\u4f0a\u65af","\u51ef\u91cc\u6b27\u6587","\u56db\u9a71\u8f66","f1","\u4e52\u4e53\u7403","\u53f0\u7403","\u6e38\u6cf3","bmx","\u56fd\u5b89\u662f\u51a0\u519b"],"recommend_img":{"comment":[],"src":[],"href":[]}},"xingqing":{"directory_group":[{"name":"\u6027\u60c5\u4e2d\u4eba","id":229,"second_class":[{"name":"\u7f8e\u5973","id":"52","type":0},{"name":"\u7206\u7167","id":"424","type":0},{"name":"\u81ea\u62cd","id":"56","type":0},{"name":"\u6cbb\u6108\u7cfb","id":"253","type":0},{"name":"\u4e1d\u889c","id":"359","type":0},{"name":"\u5355\u8eab","id":"44","type":0},{"name":"\u5973\u795e","id":"59","type":0},{"name":"\u5973\u5973","id":"241","type":0},{"name":"\u7537\u7537","id":"230","type":0},{"name":"\u5931\u604b","id":"39","type":0},{"name":"\u5236\u670d\u63a7","id":"425","type":0},{"name":"\u4f2a\u5a18","id":"426","type":0}],"type":0,"nick_name":"\u6027\u60c5\u4e2d\u4eba"}],"recommend_forum":["\u7f8e\u5973","\u7206\u7167","\u840c\u59b9\u5fa1\u59d0","\u6b27\u7f8e\u5e05\u54e5","\u6821\u82b1","\u5927\u53d4\u63a7","les","\u8150\u5973","\u5236\u670d\u63a7","\u767d\u5bcc\u7f8e","\u5206\u624b\u5feb\u4e50","\u7537\u626e\u5973\u88c5\u8c08\u604b\u7231","\u4f2a\u5a18","\u7ef4\u591a\u5229\u4e9a\u7684\u79d8\u5bc6","\u5154\u5973\u90ce","\u9ed1\u4e1d","\u770b\u56fe\u8bc6\u4eba","\u5355\u8eab","\u5973\u751f","\u6027\u611f","\u7537\u795e","\u6b27\u7f8e","\u6f6e\u7537","\u8f6f\u840c\u6dd1","\u5973\u795e\u53ea\u6709\u4e00\u4e2a","\u79c0\u81c0"],"recommend_img":{"comment":[],"src":[],"href":[]}},"academy":{"directory_group":[{"name":"\u9ad8\u7b49\u9662\u6821","type":1,"id":0,"second_class":[{"name":"\u5317\u4eac\u9662\u6821","id":0,"type":1},{"name":"\u5c71\u4e1c\u9662\u6821","id":0,"type":1},{"name":"\u6c5f\u82cf\u9662\u6821","id":0,"type":1},{"name":"\u56db\u5ddd\u9662\u6821","id":0,"type":1},{"name":"\u6e56\u5317\u9662\u6821","id":0,"type":1},{"name":"\u6cb3\u5317\u9662\u6821","id":0,"type":1},{"name":"\u5b89\u5fbd\u9662\u6821","id":0,"type":1},{"name":"\u9655\u897f\u9662\u6821","id":0,"type":1},{"name":"\u6d59\u6c5f\u9662\u6821","id":0,"type":1},{"name":"\u8fbd\u5b81\u9662\u6821","id":0,"type":1},{"name":"\u6e56\u5357\u9662\u6821","id":0,"type":1},{"name":"\u798f\u5efa\u9662\u6821","id":0,"type":1},{"name":"\u6c5f\u897f\u9662\u6821","id":0,"type":1},{"name":"\u91cd\u5e86\u9662\u6821","id":0,"type":1},{"name":"\u5e7f\u4e1c\u9662\u6821","id":0,"type":1},{"name":"\u6cb3\u5357\u9662\u6821","id":0,"type":1},{"name":"\u5c71\u897f\u9662\u6821","id":0,"type":1},{"name":"\u4e0a\u6d77\u9662\u6821","id":0,"type":1},{"name":"\u9ed1\u9f99\u6c5f\u9662\u6821","id":0,"type":1},{"name":"\u5929\u6d25\u9662\u6821","id":0,"type":1},{"name":"\u5409\u6797\u9662\u6821","id":0,"type":1},{"name":"\u5e7f\u897f\u9662\u6821","id":0,"type":1},{"name":"\u4e91\u5357\u9662\u6821","id":0,"type":1},{"name":"\u7518\u8083\u9662\u6821","id":0,"type":1},{"name":"\u5185\u8499\u53e4\u9662\u6821","id":0,"type":1},{"name":"\u8d35\u5dde\u9662\u6821","id":0,"type":1},{"name":"\u6d77\u5357\u9662\u6821","id":0,"type":1},{"name":"\u65b0\u7586\u9662\u6821","id":0,"type":1},{"name":"\u5b81\u590f\u9662\u6821","id":0,"type":1},{"name":"\u6e2f\u6fb3\u53f0\u9662\u6821","id":0,"type":1},{"name":"\u6d77\u5916\u9662\u6821","id":0,"type":1},{"name":"\u9752\u6d77\u9662\u6821","id":0,"type":1},{"name":"\u897f\u85cf\u9662\u6821","id":0,"type":1},{"name":"\u5b66\u6821\u8bdd\u9898","id":0,"type":1}],"nick_name":"\u9ad8\u6821"}],"recommend_forum":["\u6e05\u534e\u5927\u5b66","\u5317\u4eac\u5927\u5b66","\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66","\u4e2d\u56fd\u4f20\u5a92\u5927\u5b66","\u5317\u4eac\u7535\u5f71\u5b66\u9662","\u897f\u5b89\u4ea4\u901a\u5927\u5b66","\u957f\u5b89\u5927\u5b66","\u897f\u4eac\u5b66\u9662","\u897f\u5b89\u79d1\u6280\u5927\u5b66","\u6b66\u6c49\u5927\u5b66","\u534e\u4e2d\u79d1\u6280\u5927\u5b66","\u6b66\u6c49\u7406\u5de5\u5927\u5b66","\u4e09\u5ce1\u5927\u5b66","\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66","\u590d\u65e6\u5927\u5b66","\u540c\u6d4e\u5927\u5b66"],"recommend_img":{"comment":[],"src":"http:\/\/tieba.baidu.com\/tb\/cms\/xiaoyuan0729.png","href":"http:\/\/tieba.baidu.com\/tb\/xy.html"}},"district":{"directory_group":[{"name":"\u5730\u533a","type":1,"id":0,"second_class":[{"name":"\u5c71\u4e1c","id":0,"type":1},{"name":"\u6cb3\u5317","id":0,"type":1},{"name":"\u6cb3\u5357","id":0,"type":1},{"name":"\u5c71\u897f","id":0,"type":1},{"name":"\u6c5f\u82cf","id":0,"type":1},{"name":"\u8fbd\u5b81","id":0,"type":1},{"name":"\u56db\u5ddd","id":0,"type":1},{"name":"\u5e7f\u4e1c","id":0,"type":1},{"name":"\u9ed1\u9f99\u6c5f","id":0,"type":1},{"name":"\u9655\u897f","id":0,"type":1},{"name":"\u5b89\u5fbd","id":0,"type":1},{"name":"\u6d59\u6c5f","id":0,"type":1},{"name":"\u6c5f\u897f","id":0,"type":1},{"name":"\u5409\u6797","id":0,"type":1},{"name":"\u5185\u8499\u53e4","id":0,"type":1},{"name":"\u6e56\u5317","id":0,"type":1},{"name":"\u798f\u5efa","id":0,"type":1},{"name":"\u7518\u8083","id":0,"type":1},{"name":"\u6d77\u5916","id":0,"type":1},{"name":"\u6e56\u5357","id":0,"type":1},{"name":"\u8d35\u5dde","id":0,"type":1},{"name":"\u5317\u4eac","id":0,"type":1},{"name":"\u4e91\u5357","id":0,"type":1},{"name":"\u5e7f\u897f","id":0,"type":1},{"name":"\u5929\u6d25","id":0,"type":1},{"name":"\u91cd\u5e86","id":0,"type":1},{"name":"\u4e0a\u6d77","id":0,"type":1},{"name":"\u5b81\u590f","id":0,"type":1},{"name":"\u65b0\u7586","id":0,"type":1},{"name":"\u9752\u6d77","id":0,"type":1},{"name":"\u6d77\u5357","id":0,"type":1},{"name":"\u6e2f\u6fb3\u53f0","id":0,"type":1},{"name":"\u897f\u85cf","id":0,"type":1},{"name":"\u5176\u4ed6\u5730\u533a\u53ca\u8bdd\u9898","id":0,"type":1}],"nick_name":"\u5730\u533a"}],"recommend_forum":["\u6d4e\u5357","\u77f3\u5bb6\u5e84","\u90d1\u5dde","\u5357\u4eac","\u592a\u539f","\u6c88\u9633\u5e02","\u6210\u90fd","\u54c8\u5c14\u6ee8","\u5e7f\u5dde","\u5408\u80a5","\u676d\u5dde","\u5409\u6797","\u897f\u5b89","\u6b66\u6c49","\u798f\u5dde","\u547c\u548c\u6d69\u7279","\u5357\u660c","\u957f\u6c99","\u5317\u4eac","\u5170\u5dde","\u8d35\u9633","\u5357\u5b81","\u6606\u660e","\u5929\u6d25","\u91cd\u5e86","\u4e0a\u6d77","\u5c71\u4e1c","\u6cb3\u5317","\u6cb3\u5357","\u6c5f\u82cf","\u5c71\u897f","\u8fbd\u5b81","\u56db\u5ddd","\u9ed1\u9f99\u6c5f","\u5e7f\u4e1c","\u5b89\u5fbd","\u6d59\u6c5f","\u5409\u6797","\u9655\u897f","\u6e56\u5317","\u798f\u5efa","\u5185\u8499\u53e4","\u6c5f\u897f","\u6e56\u5357","\u5317\u4eac","\u7518\u8083","\u8d35\u5dde","\u5e7f\u897f","\u4e91\u5357","\u5929\u6d25","\u91cd\u5e86","\u4e0a\u6d77"],"recommend_img":{"comment":[],"src":[],"href":[]}},"humanity":{"directory_group":[{"name":"\u4eba\u6587\u81ea\u7136","type":1,"id":0,"second_class":[{"name":"\u827a\u672f","id":0,"type":1},{"name":"\u519b\u4e8b","id":0,"type":1},{"name":"\u5b97\u6559","id":0,"type":1},{"name":"\u6c11\u65cf\u6587\u5316","id":0,"type":1},{"name":"\u8bed\u8a00\u6587\u5316","id":0,"type":1},{"name":"\u52a8\u690d\u7269","id":0,"type":1},{"name":"\u5386\u53f2","id":0,"type":1},{"name":"\u59d3\u6c0f\u6587\u5316","id":0,"type":1},{"name":"\u793e\u4f1a\u79d1\u5b66\u8bdd\u9898","id":0,"type":1},{"name":"\u81ea\u7136","id":0,"type":1},{"name":"\u5176\u4ed6\u4eba\u6587\u8bdd\u9898","id":0,"type":1},{"name":"\u5176\u4ed6\u81ea\u7136\u8bdd\u9898","id":0,"type":1}],"nick_name":"\u4eba\u6587\u81ea\u7136"}],"recommend_forum":["\u5fc3\u7406\u5b66","\u54f2\u5b66","\u821e\u8e48","\u6c7d\u8f66\u624b\u7ed8","\u91ce\u53f2","\u690d\u7269","\u6e05\u660e\u68a6","\u8718\u86db","\u4eac\u5267","\u82b1","\u72d0\u72f8","\u5386\u53f2","\u4e2d\u56fd\u5386\u53f2","\u6545\u660e","\u54f2\u5b66\u8fa9\u8bba","\u5fc3\u7406","\u8bed\u6587","\u85cf\u7352","\u9f99\u732b","\u672a\u786e\u8ba4\u751f\u7269","\u5916\u661f\u4eba","\u4eba\u4e0e\u81ea\u7136","\u8d85\u81ea\u7136\u4ff1\u4e50\u90e8","\u795e\u7231\u4e4b\u5bb6","\u7ed8\u753b\u5723\u5730"],"recommend_img":{"comment":[],"src":[],"href":[]}}}});
+</script>
+<script>
+_.Module.use("spage/widget/ForumRcmdV2");
+</script>
+<script>
+_.Module.use('common/component/SlideShow', {
+target: "#sp_plat_act_carousel",
+activeClass: "turn_icon_cur",
+interval: 5000,
+auto: true,
+nav: "#sp_plat_act_carousel_dot",
+next: "#sp_plat_act_carousel_next",
+prev: "#sp_plat_act_carousel_prev",
+effect: "fade"
+});
+</script>
+<script>
+_.Module.use("spage/widget/TagNav",{"user_tags":[],"all_tags":{"383":{"group_name":"\u8ffd\u661f\u65cf","group_id":"383","tags":[{"tag_name":"\u5076\u50cf\u660e\u661f","tag_id":"19"},{"tag_name":"\u97e9\u996d","tag_id":"29"},{"tag_name":"\u5a31\u4e50\u516b\u5366","tag_id":"259"},{"tag_name":"\u6b27\u7f8e\u660e\u661f","tag_id":"300"},{"tag_name":"\u6e2f\u53f0\u660e\u661f","tag_id":"301"},{"tag_name":"\u5185\u5730\u660e\u661f","tag_id":"302"},{"tag_name":"\u7403\u661f","tag_id":"303"},{"tag_name":"\u7bee\u7403\u660e\u661f","tag_id":"304"},{"tag_name":"\u7b11\u661f","tag_id":"305"},{"tag_name":"\u4e50\u961f","tag_id":"306"},{"tag_name":"\u65f6\u5c1a\u660e\u661f","tag_id":"307"},{"tag_name":"\u4e3b\u6301\u4eba","tag_id":"308"},{"tag_name":"\u58f0\u4f18\u63a7","tag_id":"309"},{"tag_name":"\u5e05\u5927\u53d4","tag_id":"310"},{"tag_name":"\u65e5\u996d","tag_id":"415"}]},"384":{"group_name":"\u5f71\u89c6\u8ff7","group_id":"384","tags":[{"tag_name":"\u79c0\u573a","tag_id":"149"},{"tag_name":"\u97e9\u56fd\u7efc\u827a","tag_id":"154"},{"tag_name":"\u5185\u5730\u7efc\u827a","tag_id":"155"},{"tag_name":"\u53f0\u6e7e\u7efc\u827a","tag_id":"156"},{"tag_name":"80\u540e","tag_id":"187"},{"tag_name":"\u53f0\u5267","tag_id":"188"},{"tag_name":"\u6e2f\u5267","tag_id":"189"},{"tag_name":"\u97e9\u5267","tag_id":"190"},{"tag_name":"\u7f8e\u5267","tag_id":"191"},{"tag_name":"\u65e5\u5267","tag_id":"192"},{"tag_name":"\u5927\u9646\u5267","tag_id":"193"},{"tag_name":"\u5076\u50cf\u5267","tag_id":"195"},{"tag_name":"\u7535\u5f71\u8ff7","tag_id":"422"}]},"275":{"group_name":"\u4f53\u80b2\u8ff7","group_id":"275","tags":[{"tag_name":"\u8db3\u7403","tag_id":"276"},{"tag_name":"\u7bee\u7403","tag_id":"277"},{"tag_name":"NBA","tag_id":"278"},{"tag_name":"CBA","tag_id":"279"},{"tag_name":"\u4e52\u4e53\u7403","tag_id":"280"},{"tag_name":"\u7f51\u7403","tag_id":"281"},{"tag_name":"\u821e\u8e48","tag_id":"283"},{"tag_name":"\u5065\u8eab","tag_id":"284"},{"tag_name":"\u7fbd\u6bdb\u7403","tag_id":"286"},{"tag_name":"F1","tag_id":"421"}]},"71":{"group_name":"\u53d1\u70e7\u53cb","group_id":"71","tags":[{"tag_name":"\u5927\u795e","tag_id":"43"},{"tag_name":"ps","tag_id":"73"},{"tag_name":"\u6d4b\u8bc4","tag_id":"74"},{"tag_name":"\u4e92\u8054\u7f51","tag_id":"76"},{"tag_name":"\u6280\u672f\u5b85","tag_id":"78"},{"tag_name":"\u6559\u7a0b","tag_id":"79"},{"tag_name":"\u8bbe\u8ba1","tag_id":"81"},{"tag_name":"\u786c\u4ef6\u7814\u7a76","tag_id":"85"},{"tag_name":"\u624b\u673a","tag_id":"86"},{"tag_name":"\u6570\u7801","tag_id":"87"},{"tag_name":"\u519b\u4e8b","tag_id":"427"}]}}});
+</script>
+<script>
+_.Module.use("spage/widget/Affairs",{"last_tid":2366236222, "user_tags":[], "is_personal":""});
+</script>
+<script>
+_.Module.use("spage/widget/GameTabV2", []);
+</script>
+<script>
+_.Module.use("spage/widget/AsideV2");
+</script>
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=2&amp;pos=right&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+var bds_config={"bdTop":285,"bdPic":"#", "bdText":""};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+_.Module.use("spage/widget/Stats",[]);
+</script>
+<script>if (typeof(PageData) !== "undefined" && typeof(PageData.user) !== "undefined") { TbCom.defaultLogicInit(PageData.user, 'forum');}</script></body>
+<script>(function(){PDC.extend({_navTiming:window.performance&&performance.timing,ready:(function(callback){var readyBound=false,readyList=[],DOMContentLoaded,isReady=false;if(document.addEventListener){DOMContentLoaded=function(){document.removeEventListener("DOMContentLoaded",DOMContentLoaded,false);ready()}}else{if(document.attachEvent){DOMContentLoaded=function(){if(document.readyState==="complete"){document.detachEvent("onreadystatechange",DOMContentLoaded);ready()}}}}function ready(){if(!isReady){isReady=true;for(var i=0,j=readyList.length;i<j;i++){readyList[i]()}}}function doScrollCheck(){try{document.documentElement.doScroll("left")}catch(e){setTimeout(doScrollCheck,1);return}ready()}function bindReady(){if(readyBound){return}readyBound=true;if(document.addEventListener){document.addEventListener("DOMContentLoaded",DOMContentLoaded,false);window.addEventListener("load",ready,false)}else{if(document.attachEvent){document.attachEvent("onreadystatechange",DOMContentLoaded);window.attachEvent("onload",ready);var toplevel=false;try{toplevel=window.frameElement==null}catch(e){}if(document.documentElement.doScroll&&toplevel){doScrollCheck()}}}}bindReady();return function(callback){isReady?callback():readyList.push(callback)}})(),Cookie:{set:function(name,value,max_age){max_age=max_age||10;var exp=new Date();exp.setTime(new Date().getTime()+max_age*1000);document.cookie=name+"="+escape(value)+";path=/;expires="+exp.toGMTString()},get:function(name){var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));if(arr!=null){return unescape(arr[2])}return null},remove:function(name){this.set(name,"",-1)}},_is_sample:function(ratio){if(!PDC._random){PDC._random=Math.random()}return PDC._random<=ratio},_load_analyzer:function(){var special_pages=this._opt.special_pages||[];var radios=[this._opt.sample];for(var i=0;i<special_pages.length;i++){radios.push(special_pages[i]["sample"])}var radio=Math.max.apply(null,radios);if(PDC._is_sample(radio)==false){return}PDC._analyzer.loaded=true;PDC._load_js(PDC._analyzer.url,function(){var callbacks=PDC._analyzer.callbacks;for(var i=0,l=callbacks.length;i<l;i++){callbacks[i]()}})},_load_js:function(url,callback){var script=document.createElement("script");script.setAttribute("type","text/javascript");script.setAttribute("src",url);script.onload=script.onreadystatechange=function(){if(!this.readyState||this.readyState=="loaded"||this.readyState=="complete"){script.onload=script.onreadystatechange=null;if(typeof callback==="function"){callback(url,true)}}};script.onerror=function(e){if(typeof callback==="function"){callback(url,false)}};document.getElementsByTagName("head")[0].appendChild(script)},send:function(){if(PDC._analyzer.loaded==true){WPO_PDA.send()}else{PDC._load_analyzer();PDC._analyzer.callbacks.push(function(){WPO_PDA.send()})}}},PDC);!function(){var Cookie=PDC.Cookie,jt=Cookie.get("PMS_JT"),isset=false;if(jt){Cookie.remove("PMS_JT");jt=eval(jt);if(!jt.r||document.referrer.replace(/#.*/,"")==jt.r){(PDC._render_start-jt.s)>100&&PDC.mark("wt",(PDC._render_start-jt.s))}}function clickHandle(e){var e=e||window.event;var target=e.target||e.srcElement;if(target.nodeName=="A"){var url=target.getAttribute("href");if(!/^#|javascript:/.test(url)){Cookie.set("PMS_JT",'({"s":'+(+new Date)+',"r":"'+document.URL.replace(/#.*/,"")+'"})');isset=true}}}if(document.attachEvent){document.attachEvent("onclick",clickHandle)}else{document.addEventListener("click",clickHandle,false)}}();PDC.ready(function(){PDC.mark("drt")});if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("lt")},false)}else{window.addEventListener("load",function(){PDC.mark("let");PDC._setFS&&PDC._setFS();PDC._opt.ready!==false&&PDC._load_analyzer()})}})();</script>
+</html><!--35263364631213477898092422-->
+<script> var _trace_page_logid = 3526336463; </script><!--35263364630608642058092422-->
+<script> var _trace_page_logid = 3526336463; </script>

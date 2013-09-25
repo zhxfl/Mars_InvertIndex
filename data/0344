@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>API输出-百度百科合作平台</title>
+<link href="css/hezuo.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/nav.js"></script>
+<script type="text/javascript" src="js/ajax.js"></script>
+</head>
+
+<body>
+<div id="box">
+	<div id="head">
+		<div class="left">
+			<a href="http://baike.baidu.com/" target="_blank">百度百科</a><span>合作平台</span>
+		</div>
+		<div id="usrbar">
+			<iframe src="http://baike.baidu.com/list-php/dispose/title.php" allowtransparency="true"  frameborder="0"  height="22" width="100%" scrolling="no" target="_parent" style="overflow:hidden"></iframe>
+		</div>
+	</div>
+	<ul id="nav">
+		<li style="width:90px;"><span><a href="index.html">首页</a></span></li>
+		<li>
+			<span class="select"><a href="javascript:;">合作方式</a></span>
+			<div id="select">
+				<a href="qwbj.html">权威编辑</a>
+				<a href="xmgj.html">项目共建</a>
+				<a href="zyhz.html">资源合作</a>
+				<a href="api.html">API输出</a>
+				<a href="hdhz.html" class="nobg">活动合作</a>
+			</div>
+		</li>
+		<li><span><a href="anli.html">合作案例</a></span></li>
+		<li><span><a href="problem.html">常见问题</a></span></li>
+		<li><span><a href="lxwm.html">联系我们</a></span></li>
+	</ul>
+	<div id="banner"><img src="images/banner_07.jpg" alt="" /></div>
+	<div id="wrap">
+		<div class="wLeft">
+			<dl class="jianjie">
+				<dt>简介</dt>
+				<dd>
+					对合作方进行百科词条内容的API输出，合作方可在网站或程序中使用百度百科的数据资源，为合作方用户提供更全面、客观、及时的信息服务。
+					<img src="images/img_55.jpg" alt="" /
+				</dd>
+			</dl>
+			<h2>合作方式说明</h2>
+			<dl class="shuoming">
+				<dt><strong>合作方提供</strong></dt>
+				<dd>
+					<p>对百度百科品牌展示或回链</p>
+				</dd>
+			</dl>
+			<dl class="shuoming">
+				<dt><strong>百度百科提供</strong></dt>
+				<dd>
+					<p>合作方所需的百科词条内容的调用，内容可包括百科名片、正文、图片等。</p>
+				</dd>
+			</dl>
+			<h2>合作流程介绍</h2>
+			<div class="num">
+				<dl>
+					<dt>注册官方账号</dt>
+					<dd>合作方需要在合作开始前注册能代表合作方身份的百度官方账号</dd>
+				</dl>
+				<dl class="mar">
+					<dt>提交合作申请</dt>
+					<dd>合作方点击页面右侧的“如何申请合作”按钮，按具体要求准备所需资料并提交。</dd>
+				</dl>
+				<dl>
+					<dt>等待评估反馈</dt>
+					<dd>百科工作人员将在15个工作日内将评估结果通过合作方登记的联系邮箱予以反馈。</dd>
+				</dl>
+			</div>
+		</div>
+		<div class="wRight">
+			<div class="data">
+				<h3>数据统计</h3>
+				<p>已开展合作：<strong id="orgCount"></strong> 家</p>
+				<a href="hzsq.html" target="_blank" id="how">如何申请</a>
+			</div>
+			<div class="anli">
+				<a href="anli.html" target="_blank">更多>></a><h3>合作案例</h3>
+			</div>
+			<ul>
+				<li><a href="49.html" target="_blank" title="新浪博客"><img src="images/img_91.gif" alt="" /></a><a href="49.html" target="_blank">新浪博客</a></li>
+				<li><a href="50.html" target="_blank" title="海信电视"><img src="images/img_104.gif" alt="" /></a><a href="50.html" target="_blank">海信电视</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div id="footer">
+	&copy;<span id="baikeNewYear">2012</span>	Baidu <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a> <a href="http://www.baidu.com/search/baike_help.html" target="_blank">百科协议</a>
+</div>
+<script>document.write('<script src="http://img.baidu.com/img/baike/baikeCMS.js?t='+parseInt(new Date()/864e5)+'"><\/scr' + 'ipt>');</script>
+<script type="text/javascript" src="/static/common/js/base.js?t=20120308120410"></script>
+<script type="text/javascript" src="/js/popup.js"></script>
+<script type="text/javascript" src="js/userLogin.js"></script>
+
+<script type="text/javascript" src="js/inc_nslog.js"></script>
+<script type="text/javascript">
+	nslog(location.href, 10107, { name: "baike_open", page:'api'});
+	document.getElementById('how').onclick=function()
+	{
+		nslog(location.href, 10107, { name: "baike_open", page:'api', btn:'api_shen'});
+	};
+</script>
+</body>
+</html>
+<!--11456685660198060554010819--><!--04570422560960832522092423-->
+<script> var _trace_page_logid = 0457042256; </script>

@@ -1,0 +1,433 @@
+ <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="Description" content="人人网 校内是一个真实的社交网络，联络你和你周围的朋友。 加入人人网校内你可以:联络朋友，了解他们的最新动态；和朋友分享相片、音乐和电影；找到老同学，结识新朋友；用照片和日志记录生活,展示自我。" />
+<meta name="Keywords" content="Xiaonei,Renren,校内,大学,同学,同事,白领,个人主页,博客,相册,群组,社区,交友,聊天,音乐,视频,校园,人人,人人网" />
+<meta name="msapplication-task" content="name=新鲜事;action-uri=http://www.renren.com/home;icon-uri=http://a.xnimg.cn/n/res/icons/newsfeed.ico" />
+<meta name="msapplication-task" content="name=日志;action-uri=http://blog.renren.com;icon-uri=http://a.xnimg.cn/n/res/icons/blog.ico" />
+<meta name="msapplication-task" content="name=相册;action-uri=http://photo.renren.com;icon-uri=http://a.xnimg.cn/n/res/icons/photo.ico" />
+<meta name="msapplication-task" content="name=音乐;action-uri=http://music.renren.com;icon-uri=http://a.xnimg.cn/n/res/icons/music.ico" />
+<meta name="msapplication-task" content="name=分享;action-uri=http://share.renren.com;icon-uri=http://a.xnimg.cn/n/res/icons/share.ico" />
+<meta name="msApplication-ID" content="App" />
+<meta name="msApplication-PackageFamilyName" content="57722RenRenpreview.RenrenHD_fknrsfzqca1jw" /><script type="text/javascript">
+XN = {get_check:'',get_check_x:'6911b9f7',env:{domain:'renren.com',shortSiteName:'人人',siteName:'人人网'}};
+try {
+window.onerror=function(){
+var a=arguments,e=encodeURIComponent,l=location,d=new Date();
+if(a.length!=3||a[2]==0)return 1;
+new Image().src=['http://s.renren.com/speedstats/jserror/stats.php?message='+e(a[0]),
+'url='+e(a[1]),'lineNo='+a[2],'location='+e(l),'time='+d.toLocaleTimeString()].join('&');
+return 1;
+};
+} catch (e){};
+</script>
+<!--[if lt IE 9]><script src="http://s.xnimg.cn/a33646/n/apps/guide/js/html5shiv.js"></script><![endif]-->
+<!--[if IE]><script type="text/javascript" src="http://s.xnimg.cn/a51836/n/core/expressions.js"></script><![endif]-->
+<script src="http://s.xnimg.cn/a60333/n/core/base-all2.js" type="text/javascript"></script>
+<link href="http://s.xnimg.cn/a57589/n/apps/login/v6/unbuffered-all-min.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="http://s.xnimg.cn/a36267/js/register/register-xn6207-v6.js"></script>
+<link rel="shortcut icon" type="image/x-icon" href="http://a.xnimg.cn/favicon-rr.ico?ver=3" />
+<link rel="apple-touch-icon" href="http://a.xnimg.cn/wap/apple_icon_.png" />
+<link href="http://s.xnimg.cn/a57846/n/apps/guide/css/guide-all-min.css" rel="stylesheet" type="text/css" />
+<script src="http://s.xnimg.cn/a58518/n/apps/guide/js/combine/guide-step1-all-min.js" type="text/javascript"></script>
+<title>人人网 中国领先的实名制SNS社交网络。加入人人网，找到老同学，结识新朋友。</title>
+<style>
+#stage_error_span {top: 0;}
+.x-to-hide{background:url(http://a.xnimg.cn/imgpro/home/home_icon.png?timestamp=091126) no-repeat scroll -63px -420px;width:14px;text-decoration:none;display:block;height:14px;line-height:14px}
+.x-to-hide:hover{background-position:-63px -434px;text-decoration:none}
+.register{margin-top:30px;*margin-top:0px;width:700px; background:url("http://a.xnimg.cn/n/apps/login/v6/res/reg-bg.jpg") top right no-repeat;}
+#guide-newflow{background-color:#fff;}
+#guide-newflow .register .index{margin-top:0px;margin-left:0px;}
+#guide-newflow .register .index h3{margin-left:0px;}
+#guide-newflow .register .index dt{width:70px;text-align:right}
+#guide-newflow .register .index .zhuceBtn{margin-top:15px}
+#guide-newflow .register h3{font-weight:bold;}
+.width215{width:215px;}
+#guide-newflow .register dd select.width75{width:75px;}
+#guide-newflow .register dd select.width60{width:60px;*width:62px;}
+#guide-newflow .register dd #sexSelect,#guide-newflow .register dd #nowDo{width:215px;}
+.kuang{border:1px solid #adb6c9;height:35px;*border:0px;}
+#guide-newflow .register dd select.selector{border:0px;margin-right:0px;display:inline}
+#guide-newflow .register dd .left{float:left;margin-right:8px;_padding-top:6px;_margin-top:0px;}
+#guide-newflow .register .arrow{width:214px;height:38px;background:url(http://a.xnimg.cn/imgpro/bg/bg_new.png) 0 0 no-repeat;}
+.welcome-p{color:#888;font-size:14px;margin-bottom:15px;}
+#guide-newflow .register .index h3{font-size:18px;float:none;}
+.login-page .side-column{height:510px;}
+</style>      
+</head>
+<body id="guide-newflow" class="login">
+ 
+<div id='univs'></div>
+<div id="moredownWeb" class="dropdown" style="position:absolute; top:-9999px; left:-9999px;">
+<div class="menu-dropdown-border">
+<div class="weblist">
+<ul class="clearfix">
+<li><a href="http://share.renren.com">分享</a></li>
+<li><a href="http://app.renren.com">应用程序</a></li>
+<li><a href="http://page.renren.com">公共主页</a></li>
+<li><a href="http://life.renren.com">人人生活</a></li>
+<li><a href="http://xiaozu.renren.com/">人人小组</a></li>
+<li><a href="http://name.renren.com">同名同姓</a></li>
+<li><a href="http://school.renren.com/allpages.html">校园百科</a></li>
+<li><a href="http://school.renren.com/daxue/">大学百科</a></li>
+<li><a href="http://life.renren.com/hot">人人热点</a></li>
+<li><a href="http://zhan.renren.com/">人人小站</a></li>
+<li><a href="http://j.renren.com/">人人逛街</a></li>
+<li><a href="http://xiaozhao.renren.com/">人人校招</a></li>
+<li><a href="http://www.renren.com/u">人人寻友</a></li>
+<li><a href="http://gaokao.renren.com/">人人高考</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="header">
+<div id="navBar" class="site-nav rr">
+<div class="navigation-wrapper">
+<div class="navigation navigation-new clearfix">
+<div id="logo2">
+<h1>
+<a href="http://www.renren.com" title="人人网 renren.com - 人人网校内是一个真实的社交网络，联系朋友，一起玩游戏">
+<img alt="人人网 renren.com - 人人网校内是一个真实的社交网络，联系朋友，一起玩游戏" title="人人网 renren.com - 人人网校内是一个真实的社交网络，联系朋友，一起玩游戏" height="72" width="222" src="http://a.xnimg.cn/n/apps/login/v6/res/logo_v6.png" />
+</a>
+</h1>
+</div>
+<div class="nav-body clearfix">
+<h2 class="nav-title">中国领先的实名制SNS社交网络</h2>
+<div class="nav-other">
+<div class="menu">
+<a id="reg_link" title="注册" stats="homenav_reg" href="http://wwv.renren.com/xn.do?ss=10131&rt=1">注册</a>
+</div>
+<div class="menu" style="display:none;">
+<div class="menu-title">
+<strong>
+<a href="http://www.renren.com/" stats="homenav_login" title="登录">登录</a>
+</strong>
+</div>
+</div>
+<div class="menu" style="display:none;"><div class="menu-title">
+<strong>
+<a href="http://support.renren.com/helpcenter" stats="homenav_help" title="帮助">帮助</a>
+</strong>
+</div>
+</div>
+<div class="menu">
+<a title="给我们提建议" stats="homenav_suggest" href="http://support.renren.com/link/suggest">给我们提建议</a>
+</div>
+<div class="menu more">
+<a href="#" onclick="this.blur();" stats="homenav_more" id="moreWeb" class="show-more">更多</a><!-- 选中selected -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="opi" class="page-wrapper clearfix">
+<div class="full-page-holder">
+<div class="full-page">
+<div class="login-page clearfix">
+<div class="side-column">
+<div class="login-panel">
+<div class="yellow-error" id="yellow_error">
+<a class="close" href="javascript:closeError();"></a>
+<p class="wrong">您的用户名和密码不匹配</p>
+<p class="worp">为了帐号安全，已向您的邮箱： <strong id="sendemail"></strong>发送了一封确认信，请通过邮件内链接登录。</p>
+<p class="m-26"><a id="gotoEmail" href="#" target="_blank">打开邮箱查收确认信</a></p>
+<p class="m-26"><a href="javascript:closeError();">重新输入</a></p>
+</div>
+<div class="yellow-error" id="account_stop">
+<a class="close" href="javascript:closeStop();"></a>
+<p class="wrong"></p>
+<p class="center">您的帐号已停止使用，如有疑问请联系<a style="background:none;padding-left:0;" target="_blank" href="http://help.renren.com/#http://help.renren.com/support/contomvice?pid=2&selection={couId:193,proId:342,cityId:1000375}">客服</a></p>
+</div>
+<div class="yellow-error" id="account_lock">
+<a class="close" href="javascript:closeLock();"></a>
+<p class="wrong">您的帐号由于以下某种原因需要解锁才能登录</p>
+<ol>
+<li>删除过帐号</li>
+<li>长时间没有登录网站</li>
+<li>安全原因</li>
+</ol>
+<p class="center"><a href="http://safe.renren.com/relive.do">立即解锁</a></p>
+</div>
+<form method="post" id="loginForm" class="login-form">
+<dl class="top clearfix">
+<dt><label for="email">帐号:</label></dt>
+<dd>
+<span id="errorMessage" class="errors_div" style="display:none;"></span>
+<input type="text" name="email" class="input-text" id="email" tabindex="1" value=""/>
+</dd>
+</dl>
+<dl class="pwd clearfix">
+<dt><label for="password">密码:</label></dt>
+<dd>
+<input type="password" id="password" name="password" error="请输入密码" class="input-text" tabindex="2" autocomplete="off"/>
+<label class="pwdtip" id="pwdTip" for="password">请输入密码</label>
+<a class="forgetPwd" id="forgetPwd" href="http://safe.renren.com/findPass.do" stats="home_findpassword">忘记密码？</a>
+</dd>
+</dl>
+<div class="caps-lock-tips" id="capsLockMessage" style="display:none"></div>
+<dl class="savepassword clearfix">
+<dt>
+<label title="为了确保您的信息安全，请不要在网吧或者公共机房勾选此项！" for="autoLogin" class="labelCheckbox">
+<input type="checkbox" name="autoLogin" id="autoLogin" value="true" tabindex="4" />下次自动登录
+</label>
+</dt>
+<dd>
+<span class="getpassword" id="getpassword"><a href="http://safe.renren.com/findPass.do" stats="home_findpassword">忘记密码？</a></span>
+</dd>
+</dl>
+<dl id="codeimg" class="codeimg clearfix">
+<dt></dt>
+<dd><img id="verifyPic_login" src="http://icode.renren.com/getcode.do?t=web_login&rnd=Math.random()"/><a href="javascript:refreshCode_login();">换一张</a>
+</dd>
+</dl>
+<dl id="code" class="code clearfix">
+<dt><label for="code">验证码:</label></dt>
+<dd>
+<input type="text" name="icode" id="icode" class="input-text" tabindex="3" autocomplete="off" />
+<label class="codetip" id="codeTip" for="icode">请输入验证码</label>
+</dd>
+</dl>
+<dl class="bottom">
+<input type="hidden" name="origURL" value="http://www.renren.com/home" />
+<input type="hidden" name="domain" value="renren.com" />
+<input type="hidden" name="key_id" value="1" />
+<input type="hidden" name="captcha_type" id="captcha_type" value="web_login" />
+<input type="submit" id="login" stats="loginPage_noCookie_login" class="input-submit login-btn" value="登录人人网" tabindex="5"/>
+</dl>
+</form>
+<div class="regnow" style="display:none;">
+<input type="button" onclick="window.location='http://wwv.renren.com/xn.do?ss=10131&rt=1'" id="regnow"  class="input-button login-btn" value="立即注册帐号" tabindex="6"  stats="loginPage_noCookie_signUp" />
+</div>
+<div class="newStudentReg">
+<input type="button" id ="newStudentReg"  onclick="window.location='http://wwv.renren.com/xn.do?ss=17115&rt=1&stage=20'" class="input-button login-btn" value="大一新生快速入口" tabindex="7"/>	
+</div>
+<dl class="login_corp">
+<dt>使用其它帐号登录：</dt>
+<dd><a stats="loginPage_noCookie_MSN" href="javascript:;" onclick="XN.DO.alert('很抱歉，MSN登录人人网方式已失效，请通过其它方式（如注册邮箱）登录人人网。','友情提示');" id="login_msn">MSN</a></dd>
+<dd><a stats="loginPage_noCookie_360" id="login_360" href="https://openapi.360.cn/oauth2/authorize?client_id=5ddda4458747126a583c5d58716bab4c&response_type=code&redirect_uri=http://www.renren.com/bind/tsz/tszLoginCallBack&scope=basic&display=default">360</a></dd>
+<dd class="login_list"><a id="login_tianyi" href="https://oauth.api.189.cn/emp/oauth2/authorize?app_id=296961050000000294&response_type=code&redirect_uri=http://www.renren.com/bind/ty/tyLoginCallBack" stats="loginPage_noCookie_tianyi">天翼</a></dd>
+<dd><a href="https://openapi.baidu.com/oauth/2.0/authorize?response_type=code&client_id=foRRWjPq8In3SIhmKQw1Pep3&redirect_uri=http%3A%2F%2Fwww.renren.com%2Fbind%2Fbaidu%2FbaiduLoginCallBack" id="login_baidu" stats="loginPage_baidu_link">百度</a></dd>
+</dl>
+</div>
+</div>
+<div class="main-column">
+<div class="reg-holder" id="mainRecommend">
+<div class="register">
+<div class="index clearfix">
+<h3>欢迎注册人人网</h3>
+<p class="welcome-p">加入人人网，找到老同学，老同事，结识新朋友。</p>
+<form action="http://reg.renren.com/fill-basic-info?type=submit" method="post" id="guide-step1">
+<dl data-tip="请选择性别">
+<dt><label for="">我是:</label></dt>
+<dd>
+<div class="width215 kuang">
+<select class="selector" id="sexSelect" name="sex">
+<option>选择性别</option>
+<option value="1">男</option>
+<option value="0">女</option>
+</select>
+</div>
+</dd>
+</dl>
+<dl data-tip="请填写生日">
+<dt><label for="">我的生日:</label></dt>
+<dd>
+<div class="kuang left">
+<select class="width75 selector" name="birthyear" id="birth-year">
+<option>
+年
+</option>
+</select>
+</div>
+<div class="kuang left">
+<select class="width60 selector" name="birthmonth" id="birth-month"><option>月</option></select>
+</div>
+<div class="kuang left">
+<select class="width60 selector" name="birthday" id="birth-day"><option>日</option></select>
+</div>
+</dd>
+</dl>
+<dl data-tip="请选择身份">
+<dt><label for="">现在是:</label></dt>
+<dd>
+<div class="width215 kuang">
+<select name="stage" class="selector" id="nowDo">
+<option>选择身份</option>
+<option value="work">已经工作了</option>
+<option value="univ">正在上大学</option>
+<option value="mid">正在上中学</option>
+<option value="none">是其他身份</option>
+</select>
+</div>
+</dd>
+</dl>
+<dl class="zhuceBtn">
+<dt>&nbsp;</dt>
+<dd>
+<input type="submit" class="arrow" value=""/>
+</dd>
+</dl>
+</form>
+</div>
+</div>
+<dl class="youcando">
+<dt>在人人网可以做什么？</dt>
+<dd>联络朋友，了解他们的最新动态</dd>
+<dd>自由、安全地控制个人隐私</dd>
+<dd>和朋友分享照片、音乐和视频</dd>
+<dd>用照片和日志记录生活，展示自我</dd>
+<dd>找到老同学结识新朋友</dd>
+</dl>
+</div>
+<div class="more-intro" id="moreLink">
+<a href="javascript:;" id="moreIntro" class="click-open" stats="loginPage_overView_link"><span>想了解更多人人网功能？</span>点击此处</a>
+</div>
+<div class="intro-box" id="introDetail" style="display:none;">
+<div class="more-intro">
+<a href="javascript:;" id="moreIntroClose" class="click-close" stats="loginPage_overView_back"></a>
+</div>
+<div class="intro-main">
+<div class="intro-title">
+<h1>人人网概览<a id="fix-position"></a></h1>
+<p>帮你记录下自己精彩的人生，与好友分享快乐。</p>
+<a href="http://wwv.renren.com/xn.do?ss=10131&rt=1" class="intro-reg-btn" stats="loginPage_overView_signUp">立刻注册</a>
+</div>
+<ul class="intro-list">
+<li class="full-column clearfix">
+<img src="http://a.xnimg.cn/a.gif" class="login-message-ico">
+<div class="intro-content">
+<div class="intro-word">
+<h3>新社交时代</h3>
+<p>找到你以前的同学、同事和好友；<br>增加对好友的认识，结识新朋友；<br>和他们随时联系，关注彼此的动态。</p>
+</div>
+<img src="http://a.xnimg.cn/n/apps/login/v6/res/message-pic.jpg" width="301" height="183">
+</div>
+</li>
+<li class="left-mod clearfix">
+<img src="http://a.xnimg.cn/a.gif" class="login-profile-ico">
+<div class="intro-word">
+<h3>个人主页</h3>
+<p>创建个人主页，积累人气，与好友分享生活经历，让大家更好的认识你。</p>
+<img src="http://a.xnimg.cn/n/apps/login/v6/res/profile-pic1.jpg" width="228" height="149">
+</div>
+</li>
+<li class="clearfix">
+<img src="http://a.xnimg.cn/a.gif" class="login-photo-ico">
+<div class="intro-word">
+<h3>相册</h3>
+<p>上传生活照片，整理成相册，记录下精彩时刻，让你的照片发挥魅力。</p>
+<img src="http://a.xnimg.cn/n/apps/login/v6/res/photo-pic.jpg" width="228" height="149">
+</div>
+</li>
+<li class="left-mod clearfix">
+<img src="http://a.xnimg.cn/a.gif" class="login-music-ico">
+<div class="intro-word">
+<h3>音乐</h3>
+<p>使用音乐和电台，边看新鲜事边听歌，发现自己身边的知音。</p>
+<img src="http://a.xnimg.cn/n/apps/login/v6/res/music-pic1.jpg" width="228" height="159">
+</div>
+</li>
+<li class="clearfix">
+<img src="http://a.xnimg.cn/a.gif" class="login-video-ico">
+<div class="intro-word">
+<h3>视频</h3>
+<p>轻松上传、分享视频，甚至可以和好友视频聊天。</p>
+<img src="http://a.xnimg.cn/n/apps/login/v6/res/video-pic1.jpg" width="228" height="159">
+</div>
+</li>
+<li class="left-mod clearfix">
+<img src="http://a.xnimg.cn/a.gif" class="login-game-ico">
+<div class="intro-word">
+<h3>社交游戏</h3>
+<p>与朋友一起玩游戏，增加彼此的友谊。</p>
+<img src="http://a.xnimg.cn/n/apps/login/v6/res/game-pic1.jpg" width="228" height="167">
+</div>
+</li>
+<li class="clearfix">
+<img src="http://a.xnimg.cn/a.gif" class="login-phone-ico">
+<div class="intro-word">
+<h3>手机时代</h3>
+<p>将人人网带着身边，时刻保持与好友的沟通，支持语音消息。</p>
+<img src="http://a.xnimg.cn/n/apps/login/v6/res/phone-pic.jpg" width="228" height="167">
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden-area"></div>
+<div id="tip"></div>
+<script src="http://s.xnimg.cn/a53726/n/apps/login/login-v6.js" type="text/javascript" ></script>
+<script type="text/javascript">var catchaCount = null;  
+var failCode = null;
+XN.dom.ready(function(){
+if($('moreIntro') != null){
+XN.event.addEvent($('moreIntro'), 'click', function(){
+$('mainRecommend').style.display = 'none';
+$('introDetail').style.display = 'block';
+$('moreLink').style.display = 'none';
+$('tip').style.display = 'none';
+});
+XN.event.addEvent($('moreIntroClose'), 'click', function(){
+$('introDetail').style.display = 'none';
+$('mainRecommend').style.display = 'block';
+$('moreLink').style.display = 'block';
+$('tip').style.display = '';
+});
+}
+XN.event.addEvent($('moreWeb'), 'click', function(){
+$( 'moreWeb' ).toggleClass( 'selected' );
+});
+XN.event.addEvent(document, 'click', function(){
+$( 'moreWeb' ).delClass( 'selected' );
+});
+});
+</script></div>
+</div>
+</div>
+</div>
+<div id="footer">	
+<div class="site-footer" style="background:#fff;position:relative;">
+<div class="main">
+<ul class="link">
+<li><a href="http://ir.renren-inc.com/phoenix.zhtml?c=244796&p=irol-irhome">About Renren</a></li>
+<li><a href="http://www.renren-inc.com/zh/product/">公司简介</a></li>
+<li><a href="http://dev.renren.com">开放平台</a></li>
+<li><a href="http://wan.renren.com">人人游戏</a></li>
+<li><a href="http://page.renren.com/register/regGuide/">公共主页</a></li>
+<li><a href="http://mobile.renren.com/mobilelink.do?psf=40002">手机人人</a></li>
+<li><a href="http://www.nuomi.com">团购</a></li>
+<li><a href="http://ads.renren.com">营销服务</a></li>
+<li><a href="http://job.renren-inc.com/">招聘</a></li>
+<li><a href="http://www.renren.com/siteinfo/link">友情链接</a></li>
+<li><a href="http://support.renren.com/helpcenter">客服帮助</a></li>
+<li><a href="http://www.renren.com/siteinfo/privacy">隐私</a></li>
+</ul>
+<span class="copyright">
+人人网<span title="revision$revxxx$; SJSWT42-56.opi.com">&copy;</span>2013</span>
+</div>
+<div class="haoes">
+<p class="company-name"><span>北京千橡网景科技发展有限公司：</span>
+<span>文网文[2009]169号</span><span class="dot">·</span><a href="http://www.miibeian.gov.cn/" target="_blank">京ICP证090254号</a><span class="dot">·</span><span>京公网安备110000000009号</span><span class="dot">·</span><span>甲测资字11002066</span>
+</p>
+<span>文化部监督电子邮箱：wlwh@vip.sina.com</span><span class="dot">·</span><a href="http://a.xnimg.cn/n/core/res/certificate.jpg" target="_blank">互联网药品信息服务资格证</a><span class="dot">·</span><a href="http://py.qianlong.com" target="_blank">北京地区网站联合辟谣平台</a><br>
+<p class="special-add"><span>文明办网文明上网举报电话：4000803580 举报邮箱：admin1@renren-inc.com</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bjjubao.org/" target="_blank"><img src="http://s.xnimg.cn/imgpro/civilization/bljubao.gif" width="25" height="24">北京互联网举报中心
+</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bj.cyberpolice.cn/index.jsp" target="_blank"><img src="http://s.xnimg.cn/imgpro/civilization/c_2.jpg" width="25" height="24">网络110报警服务</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bjwhzf.gov.cn/accuse.do" target="_blank"><img src="http://s.xnimg.cn/imgpro/civilization/c_3.jpg" width="25" height="24">北京文化市场举报热线</a>
+</div>
+</div>
+</div></div><script src="http://s.xnimg.cn/a12023/jspro/beacon.js"></script>
+<script>
+COMSCORE.beacon({ c1:2, c2:6934070, c3:"", c4:"", c5:"", c6:"", c15:"" });
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6934070&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript></body>
+</html>

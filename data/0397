@@ -1,0 +1,1205 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8;"/>
+  <meta name="robots" content="all" />
+  <meta name="robots" content="index,follow"/>
+  <meta name="keywords" content="酒店预订,机票查询,酒店团购,艺龙旅行网" />
+  <meta name="description" content="艺龙网-中国领先的在线旅行服务提供商,纳斯达克上市公司.提供全球20万家酒店预订服务:高星酒店返现101元起,经济酒店返现30元,酒店团购1折起！海外酒店全场9折!低价有房保障-无房赔付首晚房费,差额3倍赔付.订酒店,用艺龙!" />
+  <title>【艺龙旅行网】酒店预订_机票查询_酒店团购_电话4009-333-333</title>
+  <script type="text/javascript">
+      if (window.location.host == "big5.elong.com" && window.location.href.indexOf("isbig5") < 0) { window.location.href += window.location.href.indexOf("?") > 0 ? "&amp;isbig5=true" : "?isbig5=true" }
+  </script>
+    <link rel="icon" href="http://www.elongstatic.com/common/pic/favicon.ico?t=201308301031" type="image/x-icon" />
+  <link rel="stylesheet" type="text/css" href="http://www.elongstatic.com/common/css/el_common.css?t=201308301031" />
+  <link rel="stylesheet" type="text/css" href="http://www.elongstatic.com/home/css/newIndex.css?t=201308301031" />
+  
+
+</head>
+<body>  
+
+
+<!-- test general-->
+
+          
+           
+<!-- ===================== header start ===================== -->
+<div id="header">
+    <div class="header_top">
+        <div class="logo">
+            <a href="http://www.elong.com" title="艺龙旅行网">艺龙旅行网</a></div>
+        <div class="tools" method="menuBar">
+            <div class="telWrap clx">
+                <span class="tel">4009-333333<i></i></span>
+                <ul style="display: none">
+                    <!--当鼠标移入时显示-->
+                    <li>国内：4009-333-333</li>
+                    <li>香港/海外： 86-10-6432-9999</li>
+                </ul>
+            </div>
+            <div class="version" method="divLang">
+                <span class="tt" method="langtag"><a href="#?" lang="" method="langtag" rel="nofollow">
+                    简体版</a></span>
+                <ul method="ulLang" style="display: none">
+                    <!--当鼠标移入时显示-->
+                    <li style="display: none" method="licn"><a href="#?" method="chg" title="简体版" rel="nofollow">
+                        简体版</a></li>
+                    <li method="libig5"><a href="#?" title="繁體版" rel="nofollow">繁體版</a></li>
+                    <li method="lien"><a href="#?" method="eng" title="English" class="t11">English</a></li>
+                </ul>
+            </div>
+            <div class="other">
+                <a class="mobile" target="_blank" href="http://www.elong.com/promotion/web/elongiphone/index.html">
+                    手机版</a>|<a href="#?" method="savesite" rel="nofollow">收藏本站</a>|<a href="#?" method="olservice"
+                        rel="nofollow">在线客服</a>|<a href="http://help.elong.com" target="_blank" rel="nofollow">帮助</a>|<a
+                            href="http://www.elong.com/square/cn/" rel="nofollow">积分广场</a>|<a href="http://my.elong.com/giftcard.html"
+                                rel="nofollow">预付卡</a>|</div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <!--导航-->
+    <div class="nav_box">
+        <div id="nav">
+            <ul class="link" id="channelMenu">
+                <li sid="28632" class="on">
+                    <a href="http://www.elong.com" title="艺龙旅行网" id="nav_home">首页<span class="rslide"></span></a></li>
+                <li class="line light"></li>
+                <li sid="28639" class="">
+                    <a title="酒店预订" href="http://hotel.elong.com/" id="nav_hotels">酒店预订</a></li>
+                <li class="line light"></li>
+                <li sid="41493" class="">
+                    <a href="http://tuan.elong.com/" id="A1" title="酒店团购">酒店团购<span class="icon_sale"></span></a></li>
+                <li class="line"></li>
+                <li sid="28642" class="">
+                    <a href="http://globalhotel.elong.com/" id="nav_hotelsw" title="国际酒店">国际酒店<span class="icon_coupon"></span></a></li>
+                <li class="line"></li>
+                <li sid="52756" class="">
+                    <a href="http://qiang.elong.com" title="限时抢购">限时抢购</a>
+                    <li class="line"></li>
+                    
+                    <li sid="28640" class="">
+                        <a href="http://flight.elong.com/" title="机票预订">机票预订<span
+                            class="icon_air"></span></a></li>
+                    <li class="line"></li>
+                    
+                    <li><a href="http://trip.elong.com/" title="旅游指南">旅游指南</a></li>
+            </ul>
+            
+            <!--登录前-->
+            <div class="account" method="dvAccount">
+                <div class="box" method="myaccount">
+                    <span class="name " method="myaccount"><a href="#?" method="myaccount" rel="nofollow">
+                        我的帐户</a></span>
+                    <!--弹出-->
+                    <div class="pt links none" style="z-index: 4500">
+                        <ul>
+                            <li><a method="hbill" href="#?" rel="nofollow">酒店订单</a></li>
+                            <li><a method="fbill" href="#?" rel="nofollow">机票订单</a></li>
+                            <li><a method="cash" href="#?" rel="nofollow">现金账户</a></li>
+                            <li><a method="coupon" href="#?" rel="nofollow">消费券</a></li>
+                            <li><a method="tuan" href="#?" rel="nofollow">我的团购</a></li>
+                            <li><a method="self" href="#?" rel="nofollow">个人设置</a></li>
+                        </ul>
+                        </div>
+                    <!--弹出 end-->
+                </div>
+                
+                <div class="box" method="reg" style="display:block">
+                    <span class="name normal"><a href="http://my.elong.com/register_cn.html" title="快速预订并享受积分回赠"
+                        rel="nofollow">免费注册</a></span></div>
+                <div class="box" method="mylogin" style="display:block">
+                    <span class="log" method="mylogin"><a href="#?" method="mylogin" rel="nofollow">登录</a></span></div>
+                <!--弹出-->
+                <!--登录前 end-->
+            </div>
+            
+        </div>
+    </div>
+    
+    <div class="appWrap" style="display: none">
+    </div>
+    <div class="appBox" id="upAppBox" style="display: none; top: -600px">
+        <div class="close">
+        </div>
+        <div class="intro">
+            手机预订 5万家超低折扣酒店</div>
+        <dl class="way">
+            <dt><i class="one"></i>方法：扫描二维码下载</dt>
+            <dd>
+                <span class="qrcode">
+                    <img src="http://www.elongstatic.com/common/pic/elqr.png" width="95" height="95"
+                        alt="扫描二维码，下载艺龙无线"></span></dd>
+        </dl>
+        <dl class="way">
+            <dt><i class="two"></i>方法：输入手机号下载</dt>
+            <dd>
+                <input class="txt l_black" method="appMobile" type="text" value="手机号码" /><div class="error"
+                    style="display: none" id="appErrorUp">
+                    请输入正确的手机号</div>
+            </dd>
+            <dd>
+                <input class="but" value="发送下载地址" method="appSubmit" type="button"><div
+                    class="success" style="display: none">
+                    <i></i>发送成功</div>
+            </dd>
+        </dl>
+    </div>
+    
+    <div class="clear">
+    </div>
+    
+    <div id="loginDiv" class="logon_popup none" method="dvlogin" style="position: absolute;
+        z-index: 4500;">
+        <h3>
+            <a href="#?" class="right close" method="closeLoginWindow">关闭</a>登录</h3>
+        <div class="left main">
+            <div id="showError" class="tip" style="display: none">
+            </div>
+            <ul>
+                <li class="t14">邮箱或手机号</li>
+                <li>
+                    <input type="text" method="user" class="text l_black" value="" /></li>
+                <li class="t14">密 码</li>
+                <li>
+                    <input method="realpass" type="password" class="text" value="" />
+                </li>
+                <li style="display: none" id="showVCode" class="t14">验证码</li>
+                <li method="vcode" style="display: none">
+                    <input type="text" class="text code" value="" method="txtvcode" />&nbsp;
+                    <img method="imgCode" src="http://www.elongstatic.com/common/pic/404-1.gif" align="absmiddle" alt="看不清可点击图片更换图片。" title="看不清可点击图片更换图片。" />&nbsp;
+                    <a href="#" method="imgCode">换一张</a> </li>
+                <li>
+                    <label class="reme" title="(保存2个月)">
+                        <input type="checkbox" name="checkbox" id="inputRememberMe" />下次自动登录</label></li>
+                <li class="clx"><span method="login" class="left">
+                    <input type="button" class="btn" value="登录" method="login" /></span> <a method="forgotpass"
+                        href="#?" class="right" rel="nofollow">忘记密码?</a> <span style="display: none" method="wait">
+                            <input type="button" class="btn logining" value="登录" /></span> </li>
+            </ul>
+        </div>
+        <div class="left ml20 side">
+            <p>
+                还不是会员？</p>
+            <p class="mt5">
+                <a href="http://my.elong.com/register_cn.html" class="reg_now" title="注册艺龙帐号可快速预订并享受积分回赠"
+                    rel="nofollow">马上注册！</a></p>
+            <p class="mt20">
+                或用以下帐号登录</p>
+            <p class="mt5">
+                <a href="http://openapi.elong.com/qq.html" class="coop qq" rel="nofollow"><tt></tt>QQ</a></p>
+            <p class="mt5">
+                <a href="http://openapi.elong.com/sina.html" class="coop weibo" rel="nofollow"><tt></tt>
+                    新浪微博</a></p>
+            <p class="mt5">
+                <a href="#?" class="coop alipay" method="clickAlipay" rel="nofollow"><tt></tt>支付宝</a></p>
+            <p class="mt5 tr t12">
+                <a href="http://my.elong.com/login_cn.html" rel="nofollow">更多>></a></p>
+        </div>
+        <div class="clear">
+        </div>
+        <!--弹出 end-->
+    </div>
+    
+</div>
+<!-- ===================== header end ===================== -->
+
+        
+     <!-- content start -->
+
+ 	<div class="hotelMain clx">
+    	<div class="sidebar">
+        	<!--All In One Serch-->
+            <div class="AIOS_Box" method="dvLeft">
+                <div class="insideBox">
+                    <ul class="topTagNew">
+                        <li class="hotels_action" method="tabHotel"></li>
+                        <li class="flights" method="tabFlight"></li>
+                        <li class="phone" method="tabApp"></li>
+                    </ul>
+                    <!--Hotel Booking TAG-->
+                    <ul class="centerTag" method="navHotel" region="Hotel">
+                        <li class="action" method="tagHotel">国内酒店<span></span></li>
+                        <li method="tagiHotel">国际酒店<span></span></li>
+                    </ul>
+                    <!--Hotel Booking TAG End-->
+                    <!--Flights Booking TAG-->
+                    <ul class="centerTag" method="navFlight" style="display:none;" region="Flight">
+                        <li class="action" method="tagFlight">国内机票<span></span></li>
+                        <li method="tagiFlight">国际机票<span></span></li>
+                    </ul>
+                    <!--Flights BookingTAG End-->
+                    <!--App Booking TAG-->
+                    <div class="phoneCon" style="display:none;" region="App">
+                        <div class="top"></div>
+                        <ul class="phoneTel">
+                            <li>输入手机号下载：</li>
+                            <li><input type="text" value="手机号码" class="txt" method="appMobile" /></li>
+                            <li method="liSubmit"><input type="button" value="发送下载地址" class="but" method="appSubmit" /></li>
+                        </ul>
+                        <div class="phoneerw"></div>
+                    </div>
+                    <!--App BookingTAG End-->
+                    <!--Domestic hotel-->
+                    <dl class="txtList clx" style="display:block;" method="dlHotel" region="Hotel">
+                        <dt>目的地</dt>
+                        <dd><input type="text" value="北京" class="txT" id="hotelCity" /></dd>
+                        <dt>入住日期</dt>
+                        <dd><input type="text" id="hotelCheckInDate" method="txtHotelCheckInDate" value="2013-09-25" class="txtDate" /><span class="inputTom">明天</span></dd>
+                        <dt>退房日期</dt>
+                        <dd><input type="text" id="hotelCheckoutDate" method="txtHotelCheckoutDate" value="2013-09-26" class="txtDate" /><span class="inputWeek">后天</span></dd>
+                        <dt>关键词</dt>
+                        <dd><input type="text" value="输入 位置 酒店名 或品牌" method="place" class="txT c9" /></dd>
+                        
+                        <dt></dt>
+ 
+                       <dd><div class="hotelserchButlod"  style="display:none">正在搜索...<span></span></div><input type="button"  method="mapsearch"  class="mapserchBut"><input type="button" method="searchHotel"  class="allserchBut hotelserchBut"></dd>
+                    </dl>
+                    <!--Domestic hotel End-->
+                    <!--International Hotel-->
+                    <dl class="txtList clx" style="display:none;" method="dliHotel" region="Hotel">
+                        <dt>城市</dt>
+                        <dd><input type="text" id="ihotelCity" value="中文/英文" class="txT c9" /></dd>
+                        <dt>入住</dt>
+                        <dd><input type="text"  id="ihotelCheckInDate"  method="txtiHotelCheckInDate" value="2013-09-27"  class="txtDate" /><span class="inputTom">星期五</span></dd>
+                        <dt>离店</dt>
+                        <dd><input type="text"   id="ihotelCheckoutDate" method="txtiHotelCheckoutDate"  value="2013-09-28"   class="txtDate" /><span class="inputWeek">星期六</span></dd>
+                        <dt>酒店</dt>
+                        <dd><input type="text"     method="ihotelName" value="请输入酒店名称" class="txT c9" /></dd>
+                        <dt></dt>
+                        <dd><input type="button" method="searchiHotel" class="allserchBut" /><div class="allserchButlod" style="display:none">正在搜索...<span></span></div></dd>
+                    </dl>
+                    <!--International Hotel End-->
+               
+                    <!--Domestic fare tickets-->
+                    <dl class="txtList clx" style="display:none;" method="dlFlight" region="Flight"  >
+                   
+                        <dt class="dt_mb0"></dt>
+                        <dd class="dt_mb0">
+                        <label class="type"><input class="radio" type="radio" method="oneway" value="0" name="flighttype"  checked="checked" />单程</label>
+                        <label class="ml10 type"><input class="radio" type="radio" method="round" value="1" name="flighttype"/>往返</label>
+                        </dd>
+                         
+                        <dt>出发城市</dt> 
+                        <dd><input type="text" value="北京" CityName="beijing"  CityThreeSign="BJS"  method="flightsrcCity"  class="txT" /></dd>
+                        <dt>到达城市</dt>
+                        <dd><input type="text" value="上海" CityName="shanghai"  CityThreeSign="SHA" method="flightdestCity" class="txT" /></dd>
+                        <span class="swapBut" method="changeCity"></span>
+                        <dt>出发日期</dt>
+                        <dd><input type="text" id="flightstartdate" method="txtFlightStartDate"  value="2013-09-25" class="txtDate" /><span class="inputFlightsTom">明天</span></dd>
+                        <dt class="l_black">返程日期</dt>
+                        <dd>
+                        <input type="text" value="yyyy-mm-dd" method="txtFlightEndDate" class="txtDate l_black" />
+                        <span class="inputFlightsWeek"></span>
+                        </dd>                
+                        <dt>舱位等级</dt>
+                        <dd><input type="text" value="经济舱" class="select" method="flightclass"/></dd>
+ 
+                        <dt></dt>
+                        <dd><input type="button" method="searchFlight" class="allserchBut" /><div class="allserchButlod" style="display:none">正在搜索...<span></span></div></dd>
+                    </dl>
+                    <!--Domestic fare tickets End-->
+      
+                    <!--International air travel to and from-->
+                    <dl class="txtList clx" style="display:none;" method="dliFlight" region="Flight">
+                     
+                        <dt class="dt_mb0"></dt>
+                        <dd class="dt_mb0">
+                        
+                        <label  class="type"><input class="radio" type="radio" method="ioneway" value="0" name="iflighttype"  checked="checked" />单程</label>
+                        <label  class="ml10 type"><input class="radio" type="radio" method="iround" value="1" name="iflighttype"/>往返</label>
+                        </dd>
+                        <dt>出发城市</dt>
+                        <dd><input type="text" value="北京" CityName="北京" CityThreeSign="BJS"   method="iflightsrcCity"   class="txT" /></dd>
+                        <dt>到达城市</dt>
+                        <dd><input type="text" value="香港" CityName="香港"  CityThreeSign="HKG" method="iflightdestCity" class="txT" /></dd>
+                        <span class="swapBut" method="ichangeCity"></span>
+                        <dt>出发日期</dt>
+                        <dd><input type="text" value="2013-09-27" method="txtiFlightStartDate"  class="txtDate" /><span class="inputFlightsTom">星期五</span></dd>
+ 
+                         <dt class="l_black">返程日期</dt>
+                        <dd>
+                        <input type="text"  id="iflightstartdate" method="txtiFlightEndDate"  value="yyyy-mm-dd"  class="txtDate l_black" /><span class="inputFlightsWeek"></span>
+                        </dd>                
+                        
+                        <dt>舱位等级</dt>
+                        <dd><input type="text" value="经济舱" class="select" method="iflightclass" /></dd>
+                 
+                        <dt></dt>
+                        <dd><input type="button"  method="searchiFlight" class="allserchBut" /><div class="allserchButlod" style="display:none">正在搜索...<span></span></div></dd>
+                    </dl>
+                    <!--International air travel to and from End-->
+                </div>
+            </div>
+            <!--All In One Serch End-->
+ 
+
+               <h1 style="font-size:0;line-height:0;text-indent:-9999em;overflow:hidden;">艺龙酒店预订</h1>
+<div class="adNo1"><a href="http://www.elong.com/promotion/web/elongiphone/index.html" target="_blank" title="点击下载艺龙手机客户端"><img src="http://www.elongstatic.com/images/mobile/201304011index.png" width="380" height="100" alt="点击下载艺龙手机客户端"/></a></div>
+
+               <div class="whyus">
+              <h3>为什么选择艺龙？</h3>
+              <dl>
+                <dt><i></i>更多酒店</dt>
+                <dd>可预订全球22万家酒店，不收预订费</dd>
+                <dt><i></i>超值优惠</dt>
+                <dd>订酒店返现金高达20%；万家酒店团购一折起；<br />6千家预付酒店5折起；2千家高星酒店限时抢6折封顶；<br />国际酒店在Expedia优惠价上再打九折</dd>
+                <dt><i></i>卓越服务</dt>
+                <dd>客户至上，连续6年中国最佳客服中心；<br />7X24小时服务；到店无房赔首晚房费</dd>
+                <dt><i></i>低价承诺</dt>
+                <dd>预订价高于酒店门市价，3倍差额赔付</dd>
+              </dl>
+            </div>
+
+                           <!--Subscription-->
+            <div class="subscription">
+             <p class="title"><a href="http://www.elong.com/home/EmailSubscribe_cn.html" target="_blank" class="right t12" style="color:#36c; text-decoration:none;">详情</a>订阅特价酒店</p>
+                <p><input name="email" id="email" type="text" class="subTxt" value="请输入您的E-mail地址" onfocus="if (this.value == '请输入您的E-mail地址') {this.value='';}" onblur="if (this.value == '') {this.value='请输入您的E-mail地址';}"/><input type="hidden" id="emailType" value="1,2,3,4,6,8"><input onfocus="this.blur()" id="emailSubmit" name="emailSubmit" type="button" class="subBut" value="立即订阅" onclick="clickEmailSubmit();" /></p>
+            </div>
+            <!--Subscription End-->
+
+           <!--Cheap Flights-->
+            <div class="cheapFlights" method="flightpromotion">
+            	<h2><tt></tt>特价机票</h2>
+                <ul class="city"> 
+                	<li class="action" method="city" csn="BJS" ><span class="jt"></span><a href="#?"   >北京</a></li>
+                    <li method="city" csn="SHA"><span class="jt"></span><a href="#?"  >上海</a></li>
+                    <li method="city" csn="CAN"><span class="jt"></span><a href="#?">广州</a></li>
+                    <li method="city" csn="SZX"><span class="jt"></span><a href="#?" >深圳</a></li>
+                    <li method="city" csn="HGH"><span class="jt"></span><a href="#?" >杭州</a></li>
+                    <li method="city"  csn="CTU"><span class="jt"></span><a href="#?">成都</a></li>                    
+                </ul>
+                <div class="tips" method="flightloading" style="display:none"><p><tt class="loading"></tt><br />正在为您加载</p></div>
+                
+                <div class="tips" method="flightNone" style="display:none"><p><br />当前城市没有优惠信息！</p></div>
+                
+                <ul class="flightList" method="flight">
+                   
+                	<li>
+
+                    	 <span class="price">¥400</span> 
+                        <span>10月04日</span>
+                        <span class="w120">北京-乌鲁木齐</span>
+                        <span>1.7折</span>
+                        <span><a href="http://flight.elong.com/beijing-urumqi/cn_day10.html" target="_blank">查看>></a></span>
+                        
+                    </li>
+                    
+                	<li>
+
+                    	 <span class="price">¥210</span> 
+                        <span>10月08日</span>
+                        <span class="w120">北京-武汉</span>
+                        <span>1.9折</span>
+                        <span><a href="http://flight.elong.com/beijing-wuhan/cn_day14.html" target="_blank">查看>></a></span>
+                        
+                    </li>
+                    
+                	<li>
+
+                    	 <span class="price">¥150</span> 
+                        <span>10月09日</span>
+                        <span class="w120">北京-大连</span>
+                        <span>2.1折</span>
+                        <span><a href="http://flight.elong.com/beijing-dalian/cn_day15.html" target="_blank">查看>></a></span>
+                        
+                    </li>
+                     
+                   
+                </ul>
+                
+              
+                <div class="clear"></div>
+                <div class="clear"></div>
+                <div class="clear"></div>
+                <div class="clear"></div>
+                <br />
+            </div>
+            <!--Cheap Flights End-->
+            <div class="travel">
+  <h2><tt></tt>旅游指南</h2><a href="http://trip.elong.com/" target="_blank" class="move">更多指南
+>></a>
+  <dl>
+    <dt><a href="http://trip.elong.com/event/e0041ekc.html" target="_blank" title="秋游天柱
+山"><img src="http://www.elongstatic.com/images/trip/2013917tianzhushan.jpg" width="130" 
+height="80" alt="秋游天柱山" /></a></dt>
+    <dd><span class="iconList"></span><a href="http://trip.elong.com/event/e0041ekc.html" 
+target="_blank" title="秋游天柱山">秋游天柱山</a></dd>
+    <dd><span class="iconList"></span><a href="http://trip.elong.com/news/n016cibe.html" 
+target="_blank" title="山清水秀风景好 上海周边登高攻略">山清水秀风景好 上海周边登高攻略</a></dd>
+    <dd><span class="iconList"></span><a href="http://trip.elong.com/news/n015d3i2.html" 
+target="_blank" title="览尽五彩京郊 北京11大最美赏秋地">览尽五彩京郊 北京11大最美赏秋地</a></dd>
+  </dl>
+  <dl>
+    <dt><a href="http://trip.elong.com/event/e0021esb.html" target="_blank" title="2013十一长假 自
+“游”我主张"><img src="http://www.elongstatic.com/images/trip/20130924shiyi.jpg" width="130" 
+height="80" alt="2013十一长假 自“游”我主张" /></a></dt>
+    <dd><span class="iconList"></span><a href="http://trip.elong.com/event/e0021esb.html" 
+target="_blank" title="2013十一长假 自“游”我主张">2013十一长假 自“游”我主张</a></dd>
+    <dd><span class="iconList"></span><a href="http://lvyou.elong.com/5361622/tour/a1l6hhnd.html" 
+target="_blank" title="情侣自拍 旅途中也能这样玩">情侣自拍 旅途中也能这样玩</a></dd>
+    <dd><span class="iconList"></span><a href="http://lvyou.elong.com/5263496/tour/a1l3ils1.html" 
+target="_blank" title="阳光大海水上屋 卡帕莱的梦幻天堂">阳光大海水上屋 卡帕莱的梦幻天堂</a></dd>
+  </dl>
+  <div class="clear"></div>
+  <div class="clear"></div>
+  <div class="clear"></div>
+  <div class="clear"></div>
+</div>
+
+        </div>
+        
+        <div class="rightMain">
+        	 
+              <div class="focusMap">
+ <div class="box">
+     <a href="http://qiang.elong.com/?keycoid=gxxsq2:120905:0314hm4" target="_blank"><img src="http://www.elongstatic.com/images/promotion/20130918flashsale.jpg" width="600" height="230" alt="" /></a>
+  <a href="http://www.elong.com/promotion/web/elongiphone/index.html?keycoid=shouji:130613:hm1" target="_blank" style="display:none;"><img src="http://www.elongstatic.com/images/promotion/20130705adapp.jpg" width="600" height="230" alt="" /></a>
+  <a href="http://globalhotel.elong.com/?keycoid=gj9z:120905:0402hm1" target="_blank" style="display:none;"><img src="http://www.elongstatic.com/images/promotion/20130705adglobal.jpg" width="600" height="230" alt="" /></a>
+  <a href="http://www.elong.com/redirect/redirect.aspx?f=5068&u=http://tuan.elong.com/" target="_blank" style="display:none;"><img src="http://www.elongstatic.com/images/promotion/130314_index_s3.jpg" width="600" height="230" alt="" /></a>
+  <a href="http://www.elong.com/home/promotion/ppjjx-1?keycoid=ppjjx-1:130905:hm5" target="_blank" style="display:none;"><img src="http://www.elongstatic.com/images/promotion/20130905eco.jpg" width="600" height="230" alt="" /></a>
+  <a href="http://www.elong.com/home/promotion/lianzhu?keycoid=lianzhu:130318:0918hm6" target="_blank" style="display:none;"><img src="http://www.elongstatic.com/images/promotion/20130918guoqing.jpg" width="600" height="230" alt="" /></a>
+ </div>
+ <ul>
+  <li class="action"></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+ </ul>
+</div>
+
+              <div class="adNo2"><a href="http://www.elong.com/promotion/web/ecoupon/index.html?keycoid=dh:couponh:cc:newcoupon" target="_blank"><img src="http://www.elongstatic.com/images/promotion/130314index_coupon.gif" width="600" height="100" alt="" /></a></div>
+
+            
+            <!---->
+   <div class="fast_search" method="dvPoi">
+			<div class="tuan_title" method="nav">
+				<h3>快速查找周边酒店</h3><input type="text" method="poicity" class="inputCity" value="北京" readonly="readonly">
+				<div class="clear"></div>
+			</div>
+			
+			<div class="fast_search_tab">
+		
+				<div class="fast_search_mod clx" method="dvPoiType">
+					<ul method="poiType">
+						<li class="cate-1" typeid="0_2" index="01"  method="poitype"><a href="#">地铁站附近</a></li>
+						<li class="cate-2" typeid="0_1" index="02" method="poitype"><a href="#">火车站/机场</a></li>
+						<li class="cate-3" typeid="0_3" index="03" method="poitype"><a href="#">商业区</a></li>
+						<li class="cate-4" typeid="1_77" index="04"  method="poitype"><a href="#">大学附近</a></li>
+						<li class="cate-5" typeid="1_38" index="05"  method="poitype"><a href="#">展馆会场</a></li>
+						<li class="cate-6" typeid="1_99" index="06"  method="poitype"><a href="#">医院附近</a></li>
+                        <li class="cate-7" typeid="1_2"  index="07"  method="poitype"><a href="#">景点附近</a></li>
+						<li class="cate-8" typeid="0_6"  index="08"  method="poitype"><a href="#">行政区</a></li>
+					</ul>
+				</div>
+                <div class="tips" method="dvPoiTypeLoading" style="display:none"><p><tt></tt> </p></div>
+			</div>
+			 
+			<div class="catemod" method="detail" style="display:none">
+				<i class="action01"></i>
+				<ul class="cate_more" method="tag">
+					<li class="cur"><a href="#">地铁6号线</a></li>
+					<li><a href="#">地铁2号线</a></li>
+					<li><a href="#">地铁4号线</a></li>
+					<li><a href="#">地铁5号线</a></li>
+					<li><a href="#">地铁8号线</a></li>
+					<li><a href="#">地铁9号线</a></li>
+					<li><a href="#">地铁10号线</a></li>
+					<li><a href="#">地铁13号线</a></li>
+					<li><a href="#">地铁15号线</a></li>
+					<li><a href="#">机场专线</a></li>
+					<li><a href="#">八通线</a></li>
+					<li><a href="#">地铁昌平线</a></li>
+					<li><a href="#">地铁房山线</a></li>
+					<li><a href="#">地铁亦庄线</a></li>
+					<li><a href="#">地铁大兴线</a></li>
+				</ul>
+				<ul class="cate_area" method="poiDetail">
+					<li><a href="#">五路</a></li>
+					<li><a href="#">慈寿寺</a></li>
+					<li><a href="#">花园桥</a></li>
+					<li><a href="#">白石桥南</a></li>
+					<li><a href="#">车公庄西</a></li>
+					<li><a href="#">车公庄</a></li>
+					<li><a href="#">平安里</a></li>
+					<li><a href="#">北海北</a></li>
+					<li><a href="#">南锣鼓巷</a></li>
+					<li><a href="#">东四</a></li>
+					<li><a href="#">朝阳门</a></li>
+					<li><a href="#">东大桥</a></li>
+					<li><a href="#">呼家楼</a></li>
+					<li><a href="#">金台路</a></li>
+					<li><a href="#">十里堡</a></li>
+					<li><a href="#">青年路</a></li>
+					<li><a href="#">褡裢坡</a></li>
+					<li><a href="#">黄渠</a></li>
+					<li><a href="#">常营</a></li>
+					<li><a href="#">草房</a></li>
+				</ul>
+			</div> 
+		</div>
+            <!---->
+
+            
+<DIV class=Promotions>
+<H2><A href="http://tuan.elong.com/" target=_blank>酒店团购<SPAN>1</SPAN>折起</A></H2><A class=more href="http://tuan.elong.com/" target=_blank>更多团购>></A> <A class="leftBut leftBut_no" href="#?" method="leftBut"></A><A class=rightBut href="#?" method="rightBut"></A>
+<DIV class=groupon_wrap>
+<DIV style="WIDTH: 9999px; MARGIN-LEFT: 0px" class=groupon>
+<DL class=mr10>
+<DT><A href="http://tuan.elong.com/shanghai_jiudian_tuangou-81496/" target=_blank><IMG src="http://static.elong.com/groupnew/201207/20120705_shjjzxx03.jpg" width=265 height=120></A> 
+<DD><A href="http://tuan.elong.com/shanghai_jiudian_tuangou-81496/" target=_blank>【锦江之星(上海共和新路店)】大床房/双床房钟点房（8:00-19:00之间不限时间入住）+免费宽带！酒店坐落于上海市闸北区共和新路，近柳营路口。周围交通便捷，与繁华的商业、文华中心大宁国际购物广场相邻，位置优越！</A> 
+<DD><A class=groBut href="http://tuan.elong.com/shanghai_jiudian_tuangou-81496/" target=_blank>去看看</A>￥<SPAN class=price>80</SPAN> <SPAN class=ori>原价:￥159</SPAN> </DD></DL>
+<DL class=mr10>
+<DT><A href="http://tuan.elong.com/shanghai_jiudian_tuangou-91826" target=_blank><IMG src="http://static.elong.com/groupnew/20130729/20130628_bjjhjd16.jpg" width=265 height=120></A> 
+<DD><A href="http://tuan.elong.com/shanghai_jiudian_tuangou-91826" target=_blank>【都市农庄-九号基地】住宿1晚，特色木屋情侣间/特色木屋标准间2选1+免费宽带/wifi+免费停车！现实版的开心农庄，独具一格的小木屋、私家菜园尽在其中，体验轻松惬意时刻，这个深在大都市中的天然氧吧，让您在繁华的大都市生活中寻求一份宁静和惬意。</A> 
+<DD><A class=groBut href="http://tuan.elong.com/shanghai_jiudian_tuangou-91826" target=_blank>去看看</A>￥<SPAN class=price>198</SPAN> <SPAN class=ori>原价:￥580</SPAN> </DD></DL>
+<DL class=mr10>
+<DT><A href="http://tuan.elong.com/chongqing_jiudian_tuangou-80300/" target=_blank><IMG src="http://static.elong.com/groupnew/201203/20120320_xmydfsjdxnl.jpg" width=265 height=120></A> 
+<DD><A href="http://tuan.elong.com/chongqing_jiudian_tuangou-80300/" target=_blank>【如家莫泰酒店196店通用】指定房型住宿1晚！艺龙为您精挑细选，各店均地处繁华商圈，周边配套设施齐全，位置优越，交通出行极为便捷。节假日期间房量紧张，预约请提前致电酒店，以酒店实际房态为准。如家快捷酒店（无锡胜利门店）不参加本次活动！</A> 
+<DD><A class=groBut href="http://tuan.elong.com/chongqing_jiudian_tuangou-80300/" target=_blank>去看看</A>￥<SPAN class=price>119</SPAN> <SPAN class=ori>原价:￥269</SPAN> </DD></DL>
+<DL class=mr10>
+<DT><A href="http://tuan.elong.com/chongqing_jiudian_tuangou-89422/" target=_blank><IMG src="http://static.elong.com/groupnew/201308/20130821_fudijinz02.jpg" width=265 height=120></A> 
+<DD><A href="http://tuan.elong.com/chongqing_jiudian_tuangou-89422/" target=_blank>【多城市】锦江之星江苏33店通用！指定房型4小时钟点房！艺龙为您精挑细选，位置优越，环境优美。超低的价格，超值的享受，超好的口碑，让您的江苏之行，更加惬意舒适！</A> 
+<DD><A class=groBut href="http://tuan.elong.com/chongqing_jiudian_tuangou-87916/" target=_blank>去看看</A>￥<SPAN class=price>69</SPAN> <SPAN class=ori>原价:￥119</SPAN> </DD></DL></DIV></DIV></DIV>
+<STYLE type=text/css>
+.rightMain .Promotions .groupon dd{ line-height:17px;}
+</style>
+
+            <div class="Promotions xsqtop">
+ <h2><a href="http://qiang.elong.com/" target="_blank">限时抢购<span>6</span>折封顶</a></h2><a href="http://qiang.elong.com/" class="more" target="_blank">更多优惠>></a>
+ <div class="xsq">
+  <dl>
+   <dt><a href="http://hotel.elong.com/beijing/50101463/" target="_blank"><img src="http://www.elongstatic.com/images/flashsale/index_50101463.jpg" width="180" height="120" alt="北京文津国际酒店" /></a></dt>
+   <dd><a href="http://hotel.elong.com/beijing/50101463/" target="_blank">北京文津国际酒店</a></dd>
+   <dd title="9.16-10.8入住，6折抢购商务房">9.16-10.8入住，6折抢购商务房</dd>
+   <dd>¥<span class="price">712</span> 艺龙标准价:<span class="ori">¥1188</span></dd>
+  </dl>
+  <dl>
+   <dt><a href="http://hotel.elong.com/hangzhou/31201926/" target="_blank"><img src="http://www.elongstatic.com/images/flashsale/index_31201926.jpg" width="180" height="120" alt="汉高精品酒店（杭州建国路店）" /></a></dt>
+   <dd><a href="http://hotel.elong.com/hangzhou/31201926/" target="_blank">汉高精品酒店（杭州建国路店）</a></dd>
+   <dd title="9.10-10.31入住，5.7折抢购致臻大床房">9.10-10.31入住，5.7折抢购致臻大床房</dd>
+   <dd>¥<span class="price">399</span> 艺龙标准价:<span class="ori">¥699</span></dd>
+  </dl>
+  <dl>
+   <dt><a href="http://hotel.elong.com/soochow/51102062/" target="_blank"><img src="http://www.elongstatic.com/images/flashsale/index_51102062.jpg" width="180" height="120" alt="苏州金鸡湖新罗酒店" /></a></dt>
+   <dd><a href="http://hotel.elong.com/soochow/51102062/" target="_blank">苏州金鸡湖新罗酒店</a></dd>
+   <dd title="9.11-10.31入住，6折抢购超大豪华湖景房">9.11-10.31入住，6折抢购超大豪华湖景房</dd>
+   <dd>¥<span class="price">810</span> 艺龙标准价:<span class="ori">¥1350</span></dd>
+  </dl>
+ </div>
+</div>
+
+            <div class="Promotions gjhoteltop">
+ <h2><a href="http://globalhotel.elong.com/" target="_blank">国际酒店折上再减<span>10%</span></a></h2><a href="http://globalhotel.elong.com/" class="more" target="_blank">更多目的地>></a>
+ <div class="gjhotel">
+  <dl>
+   <dt><a href="http://globalhotel.elong.com/list_Bangkok_TH.html" target="_blank"><img src="http://www.elongstatic.com/images/globalhotel/IG_mg.jpg" width="180" height="80" alt="曼谷"></a></dt>
+   <dd><a href="http://globalhotel.elong.com/list_Bangkok_TH.html" target="_blank">曼谷<span>（583家酒店）</span></a></dd>
+   <dd>RMB<span class="price">66</span> 起</dd>
+  </dl>
+  <dl>
+   <dt><a href="http://globalhotel.elong.com/list_NewYork_US_NY.html" target="_blank"><img src="http://www.elongstatic.com/images/globalhotel/IG_ny.jpg" width="180" height="80" alt="纽约"></a></dt>
+   <dd><a href="http://globalhotel.elong.com/list_NewYork_US_NY.html" target="_blank">纽约<span>（533家酒店）</span></a></dd>
+   <dd>RMB<span class="price">299</span> 起</dd>
+  </dl>
+  <dl>
+   <dt><a href="http://globalhotel.elong.com/list_Singapore_SG.html" target="_blank"><img src="http://www.elongstatic.com/images/globalhotel/IG_xjp.jpg" width="180" height="80" alt="新加坡"></a></dt>
+   <dd><a href="http://globalhotel.elong.com/list_Singapore_SG.html" target="_blank">新加坡<span>（183家酒店）</span></a></dd>
+   <dd>RMB<span class="price">248</span> 起</dd>
+  </dl>
+ </div>
+ <div class="clear"></div>
+</div>
+
+        </div>
+    </div>
+    
+
+      
+ 
+     
+
+        
+           
+
+<!-- ===================== footer start ===================== -->
+
+<div class="clear">
+</div>
+<div class="el_footer">
+    <div class="bottom_mod">
+        <dl>
+            <dt>旅游产品</dt>
+            <dd>
+                <ul>
+                    <li><a href="http://hotel.elong.com/" title="预订酒店">酒店预订</a></li>
+                    <li><a href="http://flight.elong.com/" title="机票查询">机票查询</a></li>
+                    <li><a href="http://globalhotel.elong.com/" title="预订国际酒店">国际酒店预订</a></li>
+                    <li><a href="http://hotel.elong.com/events/" title="热点酒店">展会活动</a></li>
+                    <li><a href="http://tuan.elong.com/" title="酒店团购">酒店团购</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl>
+            <dt>旅游资讯</dt>
+            <dd>
+                <ul>
+                    <li><a href="http://tuan.elong.com/directory/" title="团购导航">团购导航</a></li>
+                    <li><a href="http://hotel.elong.com/directory/" title="酒店查询">酒店查询</a></li>
+                    <li><a href="http://flight.elong.com/directory/" title="机票目录">机票目录</a></li>
+                    <li><a href="http://trip.elong.com/" title="旅游指南">旅游指南</a></li>
+                    <li><a href="http://trip.elong.com/home/" title="旅游社区">旅游社区</a></li>
+                    <li><a href="http://globalhotel.elong.com/sitemap.html" title="国际酒店查询">国际酒店查询</a></li>
+                    <li><a href="http://www.elong.com/promotion/web/sitemap/sitemap.html" title="国际酒店查询">
+                        酒店地图</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl>
+            <dt>加盟合作</dt>
+            <dd>
+                <ul>
+                    <li><a href="http://corp.elong.com/join.html" title="酒店加盟" rel="nofollow">酒店加盟</a></li>
+                    <li><a href="http://union.elong.com/" title="机票酒店分销联盟" rel="nofollow">分销联盟</a></li>
+                    <li><a href="http://agent.elong.com/" title="旅游产品代理合作" rel="nofollow">代理合作</a></li>
+                    <li><a href="http://corp.elong.com/advertising.html" title="在线广告服务" rel="nofollow">广告服务</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl>
+            <dt>关于艺龙</dt>
+            <dd>
+                <ul>
+                    <li><a href="http://corp.elong.com/" title="关于艺龙旅行网" rel="nofollow">关于艺龙</a></li>
+                    <li><a href="http://www.elong.net/aboutus/fact_sheet.html" title="Investor Relations"
+                        rel="nofollow">Investor Relations</a></li>
+                    <li><a href="http://help.elong.com" title="常见问题" rel="nofollow">常见问题</a></li>
+                    <li><a href="http://corp.elong.com/job.html" title="招聘信息" rel="nofollow">招聘信息</a></li>
+                    <li><a href="http://corp.elong.com/campus/index.html" title="校园招聘" rel="nofollow">校园招聘</a></li>
+                    <li><a href="http://corp.elong.com/contact.html" title="联系艺龙旅行网" rel="nofollow">联系我们</a></li>
+                    <li><a href="http://www.elongstatic.com/common/pic/EL_License.jpg" target="_blank"
+                        rel="nofollow">营业执照</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <div class="quamod">
+            <div class="telphone">
+                24小时机票酒店预订电话: 4009-333-333</div>
+            <ul>
+                <li class="qua-1"><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=SECURE.ELONG.COM&amp;lang=zh_cn"
+                    rel="nofollow" title="verisign">SSL加密认证</a></li>
+                <li class="qua-2"><a href="https://sealserver.trustwave.com/compliance/cert.php?customerId=w6olF7Z9ZRuBpWYNVXmBsViTyrcMPV&amp;size=105x54&amp;style=invert&amp;language=chs&amp;form=&amp;baseURL="
+                    rel="nofollow" title="信用卡安全认证">信赖商业计划</a></li>
+                <li class="qua-3"><a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1802034050" title="中国互联网协会认证"
+                    rel="nofollow">信用评级</a></li>
+                <li class="qua-4"><a href="http://search.szfw.org/cert/l/CX20120918001652001722"
+                    title="诚信示范企业">诚信示范企业</a></li>
+            </ul>
+        </div>
+        <div class="clear">
+        </div>
+        <p>
+            &copy; 1999 -
+            2013
+            eLong, Inc or its affiliates. All Rights Reserved.<a href="http://www.miibeian.gov.cn"
+                rel="nofollow">京ICP证010011号</a>&nbsp;京公网安备110000000021号<a class="view" rel="nofollow"
+                    href="http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000092000001"><i></i></a></p>
+    </div>
+</div>
+<!-- ===================== footer end ===================== -->
+
+        
+
+    <div class="clear"></div>
+
+       <div class="bottom_nav">
+ <ul>
+  <li><a href="#bottom_hotel">酒店预订</a></li>
+  <li><a href="#bottom_flight">机票查询</a></li>
+  <li><a href="#bottom_groupon">酒店团购</a></li>
+  <li><a href="#bottom_city">热门城市</a></li>
+  <li><a href="#bottom_partner">合作伙伴</a></li>
+  <li><a href="#bottom_event">考试会展周边酒店</a></li>
+ </ul>
+</div>
+<div class="bottom_con" id="bottom_hotel" style="display:none;">
+ <h2>酒店预订</h2>
+ <p>提供全国 700 个城市 40,000 多家国内酒店，以及全球 200 多个国家和地区的 160,000多家海外酒店预订和酒店团购服务。通过真实的酒店照片、酒店评价，无论您是和家人一起旅游度假还是商务出行，我们都能为您提供称心如意的酒店。</p>
+</div>
+<div class="bottom_con" id="bottom_flight" style="display:none;">
+    <h2>机票查询</h2>
+ <p>艺龙旅行网是中航协认证的机票服务提供商，提供国内和国际的特价机票、航班信息、机票查询和预订服务。</p>
+</div>
+    
+<div class="bottom_con" id="bottom_groupon" style="display:none;">
+    <h2>酒店团购</h2>
+ <p>
+      <a href="http://tuan.elong.com/beijing_0101_jiudian_tuangou/" title="北京酒店团购">北京酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/shanghai_0201_jiudian_tuangou/" title="上海酒店团购">上海酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/sanya_2201_jiudian_tuangou/" title="三亚酒店团购">三亚酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/guangzhou_2001_jiudian_tuangou/" title="广州酒店团购">广州酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/hangzhou_1201_jiudian_tuangou/" title="杭州酒店团购">杭州酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/xiamen_1401_jiudian_tuangou/" title="厦门酒店团购">厦门酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/soochow_1102_jiudian_tuangou/" title="苏州酒店团购">苏州酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/shenzhen_2003_jiudian_tuangou/" title="深圳酒店团购">深圳酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/xian_2701_jiudian_tuangou/" title="西安酒店团购">西安酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/chengdu_2301_jiudian_tuangou/" title="成都酒店团购">成都酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/lijiang_2503_jiudian_tuangou/" title="丽江酒店团购">丽江酒店团购</a><br>
+      <a href="http://tuan.elong.com/wuhan_1801_jiudian_tuangou/" title="武汉酒店团购">武汉酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/ningbo_1202_jiudian_tuangou/" title="宁波酒店团购">宁波酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/chongqing_0401_jiudian_tuangou/" title="重庆酒店团购">重庆酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/dalian_0801_jiudian_tuangou/" title="大连酒店团购">大连酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/nanjing_1101_jiudian_tuangou/" title="南京酒店团购">南京酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/qingdao_1601_jiudian_tuangou/" title="青岛酒店团购">青岛酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/guilin_2101_jiudian_tuangou/" title="桂林酒店团购">桂林酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/tianjin_0301_jiudian_tuangou/" title="天津酒店团购">天津酒店团购</a><span class="pl5 pr5">|</span>
+      <a href="http://tuan.elong.com/shenyang_0802_jiudian_tuangou/" title="沈阳酒店团购">沈阳酒店团购</a><span class="pl5 pr5">|</span>    
+    </p>
+</div>
+    
+<div class="bottom_con" id="bottom_city" style="display:none;">
+    <h2>热门城市</h2>
+ <p>
+      <a href="http://hotel.elong.com/beijing/" title="北京酒店预订">北京酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/shanghai/" title="上海酒店预订">上海酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/hangzhou/" title="杭州酒店预订">杭州酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/chengdu/" title="成都酒店预订">成都酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/shenzhen/" title="深圳酒店预订">深圳酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/qingdao/" title="青岛酒店预订">青岛酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/soochow/" title="苏州酒店预订">苏州酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/guangzhou/" title="广州酒店预订">广州酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/hongkong/" title="香港酒店预订">香港酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/xiamen/" title="厦门酒店预订">厦门酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/tianjin/" title="天津酒店预订">天津酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/xian/" title="西安酒店预订">西安酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/wuhan/" title="武汉酒店预订">武汉酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/chongqing/" title="重庆酒店预订">重庆酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/shenyang/" title="沈阳酒店预订">沈阳酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/changsha/" title="长沙酒店预订">长沙酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/sanya/" title="三亚酒店预订">三亚酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/zhuhai/" title="珠海酒店预订">珠海酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/ningbo/" title="宁波酒店预订">宁波酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/nanjing/" title="南京酒店预订">南京酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/dalian/" title="大连酒店预订">大连酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/jinan/" title="济南酒店预订">济南酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/kunming/" title="昆明酒店预订">昆明酒店</a><span class="pl5 pr5">|</span>
+      <a href="http://hotel.elong.com/hefei/" title="合肥酒店预订">合肥酒店</a><span class="pl5 pr5">|</span>   
+    </p>
+ <div style="display:none;">
+      <h2 class="mt10">国内城市</h2>
+      <p>
+        <a href="http://hotel.elong.com/harbin/" title="哈尔滨酒店预订">哈尔滨酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhengzhou/" title="郑州酒店预订">郑州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/wuxi/" title="无锡酒店预订">无锡酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/shijiazhuang/" title="石家庄酒店预订">石家庄酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/taiyuan/" title="太原酒店预订">太原酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/fuzhou/" title="福州酒店预订">福州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/changchun/" title="长春酒店预订">长春酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/nanning/" title="南宁酒店预订">南宁酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/nanchang/" title="南昌酒店预订">南昌酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/dongguan/" title="东莞酒店预订">东莞酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/guiyang/" title="贵阳酒店预订">贵阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/haikou/" title="海口酒店预订">海口酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/changzhou/" title="常州酒店预订">常州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/lijiang/" title="丽江（含束河）酒店预订">丽江（含束河）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/guilin/" title="桂林酒店预订">桂林酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/urumqi/" title="乌鲁木齐酒店预订">乌鲁木齐酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yantai/" title="烟台酒店预订">烟台酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/foshan/" title="佛山酒店预订">佛山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhoushan/" title="舟山酒店预订">舟山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/wenzhou/" title="温州酒店预订">温州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/lanzhou/" title="兰州酒店预订">兰州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yangzhou/" title="扬州酒店预订">扬州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/shaoxing/" title="绍兴酒店预订">绍兴酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/hohhot/" title="呼和浩特酒店预订">呼和浩特酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/huangshan/" title="黄山酒店预订">黄山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yiwu/" title="义乌酒店预订">义乌酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xining/" title="西宁酒店预订">西宁酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/taian/" title="泰安酒店预订">泰安酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/luoyang/" title="洛阳酒店预订">洛阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xuzhou/" title="徐州酒店预订">徐州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yangshuo/" title="阳朔（桂林）酒店预订">阳朔（桂林）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/weifang/" title="潍坊酒店预订">潍坊酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/weihai/" title="威海酒店预订">威海酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/huizhou/" title="惠州酒店预订">惠州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yinchuan/" title="银川酒店预订">银川酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/nantong/" title="南通酒店预订">南通酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/beihai/" title="北海酒店预订">北海酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhongshan/" title="中山酒店预订">中山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/qinhuangdao/" title="秦皇岛酒店预订">秦皇岛酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jiuzhaigou/" title="九寨沟酒店预订">九寨沟酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/beidaihe/" title="北戴河酒店预订">北戴河酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/dali/" title="大理酒店预订">大理酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/tangshan/" title="唐山酒店预订">唐山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/datong/" title="大同酒店预订">大同酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/wuhu/" title="芜湖酒店预订">芜湖酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xishuangbanna/" title="西双版纳酒店预订">西双版纳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/rizhao/" title="日照酒店预订">日照酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zibo/" title="淄博酒店预订">淄博酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xitang/" title="西塘（嘉善）酒店预订">西塘（嘉善）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/shantou/" title="汕头酒店预订">汕头酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/wuzhen/" title="乌镇（桐乡）酒店预订">乌镇（桐乡）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yichang/" title="宜昌酒店预订">宜昌酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/macau/" title="澳门酒店预订">澳门酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/kunshan/" title="昆山（苏州）酒店预订">昆山（苏州）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jiaxing/" title="嘉兴酒店预订">嘉兴酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/qiandaohu/" title="千岛湖酒店预订">千岛湖酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/baoding/" title="保定酒店预订">保定酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jinhua/" title="金华酒店预订">金华酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/lhasa/" title="拉萨酒店预订">拉萨酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xichang/" title="西昌（凉山州）酒店预订">西昌（凉山州）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhanjiang/" title="湛江酒店预订">湛江酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/quanzhou/" title="泉州酒店预订">泉州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/fenghuang/" title="凤凰（湘西）酒店预订">凤凰（湘西）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/linyi/" title="临沂酒店预订">临沂酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/emeishan/" title="峨眉山酒店预订">峨眉山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/taichow/" title="台州酒店预订">台州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/lianyungang/" title="连云港酒店预订">连云港酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhangjiajie/" title="张家界酒店预订">张家界酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhenjiang/" title="镇江酒店预订">镇江酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/chengde/" title="承德酒店预订">承德酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/kaifeng/" title="开封酒店预订">开封酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhaoqing/" title="肇庆酒店预订">肇庆酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/haining/" title="海宁酒店预订">海宁酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/liuzhou/" title="柳州酒店预订">柳州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/mianyang/" title="绵阳酒店预订">绵阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/baotou/" title="包头酒店预订">包头酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/wuyishan/" title="武夷山酒店预订">武夷山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/changshu/" title="常熟（苏州）酒店预订">常熟（苏州）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/dunhuang/" title="敦煌酒店预订">敦煌酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/shaoguan/" title="韶关酒店预订">韶关酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/pingyao/" title="平遥酒店预订">平遥酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/dandong/" title="丹东酒店预订">丹东酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/huaian/" title="淮安酒店预订">淮安酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jilin/" title="吉林酒店预订">吉林酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jiujiang/" title="九江酒店预订">九江酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yancheng/" title="盐城酒店预订">盐城酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/handan/" title="邯郸酒店预订">邯郸酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yingkou/" title="营口酒店预订">营口酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yangjiang/" title="阳江酒店预订">阳江酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jiangmen/" title="江门酒店预订">江门酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xiangyang/" title="襄阳酒店预订">襄阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/ganzhou/" title="赣州酒店预订">赣州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/dongying/" title="东营酒店预订">东营酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhuzhou/" title="株洲酒店预订">株洲酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jinzhou/" title="锦州酒店预订">锦州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/qufu/" title="曲阜（济宁）酒店预订">曲阜（济宁）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/cixi/" title="慈溪酒店预订">慈溪酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/dujiangyan/" title="都江堰（成都）酒店预订">都江堰（成都）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/liyang/" title="溧阳天目湖（常州）酒店预订">溧阳天目湖（常州）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/taizhou/" title="泰州酒店预订">泰州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yueyang/" title="岳阳酒店预订">岳阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/qingyuan/" title="清远酒店预订">清远酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jining/" title="济宁酒店预订">济宁酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhangjiagang/" title="张家港（苏州）酒店预订">张家港（苏州）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/hengyang/" title="衡阳酒店预订">衡阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jiangyin/" title="江阴（无锡）酒店预订">江阴（无锡）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/meizhou/" title="梅州酒店预订">梅州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/dezhou/" title="德州酒店预订">德州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/leshan/" title="乐山酒店预订">乐山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/ordos/" title="鄂尔多斯酒店预订">鄂尔多斯酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/huzhou/" title="湖州酒店预订">湖州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/penglai/" title="蓬莱（烟台）酒店预订">蓬莱（烟台）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yixing/" title="宜兴（无锡）酒店预订">宜兴（无锡）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/chaozhou/" title="潮州酒店预订">潮州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/hengdian/" title="横店酒店预订">横店酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/tengchong/" title="腾冲酒店预订">腾冲酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jingdezhen/" title="景德镇酒店预订">景德镇酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/langfang/" title="廊坊酒店预订">廊坊酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/maanshan/" title="马鞍山酒店预订">马鞍山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yuyao/" title="余姚酒店预订">余姚酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhangjiakou/" title="张家口酒店预订">张家口酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zunyi/" title="遵义酒店预订">遵义酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yanan/" title="延安酒店预订">延安酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/cangzhou/" title="沧州酒店预订">沧州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xianggelila/" title="香格里拉（迪庆州）酒店预订">香格里拉（迪庆州）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/wutaishan/" title="五台山酒店预订">五台山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/lushan_jiujiang/" title="庐山（九江）酒店预订">庐山（九江）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/quzhou/" title="衢州酒店预订">衢州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/heyuan/" title="河源酒店预订">河源酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/anshan/" title="鞍山酒店预订">鞍山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/nanyang/" title="南阳酒店预订">南阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/bengbu/" title="蚌埠酒店预订">蚌埠酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jincheng/" title="晋城酒店预订">晋城酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/huainan/" title="淮南酒店预订">淮南酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhuji/" title="诸暨（绍兴）酒店预订">诸暨（绍兴）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/nandaihe/" title="南戴河酒店预订">南戴河酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jiaozuo/" title="焦作酒店预订">焦作酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/putian/" title="莆田酒店预订">莆田酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xinxiang/" title="新乡酒店预订">新乡酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/shiyan/" title="十堰酒店预订">十堰酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/liaocheng/" title="聊城酒店预订">聊城酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/wuyuan/" title="婺源酒店预订">婺源酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/mudanjiang/" title="牡丹江酒店预订">牡丹江酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jingzhou/" title="荆州酒店预订">荆州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zaozhuang/" title="枣庄酒店预订">枣庄酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/taicang/" title="太仓（苏州）酒店预订">太仓（苏州）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yanji/" title="延吉酒店预订">延吉酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/enshi/" title="恩施酒店预订">恩施酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yaan/" title="雅安酒店预订">雅安酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/qiqihaer/" title="齐齐哈尔酒店预订">齐齐哈尔酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/anqing/" title="安庆酒店预订">安庆酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xianning/" title="咸宁酒店预订">咸宁酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yibin/" title="宜宾酒店预订">宜宾酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/changzhi/" title="长治酒店预订">长治酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/daqing/" title="大庆酒店预订">大庆酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/guangyuan/" title="广元酒店预订">广元酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/baoji/" title="宝鸡酒店预订">宝鸡酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/shangyu/" title="上虞酒店预订">上虞酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xingtai/" title="邢台酒店预订">邢台酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xiangshan/" title="象山酒店预订">象山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xianyang/" title="咸阳酒店预订">咸阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/panjin/" title="盘锦酒店预订">盘锦酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/chenzhou/" title="郴州酒店预订">郴州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xinyang/" title="信阳酒店预订">信阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/longyan/" title="龙岩酒店预订">龙岩酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jiuhuashan/" title="九华山酒店预订">九华山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhouzhuang/" title="周庄酒店预订">周庄酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/yuncheng/" title="运城酒店预订">运城酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/ninghai_ningbo/" title="宁海（宁波）酒店预订">宁海（宁波）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/anji/" title="安吉（湖州）酒店预订">安吉（湖州）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/hulunbeier/" title="呼伦贝尔（海拉尔）酒店预订">呼伦贝尔（海拉尔）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/hanzhong/" title="汉中酒店预订">汉中酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/xiangtan/" title="湘潭酒店预订">湘潭酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zigong/" title="自贡酒店预订">自贡酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/chifeng/" title="赤峰酒店预订">赤峰酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/changbaishan/" title="长白山酒店预订">长白山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/deyang/" title="德阳酒店预订">德阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/zhangzhou/" title="漳州酒店预订">漳州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/anshun/" title="安顺（黄果树）酒店预订">安顺（黄果树）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/nanchong/" title="南充酒店预订">南充酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/huludao/" title="葫芦岛酒店预订">葫芦岛酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/tongxiang/" title="桐乡酒店预订">桐乡酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jiayuguan/" title="嘉峪关酒店预订">嘉峪关酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/tianshui/" title="天水酒店预订">天水酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/heze/" title="菏泽酒店预订">菏泽酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/changde/" title="常德酒店预订">常德酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/lishui/" title="丽水酒店预订">丽水酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jinjiang/" title="晋江酒店预订">晋江酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/liaoyang/" title="辽阳酒店预订">辽阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/taishan/" title="台山酒店预订">台山酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/maoming/" title="茂名酒店预订">茂名酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/linfen/" title="临汾酒店预订">临汾酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/wuzhou/" title="梧州酒店预订">梧州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/binzhou/" title="滨州酒店预订">滨州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/luzhou/" title="泸州酒店预订">泸州酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/jieyang/" title="揭阳酒店预订">揭阳酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/fenghua_ningbo/" title="奉化（宁波）酒店预订">奉化（宁波）酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/panzhihua/" title="攀枝花酒店预订">攀枝花酒店</a><span class="pl5 pr5">|</span>
+  <a href="http://hotel.elong.com/suqian/" title="宿迁酒店预订">宿迁酒店</a><span class="pl5 pr5">|</span>
+      </p>
+    </div>
+</div>
+    
+<div class="bottom_con" id="bottom_partner" style="display:none;">
+    <h2>合作伙伴</h2>
+ <p>
+      <a href="http://go.qq.com/" target="_blank" title="QQ网购·旅游">QQ网购·旅游</a><span class="pl5 pr5">|</span>
+      <a href="http://www.xici.net/" target="_blank" title="西祠胡同">西祠胡同</a><span class="pl5 pr5">|</span>
+      <a href="http://www.sunnychina.com/" target="_blank" title="阳光旅行网">阳光旅行网</a><span class="pl5 pr5">|</span>
+      <a href="http://www.zhuna.cn/" target="_blank" title="住哪网">住哪网</a><span class="pl5 pr5">|</span>
+      <a href="http://www.kuxun.cn/" target="_blank" title="酷讯网">酷讯网</a><span class="pl5 pr5">|</span>
+      <a href="http://www.daodao.com/" target="_blank" title="到到网">到到网</a><span class="pl5 pr5">|</span>
+      <a href="http://www.huoche.com.cn/" target="_blank" title="火车网">火车网</a><span class="pl5 pr5">|</span>
+      <a href="http://www.juneyaoair.com/" target="_blank" title="吉祥航空">吉祥航空</a><span class="pl5 pr5">|</span>
+      <a href="http://travel.16885.com/" target="_blank" title="均瑶旅行网">均瑶旅行网</a><span class="pl5 pr5">|</span>
+      <a href="http://bj.house.sina.com.cn/" target="_blank" title="北京房产">北京房产</a><span class="pl5 pr5">|</span>
+      <a href="http://www.jiaju.com/" target="_blank" title="装修家居">装修家居</a>
+    </p>
+</div>
+    
+<div class="bottom_con" id="bottom_event" style="display:none;">
+    <h2>考试会展周边酒店</h2>
+ <p>
+   <!--<a href="http://www.elong.com/promotion/web/gaokao/index.html?keycoid=gaokao:130515:hlink" target="_blank" title="中高考考场周边酒店">中高考考场周边酒店</a><span class="pl5 pr5">|</span>-->
+      <a href="http://hotel.elong.com/chengdu/place3026873/" title="成都世纪城新国际会展中心附近酒店">成都世纪城新国际会展中心附近酒店</a><span class="pl5 pr5">|</span>
+   <a href="http://hotel.elong.com/hongkong/place6319552/" title="香港会议展览中心附近酒店">香港会议展览中心附近酒店</a><span class="pl5 pr5">|</span>
+   <a href="http://hotel.elong.com/guangzhou/place1541443/" title="中国进出口商品交易会展馆附近酒店">中国进出口商品交易会展馆附近酒店</a><span class="pl5 pr5">|</span>
+   <a href="http://hotel.elong.com/shanghai/center020155/" title="上海新国际博览中心附近酒店">上海新国际博览中心附近酒店</a><span class="pl5 pr5">|</span>
+   <a href="http://hotel.elong.com/beijing/place6323150/" title="北京园博园附近酒店">园博园附近酒店</a><span class="pl5 pr5">|</span>
+   <a href="http://hotel.elong.com/beijing/place5625111/" title="中国国际展览中心附近酒店">中国国际展览中心附近酒店</a><span class="pl5 pr5">|</span>
+   <a href="http://hotel.elong.com/beijing/place5554324/" title="首都体育馆附近酒店">首都体育馆附近酒店</a><span class="pl5 pr5">|</span>
+   <a href="http://hotel.elong.com/guangzhou/place1658663/" title="广州体育馆附近酒店">广州体育馆附近酒店</a><span class="pl5 pr5">|</span>
+   <a href="http://hotel.elong.com/shanghai/place3403639/" title="上海大舞台附近酒店">上海大舞台附近酒店</a>
+    </p>
+</div>
+
+	 
+            
+ 
+  
+    <div id="m_contentend"></div>
+    
+    	   <script type="text/javascript"  language="javascript">var CityHot=[{"CityType":"flightsrc","TabList":[{"TabId":"1","Name":"\u70ED\u95E8","NameEn":"Hot","CityList":[{"ProvinceId":"1","CityId":"529","CityCode":"BJS","CityNameCn":"\u5317\u4EAC","CityNameEn":"Beijing","CityThreeSign":"BJS","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"2","CityCode":"SHA","CityNameCn":"\u4E0A\u6D77","CityNameEn":"Shanghai","CityThreeSign":"SHA","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"566","CityCode":"SZX","CityNameCn":"\u6DF1\u5733","CityNameEn":"Shenzhen","CityThreeSign":"SZX","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"418","CityCode":"HGH","CityNameCn":"\u676D\u5DDE","CityNameEn":"Hangzhou","CityThreeSign":"HGH","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"358","CityCode":"CAN","CityNameCn":"\u5E7F\u5DDE","CityNameEn":"Guangzhou","CityThreeSign":"CAN","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"376","CityCode":"CTU","CityNameCn":"\u6210\u90FD","CityNameEn":"Chengdu","CityThreeSign":"CTU","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"517","CityCode":"NKG","CityNameCn":"\u5357\u4EAC","CityNameEn":"Nanjing","CityThreeSign":"NKG","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"595","CityCode":"WUH","CityNameCn":"\u6B66\u6C49","CityNameEn":"Wuhan","CityThreeSign":"WUH","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"416","CityCode":"HET","CityNameCn":"\u547C\u548C\u6D69\u7279","CityNameEn":"Hohhot","CityThreeSign":"HET","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"370","CityCode":"CKG","CityNameCn":"\u91CD\u5E86","CityNameEn":"Chongqing","CityThreeSign":"CKG","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"375","CityCode":"CSX","CityNameCn":"\u957F\u6C99","CityNameEn":"Changsha","CityThreeSign":"CSX","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"460","CityCode":"KMG","CityNameCn":"\u6606\u660E","CityNameEn":"Kunming","CityThreeSign":"KMG","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"603","CityCode":"SIA","CityNameCn":"\u897F\u5B89","CityNameEn":"Xian","CityThreeSign":"SIA","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"568","CityCode":"TAO","CityNameCn":"\u9752\u5C9B","CityNameEn":"Qingdao","CityThreeSign":"TAO","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"580","CityCode":"TSN","CityNameCn":"\u5929\u6D25","CityNameEn":"Tianjin","CityThreeSign":"TSN","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"514","CityCode":"NGB","CityNameCn":"\u5B81\u6CE2","CityNameEn":"Ningbo","CityThreeSign":"NGB","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"604","CityCode":"XMN","CityNameCn":"\u53A6\u95E8","CityNameEn":"Xiamen","CityThreeSign":"XMN","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"583","CityCode":"TYN","CityNameCn":"\u592A\u539F","CityNameEn":"Taiyuan","CityThreeSign":"TYN","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"387","CityCode":"DLC","CityNameCn":"\u5927\u8FDE","CityNameEn":"Dalian","CityThreeSign":"DLC","CityType":"flightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"575","CityCode":"TNA","CityNameCn":"\u6D4E\u5357","CityNameEn":"Jinan","CityThreeSign":"TNA","CityType":"flightsrc","OldEnglishName":null}]},{"TabId":"2","Name":"ABCD","NameEn":"ABCD","CityList":[]},{"TabId":"3","Name":"EFGHJ","NameEn":"EFGHJ","CityList":[]},{"TabId":"4","Name":"KLMN","NameEn":"KLMN","CityList":[]},{"TabId":"5","Name":"PQRSTW","NameEn":"PQRSTW","CityList":[]},{"TabId":"6","Name":"XYZ","NameEn":"XYZ","CityList":[]}]},{"CityType":"flightdest","TabList":[{"TabId":"1","Name":"\u70ED\u95E8","NameEn":"Hot","CityList":[{"ProvinceId":"1","CityId":"529","CityCode":"BJS","CityNameCn":"\u5317\u4EAC","CityNameEn":"Beijing","CityThreeSign":"BJS","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"2","CityCode":"SHA","CityNameCn":"\u4E0A\u6D77","CityNameEn":"Shanghai","CityThreeSign":"SHA","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"566","CityCode":"SZX","CityNameCn":"\u6DF1\u5733","CityNameEn":"Shenzhen","CityThreeSign":"SZX","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"418","CityCode":"HGH","CityNameCn":"\u676D\u5DDE","CityNameEn":"Hangzhou","CityThreeSign":"HGH","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"358","CityCode":"CAN","CityNameCn":"\u5E7F\u5DDE","CityNameEn":"Guangzhou","CityThreeSign":"CAN","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"376","CityCode":"CTU","CityNameCn":"\u6210\u90FD","CityNameEn":"Chengdu","CityThreeSign":"CTU","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"517","CityCode":"NKG","CityNameCn":"\u5357\u4EAC","CityNameEn":"Nanjing","CityThreeSign":"NKG","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"595","CityCode":"WUH","CityNameCn":"\u6B66\u6C49","CityNameEn":"Wuhan","CityThreeSign":"WUH","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"416","CityCode":"HET","CityNameCn":"\u547C\u548C\u6D69\u7279","CityNameEn":"Hohhot","CityThreeSign":"HET","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"370","CityCode":"CKG","CityNameCn":"\u91CD\u5E86","CityNameEn":"Chongqing","CityThreeSign":"CKG","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"375","CityCode":"CSX","CityNameCn":"\u957F\u6C99","CityNameEn":"Changsha","CityThreeSign":"CSX","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"460","CityCode":"KMG","CityNameCn":"\u6606\u660E","CityNameEn":"Kunming","CityThreeSign":"KMG","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"603","CityCode":"SIA","CityNameCn":"\u897F\u5B89","CityNameEn":"Xian","CityThreeSign":"SIA","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"568","CityCode":"TAO","CityNameCn":"\u9752\u5C9B","CityNameEn":"Qingdao","CityThreeSign":"TAO","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"580","CityCode":"TSN","CityNameCn":"\u5929\u6D25","CityNameEn":"Tianjin","CityThreeSign":"TSN","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"514","CityCode":"NGB","CityNameCn":"\u5B81\u6CE2","CityNameEn":"Ningbo","CityThreeSign":"NGB","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"604","CityCode":"XMN","CityNameCn":"\u53A6\u95E8","CityNameEn":"Xiamen","CityThreeSign":"XMN","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"583","CityCode":"TYN","CityNameCn":"\u592A\u539F","CityNameEn":"Taiyuan","CityThreeSign":"TYN","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"387","CityCode":"DLC","CityNameCn":"\u5927\u8FDE","CityNameEn":"Dalian","CityThreeSign":"DLC","CityType":"flightdest","OldEnglishName":null},{"ProvinceId":"1","CityId":"575","CityCode":"TNA","CityNameCn":"\u6D4E\u5357","CityNameEn":"Jinan","CityThreeSign":"TNA","CityType":"flightdest","OldEnglishName":null}]},{"TabId":"2","Name":"ABCD","NameEn":"ABCD","CityList":[]},{"TabId":"3","Name":"EFGHJ","NameEn":"EFGHJ","CityList":[]},{"TabId":"4","Name":"KLMN","NameEn":"KLMN","CityList":[]},{"TabId":"5","Name":"PQRSTW","NameEn":"PQRSTW","CityList":[]},{"TabId":"6","Name":"XYZ","NameEn":"XYZ","CityList":[]}]},{"CityType":"iflightsrc","TabList":[{"TabId":"1","Name":"\u70ED\u95E8","NameEn":"Hot","CityList":[{"ProvinceId":"1","CityId":"529","CityCode":"BJS","CityNameCn":"\u5317\u4EAC","CityNameEn":"Beijing","CityThreeSign":"BJS","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"2","CityCode":"SHA","CityNameCn":"\u4E0A\u6D77","CityNameEn":"Shanghai","CityThreeSign":"SHA","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"358","CityCode":"CAN","CityNameCn":"\u5E7F\u5DDE","CityNameEn":"Guangzhou","CityThreeSign":"CAN","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"566","CityCode":"SZX","CityNameCn":"\u6DF1\u5733","CityNameEn":"Shenzhen","CityThreeSign":"SZX","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"575","CityCode":"TNA","CityNameCn":"\u6D4E\u5357","CityNameEn":"Jinan","CityThreeSign":"TNA","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"580","CityCode":"TSN","CityNameCn":"\u5929\u6D25","CityNameEn":"Tianjin","CityThreeSign":"TSN","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"387","CityCode":"DLC","CityNameCn":"\u5927\u8FDE","CityNameEn":"Dalian","CityThreeSign":"DLC","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"549","CityCode":"SHE","CityNameCn":"\u6C88\u9633","CityNameEn":"Shenyang","CityThreeSign":"SHE","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"426","CityCode":"HRB","CityNameCn":"\u54C8\u5C14\u6EE8","CityNameEn":"Harbin","CityThreeSign":"HRB","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"604","CityCode":"XMN","CityNameCn":"\u53A6\u95E8","CityNameEn":"Xiamen","CityThreeSign":"XMN","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"603","CityCode":"SIA","CityNameCn":"\u897F\u5B89","CityNameEn":"Xian","CityThreeSign":"SIA","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"399","CityCode":"FOC","CityNameCn":"\u798F\u5DDE","CityNameEn":"Fuzhou","CityThreeSign":"FOC","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"517","CityCode":"NKG","CityNameCn":"\u5357\u4EAC","CityNameEn":"Nanjing","CityThreeSign":"NKG","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"586","CityCode":"URC","CityNameCn":"\u4E4C\u9C81\u6728\u9F50","CityNameEn":"Urumqi","CityThreeSign":"URC","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"460","CityCode":"KMG","CityNameCn":"\u6606\u660E","CityNameEn":"Kunming","CityThreeSign":"KMG","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"595","CityCode":"WUH","CityNameCn":"\u6B66\u6C49","CityNameEn":"Wuhan","CityThreeSign":"WUH","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"514","CityCode":"NGB","CityNameCn":"\u5B81\u6CE2","CityNameEn":"Ningbo","CityThreeSign":"NGB","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"470","CityCode":"KWL","CityNameCn":"\u6842\u6797","CityNameEn":"Guilin","CityThreeSign":"KWL","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"564","CityCode":"SYX","CityNameCn":"\u4E09\u4E9A","CityNameEn":"Sanya","CityThreeSign":"SYX","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"1","CityId":"418","CityCode":"HGH","CityNameCn":"\u676D\u5DDE","CityNameEn":"Hangzhou","CityThreeSign":"HGH","CityType":"iflightsrc","OldEnglishName":null},{"ProvinceId":"136","CityId":"420","CityCode":"HKG","CityNameCn":"\u9999\u6E2F","CityNameEn":"Hong Kong","CityThreeSign":"HKG","CityType":"iflightsrc","OldEnglishName":null}]}]},{"CityType":"iflightdest","TabList":[{"TabId":"1","Name":"\u70ED\u95E8","NameEn":"Hot","CityList":[{"ProvinceId":"136","CityId":"420","CityCode":"HKG","CityNameCn":"\u9999\u6E2F","CityNameEn":"Hong Kong","CityThreeSign":"HKG","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"91","CityId":"617","CityCode":"YVR","CityNameCn":"\u6E29\u54E5\u534E","CityNameEn":"Vancouver","CityThreeSign":"YVR","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"91","CityId":"619","CityCode":"YTO","CityNameCn":"\u591A\u4F26\u591A","CityNameEn":"Toronto","CityThreeSign":"YTO","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"2","CityId":"544","CityCode":"SEA","CityNameCn":"\u897F\u96C5\u56FE","CityNameEn":"Seattle","CityThreeSign":"SEA","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"2","CityId":"425","CityCode":"HNL","CityNameCn":"\u706B\u5974\u9C81\u9C81","CityNameEn":"Honolulu","CityThreeSign":"HNL","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"14","CityId":"538","CityCode":"ROM","CityNameCn":"\u7F57\u9A6C","CityNameEn":"Rome","CityThreeSign":"ROM","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"24","CityId":"506","CityCode":"MOW","CityNameCn":"\u83AB\u65AF\u79D1","CityNameEn":"Moscow","CityThreeSign":"MOW","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"7","CityId":"1423","CityCode":"BER","CityNameCn":"\u67CF\u6797","CityNameEn":"Berlin","CityThreeSign":"BER","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"22","CityId":"331","CityCode":"AMS","CityNameCn":"\u963F\u59C6\u65AF\u7279\u4E39","CityNameEn":"Amsterdam","CityThreeSign":"AMS","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"14","CityId":"503","CityCode":"MIL","CityNameCn":"\u7C73\u5170","CityNameEn":"Milan","CityThreeSign":"MIL","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"85","CityId":"553","CityCode":"SIN","CityNameCn":"\u65B0\u52A0\u5761","CityNameEn":"Singapore","CityThreeSign":"SIN","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"70","CityId":"467","CityCode":"KUL","CityNameCn":"\u5409\u9686\u5761","CityNameEn":"Kuala Lumpur","CityThreeSign":"KUL","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"8","CityId":"344","CityCode":"BKK","CityNameCn":"\u66FC\u8C37","CityNameEn":"Bangkok","CityThreeSign":"BKK","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"86","CityId":"545","CityCode":"SEL","CityNameCn":"\u9996\u5C14","CityNameEn":"Seoul","CityThreeSign":"SEL","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"137","CityId":"578","CityCode":"TPE","CityNameCn":"\u53F0\u5317","CityNameEn":"Taipei","CityThreeSign":"TPE","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"13","CityId":"584","CityCode":"TYO","CityNameCn":"\u4E1C\u4EAC","CityNameEn":"Tokyo","CityThreeSign":"TYO","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"17","CityId":"360","CityCode":"PAR","CityNameCn":"\u5DF4\u9ECE","CityNameEn":"Paris","CityThreeSign":"PAR","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"13","CityId":"526","CityCode":"OSA","CityNameCn":"\u5927\u962A","CityNameEn":"Osaka","CityThreeSign":"OSA","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"7","CityId":"400","CityCode":"FRA","CityNameCn":"\u6CD5\u5170\u514B\u798F","CityNameEn":"Frankfurt","CityThreeSign":"FRA","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"2","CityId":"546","CityCode":"SFO","CityNameCn":"\u65E7\u91D1\u5C71","CityNameEn":"San Francisco","CityThreeSign":"SFO","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"21","CityId":"483","CityCode":"LON","CityNameCn":"\u4F26\u6566\uFF08\u82F1\u56FD\uFF09","CityNameEn":"London","CityThreeSign":"LON","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"2","CityId":"472","CityCode":"LAX","CityNameCn":"\u6D1B\u6749\u77F6","CityNameEn":"Los Angeles","CityThreeSign":"LAX","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"2","CityId":"521","CityCode":"NYC","CityNameCn":"\u7EBD\u7EA6","CityNameEn":"New York","CityThreeSign":"NYC","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"16","CityId":"562","CityCode":"SYD","CityNameCn":"\u6089\u5C3C","CityNameEn":"Sydney ","CityThreeSign":"SYD","CityType":"iflightdest","OldEnglishName":null},{"ProvinceId":"2","CityId":"525","CityCode":"CHI","CityNameCn":"\u829D\u52A0\u54E5","CityNameEn":"Chicago","CityThreeSign":"CHI","CityType":"iflightdest","OldEnglishName":null}]},{"TabId":"2","Name":"\u4E9A\u6D32\u53CA\u5927\u6D0B\u6D32","NameEn":"Asia&PAC","CityList":[]},{"TabId":"3","Name":"\u7F8E\u6D32","NameEn":"N.AMER","CityList":[]},{"TabId":"4","Name":"\u6B27\u6D32\u53CA\u975E\u6D32","NameEn":"EUR&AFR","CityList":[]}]},{"CityType":"hotel","TabList":[{"TabId":"1","Name":"\u70ED\u95E8","NameEn":"Hot","CityList":[{"ProvinceId":null,"CityId":"0101","CityCode":"0101","CityNameCn":"\u5317\u4EAC","CityNameEn":"Beijing","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"0201","CityCode":"0201","CityNameCn":"\u4E0A\u6D77","CityNameEn":"Shanghai","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"2001","CityCode":"2001","CityNameCn":"\u5E7F\u5DDE","CityNameEn":"Guangzhou","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"2003","CityCode":"2003","CityNameCn":"\u6DF1\u5733","CityNameEn":"Shenzhen","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"1201","CityCode":"1201","CityNameCn":"\u676D\u5DDE","CityNameEn":"Hangzhou","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"1102","CityCode":"1102","CityNameCn":"\u82CF\u5DDE","CityNameEn":"Soochow","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"1202","CityCode":"1202","CityNameCn":"\u5B81\u6CE2","CityNameEn":"Ningbo","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"1101","CityCode":"1101","CityNameCn":"\u5357\u4EAC","CityNameEn":"Nanjing","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"2201","CityCode":"2201","CityNameCn":"\u4E09\u4E9A","CityNameEn":"Sanya","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"1401","CityCode":"1401","CityNameCn":"\u53A6\u95E8","CityNameEn":"Xiamen","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"3201","CityCode":"3201","CityNameCn":"\u9999\u6E2F","CityNameEn":"HongKong","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"1801","CityCode":"1801","CityNameCn":"\u6B66\u6C49","CityNameEn":"Wuhan","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"2301","CityCode":"2301","CityNameCn":"\u6210\u90FD","CityNameEn":"Chengdu","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"0401","CityCode":"0401","CityNameCn":"\u91CD\u5E86","CityNameEn":"Chongqing","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"2701","CityCode":"2701","CityNameCn":"\u897F\u5B89","CityNameEn":"Xian","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"2501","CityCode":"2501","CityNameCn":"\u6606\u660E","CityNameEn":"Kunming","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"1601","CityCode":"1601","CityNameCn":"\u9752\u5C9B","CityNameEn":"Qingdao","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"0801","CityCode":"0801","CityNameCn":"\u5927\u8FDE","CityNameEn":"Dalian","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"0802","CityCode":"0802","CityNameCn":"\u6C88\u9633","CityNameEn":"Shenyang","CityThreeSign":"","CityType":"hotel","OldEnglishName":""},{"ProvinceId":null,"CityId":"0301","CityCode":"0301","CityNameCn":"\u5929\u6D25","CityNameEn":"Tianjin","CityThreeSign":"","CityType":"hotel","OldEnglishName":""}]},{"TabId":"2","Name":"ABCD","NameEn":"ABCD","CityList":[]},{"TabId":"3","Name":"EFGHJ","NameEn":"EFGHJ","CityList":[]},{"TabId":"4","Name":"KLMN","NameEn":"KLMN","CityList":[]},{"TabId":"5","Name":"PQRSTW","NameEn":"PQRSTW","CityList":[]},{"TabId":"6","Name":"XYZ","NameEn":"XYZ","CityList":[]}]},{"CityType":"ihotel","TabList":[{"TabId":"1","Name":"\u70ED\u95E8","NameEn":"Hot","CityList":[{"ProvinceId":null,"CityId":"68678448-0BC9-4DF9-BEED-C7AC46D82CEE","CityCode":"HongKong_HK","CityNameCn":"\u9999\u6E2F","CityNameEn":"Hong Kong","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u9999\u6E2F,\u9999\u6E2F"},{"ProvinceId":null,"CityId":"95203ED3-374D-4B70-97CF-D9FCEED5AD91","CityCode":"Macau_MO","CityNameCn":"\u6FB3\u95E8","CityNameEn":"Macau","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u6FB3\u95E8,\u6FB3\u95E8"},{"ProvinceId":null,"CityId":"A117D333-6210-FB9E-CF22-A6F73C907FFE","CityCode":"Bangkok_TH","CityNameCn":"\u66FC\u8C37","CityNameEn":"Bangkok","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u66FC\u8C37,\u6CF0\u56FD"},{"ProvinceId":null,"CityId":"A11DA333-6210-FB9E-DEF2-BB7591907FFC","CityCode":"Seoul_KR","CityNameCn":"\u9996\u5C14","CityNameEn":"Seoul","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u9996\u5C14,\u97E9\u56FD"},{"ProvinceId":null,"CityId":"2EBABFD7-C0B7-4EDC-A830-BE4D93D426FF","CityCode":"Singapore_SG","CityNameCn":"\u65B0\u52A0\u5761","CityNameEn":"Singapore","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u65B0\u52A0\u5761,\u65B0\u52A0\u5761"},{"ProvinceId":null,"CityId":"0913ABB4-11AF-4FDF-9C99-74D8A89D8AD1","CityCode":"Phuket_TH","CityNameCn":"\u666E\u5409\u5C9B","CityNameEn":"Phuket","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u666E\u5409\u5C9B,\u666E\u5409\u5C9B - \u6500\u7259,\u6CF0\u56FD\u5357\u90E8,\u6CF0\u56FD"},{"ProvinceId":null,"CityId":"280C4712-8718-4A72-864E-DFBCF022B4E6","CityCode":"Taipei_TW","CityNameCn":"\u53F0\u5317","CityNameEn":"Taipei","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u53F0\u5317,\u4E2D\u56FD\u53F0\u6E7E"},{"ProvinceId":null,"CityId":"4FDED4FF-AF4A-41B7-976B-BD5BD436F135","CityCode":"LasVegas_US_NV","CityNameCn":"\u62C9\u65AF\u7EF4\u52A0\u65AF","CityNameEn":"Las Vegas","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u62C9\u65AF\u7EF4\u52A0\u65AF,\u514B\u62C9\u514B\u53BF - \u62C9\u65AF\u7EF4\u52A0\u65AF,\u5185\u534E\u8FBE,\u7F8E\u56FD"},{"ProvinceId":null,"CityId":"B092733B-991A-47B1-8F10-46EA10FA8E00","CityCode":"LosAngeles_US_CA","CityNameCn":"\u6D1B\u6749\u77F6","CityNameEn":"Los Angeles","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u6D1B\u6749\u77F6,\u6D1B\u6749\u77F6\u53BF,\u52A0\u5229\u798F\u5C3C\u4E9A,\u7F8E\u56FD"},{"ProvinceId":null,"CityId":"7A9B6669-110A-4F80-94C4-43BD246C3F17","CityCode":"KualaLumpur_MY","CityNameCn":"\u5409\u9686\u5761","CityNameEn":"Kuala Lumpur","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u5409\u9686\u5761,\u9A6C\u6765\u897F\u4E9A"},{"ProvinceId":null,"CityId":"572B0850-4E3F-469B-87B2-C17ED3EA049B","CityCode":"NewYork_US_NY","CityNameCn":"\u7EBD\u7EA6","CityNameEn":"New York","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u7EBD\u7EA6,\u7F8E\u56FD"},{"ProvinceId":null,"CityId":"8D4456FB-4038-4A55-BCBE-AA544AB549AD","CityCode":"SanFrancisco_US_CA","CityNameCn":"\u65E7\u91D1\u5C71","CityNameEn":"San Francisco","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u65E7\u91D1\u5C71,\u6D77\u6E7E\u5730\u533A,\u52A0\u5229\u798F\u5C3C\u4E9A,\u7F8E\u56FD"},{"ProvinceId":null,"CityId":"06F38ECD-7DEE-4B16-821D-EC1FC9B13438","CityCode":"Bali_ID","CityNameCn":"\u5DF4\u5398\u5C9B","CityNameEn":"Bali","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u5DF4\u5398\u5C9B,\u5370\u5EA6\u5C3C\u897F\u4E9A"},{"ProvinceId":null,"CityId":"D1474120-AF9F-48D3-917C-B4673EDD264C","CityCode":"Tokyo_JP","CityNameCn":"\u4E1C\u4EAC","CityNameEn":"Tokyo","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u4E1C\u4EAC,\u5173\u4E1C,\u65E5\u672C"},{"ProvinceId":null,"CityId":"2D48A8FA-3714-4100-97A4-764D06D582F3","CityCode":"ChiangMai_TH","CityNameCn":"\u6E05\u8FC8","CityNameEn":"Chiang Mai","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u6E05\u8FC8,\u6CF0\u56FD\u5317\u90E8,\u6CF0\u56FD"},{"ProvinceId":null,"CityId":"9B0681E3-6D9F-47E8-8E14-5389F83569DD","CityCode":"Athens_US_TN","CityNameCn":"\u96C5\u5178","CityNameEn":"Athens","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u96C5\u5178,\u7530\u7EB3\u897F,\u7F8E\u56FD"},{"ProvinceId":null,"CityId":"AC108AC3-1C20-8B09-FD22-49199C490800","CityCode":"Saipan_MP","CityNameCn":"\u585E\u73ED","CityNameEn":"Saipan","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u585E\u73ED,\u585E\u73ED\u5C9B,\u5317\u9A6C\u91CC\u4E9A\u7EB3\u7FA4\u5C9B"},{"ProvinceId":null,"CityId":"B13C75CC-EB4C-44B3-8E06-6E95D7848E9E","CityCode":"Moscow_RU","CityNameCn":"\u83AB\u65AF\u79D1","CityNameEn":"Moscow","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u83AB\u65AF\u79D1,\u4FC4\u7F57\u65AF"},{"ProvinceId":null,"CityId":"723769A1-CAFF-4ABC-8C8A-36CB1E93AEBD","CityCode":"Pattaya_TH","CityNameCn":"\u82AD\u5824\u96C5","CityNameEn":"Pattaya","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u82AD\u5824\u96C5,\u6CF0\u56FD"},{"ProvinceId":null,"CityId":"CD245705-80C0-48DA-8A57-40627472E9FA","CityCode":"Krabi_TH","CityNameCn":"\u7532\u7C73","CityNameEn":"Krabi","CityThreeSign":"","CityType":"ihotel","OldEnglishName":"\u7532\u7C73,\u7532\u7C73 - \u8463\u91CC,\u6CF0\u56FD\u5357\u90E8,\u6CF0\u56FD"}]}]}];var PageSwitch={"JsErrorMonitor":"0","IsLogOutDIY":"0","LogOutUrl":""};  </script>
+     
+    <script type="text/javascript" src="http://www.elongstatic.com/common/js/systemall.js?t=201308301031"></script>
+    
+
+        <script type="text/javascript" src="http://www.elongstatic.com/hotels/js/AiOBoxNew.js"></script>
+    <script type="text/javascript" src="http://www.elongstatic.com/hotels/js/HotelAutoSuggest.js"></script>
+    <script type="text/javascript" src="http://www.elongstatic.com/inthotels/js/IHotelAutoSuggest.js"></script>
+
+    
+       <script type="text/javascript">
+        var ElongNewIndexController = {
+            IndexConfig: {"InDays":"20","AfterDays":"180","iHotelAfterDays":"330","iHotelInDays":"30","serverDateStr":"2013/9/24 0:00:00","SiteTel":"4009-333-333","PoiConfig":{"ConfigList":[{"PoiTypeName":"\u5730\u94C1\u7AD9\u9644\u8FD1","PoiTypeId":"0_2","PoiSource":0,"PoiUrl":"http://hotel.elong.com/#{CityCode}/place#{PoiId}/","PoiCount":30},{"PoiTypeName":"\u706B\u8F66\u7AD9/\u673A\u573A","PoiTypeId":"0_1","PoiSource":0,"PoiUrl":"http://hotel.elong.com/#{CityCode}/place#{PoiId}/","PoiCount":30},{"PoiTypeName":"\u5546\u4E1A\u533A","PoiTypeId":"0_3","PoiSource":0,"PoiUrl":"http://hotel.elong.com/#{CityCode}/center#{PoiId}/","PoiCount":30},{"PoiTypeName":"\u4E2D\u9AD8\u8003\u8003\u70B9","PoiTypeId":"1_76","PoiSource":1,"PoiUrl":"http://hotel.elong.com/#{CityCode}/place#{PoiId}/","PoiCount":30},{"PoiTypeName":"\u5C55\u9986\u4F1A\u573A","PoiTypeId":"1_38","PoiSource":1,"PoiUrl":"http://hotel.elong.com/#{CityCode}/place#{PoiId}/","PoiCount":30},{"PoiTypeName":"\u533B\u9662\u9644\u8FD1","PoiTypeId":"1_99","PoiSource":1,"PoiUrl":"http://hotel.elong.com/#{CityCode}/place#{PoiId}/","PoiCount":30},{"PoiTypeName":"\u666F\u70B9\u9644\u8FD1","PoiTypeId":"1_2","PoiSource":1,"PoiUrl":"http://hotel.elong.com/#{CityCode}/place#{PoiId}/","PoiCount":30},{"PoiTypeName":"\u884C\u653F\u533A","PoiTypeId":"0_6","PoiSource":0,"PoiUrl":"http://hotel.elong.com/#{CityCode}/district#{PoiId}/","PoiCount":30}]}},
+            IPAddress: null,
+            ServerTime: "2013-09-24 23:05:37",
+            CalendarShowYesterday: false,
+            Resources: {Validate_DepartCityNull: "\u8BF7\u8F93\u5165\u51FA\u53D1\u57CE\u5E02\uFF01",Validate_ArriveCityNull: "\u8BF7\u8F93\u5165\u5230\u8FBE\u57CE\u5E02\uFF01",Validate_DateFormat: "\u65E5\u671F\u586B\u5199\u6709\u8BEF\uFF0C\u6B63\u786E\u683C\u5F0F\u4E3Ayyyy-mm-dd!",Validate_SameCity: "\u51FA\u53D1\u57CE\u5E02\u4E0E\u5230\u8FBE\u57CE\u5E02\u4E0D\u53EF\u76F8\u540C\uFF0C\u8BF7\u91CD\u65B0\u8F93\u5165\uFF01",Validate_BeforeToday: "\u51FA\u53D1\u65E5\u671F\u4E0D\u53EF\u65E9\u4E8E\u4ECA\u65E5\uFF0C\u8BF7\u91CD\u65B0\u9009\u62E9\uFF01",Validate_DateCheck: "\u8FD4\u7A0B\u65E5\u671F\u4E0D\u53EF\u65E9\u4E8E\u51FA\u53D1\u65E5\u671F\uFF0C\u8BF7\u91CD\u65B0\u9009\u62E9\uFF01",Validate_MultiDate: "\u7B2C\u4E8C\u822A\u7A0B\u7684\u51FA\u53D1\u65F6\u95F4\u4E0D\u53EF\u65E9\u4E8E\u7B2C\u4E00\u822A\u7A0B\u7684\u51FA\u53D1\u65F6\u95F4\uFF0C\u8BF7\u91CD\u65B0\u9009\u62E9\uFF01",Validate_LimitDate: "\u8FD4\u7A0B\u65E5\u671F\u8D85\u51FA\u9650\u5236\uFF0C\u8BF7\u91CD\u65B0\u9009\u62E9\uFF01",Validate_NoDepartCity: "\u65E0\u6B64\u51FA\u53D1\u57CE\u5E02\uFF01",Validate_NoArriveCity: "\u65E0\u6B64\u5230\u8FBE\u57CE\u5E02\uFF01",Validate_MultiSame: "\u7B2C\u4E00\u822A\u7A0B\u5230\u8FBE\u57CE\u5E02\u4E0D\u80FD\u4E0E\u7B2C\u4E8C\u822A\u7A0B\u5230\u8FBE\u57CE\u5E02\u76F8\u540C\uFF01",DomesticCity: "\u51FA\u53D1\u3001\u5230\u8FBE\u57CE\u5E02\u4E0D\u80FD\u540C\u4E3A\u56FD\u5185\u57CE\u5E02"},
+            UrlConfig: {Flight_Result_OneWay: "http://flight.elong.com/search/{language}_list_{departcity}_{arrivecity}_{departdate}_{seatlevel}.html",Flight_Result_GoRound: "http://flight.elong.com/search/{language}_round_trip_{departcity}_{arrivecity}_{departdate}_{backdate}_{seatlevel}.html",Flight_Result_First: "http://flight.elong.com/search/{language}_multi_dest_{first_departcity}_{first_arrivecity}_{first_departdate}_{second_departcity}_{second_arrivecity}_{second_departdate}_{seatlevel}.html",IFlightList: "http://iflight.elong.com/{language}_{pagename}_{startcity}_{endcity}_{startdate}_{enddate}_{aircorp}_{passengercount}_{childcount}_{seatlevel}_{adulttype}.html",GlobalHotel_ListCity: "http://globalhotel.elong.com/list_{citycode}.html",GlobalHotel_ListCityProvince: "http://globalhotel.elong.com/list_{citycode}.html"},
+            Language: "CN",
+            WebCategory: "Elong",
+            CampaignId: "",
+            GetLocalCity: function(ip, callback, enabledCache, httpmethod,submitButton){ elongAjax.callBack("/HOME/isajax/ElongNewIndex/GetLocalCity?viewpath=~/views/HomePage/ElongNewIndex.aspx&language=cn&agent=windowsnt&ispad=", {ip:ip}, callback, enabledCache, httpmethod,submitButton); },
+            GetPoiCity: function(cityId, cityCode, callback, enabledCache, httpmethod,submitButton){ elongAjax.callBack("/HOME/isajax/ElongNewIndex/GetPoiCity?viewpath=~/views/HomePage/ElongNewIndex.aspx&language=cn&agent=windowsnt&ispad=", {cityId:cityId, cityCode:cityCode}, callback, enabledCache, httpmethod,submitButton); },
+            SendAppSMSJsonp: function(mobile, callback, callback, enabledCache, httpmethod,submitButton){ elongAjax.callBack("/HOME/isajax/ElongNewIndex/SendAppSMSJsonp?viewpath=~/views/HomePage/ElongNewIndex.aspx&language=cn&agent=windowsnt&ispad=", {mobile:mobile, callback:callback}, callback, enabledCache, httpmethod,submitButton); },
+            SendAppSMS: function(mobile, callback, enabledCache, httpmethod,submitButton){ elongAjax.callBack("/HOME/isajax/ElongNewIndex/SendAppSMS?viewpath=~/views/HomePage/ElongNewIndex.aspx&language=cn&agent=windowsnt&ispad=", {mobile:mobile}, callback, enabledCache, httpmethod,submitButton); }
+        }
+     </script>
+
+
+    
+    <script type="text/javascript" src="http://www.elongstatic.com/home/views/HomePage/ElongNewIndex.js?t=201308301031"></script>
+
+     <script type="text/javascript">
+function SliderTimer() {
+    this.scroll = setInterval(function () {
+        var dvSlider = $("div[class='focusMap']");
+        var index = dvSlider.find("a").index(dvSlider.find("a:visible"));
+        index = index + 1;
+        if (index == dvSlider.find("a").length)
+            index = 0;
+        dvSlider.find("li").eq(index).trigger('click');
+    } .bind(this), 10000);
+}
+function Slider() {
+    var dvSlider = $("div[class='focusMap']");
+    var btnList = dvSlider.find("li");
+    btnList.bind("click", function (evt) {
+        var element = Event.element(evt);
+        btnList.removeClass("action");
+        element.addClass("action");
+        dvSlider.find("a:visible").fadeOut(700);
+        var index = btnList.index(element);
+        dvSlider.find("a:eq(" + index + ")").fadeIn(1000);
+ evt.stopPropagation();
+    } .bind(this));
+    SliderTimer();
+}
+function ScrollGroupOn() {
+    var step = 275;
+    var dvGroupOn = $("div[class='Promotions']");
+    var leftBtn = dvGroupOn.find("a[method='leftBut']");
+    var rightBtn = dvGroupOn.find("a[method='rightBut']");
+ 
+    var left = dvGroupOn.find("div[class='groupon']").css("margin-left").replace("px", "");
+    if (parseInt(left) == 0) {
+        leftBtn.addClass("leftBut_no");
+    }
+    rightBtn.bind("click", function (evt) {
+        var dvScroll = dvGroupOn.find("div[class='groupon']");
+        var right = dvScroll.css("margin-left").replace("px", "");
+        var item = dvScroll.find("dl");
+        if (item.length > 2 && (parseInt(right) - step >= (2 - item.length) * step)) {
+  leftBtn.removeClass("leftBut_no");
+  if (parseInt(right) - step == (2 - item.length) * step)
+  {
+   rightBtn.addClass("rightBut_no");
+  }
+  dvScroll.animate({ marginLeft: (parseInt(right) - step) + "px" });
+        }
+    } .bind(this));
+    leftBtn.bind("click", function (evt) {
+        var dvScroll = dvGroupOn.find("div[class='groupon']");
+        var left = dvScroll.css("margin-left").replace("px", "");
+        var item = dvScroll.find("dl");
+        if (item.length > 2 && parseInt(left) < 0 && (parseInt(left) + step <= (item.length - 2) * step)) {
+  rightBtn.removeClass("rightBut_no");
+  if (parseInt(left) + step == 0)
+  {
+   leftBtn.addClass("leftBut_no");
+  }
+  var leftLength = parseInt(left) + step;
+  if (leftLength > 0) {
+   leftLength = 0;
+  }
+  dvScroll.animate({ marginLeft: leftLength + "px" });
+        }
+    } .bind(this));
+}
+function InitSeo() {
+    var seo = $("div[class='bottom_nav']");
+    var detail = $("div[class='bottom_con']");
+    detail.hide();
+    seo.bind("click", function (evt) {
+        var element = Event.element(evt);
+        if (element.is("a") || element.is("li")) {
+            if (element.is("a")) element = element.parents("li");
+            seo.find("li").removeClass("action");
+            element.addClass("action");
+            var index = seo.find("li").index(element);
+            detail.hide();
+            detail.eq(index).show();
+        }
+    } .bind(this));
+}
+function clickEmailSubmit() {
+ var email = $("#email").val();
+ if (validator.valid(email, "notEmpty & email") == false) {
+  alert("请输入订阅邮箱或邮箱格式不正确！");
+  return false;
+ }
+ elongAjax.callBack("http://hotel.elong.com/isajax/EmailSubscribe/getorignalemail", {}, function (res) {
+  var isUpdateEmail = false;
+  if (res.isLogin && res.orginalEmail != email) {
+   if (confirm("与注册email不一致，问是否需要更新注册email")) {
+    isUpdateEmail = true;
+   }
+  }
+  var requestParams = { email: email, subscribeTypes: [1,2,3,4,6,8], isUpdateEmail: isUpdateEmail };
+  elongAjax.callBack("http://hotel.elong.com/isajax/EmailSubscribe/Subscribe", requestParams, function (result) {
+   alert(result.msg);
+  }, false, "GET", null, "jsonp");
+ }, false, "GET", null, "jsonp");
+}
+function InitHomePage() {
+    Slider();
+    ScrollGroupOn();
+    InitSeo();
+}
+InitHomePage();
+</script>
+<script type="text/javascript">
+    document.write("<iframe src='/gtags_tms_page.html' style='display:none;'></iframe>");
+</script>
+<script type="text/javascript"> 
+ var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); 
+ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F534297d111513e96c6fbe9215cf98917' type='text/javascript'%3E%3C/script%3E")); 
+</script>
+
+     
+     
+
+    
+
+   
+  
+    
+       
+    <div style='position: absolute; top: 0px; left: 0px; z-index: 100; height: 1px; width: 1px;overflow: hidden; visibility: hidden;'>
+        <script type="text/javascript">var trackingOBJ = {oPageName: "ElongIndexPage",oServerName: "211.151.110.35",oOrderFromId: "50"}</script>
+        <script type="text/javascript" src="http://www.elongstatic.com/common/js/noexpire/s_code.js?t=201308301031"></script>
+        <script language="JavaScript" type="text/javascript">            var s_code = s.t(); if (s_code) document.write(s_code);</script>                                                    
+        <noscript><img src="http://elongcom.122.2O7.net/b/ss/elongcom/1/H.1--NS/0" height="1" width="1" border="0" alt="" /></noscript>
+    </div>
+    
+
+    <!-- Google Code Start -->
+
+    <!-- Google Code End -->
+</body>
+</html>

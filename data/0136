@@ -1,0 +1,246 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <title>百度地图标注认领</title>	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="Keywords" content="百度地图标注认领，商户中心，百度身边店，身边店，商户入驻" />
+        <meta name="Description" content="百度地图提供免费标注认领服务，能够自主管理您的商户详情页面，实时更新商户动态，丰富营业信息，让客户全方位了解您并找到您，提升您的品牌知名度。" />	
+	<link type="text/css" rel="stylesheet" href="css/index.css">
+	<link type="text/css" rel="stylesheet" href="css/public.css">
+    <script type="text/javascript">
+		var _hmt = _hmt || [];
+	</script>
+ </head>
+
+ <body>
+	 <header>
+		<div class="s-top">
+			<div class="s-header">
+				<div class="s-logo">
+					<a href="index.html"><img src="images/top_logo.png" alt="" /></a>
+				</div>
+			</div>
+		</div>
+		<div class="imgList-wrap">
+			 <div class="s-header relative">
+				 <ul class="overHiden" id="picWrap">
+					<li><img id="myimage" src="images/img-index1.jpg"/></li>
+					<!--<li><a href="javascript:void(0);"><img src="images/img_list_one.png"/></a></li>-->
+				 </ul>
+				 <!--
+				 <ul class="imgIndex" id="num">
+					<li onclick="showCertainImage(0)" class="currentIndex"></li>
+					<li onclick="showCertainImage(1)"></li>
+				 </ul>
+				 -->
+			 </div>
+		</div>
+	</header>
+	<nav>
+		<div class="nav">
+			<ul class="nav">
+				<li class="currentPage"><a href="index.html">免费标注认领</a></li>
+				<li><a href="saleway_index.html">我们的服务</a></li>
+				<li><a href="saleway_faq.html">问题解答</a></li>
+			</ul>
+			
+		</div>
+		<div class="clearBox>"></div>
+	</nav>
+	
+	<article>
+		<div class="s-header">			
+			<section>
+				<div class="section section1-bg">						
+					<h1 class="smallLogo introduction_bg microYa ">服务介绍</h1>					
+					<p class="word">百度地图标注，是专门服务于本地商户的一种新型营销模式，您可以在百度</p>
+					<p class="word">地图<span class="orange">免费</span>标注认领您的店铺，自主<span class="orange">管理</span>您的详情页面，丰富营业信息，</p>
+					<p class="word">让客户全方位了解您并找到您。</p>	
+		           	<div class="ren_box"><div class="ren_one"><a href="http://lbc.baidu.com/" title="立即标注认领" class="ren_btn" target="_blank" onclick="_hmt.push(['_trackEvent', '立即标注认领', 'click', 'btn']);"></a><p class="xiangqing">详情咨询:(010)56799399</p></div><!--ren_one end-->
+                    <div class="ren_two"><a href="app.html"  target="_blank" title="下载百度身边店手机版  轻松标注，快速认领"  onclick="_hmt.push(['_trackEvent', '下载百度身边店手机版  轻松标注，快速认领', 'click', 'down_btn']);"><img src="images/down_baidu.png" alt="" class="down_baidu"/></a><img src="images/two_ma.png" alt="" class="two_ma"/></div><!--ren_two end-->
+                    
+                    </div><!--ren_box end-->			
+				</div>
+			</section>
+			<section>
+				<div class="section">
+					<h1 class="smallLogo advantage-logo microYa ">核心优势</h1>	
+					<ul class="advantage-ul">
+						<li class="advantage-bg1 first">
+							<h1><span class="direction white">优势1</span><span class="blue">亿万用户 海量曝光</span></h1>
+							<p>每天有亿万用户访问百度地图</p>
+							<p>您的客户正在百度地图找您！</p>
+							<p></p>
+						</li>
+						<li class="advantage-bg2">
+							<h1><span class="direction white">优势2</span><span class="blue">自主管理 锁定商机</span></h1>
+							<p>自主管理商户企业信息</p>
+							<p>联系方式、地址电话</p>
+							<p>方便网友查询，确保商机不错过</p>
+						</li>
+						<li class="advantage-bg3">
+							<h1><span class="direction white">优势3</span><span class="blue">官方权威认证</span></h1>
+							<p>官方认证</p>
+							<p>让您的信息更权威</p>
+							<p>提升品牌知名度及服务可信度</p>
+						</li>
+						<li class="advantage-bg4 last">
+							<h1><span class="direction white">优势4</span><span class="blue">提高消费转化率</span></h1>
+							<p>让用户更快速的找到您</p>
+							<p>并了解您</p>
+							<p>吸引消费者到店消费</p>
+						</li>
+					</ul>
+					<div class="clearBox"></div>
+				</div>
+			</section>
+			<section>
+				<div class="q1-bg section">
+					<a class ="q1" href="http://lbc.baidu.com/"  target="_blank" onclick="_hmt.push(['_trackEvent', '立即标注1', 'click', 'btn']);">
+				    	<img src="images/q1_bg.png"/>
+				    </a>	
+					<h1 class="smallLogo edit-logo microYa ">两分钟快速完成标注认领</h1>
+                    <br/>
+					<div class="part-three">
+						<div class="aside"><span class="white">1</span></div>
+						<div class="left">
+							<p class="haveBorder">注册登陆，完善个人信息</p>
+							<p class="deepGray">直接访问 lbc.baidu.com注册百度账号，激活并完善个人信息；</p>
+							<p class="deepGray">或通过百度地图主页右上角点击"商户免费标注"完成注册登陆。</p>
+						</div>
+						<div class="clearBox"></div>
+					</div>
+				</div>
+				<div class="q2-bg section">
+					<a class ="q2" href="http://lbc.baidu.com/" target="_blank" target="_blank" onclick="_hmt.push(['_trackEvent', '立即标注2', 'click', 'btn']);">
+				    	<img src="images/q2_bg.png"/>
+				    </a>
+					<div class="part-four">
+						<div class="aside"><span class="white">2</span></div>
+						<div class="left">
+							<p class="haveBorder">能查到店铺，可以直接认领</p>
+							<p class="deepGray">请在地图上方的框中输入您的店铺，如果能够查到您的店铺，请直</p>
+							<p class="deepGray">接认领，认领时需要上传您的证照资质。提交申请后，有5-7天的</p>
+							<p class="deepGray">审核期。如果无法查到，请先标注其所在的位置，再进行认领。</p>
+						</div>
+						<div class="clearBox"></div>
+					</div>
+				</div>
+				<div class="q3-bg section">
+					<a class ="q3" href="http://lbc.baidu.com/"  target="_blank" target="_blank" onclick="_hmt.push(['_trackEvent', '立即标注3', 'click', 'btn']);">
+				    	<img src="images/q3_bg.png"/>
+				    </a>
+					<div class="part-three">
+						<div class="aside"><span class="white">3</span></div>
+						<div class="left">
+							<p class="haveBorder">查不到店铺，先标注，再认领</p>
+							<p class="deepGray">点击"我要标注"，填写商户名称和精确的地址位置，精确到门</p>
+							<p class="deepGray">牌号。点击"标注商户位置"，双击地图，放大地图比例。地图</p>
+							<p class="deepGray">比例越大，标注的准确度越高。需要放到最大层级，即双击鼠标</p>
+							<p class="deepGray">地图不再放大，地图能够清楚显示你所在位置的周边环境为止。</p>
+							<p class="deepGray">参照你周边的地标性建筑，拖拽地图中的红点，标注到你认为</p>
+							<p class="deepGray">最准确的位置，点击确定。</p>
+						</div>
+						<div class="clearBox"></div>
+					</div>
+				</div>
+			</section>
+		</div>
+	</article>
+	<footer>
+		<div class="footer">
+			<a target="_blank" href="http://www.map.baidu.com">百度地图</a>
+			<a target="_blank" href="http://www.baidu.com/duty">使用百度前必读</a>
+			<a target="_blank" href="/inf/account/static?tpl=lbc_help">帮助中心</a>
+		</div>
+	</footer>
+    <script src="js/toTop.js"></script>
+ <script>
+	/*	
+		var j=0;
+        var i = 100;
+        var c = false;
+        // the array is used to store the picture
+		var names = ["images/img-index1.png","images/img_list_one.png"]; //存储图片的路径;
+		
+		function isIE(){
+			var ret = false
+			if (navigator.userAgent.indexOf("MSIE")>0)
+			{
+				ret =true;    
+			}
+			return ret;
+		}
+		
+        var isIE = isIE();
+		var myimage = document.getElementById('myimage');
+		var num = document.getElementById('num').getElementsByTagName('li');
+		var len = num.length;
+		var timer;
+        
+        function filter(){
+            if(c == true) {
+                i++;
+            }
+            if(i==100) {
+                i--;
+                c = false
+            }
+            if(i==1) {
+                i++;
+                c = true;
+                //change the picture
+                if(j==names.length-1){
+					j=0;
+				}else{
+					j++;
+				}
+                
+                //get the picture by the index of names array
+                myimage.src=names[j];
+				
+				for(var k=0; k<len; k++){
+					num[k].className = '';
+				}
+				
+				num[j].className = 'currentIndex';
+            }
+			
+            if(c == false) {
+                i--;
+            }            
+             //show or hide the picture by filter
+            if (isIE){
+                myimage.filters.alpha.opacity=i;
+            }else{
+                myimage.style.opacity = i/100;
+            }
+			
+            timer = setTimeout("filter()",20);
+        }
+		function showCertainImage(index){
+			if(timer){
+				clearTimeout(timer);
+			}
+			myimage.src = names[index];
+			
+			for(var k=0; k<len; k++){
+					num[k].className = '';
+			}				
+			num[index].className = 'currentIndex';
+			
+		}
+		
+		filter();
+		
+	*/	
+ </script>
+ 	<div style="display:none">
+    <script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F4becd0b106e2ffa2c768ca464c863ae0' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+    </div>
+ </body>
+ 
+</html>

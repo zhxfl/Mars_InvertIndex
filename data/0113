@@ -1,0 +1,2550 @@
+    <!DOCTYPE HTML>
+<html>
+<head>
+  
+    <meta charset="utf-8"/>
+    <title>首页_校园新声代_百度音乐-中国第一音乐门户</title>
+    
+    <meta content="百度音乐，音乐，音乐网，音乐播放器，mp3免费下载，流行歌曲，在线听歌，音乐网站" name="keywords"/>
+    <meta content="百度音乐是中国第一音乐门户，为你提供海量正版高品质音乐，最权威的音乐榜单，最快的新歌速递，最契合你的主题电台，最人性化的歌曲搜索，让你更快地找到喜爱的音乐，带给你全新音乐体验。"          name="description"/>
+    
+    <meta name="baidu-tc-verification" content="5532f353892ad86095cb538ab988fb55"/>
+    
+    <meta name="google-site-verification" content="-michJB8aokthZhSsY3KIyd7TW9tQ2jSXI_87qveZpo"/>
+    
+    <meta name="msvalidate.01" content="B96798BECBFD1C248180D6DA843E27ED"/>
+    
+    <meta property="wb:webmaster" content="95125c09ba4c1de4"/>
+    <!--STATUS OK-->
+    <link rel="shortcut icon" href="/static/images/favicon.ico"/>
+    
+    <script type="text/javascript">
+      var ting = ting || {};
+          </script>
+    <script type="text/javascript">
+      var ting = ting || {};
+      var httpSuccess = function (xhr) {
+        try {
+          // IE error sometimes returns 1223 when it should be 204 so treat it as success, see #1450
+          return !xhr.status && location.protocol === "file:" ||
+            // Opera returns 0 when status is 304
+            ( xhr.status >= 200 && xhr.status < 300 ) ||
+            xhr.status === 304 || xhr.status === 1223 || xhr.status === 0;
+        } catch (e)
+        {}
+
+        return false;
+      };
+      var parseJSON = function (data) {
+        if (typeof data !== "string" || !data) {
+          return null;
+        }
+        // Make sure leading/trailing whitespace is removed (IE can't handle it)
+        var rtrim = /^(\s|\u00A0)+|(\s|\u00A0)+$/g,
+          data1 = data.replace(rtrim, "");
+        // Make sure the incoming data is actual JSON
+        // Logic borrowed from http://json.org/json2.js
+        if (/^[\],:{}\s]*$/.test(data1.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F][0-9a-fA-F][0-9a-fA-F][0-9a-fA-F])/g, "@")
+          .replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g, "]")
+          .replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) {
+          // Try to use the native JSON parser first
+          return window.JSON && window.JSON.parse ?
+            window.JSON.parse(data1) :
+            (new Function("return " + data1))();
+
+        } else {
+          throw "Invalid JSON: " + data1;
+        }
+      };
+      var httpData = function (xhr, type) {
+        var data = xhr.responseText;
+        // The filter can actually parse the response
+        if (typeof data === "string") {
+          // Get the JavaScript object, if JSON is used.
+          if (type === "json") {
+            data = parseJSON(data);
+          }
+        }
+        return data;
+      };
+      //发送ajax请求拉取user_bar
+      function getUserBar(content, url) {
+        var requestDone = false;
+        var getXhr = window.XMLHttpRequest && (window.location.protocol != 'file' || window.ActiveXObject) ?　
+				function () {
+          return new window.XMLHttpRequest();
+        }
+
+      :
+        function () {
+          try {
+            return new window.ActiveXObject("Microsoft.XMLHTTP");
+          } catch (e)
+          {}
+        };
+        var xhr = getXhr();
+
+        if (!xhr) {
+          return;
+        }
+
+
+        url += '?_t=' + (new Date).getTime();
+        xhr.open('get', url, true);
+        xhr.setRequestHeader("Accept", "application/json, text/javascript, */*");
+        xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+        // Wait for a response to come back
+        var onreadystatechange = xhr.onreadystatechange = function () {
+          var status = false;
+          // The request was aborted
+          if (!xhr || xhr.readyState === 0) {
+
+            requestDone = true;
+            if (xhr) {
+              xhr.onreadystatechange = {};
+            }
+
+            // The transfer is complete and the data is available, or the request timed out
+          } else if (!requestDone && xhr && xhr.readyState === 4) {
+            requestDone = true;
+            xhr.onreadystatechange = {};
+
+            status = !httpSuccess(xhr) ?
+              "error" :
+              "success";
+
+            var errMsg;
+            if (status === "success") {
+              // Watch for, and catch, XML document parse errors
+              try {
+                // process the data (runs the xml through httpData regardless of callback)
+                data = httpData(xhr, 'json');
+              } catch (err) {
+                status = "parsererror";
+                errMsg = err;
+              }
+            }
+            // Make sure that the request was successful or notmodified
+            if (status === "success") {
+              content.innerHTML = data.data.html;
+              if (!!window.$) {
+                (new Function(data.data.js)).call(data.data.html);
+              } else {
+                ting.userBarInit = new Function(data.data.js);
+              }
+
+
+            } else {
+            }
+            // Stop memory leaks
+            xhr = null;
+
+          }
+        };
+
+        // Send the data
+        try {
+          xhr.send(null);
+        } catch (e) {
+        }
+      }
+      try {
+        document.execCommand('BackgroundImageCache', false, true);
+      } catch (e) {
+      }
+      // function _xbg(o,e){
+      // 	if(e==='f'){
+      // 		o.style.fontSize = "16px";
+      // 		o.style.color = "#000";
+      // 		if(o.value == $(o).data('default')){ o.value = '';}
+      // 	}
+      // 	if(e === 'b' && !o.value){ o.style.color = "#999"; o.style.fontSize = "14px"; o.value = $(o).data('default'); }
+      // }
+    </script>
+    
+
+    
+      <link rel="stylesheet" type="text/css" href="http://mu5.bdstatic.com/static/c/MS1ohFvD.css"/>
+    
+    
+    <link rel="stylesheet" type="text/css" href="/cms/huodong/voiceschool/css/voiceschool_common_5.css?_v=20130831">
+
+    <link rel="stylesheet" type="text/css" href="/cms/huodong/voiceschool/css/voiceschool_index_5_2.css">
+
+  
+</head>
+<body 
+    class="voiceschool"
+>
+
+    <div class="header" alog-alias="music-xiaoyuan-head">
+    <div class="logo"><a target="_blank" href="http://music.baidu.com">百度音乐</a>&gt;</div>
+    <div class="user-panel">
+        <div id="userbar" class="userbar" alog-alias="userbar"></div>
+
+<script type="text/javascript">
+var ting = ting || {};
+
+var enterState = (function( sUsrBarWapperID ) {
+    var oUserInfo, oTemplateMap, sLocation, eUsrBar, bBindUserBar, fEnterState, showUserCenter;
+    sLocation = encodeURIComponent( location.href );
+    oUserInfo = {
+        "sTemplate": "guest",
+        "sUserName": '',
+        "sSpaceLink": '',
+        "sProfileURL": 'http://passport.baidu.com/#0,1',
+        "sHomeURL": "http://passport.baidu.com/v2/?ucenteradduname",
+        "sBaiduURL": 'http://www.baidu.com',
+        "sLoginURL": 'javascript:;',
+        "sRegURL": 'http://passport.baidu.com/v2/?reg&regType=1&tpl=music&u=' + sLocation,
+        "sLogoutURL": 'http://passport.baidu.com/?logout&tpl=music&u=' + sLocation,
+        'sOpenMbox': '<a href="###" onclick="return ting.media.openPlayer(),false">音乐盒</a>',
+        "sMusicVIPURL": '/home/vip?pst=home',
+        "sUsercenterURL" : "/home/user",
+        "sReceiveURL" : "/home/gift",
+        "enable_fee" : false,
+        "sUserVipURL" : "/home/vip",
+        "vipIcon" : "<i title='未开通VIP会员' class='power-icon-min power-icon-vipidentity'></i>"
+    };
+
+    oTemplateMap = {
+
+        "guest": '<ul class="guest-panel"><li><a rel="nofollow" href="#{sLoginURL}" id="loginbtn">登录</a><a target="_blank" href="#{sRegURL}" rel="nofollow">注册</a></li><li id="oldLine" style="display:none" class="line">|</li></ul>',
+
+        "user": '<ul class="bd-user-panel"><li id="receiveActive" style="margin-right:20px; display:none;"><a rel="nofollow" href="#{sReceiveURL}"><span class="limit-active"></span>免费体验特权！</a></li><li class="uname mn-lk-w"><a id="anchor-user-name" class="mn-lk" href="#{sHomeURL}" target="_blank">#{sUserName}</a><a href="#{sUserVipURL}">#{vipIcon}</a><div id="menu-user"  style="display:none" class="mn-tip" style=" width:75px; right:0;"><ul class="mn"><li><a class="my-home" href="#{sHomeURL}" target="_blank" rel="nofollow">我的主页</a></li><li><a class="my-info" href="#{sProfileURL}" target="_blank" rel="nofollow">帐号设置</a></li><li><a href="#{sLogoutURL}" class="logout" rel="nofollow" >退出</a></li></ul></div></li><li class="line">|</li><li><a id="userCenter" href="#{sUsercenterURL}">会员中心</a></li></ul>'
+    };
+
+    showUserCenter = function () {
+        document.getElementById("userCenter").style.display = "block";
+        document.getElementById("userCenterLine").style.display = "block";
+    };
+
+    showReceive = function () {
+        var ele = document.getElementById("receiveActive");
+        if(ele !== null){
+            ele.style.display = "block";
+        }
+    };
+
+    oCallbacks = {
+        "guest": function() {
+            var loginBtn = document.getElementById("loginbtn"),
+                    popupLogin = function () {
+                        if (ting && ting.passport && ting.passport.checkLogin) {
+                            ting.passport.checkLogin({}, {});
+                        }
+                        return false;
+                    };
+
+            if (loginBtn) {
+                if( !window.attachEvent ) {
+                    loginBtn.addEventListener('click', popupLogin, false);
+                } else {
+                    loginBtn.attachEvent('onclick', popupLogin);
+                }
+            }
+
+            // showUserCenter();
+
+            oCallbacks.invoked = true;
+        },
+        "user": function() {
+            var eAnchorUserName, eMenu, iWatchID, iWatchInterval, bAllowHideMenu, bMenuShow;
+
+            // showUserCenter();
+
+
+            eAnchorUserName = document.getElementById( 'anchor-user-name' );
+            eMenu = document.getElementById( 'menu-user' );
+            iWatchID = -1;
+            iWatchInterval = 500;
+            bAllowHideMenu = false;
+            bMenuShow = false;
+
+            function hideMenu() {
+                if( bAllowHideMenu )
+                {
+                    if( bMenuShow )
+                    {
+                        eMenu.style.display = "none";
+                        bMenuShow = false;
+
+                        clearInterval( iWatchID );
+                        iWatchID = -1;
+                    }
+                }
+            }
+
+            eAnchorUserName.onmouseover = function() {
+                if( !bMenuShow )
+                {
+                    eMenu.style.display = "block";
+                    bMenuShow = true;
+                    bAllowHideMenu = false;
+
+                    if( iWatchID<0 )
+                    {
+                        iWatchID = setInterval( hideMenu, iWatchInterval );
+                    }
+                } else {
+                    hideMenu();
+                }
+                return false
+            };
+
+            eAnchorUserName.onmouseout = function() {
+                bAllowHideMenu = true;
+            };
+
+            eMenu.onmouseover = function() {
+                bAllowHideMenu = false;
+            };
+
+            eMenu.onmouseout = function() {
+                bAllowHideMenu = true;
+            };
+
+            oCallbacks.invoked = true;
+        }
+    };
+
+    function formatTpl(source, opts) {
+        source = String(source);
+        var data = Array.prototype.slice.call(arguments,1), toString = Object.prototype.toString;
+        if(data.length){
+            data = data.length == 1 ?
+                /* ie 下 Object.prototype.toString.call(null) == '[object Object]' */
+                    (opts !== null && (/\[object Array\]|\[object Object\]/.test(toString.call(opts))) ? opts : data)
+                    : data;
+            return source.replace(/#\{(.+?)\}/g, function (match, key){
+            var replacer = data[key];
+            // chrome 下 typeof /a/ == 'function'
+            if('[object Function]' == toString.call(replacer)){
+                replacer = replacer(key);
+            }
+            return ('undefined' == typeof replacer ? '' : replacer);
+        });
+    }
+    return source;
+}
+
+fEnterState = function( _oUserInfo ) {
+    _oUserInfo = _oUserInfo || {};
+
+    for( var i in oUserInfo )
+    {
+        if( _oUserInfo.hasOwnProperty( i ) )
+        {
+            continue;
+        }
+        _oUserInfo[i] = oUserInfo[i];
+    }
+
+    eUsrBar = document.getElementById( sUsrBarWapperID );
+    eUsrBar.innerHTML = formatTpl( oTemplateMap[_oUserInfo['sTemplate']], _oUserInfo );
+    if( _oUserInfo.enable_fee ){
+        showReceive();
+        if( _oUserInfo['sTemplate'] ==  'user' ){
+            showUserCenter();
+        }
+    }
+
+    oCallbacks[ _oUserInfo['sTemplate'] ]();
+    return false
+};
+
+/*
+ @cache bdErrCode
+ @cache uName
+ @cache isOnline
+ @cache isSpaceUser
+ */
+function updateUserState( _oUserInfo) {
+    var sUserName, oRtUserInfo, errorCode, data;
+
+    errorCode = parseInt(_oUserInfo.errorCode);
+    data = _oUserInfo.data;
+    oRtUserInfo = {};
+
+    if (errorCode == 22000) {
+        ting.userInfo = _oUserInfo.data;
+        sUserName = data.bdName ? data.bdName : (data.bdEmail ? data.bdEmail : data.bdMobile);
+        oRtUserInfo.sUserName = sUserName;
+        oRtUserInfo.sTemplate =  'user';
+        oRtUserInfo.sHomeURL = data.bdName ? ['http://www.baidu.com/p/', data.bdName, '?from=music'].join("") : 'http://passport.baidu.com/v2/?ucenteradduname';
+        oRtUserInfo.enable_fee = !!data.enable_fee;
+        if(data.vip ){
+            oRtUserInfo.vipIcon = "<i title='已开通VIP会员' class='power-icon-min power-icon-vipidentity-active'></i>";
+        }
+    } else {
+        oRtUserInfo.enable_fee = !!data.enable_fee;
+        oRtUserInfo.sTemplate = 'guest';
+    }
+
+    return fEnterState( oRtUserInfo );
+}
+
+
+if( !window.attachEvent )
+{
+    window.addEventListener( 'load', initUserBar, false );
+} else {
+    window.attachEvent( 'onload', initUserBar );
+}
+
+return updateUserState;
+})( 'userbar' );
+
+function initUserBar() {
+    var sc = "/data/user/info?callback=enterState&r=" + +new Date(),
+            d = document.getElementsByTagName( 'head' )[ 0 ], s;
+
+    s = document.createElement( 'script' );
+    s.src = sc;
+
+    d.appendChild( s );
+}
+
+ting.refreshUserBar = initUserBar;
+</script>
+    </div>
+</div>
+
+<div class="layout-area-head"  alog-alias="music-xiaoyuan-nav">
+    <div class="banner  clearfix">
+				<a class="vote-time" alog-alias-"music-xiaoyuan-time" href="javascript:void(0);"></a>
+		    </div>
+
+    <div class="nav clearfix ">
+        <div class="menu">
+            <ul>
+                <li class="li_index"><a class="index active" href="/xiaoyuan"></a></li>
+                <li class="li_intro"><a class="intro" href="/xiaoyuan/intro"></a></li>
+                <li class="li_list"><a class="list" href="/xiaoyuan/periodlist"></a></li>
+                <li class="li_school"><a class="school" href="/xiaoyuan/zjxy?type=new"></a></li>
+            </ul>
+        </div>
+        <form action="/xiaoyuan/search" id="search_panel">
+            <div class="search-panel">
+                <span class="k-input"><input type="text" placeholder="搜索参赛曲目/歌手名/学校名" id="searchHeader" name="query"/></span>
+                <input type="submit" class="submit" value="" />
+            </div>
+        </form>
+    </div>
+</div>
+    
+
+
+  
+
+
+    <div class="layout-slider-content"   alog-alias="music-xiaoyuan-slider">
+        <div class="slider clearfix">
+            <div class="pic-slider">
+        
+                <!-- 轮转 begin -->
+                <div class="slide_pic" id="slide_content">
+                    <div class="slide_pic_item" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 8; opacity: 1;">
+                      <a href="javascript:void(0);" style="cursor: default;"><img src="http://music.baidu.com/cms/huodong/voiceschool/images/ads/jd_20130918_01.jpg" width="514" height="252" alt=""></a>
+                    </div>
+                    <div class="slide_pic_item" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 7; opacity: 0;">
+                      <a href="javascript:void(0);" style="cursor: default;"><img src="http://music.baidu.com/cms/huodong/voiceschool/images/ads/jd_20130918_02.jpg" width="514" height="252" alt=""></a>
+                    </div>
+                    <div class="slide_pic_item" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 6; opacity: 0;">
+                        <a href="/xiaoyuan/singer/20135683" target="_blank" title=""><img src="/cms/huodong/voiceschool/images/ads/jd_20130923_03.jpg" width="514" height="252" alt=""></a>
+                    </div>
+                    <div class="slide_pic_item" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 5; opacity: 0;">
+                        <a href="/xiaoyuan/singer/20144822" target="_blank" title=""><img src="/cms/huodong/voiceschool/images/ads/jd_20130923_04.jpg" width="514" height="252" alt=""></a>
+                    </div>
+                    <div class="slide_pic_item" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;">
+                        <a href="/xiaoyuan/singer/20135419" target="_blank" title=""><img src="/cms/huodong/voiceschool/images/ads/jd_20130923_05.jpg" width="514" height="252" alt=""></a>
+                    </div>
+                    <div class="slide_pic_item" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;">
+                        <a href="/xiaoyuan/singer/20136999" target="_blank" title=""><img src="/cms/huodong/voiceschool/images/ads/jd_20130923_06.jpg" width="514" height="252" alt=""></a>
+                    </div>
+                    <div class="slide_pic_item" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;">
+                        <a href="/xiaoyuan/singer/20145672" target="_blank" title=""><img src="/cms/huodong/voiceschool/images/ads/jd_20130923_07.jpg" width="514" height="252" alt=""></a>
+                    </div>
+                    <div class="slide_pic_item" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;">
+                        <a href="/xiaoyuan/singer/20135762" target="_blank" title=""><img src="/cms/huodong/voiceschool/images/ads/jd_20130923_08.jpg" width="514" height="252" alt=""></a>
+                    </div> 
+                </div>
+                <div class="slide_page" id="slide_page">
+                </div>
+                <div class="slide_btns">
+                    <a href="#" class="btn_prev"></a> <a href="#" class="btn_next"></a>
+                </div>
+                <!-- 轮转 end -->
+            </div>
+            <!-- 公告在底部的ad-block中加载 -->
+            <div class="announcement" id="baidu_ad_slot_announcement"></div>
+        </div>
+    </div>
+    <!-- slider end -->
+
+    <!--== area main begin ==-->
+    <div class="layout-area-main" alog-alias="music-xiaoyuan-main">
+    <!-- main content begin -->
+    <div class="main-content clearfix">
+
+        <div class="composition-process" id="composition-process">
+          <div class="tab-nav">
+            <div class="hline"></div>
+            <ul class="clearfix">
+              <li class="tab-nav-item on">
+                <a href="javascript:void(0);" class="tab-nav-date">9月18日</a>
+                <span class="vline"></span><span class="circle"></span>
+                <a href="javascript:void(0);" class="tab-nav-tag finished-tag">北京分赛区<p>晋级选手</p></a>
+              </li>
+              <li class="tab-nav-item">
+                <a href="javascript:void(0);" class="tab-nav-date">9月25日</a>
+                <span class="vline"></span><span class="circle"></span>
+                <a href="javascript:void(0);" class="tab-nav-tag">西安分赛区</a>
+              </li>
+              <li class="tab-nav-item">
+                <a href="javascript:void(0);" class="tab-nav-date">10月16日</a>
+                <span class="vline"></span><span class="circle"></span>
+                <a href="javascript:void(0);" class="tab-nav-tag">成都分赛区</a>
+              </li>
+              <li class="tab-nav-item">
+                <a href="javascript:void(0);" class="tab-nav-date">10月24日</a>
+                <span class="vline"></span><span class="circle"></span>
+                <a href="javascript:void(0);" class="tab-nav-tag">广州分赛区</a>
+              </li>
+              <li class="tab-nav-item">
+                <a href="javascript:void(0);" class="tab-nav-date">10月28日</a>
+                <span class="vline"></span><span class="circle"></span>
+                <a href="javascript:void(0);" class="tab-nav-tag">武汉分赛区</a>
+              </li>
+              <li class="tab-nav-item">
+                <a href="javascript:void(0);" class="tab-nav-date">11月06日</a>
+                <span class="vline"></span><span class="circle"></span>
+                <a href="javascript:void(0);" class="tab-nav-tag">南京分赛区</a>
+              </li>
+              <li class="tab-nav-item last">
+                <a href="javascript:void(0);" class="tab-nav-date final-date">11月22日</a>
+                <span class="vline"></span><span class="final-circle"></span>
+                <a href="javascript:void(0);" class="tab-nav-tag final-tag">北京总决赛</a>
+              </li>
+            </ul>  
+          </div>
+          <div class="tab-content clearfix">
+            
+
+            <div class="songlist new-songlist top72-singer-list on">
+              <!-- 北京分赛区 begin -->
+              <div class="clearfix singerlist-wrap">
+              
+    <ul class="clearfix">
+                                                                                                <li class="top72-singer top18-singer">
+                <div class="singer-panel" id="sp_0">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20144465" class="singer-pic" title="刘璐">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/72f082025aafa40f8710df6faa64034f79f019a9.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20144465" class="username" title="刘璐">刘璐</a>
+                            <span class="school-name" title="北京第二外国语学院中瑞酒店管理学院">北京第二外国语学..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20144465' }" title="投票"></span>
+                                                        <span class="vote-count">47869</span>
+                            <a class="message" href="/xiaoyuan/singer/20144465" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer top18-singer">
+                <div class="singer-panel" id="sp_1">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20137037" class="singer-pic" title="刘天跃">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/aec379310a55b319a1b1073d42a98226cffc1729.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20137037" class="username" title="刘天跃">刘天跃</a>
+                            <span class="school-name" title="北京现代音乐学院">北京现代音乐学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20137037' }" title="投票"></span>
+                                                        <span class="vote-count">1932</span>
+                            <a class="message" href="/xiaoyuan/singer/20137037" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer top18-singer">
+                <div class="singer-panel" id="sp_2">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135327" class="singer-pic" title="王思敏">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/d788d43f8794a4c260d0617f0ff41bd5ac6e39f6.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135327" class="username" title="王思敏">王思敏</a>
+                            <span class="school-name" title="北京大学">北京大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135327' }" title="投票"></span>
+                                                        <span class="vote-count">1000</span>
+                            <a class="message" href="/xiaoyuan/singer/20135327" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+            </ul>
+              </div>  
+              <!-- 北京分赛区 end -->        
+              <p class="more"><a href="/xiaoyuan/periodlist" target="_blank">查看全部72强选手作品&gt;&gt;</a></p>
+              <div class="live-details clearfix">
+                <div class="photos">
+                  <h3 class="title">精彩图集</h3>
+                  <div class="content">
+                    <!-- 轮转 begin -->
+                    <div class="slide_pic">
+                        <div class="slide_pic_item">
+                          <a href="javascript:void(0);" style="cursor: default;"><img src="http://music.baidu.com/cms/huodong/voiceschool/images/live_photos/index_live_photo_bj01.jpg" width="464" height="264" alt=""></a>
+                          <p class="text">
+                            <span>刘璐王思敏pk阿兰难选择</span>
+                            <span class="indicator"><em class="cur"></em>/<em class="total"></em></span>
+                          </p> 
+                        </div>
+                        <div class="slide_pic_item">
+                          <a href="javascript:void(0);" style="cursor: default;"><img src="http://music.baidu.com/cms/huodong/voiceschool/images/live_photos/index_live_photo_bj02.jpg" width="464" height="264" alt=""></a>
+                          <p class="text">
+                            <span>北京赛区火热开战，12强选手华丽亮相</span>
+                            <span class="indicator"><em class="cur"></em>/<em class="total"></em></span>
+                          </p> 
+                        </div>
+                        <div class="slide_pic_item">
+                            <a href="javascript:void(0);" style="cursor: default;"><img src="/cms/huodong/voiceschool/images/live_photos/index_live_photo_bj03.jpg" width="464" height="264" alt=""></a>
+                            <p class="text">
+                            <span>明星评委讨论激烈，谁去谁留难以抉择</span>
+                            <span class="indicator"><em class="cur"></em>/<em class="total"></em></span>
+                          </p> 
+                        </div>
+                        <div class="slide_pic_item">
+                            <a href="javascript:void(0);" style="cursor: default;"><img src="/cms/huodong/voiceschool/images/live_photos/index_live_photo_bj04.jpg" width="464" height="264" alt=""></a>
+                            <p class="text">
+                            <span>第二轮比赛中北大选手王思敏率领阿卡贝拉乐团pk北二外刘璐</span>
+                            <span class="indicator"><em class="cur"></em>/<em class="total"></em></span>
+                          </p> 
+                        </div>
+                        <div class="slide_pic_item">
+                            <a href="javascript:void(0);" style="cursor: default;"><img src="/cms/huodong/voiceschool/images/live_photos/index_live_photo_bj05.jpg" width="464" height="264" alt=""></a>
+                            <p class="text">
+                            <span>刘璐3强PK站-中国版阿黛尔</span>
+                            <span class="indicator"><em class="cur"></em>/<em class="total"></em></span>
+                          </p> 
+                        </div>
+                        <div class="slide_pic_item">
+                            <a href="javascript:void(0);" style="cursor: default;"><img src="/cms/huodong/voiceschool/images/live_photos/index_live_photo_bj06.jpg" width="464" height="264" alt=""></a>
+                            <p class="text">
+                            <span>许艺娜现场演唱《枯叶蝶》</span>
+                            <span class="indicator"><em class="cur"></em>/<em class="total"></em></span>
+                          </p> 
+                        </div>
+                        <div class="slide_pic_item">
+                            <a href="javascript:void(0);" style="cursor: default;"><img src="/cms/huodong/voiceschool/images/live_photos/index_live_photo_bj07.jpg" width="464" height="264" alt=""></a>
+                            <p class="text">
+                            <span>张睿现场演唱《美丽的春天》</span>
+                            <span class="indicator"><em class="cur"></em>/<em class="total"></em></span>
+                          </p> 
+                        </div>
+                        <div class="slide_pic_item">
+                            <a href="javascript:void(0);" style="cursor: default;"><img src="/cms/huodong/voiceschool/images/live_photos/index_live_photo_bj08.jpg" width="464" height="264" alt=""></a>
+                            <p class="text">
+                            <span>第二轮pk，刘璐成功复活</span>
+                            <span class="indicator"><em class="cur"></em>/<em class="total"></em></span>
+                          </p> 
+                        </div> 
+                    </div>
+                    <div class="slide_btns">
+                        <a href="#" class="btn_prev"></a> <a href="#" class="btn_next"></a>
+                    </div>
+                    <!-- 轮转 end -->                   
+                  </div>
+                </div>
+                <div class="videos">
+                  <h3 class="title">视频回放</h3>
+                  <div class="content">
+                    <!--视频-->
+                     <img src="/cms/huodong/voiceschool/images/live_photos/index_novideo.jpg" width="387" height="262" alt="">
+                    <!--视频结束-->
+                  </div>
+                </div>
+              </div>
+              <p class="more"><a href="/xiaoyuan/zjxy" target="_blank">查看更多比赛盛况&gt;&gt;</a></p>
+              <div class="ace-judge">
+                <img src="/cms/huodong/voiceschool/images/ace_judge_bj.png" alt="北京分赛区王牌评审">
+              </div>
+             </div>
+            <div class="songlist new-songlist top72-singer-list">
+              <!-- 西安分赛区 begin -->
+              <div class="clearfix singerlist-wrap">
+              
+    <ul class="clearfix">
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_0">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135535" class="singer-pic" title="彭博">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/cefc1e178a82b901ca56746e728da9773812eff0.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135535" class="username" title="彭博">彭博</a>
+                            <span class="school-name" title="长春理工大学">长春理工大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135535' }" title="投票"></span>
+                                                        <span class="vote-count">437323</span>
+                            <a class="message" href="/xiaoyuan/singer/20135535" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_1">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135683" class="singer-pic" title="丁晟淳">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/4610b912c8fcc3ce79baf3729345d688d43f207c.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135683" class="username" title="丁晟淳">丁晟淳</a>
+                            <span class="school-name" title="东北林业大学">东北林业大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135683' }" title="投票"></span>
+                                                        <span class="vote-count">108198</span>
+                            <a class="message" href="/xiaoyuan/singer/20135683" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_2">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135689" class="singer-pic" title="易鑫">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/f636afc379310a557801c5b5b64543a98226104d.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135689" class="username" title="易鑫">易鑫</a>
+                            <span class="school-name" title="培华学院">培华学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135689' }" title="投票"></span>
+                                                        <span class="vote-count">36120</span>
+                            <a class="message" href="/xiaoyuan/singer/20135689" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_3">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20145377" class="singer-pic" title="蒋宝妹">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/71cf3bc79f3df8dca0a0ea22cc11728b461028e7.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20145377" class="username" title="蒋宝妹">蒋宝妹</a>
+                            <span class="school-name" title="延安大学">延安大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20145377' }" title="投票"></span>
+                                                        <span class="vote-count">24102</span>
+                            <a class="message" href="/xiaoyuan/singer/20145377" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_4">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20139700" class="singer-pic" title="魏梦晨">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/9358d109b3de9c82cc3845c36d81800a19d84318.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20139700" class="username" title="魏梦晨">魏梦晨</a>
+                            <span class="school-name" title="西安交通大学城市学院">西安交通大学城市..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20139700' }" title="投票"></span>
+                                                        <span class="vote-count">22273</span>
+                            <a class="message" href="/xiaoyuan/singer/20139700" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer mr0">
+                <div class="singer-panel" id="sp_5">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20144822" class="singer-pic" title="李子寒">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/3b87e950352ac65cd559c9c1faf2b21193138a20.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20144822" class="username" title="李子寒">李子寒</a>
+                            <span class="school-name" title="长春师范大学">长春师范大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20144822' }" title="投票"></span>
+                                                        <span class="vote-count">14030</span>
+                            <a class="message" href="/xiaoyuan/singer/20144822" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_6">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20145672" class="singer-pic" title="宁思远">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/5366d0160924ab185fd0c28334fae6cd7a890bbb.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20145672" class="username" title="宁思远">宁思远</a>
+                            <span class="school-name" title="西安电子科技大学">西安电子科技大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20145672' }" title="投票"></span>
+                                                        <span class="vote-count">4687</span>
+                            <a class="message" href="/xiaoyuan/singer/20145672" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_7">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135762" class="singer-pic" title="石宇超">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/8326cffc1e178a8260f162e3f703738da877e8a0.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135762" class="username" title="石宇超">石宇超</a>
+                            <span class="school-name" title="陕西省核工业电子信息">陕西省核工业电子..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135762' }" title="投票"></span>
+                                                        <span class="vote-count">3565</span>
+                            <a class="message" href="/xiaoyuan/singer/20135762" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_8">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20137741" class="singer-pic" title="刘叶子">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/241f95cad1c8a7861611a5476609c93d70cf5044.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20137741" class="username" title="刘叶子">刘叶子</a>
+                            <span class="school-name" title="西安科技大学">西安科技大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20137741' }" title="投票"></span>
+                                                        <span class="vote-count">2548</span>
+                            <a class="message" href="/xiaoyuan/singer/20137741" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_9">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146542" class="singer-pic" title="Double H组合">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/241f95cad1c8a78638fdb7b96609c93d71cf50b6.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146542" class="username" title="Double H组合">Double H组合</a>
+                            <span class="school-name" title="哈尔滨师范大学">哈尔滨师范大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146542' }" title="投票"></span>
+                                                        <span class="vote-count">638</span>
+                            <a class="message" href="/xiaoyuan/singer/20146542" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_10">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135419" class="singer-pic" title="刘悄然">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/cefc1e178a82b90180ebce6b728da9773912ef20.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135419" class="username" title="刘悄然">刘悄然</a>
+                            <span class="school-name" title="大连艺术学院">大连艺术学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135419' }" title="投票"></span>
+                                                        <span class="vote-count">385</span>
+                            <a class="message" href="/xiaoyuan/singer/20135419" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer mr0">
+                <div class="singer-panel" id="sp_11">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20136999" class="singer-pic" title="马成功">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/a5c27d1ed21b0ef42f333216dcc451da80cb3e9a.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20136999" class="username" title="马成功">马成功</a>
+                            <span class="school-name" title="西安交通大学城市学院">西安交通大学城市..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20136999' }" title="投票"></span>
+                                                        <span class="vote-count">284</span>
+                            <a class="message" href="/xiaoyuan/singer/20136999" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+            </ul>  
+              </div>
+              <!-- 西安分赛区 end -->             
+              <p class="more"><a href="/xiaoyuan/periodlist" target="_blank">查看全部72强选手作品&gt;&gt;</a></p>
+              <div class="ace-judge">
+                <img src="/cms/huodong/voiceschool/images/ace_judge_xa.jpg" alt="西安分赛区王牌评审">
+              </div>
+             </div> 
+            <div class="songlist new-songlist top72-singer-list">
+              <!-- 成都分赛区 begin -->
+              <div class="clearfix singerlist-wrap">
+              
+    <ul class="clearfix">
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_0">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20137255" class="singer-pic" title="强裕涵">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/0bd162d9f2d3572c3d2a53948b13632763d0c3aa.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20137255" class="username" title="强裕涵">强裕涵</a>
+                            <span class="school-name" title="成都大学">成都大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20137255' }" title="投票"></span>
+                                                        <span class="vote-count">121560</span>
+                            <a class="message" href="/xiaoyuan/singer/20137255" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_1">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146151" class="singer-pic" title="严李娅">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/d6ca7bcb0a46f21fa08a4ee5f7246b600d33aecd.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146151" class="username" title="严李娅">严李娅</a>
+                            <span class="school-name" title="云南艺术学院">云南艺术学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146151' }" title="投票"></span>
+                                                        <span class="vote-count">103217</span>
+                            <a class="message" href="/xiaoyuan/singer/20146151" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_2">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146561" class="singer-pic" title="魏蓝">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/a5c27d1ed21b0ef4e37576e9dcc451da80cb3eec.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146561" class="username" title="魏蓝">魏蓝</a>
+                            <span class="school-name" title="成都理工大学">成都理工大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146561' }" title="投票"></span>
+                                                        <span class="vote-count">31614</span>
+                            <a class="message" href="/xiaoyuan/singer/20146561" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_3">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20139525" class="singer-pic" title="周佩">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/6d81800a19d8bc3ec4930486838ba61ea9d345e6.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20139525" class="username" title="周佩">周佩</a>
+                            <span class="school-name" title="四川省成都大学（成都学院）">四川省成都大学（..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20139525' }" title="投票"></span>
+                                                        <span class="vote-count">22307</span>
+                            <a class="message" href="/xiaoyuan/singer/20139525" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_4">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20137247" class="singer-pic" title="陈章沛">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/b151f8198618367ace71b2952f738bd4b21ce5fa.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20137247" class="username" title="陈章沛">陈章沛</a>
+                            <span class="school-name" title="成都大学">成都大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20137247' }" title="投票"></span>
+                                                        <span class="vote-count">5126</span>
+                            <a class="message" href="/xiaoyuan/singer/20137247" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer mr0">
+                <div class="singer-panel" id="sp_5">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135583" class="singer-pic" title="阮启玄">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/a1ec08fa513d2697c9cd9c0354fbb2fb4316d856.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135583" class="username" title="阮启玄">阮启玄</a>
+                            <span class="school-name" title="四川音乐学院">四川音乐学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135583' }" title="投票"></span>
+                                                        <span class="vote-count">4333</span>
+                            <a class="message" href="/xiaoyuan/singer/20135583" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_6">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20141110" class="singer-pic" title="黄东泽">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/96dda144ad345982be26b1dc0df431adcaef84cb.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20141110" class="username" title="黄东泽">黄东泽</a>
+                            <span class="school-name" title="上海师范大学天华学院">上海师范大学天华..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20141110' }" title="投票"></span>
+                                                        <span class="vote-count">757</span>
+                            <a class="message" href="/xiaoyuan/singer/20141110" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_7">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20143351" class="singer-pic" title="肖悦">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/29381f30e924b89982e9bc886f061d950b7bf6ad.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20143351" class="username" title="肖悦">肖悦</a>
+                            <span class="school-name" title="四川民族学院">四川民族学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20143351' }" title="投票"></span>
+                                                        <span class="vote-count">747</span>
+                            <a class="message" href="/xiaoyuan/singer/20143351" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_8">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135667" class="singer-pic" title="周俊涛">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/aa64034f78f0f736f62ae4410b55b319eac4139d.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135667" class="username" title="周俊涛">周俊涛</a>
+                            <span class="school-name" title="西南财经大学天府学院">西南财经大学天府..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135667' }" title="投票"></span>
+                                                        <span class="vote-count">463</span>
+                            <a class="message" href="/xiaoyuan/singer/20135667" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_9">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135371" class="singer-pic" title="金典">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/d058ccbf6c81800af5f80258b03533fa828b4743.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135371" class="username" title="金典">金典</a>
+                            <span class="school-name" title="四川音乐学院">四川音乐学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135371' }" title="投票"></span>
+                                                        <span class="vote-count">357</span>
+                            <a class="message" href="/xiaoyuan/singer/20135371" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_10">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20137480" class="singer-pic" title="周照天">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/0dd7912397dda144899e1efbb3b7d0a20df486e7.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20137480" class="username" title="周照天">周照天</a>
+                            <span class="school-name" title="成都大学">成都大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20137480' }" title="投票"></span>
+                                                        <span class="vote-count">83</span>
+                            <a class="message" href="/xiaoyuan/singer/20137480" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer mr0">
+                <div class="singer-panel" id="sp_11">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20140913" class="singer-pic" title="何帅">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/b3fb43166d224f4a2de56d5d08f790529822d17b.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20140913" class="username" title="何帅">何帅</a>
+                            <span class="school-name" title="成都大学">成都大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20140913' }" title="投票"></span>
+                                                        <span class="vote-count">83</span>
+                            <a class="message" href="/xiaoyuan/singer/20140913" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+            </ul>  
+              </div>              
+              <!-- 成都分赛区 end -->
+              <p class="more"><a href="/xiaoyuan/periodlist" target="_blank">查看全部72强选手作品&gt;&gt;</a></p>
+              <div class="ace-judge">
+                <img src="/cms/huodong/voiceschool/images/ace_judge_default.png" alt="成都分赛区王牌评审">
+              </div>
+             </div> 
+            <div class="songlist new-songlist top72-singer-list">
+              <!-- 广州分赛区 begin -->
+              <div class="clearfix singerlist-wrap">
+              
+    <ul class="clearfix">
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_0">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135381" class="singer-pic" title="王静">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/9e3df8dcd100baa147424bec4610b912c8fc2e7e.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135381" class="username" title="王静">王静</a>
+                            <span class="school-name" title="中国海洋大学">中国海洋大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135381' }" title="投票"></span>
+                                                        <span class="vote-count">438399</span>
+                            <a class="message" href="/xiaoyuan/singer/20135381" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_1">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20137618" class="singer-pic" title="宋嘉佳">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/359b033b5bb5c9eadb72beaad439b6003bf3b3f2.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20137618" class="username" title="宋嘉佳">宋嘉佳</a>
+                            <span class="school-name" title="广东外语外贸大学">广东外语外贸大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20137618' }" title="投票"></span>
+                                                        <span class="vote-count">112873</span>
+                            <a class="message" href="/xiaoyuan/singer/20137618" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_2">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135743" class="singer-pic" title="王中幸子">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/d439b6003af33a87393ab958c75c10385343b519.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135743" class="username" title="王中幸子">王中幸子</a>
+                            <span class="school-name" title="澳门科技大学">澳门科技大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135743' }" title="投票"></span>
+                                                        <span class="vote-count">16024</span>
+                            <a class="message" href="/xiaoyuan/singer/20135743" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_3">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135641" class="singer-pic" title="付煜佳">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/72f082025aafa40f81f5dd9daa64034f78f019ba.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135641" class="username" title="付煜佳">付煜佳</a>
+                            <span class="school-name" title="广州中医药大学">广州中医药大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135641' }" title="投票"></span>
+                                                        <span class="vote-count">7324</span>
+                            <a class="message" href="/xiaoyuan/singer/20135641" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_4">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20136871" class="singer-pic" title="李晓彤">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/9a504fc2d5628535fb4d8f6991ef76c6a6ef63cc.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20136871" class="username" title="李晓彤">李晓彤</a>
+                            <span class="school-name" title="安徽农业大学">安徽农业大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20136871' }" title="投票"></span>
+                                                        <span class="vote-count">5677</span>
+                            <a class="message" href="/xiaoyuan/singer/20136871" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer mr0">
+                <div class="singer-panel" id="sp_5">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20137078" class="singer-pic" title="黄诗韵">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/38dbb6fd5266d01614b11460962bd40734fa35c9.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20137078" class="username" title="黄诗韵">黄诗韵</a>
+                            <span class="school-name" title="广东商学院">广东商学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20137078' }" title="投票"></span>
+                                                        <span class="vote-count">2710</span>
+                            <a class="message" href="/xiaoyuan/singer/20137078" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_6">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20145172" class="singer-pic" title="张可">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/50da81cb39dbb6fdae3a0e940824ab18972b371b.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20145172" class="username" title="张可">张可</a>
+                            <span class="school-name" title="上海师范大学">上海师范大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20145172' }" title="投票"></span>
+                                                        <span class="vote-count">608</span>
+                            <a class="message" href="/xiaoyuan/singer/20145172" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_7">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20140162" class="singer-pic" title="刘佳男">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/960a304e251f95ca5ffe8efbc8177f3e67095277.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20140162" class="username" title="刘佳男">刘佳男</a>
+                            <span class="school-name" title="香港树仁大学">香港树仁大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20140162' }" title="投票"></span>
+                                                        <span class="vote-count">477</span>
+                            <a class="message" href="/xiaoyuan/singer/20140162" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_8">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20137558" class="singer-pic" title="陈梓健">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/aa18972bd40735fa891b09f09f510fb30e24088b.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20137558" class="username" title="陈梓健">陈梓健</a>
+                            <span class="school-name" title="广州科技贸易职业学院">广州科技贸易职业..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20137558' }" title="投票"></span>
+                                                        <span class="vote-count">410</span>
+                            <a class="message" href="/xiaoyuan/singer/20137558" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_9">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20143675" class="singer-pic" title="黄鸿森">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/b3b7d0a20cf431adf30b4f884a36acaf2fdd98a1.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20143675" class="username" title="黄鸿森">黄鸿森</a>
+                            <span class="school-name" title="广州城建职业学院">广州城建职业学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20143675' }" title="投票"></span>
+                                                        <span class="vote-count">282</span>
+                            <a class="message" href="/xiaoyuan/singer/20143675" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_10">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135331" class="singer-pic" title="白冰">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/eac4b74543a9822618a239728b82b9014a90eb00.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135331" class="username" title="白冰">白冰</a>
+                            <span class="school-name" title="广州大学">广州大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135331' }" title="投票"></span>
+                                                        <span class="vote-count">125</span>
+                            <a class="message" href="/xiaoyuan/singer/20135331" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer mr0">
+                <div class="singer-panel" id="sp_11">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20143521" class="singer-pic" title="黄斯敏">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/e824b899a9014c0860d412140b7b02087af4f497.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20143521" class="username" title="黄斯敏">黄斯敏</a>
+                            <span class="school-name" title="广州中医药大学">广州中医药大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20143521' }" title="投票"></span>
+                                                        <span class="vote-count">116</span>
+                            <a class="message" href="/xiaoyuan/singer/20143521" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+            </ul>  
+              </div>              
+              <!-- 广州分赛区 end -->
+              <p class="more"><a href="/xiaoyuan/periodlist" target="_blank">查看全部72强选手作品&gt;&gt;</a></p>
+              <div class="ace-judge">
+                <img src="/cms/huodong/voiceschool/images/ace_judge_default.png" alt="广州分赛区王牌评审">
+              </div>
+             </div> 
+            <div class="songlist new-songlist top72-singer-list">
+              <!-- 武汉分赛区 begin -->
+              <div class="clearfix singerlist-wrap">
+              
+    <ul class="clearfix">
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_0">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135879" class="singer-pic" title="孙晓磊">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/a044ad345982b2b7151ea58030adcbef77099bf5.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135879" class="username" title="孙晓磊">孙晓磊</a>
+                            <span class="school-name" title="大连工业大学">大连工业大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135879' }" title="投票"></span>
+                                                        <span class="vote-count">123813</span>
+                            <a class="message" href="/xiaoyuan/singer/20135879" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_1">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146072" class="singer-pic" title="刘冠帅">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/cb8065380cd79123298f0ac1ac345982b2b7801c.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146072" class="username" title="刘冠帅">刘冠帅</a>
+                            <span class="school-name" title="吉林大学">吉林大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146072' }" title="投票"></span>
+                                                        <span class="vote-count">26450</span>
+                            <a class="message" href="/xiaoyuan/singer/20146072" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_2">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20144894" class="singer-pic" title="李嵩">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/9345d688d43f87948dc8db9cd31b0ef41bd53a48.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20144894" class="username" title="李嵩">李嵩</a>
+                            <span class="school-name" title="中国人民武装警察部队学院">中国人民武装警察..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20144894' }" title="投票"></span>
+                                                        <span class="vote-count">13561</span>
+                            <a class="message" href="/xiaoyuan/singer/20144894" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_3">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20142791" class="singer-pic" title="崔勤">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/8601a18b87d6277f4f9d438829381f30e824fcf7.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20142791" class="username" title="崔勤">崔勤</a>
+                            <span class="school-name" title="郑州轻工业学院易斯顿美术学院">郑州轻工业学院易..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20142791' }" title="投票"></span>
+                                                        <span class="vote-count">1466</span>
+                            <a class="message" href="/xiaoyuan/singer/20142791" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_4">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146701" class="singer-pic" title="许滢琳">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/4bed2e738bd4b31c4d61e60386d6277f9e2ff82d.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146701" class="username" title="许滢琳">许滢琳</a>
+                            <span class="school-name" title="武汉生物工程学院">武汉生物工程学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146701' }" title="投票"></span>
+                                                        <span class="vote-count">626</span>
+                            <a class="message" href="/xiaoyuan/singer/20146701" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer mr0">
+                <div class="singer-panel" id="sp_5">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146695" class="singer-pic" title="刘启荣">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/0dd7912397dda14484661b0ab3b7d0a20cf4861e.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146695" class="username" title="刘启荣">刘启荣</a>
+                            <span class="school-name" title="武汉生物工程学院">武汉生物工程学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146695' }" title="投票"></span>
+                                                        <span class="vote-count">533</span>
+                            <a class="message" href="/xiaoyuan/singer/20146695" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_6">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20143918" class="singer-pic" title="付琪">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/2e2eb9389b504fc205a831b4e4dde71191ef6d88.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20143918" class="username" title="付琪">付琪</a>
+                            <span class="school-name" title="华中科技大学">华中科技大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20143918' }" title="投票"></span>
+                                                        <span class="vote-count">199</span>
+                            <a class="message" href="/xiaoyuan/singer/20143918" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_7">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20141635" class="singer-pic" title="丛萌远">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/ac4bd11373f08202b9a5af704afbfbedab641b4d.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20141635" class="username" title="丛萌远">丛萌远</a>
+                            <span class="school-name" title="天津师范大学">天津师范大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20141635' }" title="投票"></span>
+                                                        <span class="vote-count">162</span>
+                            <a class="message" href="/xiaoyuan/singer/20141635" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_8">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146054" class="singer-pic" title="惠洋">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/aec379310a55b319b39f15c042a98226cffc1724.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146054" class="username" title="惠洋">惠洋</a>
+                            <span class="school-name" title="牡丹江师范学院">牡丹江师范学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146054' }" title="投票"></span>
+                                                        <span class="vote-count">149</span>
+                            <a class="message" href="/xiaoyuan/singer/20146054" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_9">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135633" class="singer-pic" title="康嘉伟">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/30adcbef76094b36d579d5b2a2cc7cd98c109d82.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135633" class="username" title="康嘉伟">康嘉伟</a>
+                            <span class="school-name" title="内蒙古民族大学">内蒙古民族大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135633' }" title="投票"></span>
+                                                        <span class="vote-count">145</span>
+                            <a class="message" href="/xiaoyuan/singer/20135633" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_10">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20144536" class="singer-pic" title="黄婉茹">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/2cf5e0fe9925bc310501742a5fdf8db1cb137027.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20144536" class="username" title="黄婉茹">黄婉茹</a>
+                            <span class="school-name" title="江西师范大学">江西师范大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20144536' }" title="投票"></span>
+                                                        <span class="vote-count">144</span>
+                            <a class="message" href="/xiaoyuan/singer/20144536" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer mr0">
+                <div class="singer-panel" id="sp_11">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135550" class="singer-pic" title="王法">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/b812c8fcc3cec3fd223e7e28d788d43f8794276f.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135550" class="username" title="王法">王法</a>
+                            <span class="school-name" title="黑龙江大学">黑龙江大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135550' }" title="投票"></span>
+                                                        <span class="vote-count">79</span>
+                            <a class="message" href="/xiaoyuan/singer/20135550" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+            </ul> 
+              </div>               
+              <!-- 武汉分赛区 end -->
+              <p class="more"><a href="/xiaoyuan/periodlist" target="_blank">查看全部72强选手作品&gt;&gt;</a></p>
+              <div class="ace-judge">
+                <img src="/cms/huodong/voiceschool/images/ace_judge_default.png" alt="武汉分赛区王牌评审">
+              </div>
+             </div> 
+            <div class="songlist new-songlist top72-singer-list">
+              <!-- 南京分赛区 begin -->
+              <div class="clearfix singerlist-wrap">
+              
+    <ul class="clearfix">
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_0">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146125" class="singer-pic" title="薛松">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/2fdda3cc7cd98d10a724ea84203fb80e7aec9097.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146125" class="username" title="薛松">薛松</a>
+                            <span class="school-name" title="淮安卫校">淮安卫校</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146125' }" title="投票"></span>
+                                                        <span class="vote-count">175986</span>
+                            <a class="message" href="/xiaoyuan/singer/20146125" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_1">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146003" class="singer-pic" title="梁其椿">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/dc54564e9258d1098d27fa07d058ccbf6d814dba.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146003" class="username" title="梁其椿">梁其椿</a>
+                            <span class="school-name" title="南京大学">南京大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146003' }" title="投票"></span>
+                                                        <span class="vote-count">103578</span>
+                            <a class="message" href="/xiaoyuan/singer/20146003" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_2">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146760" class="singer-pic" title="陈峰">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/738b4710b912c8fc0c543a75fd039245d78821e7.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146760" class="username" title="陈峰">陈峰</a>
+                            <span class="school-name" title="湖州师范学院">湖州师范学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146760' }" title="投票"></span>
+                                                        <span class="vote-count">46195</span>
+                            <a class="message" href="/xiaoyuan/singer/20146760" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_3">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135699" class="singer-pic" title="吴文远">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/7acb0a46f21fbe0987caae556a600c338644addf.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135699" class="username" title="吴文远">吴文远</a>
+                            <span class="school-name" title="河海大学">河海大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135699' }" title="投票"></span>
+                                                        <span class="vote-count">24541</span>
+                            <a class="message" href="/xiaoyuan/singer/20135699" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_4">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135489" class="singer-pic" title="陈渝腊">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/024f78f0f736afc36e8bea3eb219ebc4b64512e1.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135489" class="username" title="陈渝腊">陈渝腊</a>
+                            <span class="school-name" title="南京航空航天大学">南京航空航天大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135489' }" title="投票"></span>
+                                                        <span class="vote-count">2224</span>
+                            <a class="message" href="/xiaoyuan/singer/20135489" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer mr0">
+                <div class="singer-panel" id="sp_5">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20138218" class="singer-pic" title="黄鹤松">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/8694a4c27d1ed21b253dbcafac6eddc450da3f87.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20138218" class="username" title="黄鹤松">黄鹤松</a>
+                            <span class="school-name" title="南京信息工程大学">南京信息工程大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20138218' }" title="投票"></span>
+                                                        <span class="vote-count">1443</span>
+                            <a class="message" href="/xiaoyuan/singer/20138218" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_6">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20140385" class="singer-pic" title="宗韶赫">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/c2fdfc039245d688b8e4e6e9a5c27d1ed31b249c.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20140385" class="username" title="宗韶赫">宗韶赫</a>
+                            <span class="school-name" title="山东财经大学">山东财经大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20140385' }" title="投票"></span>
+                                                        <span class="vote-count">1240</span>
+                            <a class="message" href="/xiaoyuan/singer/20140385" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_7">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135948" class="singer-pic" title="孙卓骐">
+                            <img src="http://c.hiphotos.baidu.com/ting/pic/item/2e2eb9389b504fc2e32acb43e4dde71190ef6d7a.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135948" class="username" title="孙卓骐">孙卓骐</a>
+                            <span class="school-name" title="南京信息工程大学">南京信息工程大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135948' }" title="投票"></span>
+                                                        <span class="vote-count">375</span>
+                            <a class="message" href="/xiaoyuan/singer/20135948" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_8">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135514" class="singer-pic" title="荣焰伟">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/377adab44aed2e7373a5a4718601a18b87d6fa1b.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135514" class="username" title="荣焰伟">荣焰伟</a>
+                            <span class="school-name" title="山东菏泽齐鲁音乐艺术学院（分院）">山东菏泽齐鲁音乐..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135514' }" title="投票"></span>
+                                                        <span class="vote-count">313</span>
+                            <a class="message" href="/xiaoyuan/singer/20135514" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_9">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135485" class="singer-pic" title="张任">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/9d82d158ccbf6c816915d9b3bd3eb13533fa404f.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135485" class="username" title="张任">张任</a>
+                            <span class="school-name" title="盐城师范学院">盐城师范学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135485' }" title="投票"></span>
+                                                        <span class="vote-count">282</span>
+                            <a class="message" href="/xiaoyuan/singer/20135485" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                    <li class="top72-singer">
+                <div class="singer-panel" id="sp_10">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146155" class="singer-pic" title="楠楠儿">
+                            <img src="http://a.hiphotos.baidu.com/ting/pic/item/cdbf6c81800a19d8ca3c84b332fa828ba61e464c.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146155" class="username" title="楠楠儿">楠楠儿</a>
+                            <span class="school-name" title="山东中西医大学">山东中西医大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146155' }" title="投票"></span>
+                                                        <span class="vote-count">205</span>
+                            <a class="message" href="/xiaoyuan/singer/20146155" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer mr0">
+                <div class="singer-panel" id="sp_11">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20146826" class="singer-pic" title="张成琛">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/42a98226cffc1e17be66758b4b90f603728de9ab.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20146826" class="username" title="张成琛">张成琛</a>
+                            <span class="school-name" title="中国传媒大学南广学院">中国传媒大学南广..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20146826' }" title="投票"></span>
+                                                        <span class="vote-count">157</span>
+                            <a class="message" href="/xiaoyuan/singer/20146826" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+            </ul>     
+              </div>         
+              <!-- 南京分赛区 end -->
+              <p class="more"><a href="/xiaoyuan/periodlist" target="_blank">查看全部72强选手作品&gt;&gt;</a></p>
+              <div class="ace-judge">
+                <img src="/cms/huodong/voiceschool/images/ace_judge_default.png" alt="南京分赛区王牌评审">
+              </div>  
+            </div> 
+            <div class="songlist new-songlist top72-singer-list final">
+              <!-- 总决赛 begin -->
+              <div class="clearfix singerlist-wrap">
+              
+    <ul class="clearfix">
+                                                                                                <li class="top72-singer top18-singer">
+                <div class="singer-panel" id="sp_0">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20144465" class="singer-pic" title="刘璐">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/72f082025aafa40f8710df6faa64034f79f019a9.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20144465" class="username" title="刘璐">刘璐</a>
+                            <span class="school-name" title="北京第二外国语学院中瑞酒店管理学院">北京第二外国语学..</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20144465' }" title="投票"></span>
+                                                        <span class="vote-count">47869</span>
+                            <a class="message" href="/xiaoyuan/singer/20144465" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer top18-singer">
+                <div class="singer-panel" id="sp_1">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20137037" class="singer-pic" title="刘天跃">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/aec379310a55b319a1b1073d42a98226cffc1729.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20137037" class="username" title="刘天跃">刘天跃</a>
+                            <span class="school-name" title="北京现代音乐学院">北京现代音乐学院</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20137037' }" title="投票"></span>
+                                                        <span class="vote-count">1932</span>
+                            <a class="message" href="/xiaoyuan/singer/20137037" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+                                                                                                <li class="top72-singer top18-singer">
+                <div class="singer-panel" id="sp_2">
+                    <div class="singer-avatar">
+                        <a href="/xiaoyuan/singer/20135327" class="singer-pic" title="王思敏">
+                            <img src="http://b.hiphotos.baidu.com/ting/pic/item/d788d43f8794a4c260d0617f0ff41bd5ac6e39f6.jpg" alt="" width="120" height="120"/>
+                            <span class="mark"></span>
+                        </a>
+                        <div class="singer-info">
+                            <a href="/xiaoyuan/singer/20135327" class="username" title="王思敏">王思敏</a>
+                            <span class="school-name" title="北京大学">北京大学</span>
+                        </div>
+                    </div>
+              		<div class="user-interact">
+              			<div class="like">
+                                                        <span class="vote-btn { 'singerId': '20135327' }" title="投票"></span>
+                                                        <span class="vote-count">1000</span>
+                            <a class="message" href="/xiaoyuan/singer/20135327" target="_blank">给ta留言</a>
+                        </div>	            			
+              		</div>
+                </div>
+            </li>
+            </ul>
+              </div>  
+              <!-- 总决赛 end -->
+              <p class="more"><a href="/xiaoyuan/periodlist" target="_blank">查看全部72强选手作品&gt;&gt;</a></p>
+              <div class="ace-judge">
+                <img src="/cms/huodong/voiceschool/images/ace_judge_default.png" alt="北京总决赛王牌评审">
+              </div>              
+            </div>   
+          </div>
+        </div> 
+        <div class="top72-list">
+          <h3>72强人气Top10 - 为你的选手点赞，赢取豪华大礼</h3> 
+          <div class="histogram">
+            <ul class="clearfix">
+                                                                        <li class="star">
+                <p class="vote-count">438399</p>
+                <div class="strip" data-count="438399"></div>
+              </li>
+                                                                        <li class="">
+                <p class="vote-count">437323</p>
+                <div class="strip" data-count="437323"></div>
+              </li>
+                                                                        <li class="">
+                <p class="vote-count">175986</p>
+                <div class="strip" data-count="175986"></div>
+              </li>
+                                                                        <li class="">
+                <p class="vote-count">123813</p>
+                <div class="strip" data-count="123813"></div>
+              </li>
+                                                                        <li class="">
+                <p class="vote-count">121560</p>
+                <div class="strip" data-count="121560"></div>
+              </li>
+                                                                        <li class="">
+                <p class="vote-count">112873</p>
+                <div class="strip" data-count="112873"></div>
+              </li>
+                                                                        <li class="">
+                <p class="vote-count">108198</p>
+                <div class="strip" data-count="108198"></div>
+              </li>
+                                                                        <li class="">
+                <p class="vote-count">103578</p>
+                <div class="strip" data-count="103578"></div>
+              </li>
+                                                                        <li class="">
+                <p class="vote-count">103217</p>
+                <div class="strip" data-count="103217"></div>
+              </li>
+                                                                        <li class="">
+                <p class="vote-count">47869</p>
+                <div class="strip" data-count="47869"></div>
+              </li>
+                          </ul>
+          </div>
+          <div class="singer-info">
+            <ul class="clearfix">
+                                                                                                                                    <li class="star">
+                <p class="singer-rank">人气之星</p>
+                <a href="/xiaoyuan/singer/20135381" target="_blank"><img class="singer-avatar" src="http://a.hiphotos.baidu.com/ting/pic/item/9e3df8dcd100baa147424bec4610b912c8fc2e7e.jpg" /></a>
+                <p class="singer-name">
+                  <a href="/xiaoyuan/singer/20135381" target="_blank">王静</a>
+                </p>
+                <p class="singer-division">广州赛区</p>
+              </li>
+                                                                                                                                                    <li class="">
+                <p class="singer-rank">第2名</p>
+                <a href="/xiaoyuan/singer/20135535" target="_blank"><img class="singer-avatar" src="http://a.hiphotos.baidu.com/ting/pic/item/cefc1e178a82b901ca56746e728da9773812eff0.jpg" /></a>
+                <p class="singer-name">
+                  <a href="/xiaoyuan/singer/20135535" target="_blank">彭博</a>
+                </p>
+                <p class="singer-division">西安赛区</p>
+              </li>
+                                                                                                                                                    <li class="">
+                <p class="singer-rank">第3名</p>
+                <a href="/xiaoyuan/singer/20146125" target="_blank"><img class="singer-avatar" src="http://c.hiphotos.baidu.com/ting/pic/item/2fdda3cc7cd98d10a724ea84203fb80e7aec9097.jpg" /></a>
+                <p class="singer-name">
+                  <a href="/xiaoyuan/singer/20146125" target="_blank">薛松</a>
+                </p>
+                <p class="singer-division">南京赛区</p>
+              </li>
+                                                                                                                                                    <li class="">
+                <p class="singer-rank">第4名</p>
+                <a href="/xiaoyuan/singer/20135879" target="_blank"><img class="singer-avatar" src="http://b.hiphotos.baidu.com/ting/pic/item/a044ad345982b2b7151ea58030adcbef77099bf5.jpg" /></a>
+                <p class="singer-name">
+                  <a href="/xiaoyuan/singer/20135879" target="_blank">孙晓磊</a>
+                </p>
+                <p class="singer-division">武汉赛区</p>
+              </li>
+                                                                                                                                                    <li class="">
+                <p class="singer-rank">第5名</p>
+                <a href="/xiaoyuan/singer/20137255" target="_blank"><img class="singer-avatar" src="http://a.hiphotos.baidu.com/ting/pic/item/0bd162d9f2d3572c3d2a53948b13632763d0c3aa.jpg" /></a>
+                <p class="singer-name">
+                  <a href="/xiaoyuan/singer/20137255" target="_blank">强裕涵</a>
+                </p>
+                <p class="singer-division">成都赛区</p>
+              </li>
+                                                                                                                                                    <li class="">
+                <p class="singer-rank">第6名</p>
+                <a href="/xiaoyuan/singer/20137618" target="_blank"><img class="singer-avatar" src="http://a.hiphotos.baidu.com/ting/pic/item/359b033b5bb5c9eadb72beaad439b6003bf3b3f2.jpg" /></a>
+                <p class="singer-name">
+                  <a href="/xiaoyuan/singer/20137618" target="_blank">宋嘉佳</a>
+                </p>
+                <p class="singer-division">广州赛区</p>
+              </li>
+                                                                                                                                                    <li class="">
+                <p class="singer-rank">第7名</p>
+                <a href="/xiaoyuan/singer/20135683" target="_blank"><img class="singer-avatar" src="http://b.hiphotos.baidu.com/ting/pic/item/4610b912c8fcc3ce79baf3729345d688d43f207c.jpg" /></a>
+                <p class="singer-name">
+                  <a href="/xiaoyuan/singer/20135683" target="_blank">丁晟淳</a>
+                </p>
+                <p class="singer-division">西安赛区</p>
+              </li>
+                                                                                                                                                    <li class="">
+                <p class="singer-rank">第8名</p>
+                <a href="/xiaoyuan/singer/20146003" target="_blank"><img class="singer-avatar" src="http://b.hiphotos.baidu.com/ting/pic/item/dc54564e9258d1098d27fa07d058ccbf6d814dba.jpg" /></a>
+                <p class="singer-name">
+                  <a href="/xiaoyuan/singer/20146003" target="_blank">梁其椿</a>
+                </p>
+                <p class="singer-division">南京赛区</p>
+              </li>
+                                                                                                                                                    <li class="">
+                <p class="singer-rank">第9名</p>
+                <a href="/xiaoyuan/singer/20146151" target="_blank"><img class="singer-avatar" src="http://b.hiphotos.baidu.com/ting/pic/item/d6ca7bcb0a46f21fa08a4ee5f7246b600d33aecd.jpg" /></a>
+                <p class="singer-name">
+                  <a href="/xiaoyuan/singer/20146151" target="_blank">严李娅</a>
+                </p>
+                <p class="singer-division">成都赛区</p>
+              </li>
+                                                                                                                         
+                            <li class="">
+                <p class="singer-rank">第10名</p>
+                <a href="/xiaoyuan/singer/20144465" target="_blank"><img class="singer-avatar" src="http://b.hiphotos.baidu.com/ting/pic/item/72f082025aafa40f8710df6faa64034f79f019a9.jpg" /></a>
+                <p class="singer-name">
+                  <a href="/xiaoyuan/singer/20144465" target="_blank">刘璐</a>
+                </p>
+                <p class="singer-division">北京赛区</p>
+              </li>
+                          </ul>
+          </div> 
+        </div>
+        <div class="bottom-block clearfix">
+            <div class="weibo">
+              <div class="weibo-tit"></div>
+              <div class="weibo-zhibo">
+                <iframe width="100%" height="667" frameborder="0" scrolling="no" src="http://widget.weibo.com/livestream/listlive.php?language=zh_cn&width=0&height=667&uid=2723343442&skin=1&refer=1&appkey=&pic=0&titlebar=1&border=1&publish=1&atalk=1&recomm=0&at=0&atopic=%E7%99%BE%E5%BA%A6%E9%9F%B3%E4%B9%90%E6%A0%A1%E5%9B%AD%E6%96%B0%E5%A3%B0%E4%BB%A3&ptopic=%E7%99%BE%E5%BA%A6%E9%9F%B3%E4%B9%90%E6%A0%A1%E5%9B%AD%E6%96%B0%E5%A3%B0%E4%BB%A3&dpc=1"></iframe>
+              </div>
+            </div>
+            <!-- adm begin -->
+            <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+            <!-- adm end -->
+            <div class="ad-block">
+              <!-- 加载头部公告 begin -->
+              <script type="text/javascript">
+                  BAIDU_CLB_fillSlotAsync('756995', 'baidu_ad_slot_announcement');
+              </script>  
+              <!-- 加载头部公告 end -->
+              <ul>
+                <li class="ad-first" id="baidu_ad_slot1">
+                    <script type="text/javascript">
+                      BAIDU_CLB_fillSlotAsync("655369", 'baidu_ad_slot1');
+                    </script>
+                </li>
+                <li id="baidu_ad_slot2">
+                    <script type="text/javascript">
+                      BAIDU_CLB_fillSlotAsync("655366", 'baidu_ad_slot2');
+                    </script>
+                </li>
+                <li id="baidu_ad_slot3">
+                    <script type="text/javascript">
+                      BAIDU_CLB_fillSlotAsync("725016", 'baidu_ad_slot3');
+                    </script>
+                </li>
+                <li id="baidu_ad_slot4">
+                    <script type="text/javascript">
+                      BAIDU_CLB_fillSlotAsync('655373', 'baidu_ad_slot4');
+                    </script>
+                </li>
+              </ul>
+            </div>
+        </div>
+    </div>
+    <!-- main content end -->
+    </div>
+    <!--== area main end ==-->
+  
+  <div id="list_popup" class="list-popup popup" style="display: none">
+    <a href="#" class="popup-close list-popup-close" id="list_popup_close"></a>
+    <ul class="list-popup-inner clearfix">
+          </ul>
+    <div class="operation">
+      <a href="#" class="list-popup-close btn">
+        <span class="list-popup-close-inner inner">
+          关闭
+        </span>
+      </a>
+    </div>
+    <div class="bottom-bg"></div>
+  </div>
+
+<div class="vote-guide"> 
+  <div class="overlay"></div> 
+  <div class="content"> 
+    
+  </div> 
+  <span class="confirm"></span> 
+</div>
+
+
+
+	<div id="vote_popup" class="vote-popup popup">
+		<a href="#" class="popup-close vote-popup-close" id="popup_close"></a>
+		<div class="popup-text" id="popup_text">
+			<p>
+                已成功为该选手增加人气！<br/>
+                每位用户每天可以为每位选手增加一个人气<br/>登陆移动版百度音乐继续为Ta增加人气             
+			</p>
+			<div class="operation">
+				<a href="/mobile" class="vote-popup-close down" target="_blank">下载移动版百度音乐</a>
+			</div>
+		</div>
+	</div>
+
+    <!-- 右侧二维码 -->
+    <div class="qrcode-share">
+         <h3>下载百度音乐APP</h3>
+         <p class="top">为喜爱的选手积攒人气</p>
+         <p class="top">助Ta成为网络人气王</p>
+         <img src="/cms/huodong/voiceschool/images/qr_code.png" />       
+        </div>
+    </div>
+
+    <div class="layout-area-foot"  alog-alias="music-xiaoyuan-foot">
+    <div class="cooperation clearfix">
+        <div class="cooper-list">
+            <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+            <script type="text/javascript">BAIDU_CLB_fillSlot("654836");</script>
+        </div>
+    </div>
+</div>
+
+<div class="music-foot" monkey="music-foot" alog-alias="music-foot-alog"  alog-alias="music-footer">
+    <a href="javascript:void(0)" class="weixin-follow" id="weixin_follow">加微信好友</a><a href="http://e.weibo.com/musicbaidu" target="_blank" class="weibo-follow">加关注</a><a href="http://tousu.baidu.com/music/add" target="_blank" rel="nofollow">意见反馈</a><i class="module-line"></i>	<a target="_blank" href="/doc/help" rel="nofollow">帮助中心</a><i class="module-line"></i><a href="http://musicopen.baidu.com" target="_blank" rel="nofollow">资源合作开放平台</a><i class="module-line"></i><a href="http://y.baidu.com" target="_blank">原创音乐人</a><i class="module-line"></i><span class="copy">&copy;2013 Baidu</span><a href="http://www.baidu.com/duty/" target="_blank" class="reader" rel="nofollow">使用百度前必读</a>文网文<span class="license">[2010]197</span>号
+<div class="weixin-detail" id="weixin_detail"><div class="weixin-qr"></div><span>微信扫一扫<br/>精选音乐每日推送!</span></div>
+</div>
+
+<div class="dialog-box info-dialog clearfix" id="entry-dialog">
+    <span class="close" title="关闭">关闭</span>
+    <div class="body">
+         <p class="dia-content">亲爱的同学你好，你已报名成功，请勿重复报名，审核结果请以邮件为准，请注意查收你的邮箱^0^</p>
+         <p class="btns">
+            <span class="confirm"></span>
+        </p>
+    </div>
+</div>
+</body>
+
+
+  
+    <script type="text/javascript" src="//mu6.bdstatic.com/static/j/FyldayX2.js"></script>
+  
+    <script type="text/javascript" src="//mu5.bdstatic.com/static/j/lL5Son3E.js"></script>
+      <script type="text/javascript">ting.openApp.init();</script>
+  
+    <script type="text/javascript" src="/cms/huodong/voiceschool/js/watermark.js"></script>
+
+<script type="text/javascript" src="/cms/huodong/voiceschool/js/jquery.cycle.js"></script>
+<!-- play shell begin -->
+<script type="text/javascript" src="/cms/huodong/voiceschool/js/campusPlayer.js"></script>
+<!-- play shell end -->
+
+  
+  <div style="display:none;">
+    <script type="text/javascript">
+      var pageId = "ting-music-xiaoyuan-index";
+      (document.getElementsByTagName('head')[0] || body).appendChild(document.createElement('script')).src = 'http://img.baidu.com/hunter/musicmonkey.min.js';
+      var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+      document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd0ad46e4afeacf34cd12de4c9b553aa6' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+  </div>
+
+    <script type="text/javascript">
+
+		function showVotePopup () {
+			var $votePopup = $("#vote_popup"),
+				$close = $votePopup.find(".vote-popup-close");
+
+			$votePopup.floatLayer().floatLayer("show");
+			$close.click(function () {
+				$votePopup.floatLayer("hide");
+				return $(this).hasClass("down");
+			});
+		}
+
+		function vote (uid, callback, $dom) {
+
+			var baseURL = "/xiaoyuan/vote?t=" + (new Date * 1) + "&singer_uid=",
+				voteURL = baseURL + uid;
+
+			if ($dom && $dom.length) {
+				if ($dom.data("voting"))	{
+					return false;
+				}
+				$dom.data("voting", true);
+			}
+
+			$.ajax({
+				url: voteURL,
+				type: "get",
+				dataType: "jsonp",
+				success: function (result) {
+					switch (parseInt(result.error, 10)) {
+						case 22000:
+                            if ($dom && $dom.length) {
+								$dom.tip().tip("tipup", { msg: "加人气成功", iconClass: "tip-success" });				
+							}
+
+							callback && callback(result);		
+							break;
+						case 22001:
+							break;
+						case 23000:
+							showVotePopup();
+							break;
+					}
+
+					$dom.data("voting", false);
+				}	
+			});
+		}
+
+		function initGlobalVote () {
+            
+            $(document).on('click', '.vote-btn:not(".disabled")', function() {
+            // console.log('vote!');
+            var that = $(this),
+                singerId = that.metadata().singerId;
+              // console.log(singerId);
+                  vote(singerId, function () {
+                    var $voteCount = that.next(".vote-count");
+                    that.addClass('voted-btn');
+                    if ($voteCount) {
+                      $voteCount.text(1 + parseInt($voteCount.text(), 10));
+
+                    }
+                  }, that);
+
+                  return false;  
+            });
+
+            $(document).on('click', '.disabled.vote-btn', function() {
+                $(this).tip().tip("tipup", { msg: "投票已结束", iconClass: "tip-warning" });       
+                return false;
+            });
+		}
+
+        function checkUserEntry(){
+            $(".hd-entry").click(function(){
+                                //未登录
+//                $("#loginbtn").trigger('click');
+                ting.passport.checkLogin(function(userinfo){
+                    window.location.reload();
+                },function(){
+                    //onFailure
+                },function(){
+                    //cancel
+                },function(){
+                    //onpassportsucess
+                }, {});
+                
+            });
+        }
+        function search() {
+            var $form = $('#search_panel'),
+                $input = $('#searchHeader');
+            $form.on('submit', function() {
+                var val = $.trim($input.val());
+                return !!val;
+            });
+        }
+
+        function songShare(){
+            var $curShare = null,
+                time = null;
+            $(".song-share").each(function(){
+                var $share = $(this),
+                    $btn = $share.find('.btn-share'),
+                    $panel = $share.find('.baidu-share-panel');
+                $share.on({
+                    mouseenter: function(){
+//                        console.log('enter');
+                        if ($curShare && $curShare[0] === $(this)[0] && time) {
+//                            console.log("clearTimeout");
+                            clearTimeout(time);
+                            time = null;
+                        }
+                        $btn.addClass('show-active');
+                        $panel.show();
+                    },
+                    mouseleave: function(e){
+//                        console.log("leave");
+                        $curShare = $(this);
+//
+                        if ($(e.relatedTarget).parents('#bdshare_s').length > 0) {
+                            return;
+                        }
+                        time = setTimeout(function() {
+                            $btn.removeClass('show-active');
+                            $panel.hide();
+                        }, 500);
+                    }
+                });
+                $panel.find('.bdshare_b').on('mouseenter', function() {
+                    $share.trigger('mouseenter');
+                });
+            });
+            $(document).on('mouseleave', '#bdshare_s', function() {
+                // 避免panel先消失，导致分享panel闪烁
+                setTimeout(function() {
+                    $curShare.find('.btn-share').removeClass('show-active');
+                    $curShare.parent().find('.baidu-share-panel').hide();
+                }, 0);
+            });
+        }
+
+		function initEntryDialog () {
+			$("#entry-dialog").dialog( {
+				confirm : {
+					btn : ".confirm",
+					callback: function() {
+						$("#entry-dialog").dialog("close");
+					} 
+				},
+				close: {
+					callback: function() {
+						$("#entry-dialog").dialog("close");
+					}
+				}
+			} );
+		}
+
+        $(function() {
+//            userLogin();
+			initEntryDialog();
+            checkUserEntry();
+            $('#searchHeader').watermark();
+            search();
+			initGlobalVote();
+        });
+    </script>
+
+<!-- Baidu Button BEGIN 
+<script type="text/javascript" id="bdshare_js" data="type=button&amp;uid=6533505" ></script>-->
+<script type="text/javascript" id="bdshare_js" data="type=slide&mini=1"></script> 
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+var bds_config = {
+    'bdText':'#百度音乐校园新声代#，72强火热出炉！通过百度音乐APP(下载地址：http://music.baidu.com/mobile )为喜爱的选手积攒人气，助Ta赢得惊喜大奖！活动地址：'
+};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+
+
+
+<script type="text/javascript" src="/cms/huodong/voiceschool/js/voiceschool_index.js"></script>
+
+</html>

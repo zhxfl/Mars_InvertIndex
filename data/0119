@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>百度音乐资源合作开放平台</title>
+<link rel="stylesheet" type="text/css" href="/static/css/base.css?v0807" />
+<script src="/static/js/jquery/jquery-1.8.3.js" type="text/javascript" charset="utf-8"></script>
+<script src="/static/js/common/json2.js" type="text/javascript" charset="utf-8"></script>
+
+
+<link rel="stylesheet" type="text/css" href="/static/css/p_index.css">
+<link rel="stylesheet" type="text/css" href="/static/css/login.css">
+
+
+
+		<script type='text/javascript' src='http://passport.baidu.com/passApi/js/wrapper.js?cdnversion=1380034762'></script>
+	
+</head>
+<body>
+	<div class="wrapper">	
+		<div class="header">
+			<a href="/">
+	<img src="/static/img/logo.png">
+</a>			
+	 
+
+		</div>
+		<div class="main">
+			
+	<i class="main-bg"></i> 
+	<i class="section-bg"></i>
+
+			<div class="container">
+				
+		<i class="banner-bg"></i>
+	<div class="section-banner">
+		<div class="mod-userinfo">
+													<!-- <div id="tabs_login" class="pass_login_box">
+  <ul class="clearfix">
+    <li class="ui-tab1"><a href="#tabs-1">普通登录</a></li>
+    <li class="ui-tab2"><a href="#tabs-2">手机号登录</a></li>
+  </ul>
+  <div id="tabs-1">
+	<div id='outerDom'></div>
+  </div>
+  <div id="tabs-2">
+	<div id='outerDom2'></div>
+  </div>
+</div> -->
+<div id="tabs_login" class="pass_login_box">
+<ul class="login-tab">
+     <li class="tab-item tab-item-left tab-selected">
+         <a href="#" onclick="return false;" hidefocus="true">普通登录</a>
+     </li>
+     <li class="tab-item tab-item-right">
+         <a href="#" onclick="return false;" hidefocus="true">手机登录</a>
+     </li>
+</ul>
+<div id="music_pass_login_form" class="tang-pass-login"></div>
+</div>	
+				<i class="divide"></i>
+				<a href="?c=index&m=welcome&tn=openuser_step1" class="btn btn-join-step1"><span class="inner">加入资源合作开放平台</span></a>		
+					</div>
+	</div>
+	<div class="section-intro">
+		<div class="feature-intro">
+			<i class="divide"></i>
+			<ul>
+				<li class="ft-1">
+					<i class="ft-ico"></i>
+					<h4>潜在合作伙伴开放认证</h4>
+					<p>好音乐链接大平台，开放共赢，造福耳朵。</p>
+				</li>				
+				<li class="ft-2">
+					<i class="ft-ico"></i>
+					<h4>登录权限区分管理</h4>
+					<p>公司、工作室、独立音乐人、权限区分无压力、灵活又安全。</p>
+				</li>				
+				<li class="ft-3">
+					<i class="ft-ico"></i>
+					<h4>物料一站式便捷提交</h4>
+					<p>操作便捷，专业高效，省时省心。</p>
+				</li>				
+				<li class="ft-4">
+					<i class="ft-ico"></i>
+					<h4>合作增值服务</h4>
+					<p>合作资源品质评价体系保证好资源有大回报。</p>
+				</li>
+			</ul>
+		</div>	
+		<div class="mod-board">
+			<h4>公告牌</h4>
+			<div class="board-content ui-scroll-bar" style="overflow-x:hidden;">
+				<ol id="board_content">
+					<li>1、平台正式开放公测，欢迎合作伙伴踊跃试用，目前暂时仅支持公司类型伙伴的合作，独立音乐人敬请期待。</li>
+					<li>2、请您务必完整真实地填写认证材料！百度音乐将会审核贵司的资质，审核通过之后可给予认证权限。</li>
+					<li>3、用于认证权限的百度账号是登录本平台的唯一帐号，注册成功后将无法更换！同一公司不能重复注册！</li>
+					<li>4、在使用平台过程中有任何问题和建议，请发邮件到官方邮箱：musicopen@baidu.com。</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+	<div class="section-coperator">
+		<h4>合作伙伴</h4>
+		<div class="coperator-img">
+		</div>
+	</div>
+
+			</div>
+		</div>
+		<div class="footer">
+			友情链接：<a href="http://music.baidu.com" title="百度音乐-音乐无处不在">http://music.baidu.com</a>
+联系我们：<a href="mailto:musicopen@baidu.com">musicopen@baidu.com</a>
+<span class="copy">&copy;2013 Baidu<a href="http://www.baidu.com/duty/" target="_blank" class="reader" rel="nofollow">使用百度前必读</a>文网文[2010]197号</span>
+		</div>
+	</div>
+
+
+
+
+<script type="text/javascript">
+	var config_login = {
+		handler_ready : function(form){
+			$(form).find('#pass_login_username_0').attr('placeholder','请用百度账号登录');
+			$(form).append('<p class="err-msg"></p>');
+		}
+	}
+</script>
+<script src="/static/js/common/pass_login.js" type="text/javascript" charset="utf-8"></script>
+
+</body>
+</html>

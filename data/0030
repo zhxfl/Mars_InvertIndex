@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+<meta charset="gbk">
+<title> </title>
+<script>
+var PDC={_version:"2.1",_render_start:new Date().getTime(),_analyzer:{loaded:false,url:"http://static.tieba.baidu.com/tb/pms/wpo.pda.js?v=2.1",callbacks:[]},_opt:{is_login:false,sample:0,product_id:0,page_id:0,special_pages:[],display:false,ready:true,stateChange:function(a){}},_cpupool:{},_timingkey:"start",_timing:{},currentState:null,init:function(d){for(var c in d){if(d.hasOwnProperty(c)){this._opt[c]=d[c]}}},mark:function(b){this._timing[b]=new Date().getTime();if(window.CPU_MONITOR){if(this._lastkey){CPU_MONITOR.end(this._lastkey+"-"+this._timingkey,this._cpupool)}if(b!="let"){CPU_MONITOR.start(this._timingkey+"-"+b,this._cpupool);this._lastkey=this._timingkey;this._timingkey=b}}this.currentState=b;this._opt.stateChange&&this._opt.stateChange(b)},view_start:function(){this.mark("vt")},tti:function(){this.mark("tti")},page_ready:function(){this.mark("fvt")},first_screen:function(){var g=document.getElementsByTagName("img"),a=+new Date;var f=[],e=this;function b(h){var i=i?i:document.documentElement.scrollTop;box=h.getBoundingClientRect();return i+box.top}this._setFS=function(){var k=e._opt["fsHeight"]||document.documentElement.clientHeight;for(var j=0;j<f.length;j++){var l=f[j],h=l.img,n=l.time,m=b(h);if(m>0&&m<k){a=n>a?n:a}}e._timing.fs=a};var d=function(){f.push({img:this,time:+new Date})};for(var c=0;c<g.length;c++){(function(){var h=g[c];if(h.addEventListener){!h.complete&&h.addEventListener("load",d,false)}else{if(h.attachEvent){h.attachEvent("onreadystatechange",function(){if(h.readyState=="complete"){d.call(h,d)}})}}})()}},metadata:function(){var c=this._opt;var e={env:{user:(c.is_login==true?1:0),product_id:c.product_id,page_id:PDC._is_sample(c.sample)?c.page_id:0},render_start:this._render_start,timing:this._timing};var a=[];var d=c.special_pages;for(var b=0;b<d.length;b++){if(PDC._is_sample(d[b]["sample"])){a.push(d[b]["id"])}}if(a.length>0){e.env["special_id"]="["+a.join(",")+"]"}return e}};(function(){if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("let");PDC._setFS&&PDC._setFS();PDC._opt.ready&&PDC._load_analyzer()})}else{window.addEventListener("load",function(){PDC.mark("lt")},false)}})();
+</script>
+<link rel="shortcut icon" href="http://static.tieba.baidu.com/tb/favicon.ico" />
+<link rel="stylesheet" href="http://tb1.bdstatic.com/tb/static-common/style/tb_ui_9164af08.css" />
+<link rel="stylesheet" href="http://tb1.bdstatic.com/tb/static-common/style/tb_common_146cc6a7.css" />
+<script>
+var _VERSION = {"component\/commonLogic\/common\/CommonManager.js":"component\/commonLogic\/common\/CommonManager_57665994.js","component\/commonLogic\/common\/MessageSystem.js":"component\/commonLogic\/common\/MessageSystem_b7c71eb5.js","component\/commonLogic\/common\/common_default_load.js":"component\/commonLogic\/common\/common_default_load_174849ff.js","component\/commonLogic\/common\/common_default_merger.js":"component\/commonLogic\/common\/common_default_merger_21e796e4.js","component\/commonLogic\/common\/crosspage_msg_system\/MsgSystem.js":"component\/commonLogic\/common\/crosspage_msg_system\/MsgSystem_b5135a62.js","component\/commonLogic\/common\/crosspage_msg_system\/utils\/LCFManager.js":"component\/commonLogic\/common\/crosspage_msg_system\/utils\/LCFManager_f5b11638.js","component\/commonLogic\/common\/crosspage_msg_system\/utils\/MessageProxy.js":"component\/commonLogic\/common\/crosspage_msg_system\/utils\/MessageProxy_8da6d7a6.js","component\/commonLogic\/common\/crosspage_msg_system\/utils\/SWFListen.js":"component\/commonLogic\/common\/crosspage_msg_system\/utils\/SWFListen_7f964e40.js","component\/commonLogic\/common\/crosspage_msg_system\/utils\/SWFRequest.js":"component\/commonLogic\/common\/crosspage_msg_system\/utils\/SWFRequest_050b7228.js","component\/commonLogic\/common\/passport\/PassportFillName.js":"component\/commonLogic\/common\/passport\/PassportFillName_35e658e8.js","component\/commonLogic\/common\/passport\/PassportLogin.js":"component\/commonLogic\/common\/passport\/PassportLogin_1fa082a3.js","component\/commonLogic\/common\/passport\/PassportRegister.js":"component\/commonLogic\/common\/passport\/PassportRegister_a8d9e7fd.js","component\/commonLogic\/common\/passport\/PassportSign.js":"component\/commonLogic\/common\/passport\/PassportSign_4cad058d.js","component\/commonLogic\/common\/passport\/pass_shell.js":"component\/commonLogic\/common\/passport\/pass_shell_d4752df5.js","component\/commonLogic\/common\/passport\/passport_reset.js":"component\/commonLogic\/common\/passport\/passport_reset_5f08582e.js","component\/commonLogic\/common\/poptip\/Poptip.js":"component\/commonLogic\/common\/poptip\/Poptip_1931b708.js","component\/commonLogic\/common\/search\/Search.js":"component\/commonLogic\/common\/search\/Search_a1c86dcc.js","component\/commonLogic\/common\/search\/Search_v2.js":"component\/commonLogic\/common\/search\/Search_v2_48d6def9.js","component\/commonLogic\/common\/suggestion\/Suggestion.js":"component\/commonLogic\/common\/suggestion\/Suggestion_eaddb81c.js","component\/commonLogic\/common\/user\/User.js":"component\/commonLogic\/common\/user\/User_b614bb01.js","component\/commonLogic\/common\/user\/UserBar.js":"component\/commonLogic\/common\/user\/UserBar_8ce0586f.js","component\/commonLogic\/common\/user_message\/UserMessage.js":"component\/commonLogic\/common\/user_message\/UserMessage_46f6deca.js","component\/commonLogic\/common\/wealth\/WealthSystem.js":"component\/commonLogic\/common\/wealth\/WealthSystem_f04f7fce.js"};
+var _JSSTAMP = {"spage\/component\/feed_data\/feed_data.js":"feed_data_2a5d6876.js","common\/component\/dynamic_load\/dynamic_load.js":"\/tb\/_\/dynamic_load_cb1081c8.js","spage\/component\/popframe\/popframe.js":"popframe_edeeb131.js","common\/component\/slide_show\/slide_show.js":"\/tb\/_\/slide_show_9d429b70.js","common\/component\/aside_float_bar\/aside_float_bar.js":"\/tb\/_\/aside_float_bar_66ff2e36.js","common\/component\/scroll_panel\/scroll_panel.js":"\/tb\/_\/scroll_panel_6bcc3d38.js","common\/component\/frs_version\/version_cookie.js":"\/tb\/_\/version_cookie_25af21ea.js","common\/component\/vote\/image_item.js":"\/tb\/_\/image_item_2126b1a8.js","common\/component\/vote\/text_item_list.js":"\/tb\/_\/text_item_list_ff05f193.js","common\/component\/vote\/text_item.js":"\/tb\/_\/text_item_afe05bc3.js","common\/component\/vote\/data_manager.js":"\/tb\/_\/data_manager_25411682.js","common\/component\/vote\/image_item_list.js":"\/tb\/_\/image_item_list_370aff47.js","common\/component\/vote\/result_panel.js":"\/tb\/_\/result_panel_634f648e.js","common\/component\/vote\/vcode_box.js":"\/tb\/_\/vcode_box_57603586.js","common\/component\/vote\/progress_bar.js":"\/tb\/_\/progress_bar_1a464a2e.js","common\/component\/search_handler\/search_handler.js":"\/tb\/_\/search_handler_89d28599.js","common\/component\/search_dialog\/search_dialog.js":"\/tb\/_\/search_dialog_54e01caa.js","common\/component\/image_uploader\/image_uploader.js":"\/tb\/_\/image_uploader_be874e80.js","common\/component\/image_htmlx_editor\/filter_loader.js":"\/tb\/_\/filter_loader_dbc39c2d.js","common\/component\/image_htmlx_editor\/filter_worker.js":"\/tb\/_\/filter_worker_5008496c.js","common\/component\/image_htmlx_editor\/image_htmlx_editor.js":"\/tb\/_\/image_htmlx_editor_e85cdabe.js","common\/component\/image_htmlx_editor\/clip_resize.js":"\/tb\/_\/clip_resize_553528aa.js","common\/component\/image_water\/water_flash.js":"\/tb\/_\/water_flash_36762161.js","common\/component\/image_water\/water_html5.js":"\/tb\/_\/water_html5_c64e7810.js","common\/component\/image_water\/image_water.js":"\/tb\/_\/image_water_cc5f4cbe.js","common\/component\/sketchpad\/sketchpad.js":"\/tb\/_\/sketchpad_1526d88a.js","common\/component\/interest_smiley\/interest_smiley.js":"\/tb\/_\/interest_smiley_234933da.js","common\/component\/captcha_dialog\/captcha_dialog.js":"\/tb\/_\/captcha_dialog_be604b4a.js","common\/component\/postor_service\/postor_service.js":"\/tb\/_\/postor_service_2ac2f356.js","common\/component\/suggestion\/suggestion.js":"\/tb\/_\/suggestion_b25ba839.js","common\/component\/toolbar\/toolbar.js":"\/tb\/_\/toolbar_cf7e441d.js","common\/component\/sketchpad_dialog\/sketchpad_dialog.js":"\/tb\/_\/sketchpad_dialog_ce8863e7.js","common\/component\/tabs\/tabs.js":"\/tb\/_\/tabs_b4690774.js","common\/component\/word_limit\/word_limit.js":"\/tb\/_\/word_limit_5bae85db.js","common\/component\/editor_pic\/editor_pic.js":"\/tb\/_\/editor_pic_0396eada.js","common\/component\/editor_video\/editor_video.js":"\/tb\/_\/editor_video_68c7e0c3.js","common\/component\/editor_smiley\/editor_smiley.js":"\/tb\/_\/editor_smiley_56c76a91.js","common\/component\/editor_music\/editor_music.js":"\/tb\/_\/editor_music_7eb733e8.js","common\/component\/editor_sketchpad\/editor_sketchpad.js":"\/tb\/_\/editor_sketchpad_644df4ca.js","common\/component\/area_select\/area_select.js":"\/tb\/_\/area_select_a08b59c6.js","common\/component\/follower\/follower.js":"\/tb\/_\/follower_ac4aad60.js","common\/component\/sketchpad\/sketchpad_core.js":"\/tb\/_\/sketchpad_core_a150a062.js","common\/component\/image_uploader_manager\/image_uploader_manager.js":"\/tb\/_\/image_uploader_manager_6437db95.js","common\/component\/image_uploader_manager\/uploader_flash.js":"\/tb\/_\/uploader_flash_246d8dba.js","common\/component\/image_uploader_manager\/uploader_html5.js":"\/tb\/_\/uploader_html5_8e389333.js","common\/component\/image_exif\/image_exif.js":"\/tb\/_\/image_exif_0bd01ba7.js","common\/component\/captcha\/captcha.js":"\/tb\/_\/captcha_1de8a7b8.js","common\/component\/captcha_meizhi\/captcha_meizhi.js":"\/tb\/_\/captcha_meizhi_ec604d2f.js","common\/component\/suggestion\/action.js":"\/tb\/_\/action_070989c5.js","common\/component\/image_clipper\/image_clipper.js":"\/tb\/_\/image_clipper_b0c498f9.js","common\/component\/image_previewer\/image_previewer.js":"\/tb\/_\/image_previewer_ee8440f3.js","common\/component\/image_editor\/image_editor.js":"\/tb\/_\/image_editor_76d26aae.js","common\/component\/image_previewer_list\/image_previewer_list.js":"\/tb\/_\/image_previewer_list_31ec5fe7.js","common\/component\/image_previewer_rotate\/image_previewer_rotate.js":"\/tb\/_\/image_previewer_rotate_a35ffbb3.js","common\/component\/image_uploader_queue\/image_uploader_queue.js":"\/tb\/_\/image_uploader_queue_71ca8cfb.js","common\/component\/image_editor\/image_cliper.js":"\/tb\/_\/image_cliper_1955b83f.js","common\/component\/image_editor\/image_transformer.js":"\/tb\/_\/image_transformer_a610529a.js","common\/component\/image_progress_bar\/image_progress_bar.js":"\/tb\/_\/image_progress_bar_e53fd1a1.js","common\/component\/htmlx_img_filter\/loader.js":"\/tb\/_\/loader_8b5ca927.js","common\/component\/htmlx_img_filter\/worker.js":"\/tb\/_\/worker_8fb4596b.js","common\/component\/htmlx_img_clip\/resize.js":"\/tb\/_\/resize_c6722538.js","common\/component\/image_viewer\/data_interface.js":"\/tb\/_\/data_interface_d273d85c.js","common\/component\/image_viewer\/image_nav_item.js":"\/tb\/_\/image_nav_item_fd66b1e4.js","common\/component\/image_viewer\/image_pager.js":"\/tb\/_\/image_pager_e76e75e1.js","common\/component\/image_viewer\/scroll_pannel.js":"\/tb\/_\/scroll_pannel_38e89ae9.js","common\/component\/image_viewer\/image_postor.js":"\/tb\/_\/image_postor_341727de.js","common\/component\/block_user\/block_user.js":"\/tb\/_\/block_user_2d001db6.js","common\/component\/image_viewer\/hint.js":"\/tb\/_\/hint_d90feefe.js","common\/component\/image_viewer\/image_original.js":"\/tb\/_\/image_original_ec566dd7.js","common\/component\/image_viewer\/image_nav.js":"\/tb\/_\/image_nav_2d22df78.js","common\/component\/image_viewer\/image_comments.js":"\/tb\/_\/image_comments_f39f2bea.js","common\/component\/image_viewer\/dropdown_list.js":"\/tb\/_\/dropdown_list_b8f9fa1a.js","common\/component\/image_viewer\/tb_fav.js":"\/tb\/_\/tb_fav_605feea8.js","common\/component\/image_viewer\/games.js":"\/tb\/_\/games_cd84d45f.js","common\/component\/image_viewer\/image_thumbnail.js":"\/tb\/_\/image_thumbnail_96ec8d65.js","common\/component\/image_viewer\/image_preloader.js":"\/tb\/_\/image_preloader_7c10751e.js","common\/component\/image_viewer\/full_screen_manager.js":"\/tb\/_\/full_screen_manager_1c9134fb.js","common\/component\/editor_video\/editor_urlvideo.js":"\/tb\/_\/editor_urlvideo_a081888b.js","common\/component\/editor_video\/editor_localvideo.js":"\/tb\/_\/editor_localvideo_63a41cd4.js","common\/component\/editor_pic\/editorpic_upload.js":"\/tb\/_\/editorpic_upload_adebccf4.js","common\/component\/editor_music\/editor_music_helper.js":"\/tb\/_\/editor_music_helper_80b0c284.js","common\/component\/editor_pic_meizhi\/editor_pic_meizhi_upload.js":"\/tb\/_\/editor_pic_meizhi_upload_fec5b9eb.js","common\/component\/image_flash_editor\/image_flash_editor.js":"\/tb\/_\/image_flash_editor_14f61c21.js","common\/component\/post_service\/post_service.js":"\/tb\/_\/post_service_b2150045.js","common\/component\/post_prefix\/post_prefix.js":"\/tb\/_\/post_prefix_894a4641.js","common\/component\/post_signature\/post_signature.js":"\/tb\/_\/post_signature_45d117eb.js","common\/component\/mouse_pwd\/mouse_pwd.js":"\/tb\/_\/mouse_pwd_dc9e1f43.js","common\/component\/post_service\/post_result_handler_manager.js":"\/tb\/_\/post_result_handler_manager_8709f77f.js","common\/component\/ueditor_video\/ueditor_urlvideo.js":"\/tb\/_\/ueditor_urlvideo_948991ea.js","common\/component\/ueditor_video\/ueditor_localvideo.js":"\/tb\/_\/ueditor_localvideo_c8f2d48b.js","common\/component\/attachment_uploader\/attachment_item_ui.js":"\/tb\/_\/attachment_item_ui_e11fe281.js","common\/component\/attachment_uploader\/attachment_uploader_ui.js":"\/tb\/_\/attachment_uploader_ui_1137f81e.js","common\/component\/attachment_uploader\/attachment_uploader.js":"\/tb\/_\/attachment_uploader_1b2101ea.js","common\/component\/picture_album_selector\/picture_album_selector.js":"\/tb\/_\/picture_album_selector_95dd7ad6.js","common\/component\/picture_selector\/picture_selector.js":"\/tb\/_\/picture_selector_42a0bd24.js","common\/component\/picture_uploader\/picture_uploader.js":"\/tb\/_\/picture_uploader_f83b9960.js","common\/component\/picture_web_selector\/picture_web_selector.js":"\/tb\/_\/picture_web_selector_bafc4c3e.js","common\/component\/scrawl\/scrawl.js":"\/tb\/_\/scrawl_b1e71d96.js","common\/component\/ueditor_emotion\/ueditor_emotion.js":"\/tb\/_\/ueditor_emotion_59558792.js","common\/component\/ueditor_music\/ueditor_music.js":"\/tb\/_\/ueditor_music_fd645e54.js","common\/component\/ueditor_video\/ueditor_video.js":"\/tb\/_\/ueditor_video_30556272.js","common\/component\/placeholder\/placeholder.js":"\/tb\/_\/placeholder_d95d3899.js","common\/component\/ueditor_music\/ueditor_music_search.js":"\/tb\/_\/ueditor_music_search_9d781790.js","common\/component\/ueditor_music\/ueditor_music_helper.js":"\/tb\/_\/ueditor_music_helper_d9f35de9.js"};
+</script>
+<script src="http://tb1.bdstatic.com/tb/static-common/lib/tb_lib_8b3b49a3.js"></script>
+<script src="http://tb1.bdstatic.com/tb/static-common/ui/common_logic_v2_4d4dd951.js"></script>
+<script src="http://tb1.bdstatic.com/tb/static-common/js/tb_ui_ac13f64f.js"></script>
+<link rel="stylesheet" href="http://tb1.bdstatic.com/tb/static-common/style/tb_common_lazy.css?v=130917154430" />
+<script>
+var PageData = {
+'tbs' : "0af4dba8fe7c31b11380034185",
+'product' : "static_page",
+'page' : "",
+'user' : {"is_login":false}};
+PageData.user.name_url = "";
+var Env = {};
+Env.server_time = 1380034185000;
+</script>
+<script>
+PDC.mark("ht");(function(){var a=PDC.ready=function(){var g=false,f=[],c;if(document.addEventListener){c=function(){document.removeEventListener("DOMContentLoaded",c,false);d()}}else{if(document.attachEvent){c=function(){if(document.readyState==="complete"){document.detachEvent("onreadystatechange",c);d()}}}}function d(){if(!d.isReady){d.isReady=true;for(var k=0,h=f.length;k<h;k++){f[k]()}}}function b(){try{document.documentElement.doScroll("left")}catch(h){setTimeout(b,1);return}d()}function e(){if(g){return}g=true;if(document.addEventListener){document.addEventListener("DOMContentLoaded",c,false);window.addEventListener("load",d,false)}else{if(document.attachEvent){document.attachEvent("onreadystatechange",c);window.attachEvent("onload",d);var h=false;try{h=window.frameElement==null}catch(i){}if(document.documentElement.doScroll&&h){b()}}}}e();return function(h){d.isReady?h():f.push(h)}}();a.isReady=false})();PDC.ready(function(){PDC.mark("drt")});PDC.mark("vt");
+</script>
+</head>
+<body><div id="local_flash_cnt"></div><div class="wrap_body">
+<div id="head" class="search search_theme_3 clearfix"> <a title="到贴吧首页" class="s_logo" href="/"><img width="137" height="46" alt="到贴吧首页" src="http://img.baidu.com/img/post-jg.gif" id="tieba_logo"></a><div class="s_right_region"><div class="s_nav"><div class="s_tab hdtag"><a param="word" href="http://news.baidu.com/ns?cl=2&amp;rn=20&amp;tn=news&amp;">新闻</a>&#12288;<a param="wd" href="http://www.baidu.com/s?cl=3&amp;">网页</a>&#12288;<b>贴吧</b>&#12288;<a param="word" href="http://zhidao.baidu.com/q?ct=17&amp;pn=0&amp;tn=ikaslist&amp;rn=10&amp;">知道</a>&#12288;<a param="key" href="http://music.baidu.com/search?fr=tieba&">音乐</a>&#12288;<a param="word" href="http://image.baidu.com/i?tn=baiduimage&amp;ct=201326592&amp;lm=-1&amp;cl=2&amp;">图片</a>&#12288;<a param="word" href="http://v.baidu.com/v?ct=301989888&amp;rn=20&amp;pn=0&amp;db=0&amp;s=21&amp;">视频</a>&#12288;<a param="word" href="http://map.baidu.com/m?fr=map006&amp;">地图</a>&#12288;<a href="http://baike.baidu.com/" param="searchword/?pic=1&fr=tieba&word" >百科</a>&#12288;<a href="http://wenku.baidu.com/search?" param="word" >文库</a>&#12288;<a href="http://xiangce.baidu.com/home" class="j_xiangce_tab">相册</a></div></div><div><form action="/f" class="f" id="tb_header_search_form" name="f1"><input  maxlength="100" class="s_ipt i tb_header_search_input" id="wd1" tabindex="1" size="42" autocomplete="off" x-webkit-grammar="builtin:search" x-webkit-speech="true"><span class="s_btn_wr"><input type="submit" onmouseout="this.className='s_btn'" onmousedown="this.className='s_btn s_btn_h'" class="s_btn" value="进入贴吧" id="search_submit"></span><span class="s_tools"><a onclick="return false;" class="j_global_search" href="#">贴吧搜索</a></span><input autocomplete="off" type="hidden" value="" name="kw" id="wd2" /></form><p style="display:none;" class="switch_radios"><input type="radio" class="nowtb" name="tb" id="nowtb"><label for="nowtb">吧内搜索</label><input type="radio" class="searchtb" name="tb" id="searchtb"><label for="searchtb">搜贴</label><input type="radio" class="authortb" name="tb" id="authortb"><label for="authortb">搜人</label><input type="radio" class="jointb" checked="checked" name="tb" id="jointb"><label for="jointb">进吧</label><input type="radio" class="searchtag" name="tb" id="searchtag" style="display:none;"><label for="searchtag"  style="display:none;">搜标签</label></p></div></div>    </div><link type="text/css" href="http://tb1.bdstatic.com/??tb/static-common/style/tb_common.css,tb/static-common/style/tb_common_lazy.css,tb/indexfiles/v2/index.css,tb/static-common/widget/search/search.css,tb/static-common/component/loginForm/loginForm.css" rel="stylesheet">
+<link type="text/css" href="http://static.tieba.baidu.com/tb/indexfiles/v2/index.css?v=201213" rel="stylesheet">
+<!--hahaha-->
+<script type="text/javascript" src="http://tieba.baidu.com/tb/picture/js/index.js?v=20120928"></script>
+<style>
+a{text-decoration:none;}a:hover{text-decoration:underline;}body{background:url(http://static.tieba.baidu.com/tb/static-frs/img/v2/bg.jpg?v=20121008) repeat 0 0 transparent;}body,button,input,select,textare,td,th{font:12px/18px 宋体;}.gallery_body_wrap{background:url(http://static.tieba.baidu.com/tb/static-album/img/body_bg_61899999.jpg?v=20121008) repeat-x 0 0 transparent;}.gh_logo,.gbc_right_item_right_btn,.gbc_right_recommend_pic,.gbc_right_recommend_btn,.gallery_nav,.gallery_nav_selected{background:url(http://tieba.baidu.com/tb/picture/img/picsquare_icons.png?v=2.0) no-repeat 0 0 transparent;}.gallery_header{background:url(http://tieba.baidu.com/tb/picture/img/zt_header_bg_10x48.png) repeat-x 0 0 transparent;height:48px;overflow:hidden;_zoom:1;}.gh_main{width:982px;height:46px;margin:0 auto;}.gh_logo{display:block;background-position:-150px 0;width:108px;height:46px;float:left;}.gh_divide{margin-top:21px;width:1px;height:14px;font-size:0;background-color:#E2E2E2;float:left;}.gh_title{float:left;margin-top:20px;height:14px;line-height:14px;font-size:14px;color:#999;font-family:微软雅黑,黑体;padding-left:15px;}.gh_userbar{float:right;text-align:right;padding-top:21px;display:none;}.gh_userbar_divide{height:14px;line-height:14px;color:#999;}.gh_userbar a,.gh_userbar a:visited{color:#00C;}.gh_userbar a{text-decoration:underline;}#main{width:980px;margin:0 auto;}.gallery_body{width:982px;margin:0 auto;margin-top:7px;text-align:left;}.gb_carousel{background-color:#fff;border:1px solid #E0E0E0;box-shadow:0 0 3px #E6E6E6;position:relative;zoom:1;}.gbc_corner{background:url(http://tieba.baidu.com/tb/picture/img/picsquare_icons_png.png) no-repeat 0 0 transparent;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="/tb/picture/img/picsquare_icons_png.png");_background:none;width:95px;height:95px;position:absolute;top:-5px;left:-5px;z-index:1002;}.gbc_left{float:left;padding:10px 0 0 10px;_padding:9px 0 0 9px;}.gbc_right{margin-left:730px;_margin-left:727px;width:250px;height:440px;background-color:#F7F7F7;}.gbc_right_item{padding:0 15px 20px 15px;}.gbc_right_item dt{height:43px;border-top:1px solid #ECECEC;}#gbc_right_item_tpht dt{border:none;}.gbc_right_item dd{height:85px;overflow:hidden;zoom:1;}.gbc_right_item_title{font-size:16px;padding:15px 0 5px;color:#666;float:left;font-family:微软雅黑,黑体;}.gbc_right_item_more{float:right;padding-top:17px;color:#4A82F0;}.gbc_right_item_left{float:left;}.gbc_right_item_left a:hover{text-decoration:none;}.gbc_right_item_right{margin-left:95px;}.gbc_right_item_right_title{color:#333;line-height:20px;}.gbc_right_item_right_time{color:#999;line-height:20px;}.gbc_right_item_right_btn{color:#999;display:block;font-size:12px;height:23px;line-height:23px;overflow:hidden;text-align:center;width:67px;margin-top:3px;}.gbc_right_item_right_btn:hover{background-position:0 -30px;text-decoration:none;color:#999;}.gbc_right_recommend{padding:0 15px 20px 15px;}.gbc_right_recommend_pic{background-position:0 -380px;width:220px;height:24px;padding-top:20px;margin-bottom:20px;border-top:1px solid #ECECEC;}.gbc_right_recommend_btn{background-position:0 -106px;display:block;height:33px;margin:0 auto;overflow:hidden;width:142px;}.gbc_right_recommend_btn:hover{background-position:0 -166px;}.gbc_right_recommend_btn:active{background-position:0 -224px;}.gb_blocks{margin-top:10px;border:1px solid #E0E0E0;box-shadow:0 0 3px #E6E6E6;padding:0 0 20px 15px;background-color:#fff;position:relative;}.gb_block{padding-bottom:10px;}.gbb_header{height:43px;margin-right:15px;border-top:1px solid #ececec;}.gb_block_ylys .gbb_header{border:none;}.gbb_header_left{float:left;font-size:20px;line-height:20px;font-family:微软雅黑,黑体;color:#666;padding:14px 0 5px;}.gbb_header_right{margin-left:200px;text-align:right;padding-top:18px;}.gbb_header_right a{color:#4a82f0;}.gbbh_right_reco{color:#999;}.gbbh_right_divide{color:#e0e0e0;}.gbb_body{overflow:hidden;}.gbbb_left{float:left;}.gbbb_ul{width:960px;overflow:hidden;}.gbbb_right{width:640px;margin-left:320px;_margin-left:317px;}.gbbb_ul li{float:left;margin-right:10px;}.gbbb_imglink{display:block;}.gbbb_imglink_hover img{opacity:.9;filter:Alpha(Opacity:90);}.gbbb_textlink{color:#666;display:block;padding:7px 0 11px 2px;}.gb_block_jpmt .gbb_body{height:566px;position:relative;}.gbbb_jpmt{position:absolute;}.gbbb_jpmt_title_bg,.gbbb_jpmt_title{height:33px;position:absolute;left:0;bottom:0;*bottom:4px;display:none;cursor:pointer;}.gbbb_jpmt_title_bg{width:182px;}.gbbb_jpmt_2 .gbbb_jpmt_title_bg,.gbbb_jpmt_9 .gbbb_jpmt_title_bg{width:374px;}.gbbb_jpmt_title{padding-left:10px;line-height:33px;font-size:14px;color:#fff;text-decoration:none;}.gbbb_jpmt .gbbb_imglink:hover .gbbb_jpmt_title_bg,.gbbb_jpmt .gbbb_imglink:hover .gbbb_jpmt_title{display:block;}.gbbb_jpmt .gbbb_imglink:hover .gbbb_jpmt_title_bg{background-color:#000;opacity:.5;filter:Alpha(Opacity:50);}.gbbb_jpmt_1{top:0;left:0;}.gbbb_jpmt_2{top:0;left:192px;}.gbbb_jpmt_3{top:0;left:576px;}.gbbb_jpmt_4{top:0;left:768px;}.gbbb_jpmt_5{top:192px;left:0;}.gbbb_jpmt_6{top:192px;left:192px;}.gbbb_jpmt_7{top:192px;left:384px;}.gbbb_jpmt_8{top:192px;left:576px;}.gbbb_jpmt_9{top:384px;left:0;}.gbbb_jpmt_10{top:384px;left:576px;}.gbbb_jpmt_11{top:384px;left:768px;}.gallery_footer{margin-top:27px;text-align:center;color:#666;}.gallery_footer span,.gallery_footer a{color:#666;padding:0 3px;font-family:Arial,Helvetica,sans-serif;}.gallery_nav{background-position:-280px 0;height:145px;left:-120px;position:absolute;top:14px;width:70px;}.gallery_nav_2{height:48px;}.gallery_nav_3{height:80px;}.gallery_nav_4{height:114px;}.gallery_nav_5{height:145px;}.gallery_nav_6{height:177px;}.gallery_nav_7{height:209px;}.gallery_nav_8{height:240px;}.gallery_nav_9{height:273px;}.gallery_nav_10{height:304px;}.gallery_nav a{background-position:-500px 0;color:#A6A6A6;display:block;height:16px;line-height:16px;overflow:hidden;padding:0 0 16px 22px;font-family:微软雅黑,黑体;}.gallery_nav a:hover{text-decoration:none;}a.gallery_nav_selected{background-position:-280px -363px;}.gallery_nav a.gallery_nav_selected{color:#4A82F0;}.gallery_nav_fixed{position:fixed;left:50%;top:14px;margin-left:-610px;}.gallery_nav_fixed_ie6{top:expression(documentElement.scrollTop-document.getElementById("gb_blocks").offsetTop <0 ? 14:documentElement.scrollTop-document.getElementById("gb_blocks").offsetTop+14);}.panel-overlay-link,.panel-overlay-index{display:block;padding-top:10px;font-family:微软雅黑,黑体;}.panel-overlay-link,.panel-overlay-link:hover{text-decoration:none;}.panel-overlay-index{position:absolute;top:0;right:10px;font-size:16px;}.nav-next,.nav-prev{background:url(http://tieba.baidu.com/tb/picture/img/picsquare_icons.png) repeat 0 -292px #fff;}.nav-prev{background-position:0 -292px;}.nav-prev:hover{background-position:-60px -292px;}.nav-prev:active{background-position:-120px -292px;}.nav-next{background-position:-25px -292px;}.nav-next:hover{background-position:-85px -292px;}.nav-next:active{background-position:-145px -292px;}.filmstrip li{width:90px;height:60px;overflow:hidden;}.filmstrip img{width:128px;height:60px;margin-left:-19px;}.gallery_main{width:710px;height:350px;text-align:center;}.gallery_carousel{overflow:hidden;border:1px solid red;padding:8px 0;}.gc_next,.gc_prev{width:20px;height:66px;float:left;border:1px solid green;}.gc_ul_wrapper{float:left;overflow:hidden;width:670px;height:66px;border:1px solid #111;}.gc_ul{overflow:hidden;width:1000px;}.gc_li{float:left;padding:0 2px;position:relative;}.gc_img_wrapper{padding:3px;}.gc_li_selected .gc_img_wrapper{background-color:#4A82F0;}.gc_img_wrapper img{width:90px;height:60px;}.gc_img_mask{position:absolute;top:3px;left:5px;width:90px;height:60px;background-color:#000;opacity:.3;filter:Alpha(Opacity:90);}.gc_li_selected .gc_img_mask{display:none;}.nav_bar{margin:auto;background-color:#226DDD;background:url('http://tieba.baidu.com/tb/indexfiles/v2/images/nav_bg.png') scroll 0 0 repeat-x transparent;position:relative;}.nav_item,.nav_cur,.nav_tuiguang{display:inline-block;*display:inline;zoom:1;height:32px;vertical-align:top;}.nav_tuiguang{position:absolute;right:10px;}.nav_tuiguang a{color:#D3E2F8;line-height:32px;display:block;text-decoration:none;}.nav_tuiguang a:link,.nav_tuiguang a:visited,.nav_tuiguang a:hover{color:#D3E2F8;text-decoration:none;}.nav_item a,.nav_cur a{line-height:32px;color:#fff;font-weight:bold;font-size:14px;display:block;width:100px;text-align:center;text-decoration:none;}.nav_item a:link,.nav_cur a:link,.nav_item a:hover,.nav_cur a:hover,.nav_item a:visited,.nav_cur a:visited{color:#fff;text-decoration:none;}.nav_item a{background:url('http://tieba.baidu.com/tb/indexfiles/v2/images/nav_itb.png') scroll 0 0 no-repeat transparent;}.nav_item a:hover{background:url('http://tieba.baidu.com/tb/indexfiles/v2/images/nav_itb.png') scroll 0 -32px no-repeat transparent;}.nav_cur a{background:url('http://tieba.baidu.com/tb/indexfiles/v2/images/nav_itb.png') scroll 0 -32px no-repeat transparent;}.nav_item_hot{position:relative;}.nav_item_hot_flag{background-image:url("http://tieba.baidu.com/tb/img/icon_hot.gif");background-repeat:no-repeat;height:12px;width:20px;position:absolute;top:-5px;right:0;}#nav_bar li.nav_item_hot{overflow:visible;}#main{padding-bottom:3px;}.search_theme_2{padding:0 0 17px;}.tieba_nvshen_top{margin-bottom:8px;}.clear{clear:both;height:0;font:0/0 Arial;visibility:hidden;}.gb_block .item_hd{padding:0 0 10px 0;margin-right:15px;border-top:1px solid #ECECEC;}.gb_block .item_hd .item_hd_left{float:left;width:945px;}.gb_block .item_hd .item_hd_right{float:right;}.gb_block .item_hd p{color:#999;}.gb_block .item_hd .gbb_header_left{color:#666;}.gb_block .item_bd{background:#fff;}.gb_block .big_pic{padding:15px 10px;}.gb_block .big_pic img{width:950px;height:340px;display:block;overflow:hidden;}.gb_block .imglist{width:425px;overflow:hidden;float:left;display:inline;margin:0 35px 25px 0;}.gb_block .imglist dt{float:left;}.gb_block .imglist dt img{width:176px;height:146px;display:block;overflow:hidden;}.gb_block .imglist dd{margin-left:205px;color:#333;}.gb_block .imglist dd p{line-height:20px;}.gb_block .imglist h5{margin-bottom:10px;}.gb_block .imglist h5 a{font-size:14px;font-weight:bold;}.gb_block .imglist_last{margin-bottom:0;}.gb_block .imgTxt li{float:left;display:inline;margin:0 23px 0 0;width:178px;overflow:hidden;}.gb_block .imgTxt li img{width:158px;height:139px;display:block;overflow:hidden;}.gb_block .imgTxt li.imgTxt_first{width:296px;overflow:hidden;margin-right:34px;}.gb_block .imgTxt li.imgTxt_first img{width:286px;height:196px;overflow:hidden;display:block;}.gb_block .imgTxt_words p{color:#666;line-height:18px;}.gb_block .imgBox{padding:5px;background:#ebebeb;}.gb_block .item .title{color:#333;font-size:14px;font-weight:bold;height:30px;line-height:30px;display:block;overflow:hidden;text-align:center;}.gb_block .item .title:hover{color:#333;text-decoration:underline;}.wrap_body{text-align:left;background:url("http://static.tieba.baidu.com/tb/static-album/img/body_bg_61899999.jpg?v=20121008") repeat-x scroll 0 0 transparent;}html{overflow-y:scroll;}
+</style>
+<script>
+document.title = "图片广场_百度贴吧--全球最大中文社区";
+</script>
+<div id="main"><!-- #main start -->
+<ul id="nav_bar" class="nav_bar">
+    <li class="nav_item"><a href="http://tieba.baidu.com/index.html" onmousedown="$.stats.hive('tb_index')" target="_self">贴吧首页</a></li><li class="nav_cur nav_item_hot"><a href="http://tieba.baidu.com/tb/picture/index.html" onmousedown="$.stats.hive('tb_index_pic_square')" target="_self">图片广场</a><span class="nav_item_hot_flag"></span></li><li class="nav_item"><a id="itblink" href="#" onmousedown="$.stats.hive('tb_itb')" target="_self">我的i贴吧</a></li><li class="nav_tuiguang"><a href="http://tieba.baidu.com/p/2345911018" target="_blank">人人都有恶兴趣</a></li>
+</ul>
+</div><!-- #main end -->
+
+
+<div class="gallery_body">
+	<div class="gb_carousel">
+		<div class="gbc_corner"></div>
+		<div class="gbc_left">
+			<div id="photos" class="galleryview">
+      <div class="panel">
+      <a href="http://tieba.baidu.com/photo/p?kw=%C9%E3%D3%B0&flux=1&tid=2604079157&pic_id=88fc1e178a82b90170cf7701718da9773912efa6&pn=1&fp=2&see_lz=1" target="_blank">
+          <img src="http://tb1.bdstatic.com/tb/cms/lishu09241.jpg" />
+      </a>
+      <div class="panel-overlay">
+        <a class="panel-overlay-link" href="http://tieba.baidu.com/photo/p?kw=%C9%E3%D3%B0&flux=1&tid=2604079157&pic_id=88fc1e178a82b90170cf7701718da9773912efa6&pn=1&fp=2&see_lz=1" target="_blank">重回儿时路：和从小玩到大的小伙伴一起回忆童年</a>
+        <span class="panel-overlay-index" >1/10</span>
+      </div>
+    </div>
+      <div class="panel">
+      <a href="http://tieba.baidu.com/photo/p?kw=%B5%A5%B7%B4&from=6&tid=1649961571#!/pide2f2400fd9f9d72a87a045b4d42a2834369bbb96/pn1" target="_blank">
+          <img src="http://tb1.bdstatic.com/tb/cms/lishu09231.jpg" />
+      </a>
+      <div class="panel-overlay">
+        <a class="panel-overlay-link" href="http://tieba.baidu.com/photo/p?kw=%B5%A5%B7%B4&from=6&tid=1649961571#!/pide2f2400fd9f9d72a87a045b4d42a2834369bbb96/pn1" target="_blank">【全民普及贴】国产单反大全，索尼什么的弱爆了</a>
+        <span class="panel-overlay-index" >2/10</span>
+      </div>
+    </div>
+      <div class="panel">
+      <a href="http://tieba.baidu.com/photo/p?kw=%B5%A5%B7%B4&fp=1&tid=2608348396#!/pid83751b46f21fbe09603bc62069600c338644addf/pn1" target="_blank">
+          <img src="http://tb1.bdstatic.com/tb/cms/lishu09221.jpg" />
+      </a>
+      <div class="panel-overlay">
+        <a class="panel-overlay-link" href="http://tieba.baidu.com/photo/p?kw=%B5%A5%B7%B4&fp=1&tid=2608348396#!/pid83751b46f21fbe09603bc62069600c338644addf/pn1" target="_blank">一定有一款是你的菜！苏州车展女神摄影集</a>
+        <span class="panel-overlay-index" >3/10</span>
+      </div>
+    </div>
+      <div class="panel">
+      <a href="http://tieba.baidu.com/photo/p?kw=%BB%E6%BB%AD%CA%A5%B5%D8&flux=1&tid=2346469775&pic_id=8da8b450352ac65c3e854dc1faf2b21192138aab&pn=1&fp=2&see_lz=1#!/pid6216eb003af33a87c52a28a8c75c10385243b5e8/pn1" target="_blank">
+          <img src="http://tb1.bdstatic.com/tb/cms/0920fangyuan-01.jpg" />
+      </a>
+      <div class="panel-overlay">
+        <a class="panel-overlay-link" href="http://tieba.baidu.com/photo/p?kw=%BB%E6%BB%AD%CA%A5%B5%D8&flux=1&tid=2346469775&pic_id=8da8b450352ac65c3e854dc1faf2b21192138aab&pn=1&fp=2&see_lz=1#!/pid6216eb003af33a87c52a28a8c75c10385243b5e8/pn1" target="_blank">CG手绘达人出没中：这货居然是画出来的！</a>
+        <span class="panel-overlay-index" >4/10</span>
+      </div>
+    </div>
+      <div class="panel">
+      <a href="http://tieba.baidu.com/photo/p?kw=%C3%A8&flux=1&tid=1835435163&pic_id=6c1995cad1c8a7868a55508e6709c93d70cf503c&pn=1&fp=2&see_lz=1#!/pid80ec15ce36d3d539521314403a87e950352ab009/pn1" target="_blank">
+          <img src="http://tb1.bdstatic.com/tb/cms/0919erhuomao01.jpg" />
+      </a>
+      <div class="panel-overlay">
+        <a class="panel-overlay-link" href="http://tieba.baidu.com/photo/p?kw=%C3%A8&flux=1&tid=1835435163&pic_id=6c1995cad1c8a7868a55508e6709c93d70cf503c&pn=1&fp=2&see_lz=1#!/pid80ec15ce36d3d539521314403a87e950352ab009/pn1" target="_blank">说好的高贵冷艳呢！无力吐槽我家的二货喵</a>
+        <span class="panel-overlay-index" >5/10</span>
+      </div>
+    </div>
+      <div class="panel">
+      <a href="http://tieba.baidu.com/photo/p?kw=%B5%A5%B7%B4&fp=1&tid=2401193274#!/pid220a5bed2e738bd4c7591398a08b87d6267ff95a/pn1" target="_blank">
+          <img src="http://tb1.bdstatic.com/tb/cms/lishu09171.jpg" />
+      </a>
+      <div class="panel-overlay">
+        <a class="panel-overlay-link" href="http://tieba.baidu.com/photo/p?kw=%B5%A5%B7%B4&fp=1&tid=2401193274#!/pid220a5bed2e738bd4c7591398a08b87d6267ff95a/pn1" target="_blank">原创摄影故事连载：我爱这个世界的全部</a>
+        <span class="panel-overlay-index" >6/10</span>
+      </div>
+    </div>
+      <div class="panel">
+      <a href="http://tieba.baidu.com/photo/p?kw=%C3%C0%CA%B3&flux=1&tid=2534877412&pic_id=cecd7b899e510fb3a8115544d833c895d0430cdc&pn=1&fp=2&see_lz=1" target="_blank">
+          <img src="http://tb1.bdstatic.com/tb/cms/lishu09161.jpg" />
+      </a>
+      <div class="panel-overlay">
+        <a class="panel-overlay-link" href="http://tieba.baidu.com/photo/p?kw=%C3%C0%CA%B3&flux=1&tid=2534877412&pic_id=cecd7b899e510fb3a8115544d833c895d0430cdc&pn=1&fp=2&see_lz=1" target="_blank">遇到这样的妹纸就娶了吧：资深美貌吃货自制美食</a>
+        <span class="panel-overlay-index" >7/10</span>
+      </div>
+    </div>
+      <div class="panel">
+      <a href="http://baike.baidu.com/view/2568.htm" target="_blank">
+          <img src="http://baike.baidu.com/cms/rc/733X337zq.jpg" />
+      </a>
+      <div class="panel-overlay">
+        <a class="panel-overlay-link" href="http://baike.baidu.com/view/2568.htm" target="_blank">亚洲不同国家的中秋节习俗</a>
+        <span class="panel-overlay-index" >8/10</span>
+      </div>
+    </div>
+      <div class="panel">
+      <a href="http://tieba.baidu.com/photo/p?kw=%B5%A5%B7%B4&fp=1&tid=2587203199" target="_blank">
+          <img src="http://tb1.bdstatic.com/tb/cms/lishu09057.jpg" />
+      </a>
+      <div class="panel-overlay">
+        <a class="panel-overlay-link" href="http://tieba.baidu.com/photo/p?kw=%B5%A5%B7%B4&fp=1&tid=2587203199" target="_blank">摄影师在贴吧：捕捉镜头里的国民妹妹</a>
+        <span class="panel-overlay-index" >9/10</span>
+      </div>
+    </div>
+      <div class="panel">
+      <a href="http://tieba.baidu.com/p/2589427981" target="_blank">
+          <img src="http://tb1.bdstatic.com/tb/cms/lishu09064.jpg" />
+      </a>
+      <div class="panel-overlay">
+        <a class="panel-overlay-link" href="http://tieba.baidu.com/p/2589427981" target="_blank">美从头开始：贴吧达人教你编高端大气的鱼骨辫</a>
+        <span class="panel-overlay-index" >10/10</span>
+      </div>
+    </div>
+  
+  <ul class="filmstrip">
+      <li><img src="http://tb1.bdstatic.com/tb/cms/lishu09241.jpg" /></li>
+      <li><img src="http://tb1.bdstatic.com/tb/cms/lishu09231.jpg" /></li>
+      <li><img src="http://tb1.bdstatic.com/tb/cms/lishu09221.jpg" /></li>
+      <li><img src="http://tb1.bdstatic.com/tb/cms/0920fangyuan-01.jpg" /></li>
+      <li><img src="http://tb1.bdstatic.com/tb/cms/0919erhuomao01.jpg" /></li>
+      <li><img src="http://tb1.bdstatic.com/tb/cms/lishu09171.jpg" /></li>
+      <li><img src="http://tb1.bdstatic.com/tb/cms/lishu09161.jpg" /></li>
+      <li><img src="http://baike.baidu.com/cms/rc/733X337zq.jpg" /></li>
+      <li><img src="http://tb1.bdstatic.com/tb/cms/lishu09057.jpg" /></li>
+      <li><img src="http://tb1.bdstatic.com/tb/cms/lishu09064.jpg" /></li>
+      
+  </ul>
+</div> 
+
+		</div><!-- gbc_left -->
+		
+		<div class="gbc_right">
+			<dl id="gbc_right_item_tpht" class="gbc_right_item">
+				<dt>
+					<span class="gbc_right_item_title">贴吧·夏日炎炎</span>
+					<a class="gbc_right_item_more" href="#" target="_blank" style="display:none;">往期精选&gt;&gt;</a>
+				</dt>
+				<dd>
+
+	<ul class="hot_li">
+<li class="fangkuai_h"><span class="num_li">1</span><a target="_blank" href="http://tieba.baidu.com/p/2235262262">图片广场美图火热征集中</a></li>
+<li class="fangkuai_h"><span class="num_li">2</span><a target="_blank" href="http://tieba.baidu.com/p/2526112124">扒皮吧夏日歌赛报名开始！</a></li>
+<li class="fangkuai_h"><span class="num_li">3</span><a target="_blank" href="http://tieba.baidu.com/p/2037455264">摄影爱好者吧人像相册一览</a></li>
+	</ul>
+				</dd>
+			</dl>
+			<dl id="gbc_right_item_rmhd" class="gbc_right_item">
+				<dt>
+					<span class="gbc_right_item_title">图片工具盒</span>
+				</dt>
+				<dd>
+
+					<div class="gbc_right_item_left">
+						<a href="http://tieba.baidu.com/f?kw=%D7%C0%C3%E6" target="_blank">
+							<img width="106" height="38" src="http://tieba.baidu.com/tb/r/image/2013-02-26/1186d2c77c1376b0a1d5c5a15a1d79b9.png"><!-- 找壁纸 -->
+						</a>
+						<a href="http://tieba.baidu.com/photo?kw=%CD%B7%CF%F1#!/a/p1/t0" target="_blank">
+							<img width="106" height="38" src="http://tieba.baidu.com/tb/r/image/2013-02-26/bc7316d0c3d483d4c6895ffe6703f639.png"><!-- 换头像 -->
+						</a>
+					</div>
+					<div class="gbc_right_item_left">
+						<a href="http://tieba.baidu.com/photo/g?kw=%BF%D5%BC%E4%CB%D8%B2%C4" target="_blank">
+							<img width="106" height="38" src="http://tieba.baidu.com/tb/r/image/2013-02-26/46a664ae46b3ddb58ef276fc0dbc9833.png"><!-- 求素材 -->
+						</a>
+						<a href="http://tieba.baidu.com/f?ie=utf-8&kw=%E5%9B%BE%E7%89%87%E6%B4%BB%E5%8A%A8" target="_blank">
+							<img width="106" height="38" src="http://tieba.baidu.com/tb/r/image/2013-02-26/09db6b0c552f43e3077c68fdedbeb3ee.png"><!-- 晒美图 -->
+						</a>
+					</div>
+				</dd>
+			</dl>
+			<div id="gbc_right_recommend" class="gbc_right_recommend">
+				<div class="gbc_right_recommend_pic"></div>
+				<a class="gbc_right_recommend_btn" href="http://tieba.baidu.com/f?kw=%CE%D2%D2%AA%C9%CF%CD%BC%C6%AC%B9%E3%B3%A1"  target="_blank" ></a><!-- 我要推荐的URL -->
+			</div>
+		</div><!-- gbc_right -->		
+
+	</div><!-- gallery container -->
+
+	<div id="gb_blocks" class="gb_blocks clearfix">
+
+		<div id="gallery_nav" class="gallery_nav gallery_nav_6" style="display:none;">
+			<a href="#gb_block_ylys" hidefocus="true">兴趣范</a>
+			<a href="#gb_block_bxeg" hidefocus="true">恋物癖</a>
+                        <a href="#gb_block_jpmt" hidefocus="true">摄影师</a>
+			<a href="#gb_block_nvshen" hidefocus="true">图片热点</a>
+			<a href="#gb_block_zbxc" hidefocus="true">文艺X</a>
+			<a href="#gb_block_dmmt" hidefocus="true">重口味</a>
+			
+		</div><!-- gallery_nav -->	
+
+		<!-- 娱乐影视 -->
+		<dl id="gb_block_ylys" class="gb_block gb_block_ylys" name="gb_block_ylys">
+			<dt class="gbb_header">
+				<div class="gbb_header_left">兴趣范</div>
+				<div class="gbb_header_right">
+					<span class="gbbh_right_reco">小兴趣，大创意！</span>
+				</div>
+			</dt>
+			<dd class="gbb_body">
+				<div class="gbbb_left">
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/p/2432607256" target="_blank"><!-- 左侧大图 -->
+						<img src="http://tieba.baidu.com/tb/cms/lishuxq2.jpg" width="310" height="267" />
+					</a>
+					<a class="http://tieba.baidu.com/p/24326072561" target="_blank">超温情：我和狗狗的油画故事</a>					
+				</div>
+				<ul class="gbbb_ul gbbb_right"><!-- 右侧小图 -->
+					<li><!-- 右侧小图第 1 行第 1 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/p/2481765915
+" target="_blank">
+							<img src="http://tieba.baidu.com/tb/cms/lishuxq1.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/p/2481765915
+" target="_blank">我的手工蕾丝饰物</a>
+					</li>
+                                             <li><!-- 右侧小图第 1 行第 2 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CB%D9%D0%B4&tid=2246648700&pic_id=41ad3301213fb80e2b3fb0b637d12f2eb83894ad&pn=1&see_lz=1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/lishuxqf716.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%CB%D9%D0%B4&tid=2246648700&pic_id=41ad3301213fb80e2b3fb0b637d12f2eb83894ad&pn=1&see_lz=1" target="_blank">手绘业余选手也来秀秀</a>
+					</li>
+
+					<li><!-- 右侧小图第 1 行第 3 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CE%F7%CB%AB%B0%E6%C4%C9&flux=1&tid=2393216988&pic_id=e1fe9925bc315c60ebb6e54a8cb1cb1349547770&pn=1&fp=2&see_lz=1#!/pid354cb80e7bec54e7a2ccf7bbb8389b504ec26ae2/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/lishuxqf717.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%CE%F7%CB%AB%B0%E6%C4%C9&flux=1&tid=2393216988&pic_id=e1fe9925bc315c60ebb6e54a8cb1cb1349547770&pn=1&fp=2&see_lz=1#!/pid354cb80e7bec54e7a2ccf7bbb8389b504ec26ae2/pn1" target="_blank">每日漫画之我的小感悟</a>
+					</li>
+                                              <li><!-- 右侧小图第 1 行第 4 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%B3%AC%C7%E1%D5%B3%CD%C1&flux=1&tid=2404169446&pic_id=8d5494eef01f3a2999b001649825bc315c607c24&pn=1&fp=2&see_lz=1#!/pid04c5a1d3fd1f4134b280d4d4241f95cad3c85ec4/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/lishuxqf719.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%B3%AC%C7%E1%D5%B3%CD%C1&flux=1&tid=2404169446&pic_id=8d5494eef01f3a2999b001649825bc315c607c24&pn=1&fp=2&see_lz=1#!/pid04c5a1d3fd1f4134b280d4d4241f95cad3c85ec4/pn1" target="_blank">软陶手办：绘制宇宙的少女</a>
+					</li>
+					<li><!-- 右侧小图第 2 行第 1 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%C4%A3%D0%CD&flux=1&tid=2389941680&pic_id=267f9e2f07082838a274b2b0b999a9014c08f11d&pn=1&fp=2&see_lz=1#!/pid8a8a28381f30e9248bc4f2954d086e061c95f7b0/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/lishuxqf715.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%C4%A3%D0%CD&flux=1&tid=2389941680&pic_id=267f9e2f07082838a274b2b0b999a9014c08f11d&pn=1&fp=2&see_lz=1#!/pid8a8a28381f30e9248bc4f2954d086e061c95f7b0/pn1" target="_blank">太仓模型俱乐部端午节外拍</a>
+					</li>
+					<li><!-- 右侧小图第 2 行第 2 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%BA%A3%BB%AF&flux=1&tid=2344059686&pic_id=b3b7d0a20cf431ad92b86e884a36acaf2edd981c&pn=1&fp=2&see_lz=1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/lishuxqf711.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%BA%A3%BB%AF&flux=1&tid=2344059686&pic_id=b3b7d0a20cf431ad92b86e884a36acaf2edd981c&pn=1&fp=2&see_lz=1" target="_blank">超萌的软陶个人作品</a>
+					</li>
+					<li><!-- 右侧小图第 2 行第 3 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%D4%B2%D6%E9%B1%CA%BB%AD&flux=1&tid=2353605499&pic_id=728da9773912b31b2d63939c8718367adab4e17c&pn=1&fp=2&see_lz=1#!/pid0b286f1ed21b0ef4bccbc1ebdcc451da80cb3e4a/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/lishuxqf713.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%D4%B2%D6%E9%B1%CA%BB%AD&flux=1&tid=2353605499&pic_id=728da9773912b31b2d63939c8718367adab4e17c&pn=1&fp=2&see_lz=1#!/pid0b286f1ed21b0ef4bccbc1ebdcc451da80cb3e4a/pn1" target="_blank">孕妇妈妈的圆珠笔画</a>
+					</li>
+                                        <li><!-- 右侧小图第 2 行第 4 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%B2%CA%C7%A6%BB%AD&flux=1&tid=2362048467&pic_id=8b82b9014a90f603a50d87fe3812b31bb151edce&pn=1&fp=2&see_lz=1#!/pid766055fbfbedab64d5cf5679f636afc378311ebd/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/lishuxqf712.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%B2%CA%C7%A6%BB%AD&flux=1&tid=2362048467&pic_id=8b82b9014a90f603a50d87fe3812b31bb151edce&pn=1&fp=2&see_lz=1#!/pid766055fbfbedab64d5cf5679f636afc378311ebd/pn1" target="_blank">新人的彩铅清新漫画</a>
+					</li>
+							
+				</ul>
+			</dd>
+		</dl>
+
+		<!-- 爆笑恶搞 -->
+		<dl id="gb_block_bxeg" class="gb_block gb_block_bxeg" name="gb_block_bxeg">
+			<dt class="gbb_header">
+				<div class="gbb_header_left">恋物癖</div>
+				<div class="gbb_header_right">
+<span class="gbbh_right_reco">一物一世界</span>
+				</div>
+			</dt>
+			<dd class="gbb_body">
+				<ul class="gbbb_ul"><!-- 小图 -->
+<li><!-- 小图第 2 行第 2 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%BA%F3%C8%FD%B9%FA%C8%BA%D3%A2%CA%B1%B4%FA&tid=2371665289&pic_id=40440edfa9ec8a1348d9ab5cf603918fa1ecc037&pn=1&see_lz=1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/wu6181.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%BA%F3%C8%FD%B9%FA%C8%BA%D3%A2%CA%B1%B4%FA&tid=2371665289&pic_id=40440edfa9ec8a1348d9ab5cf603918fa1ecc037&pn=1&see_lz=1" target="_blank">我的神奇宝贝球</a>
+					</li>	
+                                               <li><!-- 小图第 2 行第 3 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/p/2498072640" target="_blank">
+							<img src="http://tieba.baidu.com/tb/cms/lishulw1.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/p/2498072640" target="_blank">我收藏的奥迪全家福</a>
+					</li>	
+					<li><!-- 小图第 2 行第 4 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/p/1822998115" target="_blank">
+							<img src="http://tieba.baidu.com/tb/cms/lishulw2.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/p/1822998115" target="_blank">帝国军事模型展</a>
+					</li>
+					<li><!-- 小图第 2 行第 5 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CA%D6%B0%EC&flux=1&tid=2344806554&pic_id=29381f30e924b899551653826f061d950a7bf666&pn=1&fp=2&see_lz=1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/wu6183.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%B5%C2%B9%FA%C4%C1%D1%F2%C8%AE&flux=1&tid=2303988830&pic_id=b3b7d0a20cf431ad0024d0644a36acaf2fdd98fd&pn=1&fp=2&see_lz=1#!/pidf0cb0823dd54564ed0727664b2de9c82d0584ff3/pn1" target="_blank">某伪宅的acg手办摄影日记</a>
+					</li>
+					<li><!-- 小图第 2 行第 6 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%B9%FA%B2%FA%CA%D6%B0%EC&tid=2341933554&pic_id=b2bfb2dda144ad34b63b8437d1a20cf430ad8512&pn=1&see_lz=1#!/pid2f6ff2ca7bcb0a4637ad88896a63f6246a60af0b/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/wu6184.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%B9%FA%B2%FA%CA%D6%B0%EC&tid=2341933554&pic_id=b2bfb2dda144ad34b63b8437d1a20cf430ad8512&pn=1&see_lz=1#!/pid2f6ff2ca7bcb0a4637ad88896a63f6246a60af0b/pn1" target="_blank">楳图一雄实体作品集</a>
+                                               <li><!-- 小图第 1 行第 1 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%B6%E0%BD%AC%D6%B2%CE%EF&flux=1&tid=2304946123&pic_id=cb8065380cd79123d5e1862aac345982b2b7806e&pn=1&fp=2&see_lz=1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/wu6185.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%B6%E0%BD%AC%D6%B2%CE%EF&flux=1&tid=2304946123&pic_id=cb8065380cd79123d5e1862aac345982b2b7806e&pn=1&fp=2&see_lz=1" target="_blank">爱不够的多肉植物</a>
+					</li>	
+					
+					
+					</li>
+                                            				</ul>
+			</dd>
+		</dl>	
+
+                <!-- 精品美图 -->
+		<dl id="gb_block_jpmt" class="gb_block gb_block_jpmt" name="gb_block_jpmt">
+			<dt class="gbb_header">
+				<div class="gbb_header_left">摄影师</div>
+				<div class="gbb_header_right">
+<span class="gbbh_right_reco">难以抵挡的色影诱惑！</span>
+					<span class="gbbh_right_reco">推荐贴吧：</span>
+                                              <a href="http://tieba.baidu.com/f?kw=%CE%A8%C3%C0%CD%BC%C6%AC&tp=1#!/l/pp1" target="_blank">唯美图片</a>
+                                              <span class="gbbh_right_divide">|</span>
+					<a href="http://tieba.baidu.com/f?kw=%BF%D5%BC%E4%CB%D8%B2%C4&tp=1#!/l/pp1" target="_blank">空间素材</a>
+					<span class="gbbh_right_divide">|</span>
+					<a href="http://tieba.baidu.com/f?kw=%DD%EB&tp=1#!/l/pp1" target="_blank">蓦</a>
+					<span class="gbbh_right_divide">|</span>
+					<a href="http://tieba.baidu.com/f?kw=%D4%C2%C2%FA%D0%F9%C4%E1%CA%AB&tp=1#!/l/pp1" target="_blank">月满轩尼诗</a>
+				</div>
+			</dt>
+			<dd class="gbb_body">
+				<div class="gbbb_jpmt gbbb_jpmt_1"><!-- 第 1 行 第 1 个图 总第 1 个(方图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CE%A2%B5%A5&tid=2362363054&pic_id=68f39d1bb051f819c4837cf3dbb44aed2c73e7c2&pn=1&see_lz=1#!/pid5f1535d5ad6eddc45c9dca4238dbb6fd53663375/pn1" target="_blank">
+						<img src="http://tieba.baidu.com/tb/lishusys714.jpg" width="182" height="182" />
+						<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">一个冲动从武汉坐火车到了成都</div>
+					</a>					
+				</div>
+				<div class="gbbb_jpmt gbbb_jpmt_2"><!-- 第 1 行 第 2 个图 总第 2 个(横图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/p/2466210425" target="_blank">
+						<img src="http://tieba.baidu.com/tb/cms/lishusy1.jpg" width="374" height="182" />
+						<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">600D摄影个人作品</div>
+					</a>					
+				</div>
+				<div class="gbbb_jpmt gbbb_jpmt_3"><!-- 第 1 行 第 3 个图 总第 3 个(方图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CF%D0%C7%E9%D1%C5%C8%A4&tid=2383408256&pic_id=d9d1054e251f95ca9e094116c8177f3e650952e9&pn=1&see_lz=1#!/pid5ee36643fbf2b211688c56eecb8065380ed78ec8/pn1" target="_blank">
+						<img src="http://tieba.baidu.com/tb/lishusys711fang.jpg" width="182" height="182" />
+						<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">留学党随拍：壮丽的古典伦敦雕塑</div>
+					</a>					
+				</div>
+				<div class="gbbb_jpmt gbbb_jpmt_4"><!-- 第 1 行 第 4 个图 总第 4 个(竖图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/p/2465714852" target="_blank">
+						<img src="http://tieba.baidu.com/tb/cms/lishusy4.jpg" width="182" height="374" />
+						<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">这位小伙伴你肿么了</div>
+					</a>					
+				</div>
+				<div class="gbbb_jpmt gbbb_jpmt_5"><!-- 第 2 行 第 1 个图 总第 5 个(方图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%C9%E3%D3%B0&tid=2395474261&pic_id=9db44aed2e738bd468226897a08b87d6277ff912&pn=1&see_lz=1#!/pid84fdfc039245d6888e66aa03a5c27d1ed21b2434/pn1" target="_blank">
+						<img src="http://tieba.baidu.com/tb/lishusys714fang.jpg" width="182" height="182" />
+						<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">爱琴海圣托里尼随走随拍</div>
+					</a>					
+				</div>
+				<div class="gbbb_jpmt gbbb_jpmt_6"><!-- 第 2 行 第 2 个图 总第 6 个(方图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%C5%CB%D9%BB%D9%BB&fp=1&tid=2402722857#!/pid8f70f31f4134970a0c81618594cad1c8a5865dc8/pn1" target="_blank">
+						<img src="http://tieba.baidu.com/tb/lishusys711.jpg" width="182" height="182" />
+						<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">德国民居随拍：这是神马？</div>
+					</a>					
+				</div>
+				<div class="gbbb_jpmt gbbb_jpmt_7"><!-- 第 2 行 第 3 个图 总第 7 个(竖图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/p/2416087972" target="_blank">
+						<img src="http://tieba.baidu.com/tb/cms/lishusy3.jpg" width="182" height="374" />
+						<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">一个人的三亚之旅</div>
+					</a>					
+				</div>
+				<div class="gbbb_jpmt gbbb_jpmt_8"><!-- 第 2 行 第 4 个图 总第 8 个(方图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CE%A2%B5%A5&flux=1&tid=2405707406&pic_id=14ce36d3d539b600fc4eae1ce850352ac75cb79d&pn=1&fp=2&see_lz=1#!/pidfc8ff3c451da81cbff6622665366d0160b2431fe/pn1" target="_blank">
+						<img src="http://tieba.baidu.com/tb/lishusys716.jpg" width="182" height="182" />
+						<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">独爱六月的海</div>
+					</a>				
+				</div>
+				<div class="gbbb_jpmt gbbb_jpmt_9"><!-- 第 3 行 第 1 个图 总第 9 个(横图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%C9%E3%D3%B0&flux=1&tid=2324941806&pic_id=4e4a20a4462309f73024035a730e0cf3d7cad62b&pn=1&fp=2&see_lz=1#!/pid400828381f30e9248bd108794d086e061d95f705/pn1" target="_blank">
+						<img src="http://tieba.baidu.com/tb/cms/lishusy2.jpg" width="374" height="182" />
+						<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">最是一抹夕阳红</div>
+					</a>					
+				</div>
+				<div class="gbbb_jpmt gbbb_jpmt_10"><!-- 第 3 行 第 3 个图 总第 10 个(方图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/p/2466322564" target="_blank">
+						<img src="http://tieba.baidu.com/tb/lishusys715.jpg" width="182" height="182" />
+						<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">亲历尼亚加拉大瀑布</div>
+					</a>					
+				</div>
+				<div class="gbbb_jpmt gbbb_jpmt_11"><!-- 第 3 行 第 4 个图 总第 11 个(方图) -->
+					<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CE%A2%B5%A5&flux=1&tid=2402404047&pic_id=77c6a7efce1b9d168d2ab2cbf2deb48f8d5464ae&pn=1&fp=2&see_lz=1#!/pide31a6d166d224f4abc5958b908f790529a22d1bd/pn1" target="_blank">
+<img src="http://tieba.baidu.com/tb/lishusys717.jpg" width="182" height="182" />
+					<div class="gbbb_jpmt_title_bg"></div>
+						<div class="gbbb_jpmt_title">微单城市影记</div>
+					</a>					
+				</div>
+			</dd>
+		</dl>
+
+                <!-- 图片热点 -->
+		<dl id="gb_block_nvshen" class="gb_block gb_block_nvshen" name="gb_block_nvshen">
+			<div class="item">
+        <div class="item_hd">
+            <div class="item_hd_left">
+                <p class="gbb_header_left">我乐个趣·贴吧兴趣大师争霸赛中国风篇</p>
+                <p style="clear: both;">挖掘无限美好的生活方式，摆脱苍白无物的平淡人生，我！为兴趣而疯！</p>
+            </div>
+            <div class="item_hd_right"></div>
+            <div class="clear"></div>
+        </div>
+        <div class="item_bd">
+            <div class="imgTxt">
+                <ul class="clearfix">
+                    <li class="imgTxt_first">
+                        <a target="_blank" href="http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2498104274&pic_id=2e3787dda144ad3404bff37cd1a20cf430ad85d9&pn=1&fp=2&see_lz=1">
+                            <img class="imgBox" src="http://tieba.baidu.com/tb/cms/lishu81411.jpg" title="#" alt="#" width="286" height="196">
+                        </a>
+                        <div class="imgTxt_words">
+                            <a target="_blank" href="http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2498104274&pic_id=2e3787dda144ad3404bff37cd1a20cf430ad85d9&pn=1&fp=2&see_lz=1" class="title">手缝与手绘汉服</a>
+                            <p>坚持手绘汉服那些年，只为心底最初的感动……
+                                <a target="_blank" href="http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2498104274&pic_id=2e3787dda144ad3404bff37cd1a20cf430ad85d9&pn=1&fp=2&see_lz=1" class="blue">[详细]</a>
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2499965213&pic_id=8a3ed65c10385343c945d3dd9213b07ecb80885c&pn=1&fp=2&see_lz=1">
+                            <img class="imgBox" src="http://tieba.baidu.com/tb/cms/lishu81412.jpg" title="#" alt="#"  width="168" height="139">
+                        </a>
+                        <div class="imgTxt_words">
+                            <a target="_blank" href="http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2499965213&pic_id=8a3ed65c10385343c945d3dd9213b07ecb80885c&pn=1&fp=2&see_lz=1" class="title">自己书写的鲤泉斋书法</a>
+                            <p>愚生今年虚岁十八，唯作书小豁胸臆，聊作自娱耳……
+                        <a target="_blank" href="http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2499965213&pic_id=8a3ed65c10385343c945d3dd9213b07ecb80885c&pn=1&fp=2&see_lz=1" class="blue">[详细]</a>
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <a target="_blank" href="http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2530111925&pic_id=3edf29dbb6fd52667f9857c4aa18972bd5073647&pn=1&fp=2&see_lz=1">
+                            <img class="imgBox" src="http://tieba.baidu.com/tb/cms/lishu81416.jpg" title="#" alt="#"  width="168" height="139">
+                        </a>
+                        <div class="imgTxt_words">
+                         <a target="_blank" href="http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2530111925&pic_id=3edf29dbb6fd52667f9857c4aa18972bd5073647&pn=1&fp=2&see_lz=1" class="title">中国风娃衣服装设计</a>
+                            <p>闲时就爱打扮自己的娃娃，穿的是汉服哦……
+                                <a target="_blank" href="http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2530111925&pic_id=3edf29dbb6fd52667f9857c4aa18972bd5073647&pn=1&fp=2&see_lz=1" class="blue">[详细]</a>
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <a target="_blank" href="
+http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2501300511&pic_id=140c872bd40735fa334545449f510fb30e2408ae&pn=1&fp=2&see_lz=1">
+                            <img class="imgBox" src="http://tieba.baidu.com/tb/cms/lishu81414.jpg" title="#" alt="#"  width="168" height="139">
+                        </a>
+                        <div class="imgTxt_words">
+                            <a target="_blank" href="
+http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2501300511&pic_id=140c872bd40735fa334545449f510fb30e2408ae&pn=1&fp=2&see_lz=1" class="title">手作古风首饰集</a>
+                            <p>相信每个姑娘都有古风梦，我当然也不例外……
+                        <a target="_blank" href="
+http://tieba.baidu.com/photo/p?kw=%CE%D2%C0%D6%B8%F6%C8%A4&flux=1&tid=2501300511&pic_id=140c872bd40735fa334545449f510fb30e2408ae&pn=1&fp=2&see_lz=1" class="blue">[详细]</a>
+                            </p>
+                        </div>
+                    </li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+        </div>
+    </div>
+		</dl>
+
+		<!-- 美女秀场 -->
+		<dl id="gb_block_zbxc" class="gb_block gb_block_zbxc" name="gb_block_zbxc">
+			<dt class="gbb_header">
+				<div class="gbb_header_left">文艺X</div>
+				<div class="gbb_header_right">
+<span class="gbbh_right_reco">文以咏志，艺欲难填！</span>
+				</div>
+			</dt>
+			<dd class="gbb_body">
+				<ul class="gbbb_ul"><!-- 小图 -->
+                                                          <li><!-- 小图第 1 行第 1个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%C9%FA%BB%EE&flux=1&tid=2249491224&pic_id=242dd42a2834349b8b6790e7c8ea15ce36d3be6b&pn=1&fp=2&see_lz=1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/wenyi6181.jpg" width="150" height="200" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%C9%FA%BB%EE&flux=1&tid=2249491224&pic_id=242dd42a2834349b8b6790e7c8ea15ce36d3be6b&pn=1&fp=2&see_lz=1" target="_blank">现代版汉服美人出没</a>
+					</li>
+
+					
+					        <li><!-- 小图第 1 行第 2个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%BA%EC%B6%B9%B0%AE%B0%A2%CE%CC&flux=1&tid=2217987857&pic_id=b8389b504fc2d562772676e7e61190ef76c66c8a&pn=1&fp=2&see_lz=1#!/pid61cd2df33a87e950e8cd556611385343faf2b434/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/wenyi6182.jpg" width="150" height="200" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%BA%EC%B6%B9%B0%AE%B0%A2%CE%CC&flux=1&tid=2217987857&pic_id=b8389b504fc2d562772676e7e61190ef76c66c8a&pn=1&fp=2&see_lz=1#!/pid61cd2df33a87e950e8cd556611385343faf2b434/pn1" target="_blank">当鲜花插在女星头上</a>
+					</li>
+
+                                                        <li><!-- 小图第 1 行第 3个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CC%B8%D2%BB%B3%A1%D3%C0%B2%BB%B7%D6%CA%D6%B5%C4%C1%B5%B0%AE&fp=1&tid=2284074210#!/pide14282fb43166d22f4c8b9c6472309f79152d25b/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/wenyi6183.jpg" width="150" height="200" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%CC%B8%D2%BB%B3%A1%D3%C0%B2%BB%B7%D6%CA%D6%B5%C4%C1%B5%B0%AE&fp=1&tid=2284074210#!/pide14282fb43166d22f4c8b9c6472309f79152d25b/pn1" target="_blank">网友票选女神排名</a>
+					</li>
+
+        <li><!-- 小图第 1 行第 4个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%B1%CA%D4%B5&fp=1&tid=2228497889#!/pid6a88d6c27d1ed21bf7c260ebac6eddc451da3f56/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/wenyi6184.jpg" width="150" height="200" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%B1%CA%D4%B5&fp=1&tid=2228497889#!/pid6a88d6c27d1ed21bf7c260ebac6eddc451da3f56/pn1" target="_blank">清新治愈系电影盘点</a>
+					</li>
+
+                                                        <li><!-- 小图第 1 行第 5个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%D4%C2%C2%FA%D0%F9%C4%E1%CA%AB&flux=1&tid=2279884480&pic_id=b999a9014c086e0688b6831b03087bf40ad1cb40&pn=1&fp=2&see_lz=1#!/pid336d51c2d5628535d29d6d7191ef76c6a7ef631a/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/wenyi6185.jpg" width="150" height="200" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%D4%C2%C2%FA%D0%F9%C4%E1%CA%AB&flux=1&tid=2279884480&pic_id=b999a9014c086e0688b6831b03087bf40ad1cb40&pn=1&fp=2&see_lz=1#!/pid336d51c2d5628535d29d6d7191ef76c6a7ef631a/pn1" target="_blank">正在逐渐老去的皮影文化</a>
+					</li>
+
+                                                      <li><!-- 小图第 1 行第 6个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CE%F7%D3%CE%CE%F7%CF%E1&tid=2361712127&pic_id=09e2f51bb051f819f95f20f3dbb44aed2f73e705&pn=1&see_lz=1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/wenyi6186.jpg" width="150" height="200" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%CE%F7%D3%CE%CE%F7%CF%E1&tid=2361712127&pic_id=09e2f51bb051f819f95f20f3dbb44aed2f73e705&pn=1&see_lz=1" target="_blank">回味那些年的古旧DVD封面</a>
+					</li>
+
+
+</ul>
+			</dd>
+		</dl>		
+
+		<!-- 动漫萌图 -->
+		<dl id="gb_block_dmmt" class="gb_block gb_block_dmmt" name="gb_block_dmmt">
+			<dt class="gbb_header">
+				<div class="gbb_header_left">重口味</div>
+				<div class="gbb_header_right">
+<span class="gbbh_right_reco">天黑请睁眼，节操已下线！</span>
+					<span class="gbbh_right_reco">推荐贴吧：</span>
+					<a href="http://tieba.baidu.com/f?kw=%E9%83%AD%E6%96%AF%E7%89%B9&ie=utf-8&fr=wwwt" target="_blank">郭斯特</a>
+					<span class="gbbh_right_divide">|</span>
+					<a href="http://tieba.baidu.com/f?ie=utf-8&kw=MocMoc" target="_blank">MocMoc</a>
+					<span class="gbbh_right_divide">|</span>
+					<a href="http://tieba.baidu.com/f?ie=utf-8&kw=%E9%93%85%E7%AC%94%E8%B4%B1" target="_blank">铅笔贱</a>
+				</div>
+			</dt>
+			<dd class="gbb_body">
+				<ul class="gbbb_ul"><!-- 小图 -->
+					<li><!-- 小图第 1 行第 1 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CC%C6%D2%FA%D4%DA%D2%EC%BD%E7&tid=2216267271&pic_id=d22e6a1ed21b0ef474977557dcc451da80cb3eac&pn=1&see_lz=0" target="_blank">
+							<img src="http://tieba.baidu.com/tb/tug6181.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%CC%C6%D2%FA%D4%DA%D2%EC%BD%E7&tid=2216267271&pic_id=d22e6a1ed21b0ef474977557dcc451da80cb3eac&pn=1&see_lz=0" target="_blank">亮瞎眼的古怪纹身</a>
+					</li>
+					<li><!-- 小图第 1 行第 2 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%C8%CB%D3%EB%D7%D4%C8%BB&fp=1&tid=2295814809#!/pid49b25343fbf2b211d9e57116cb8065380dd78e2d/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/tug6182.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%C8%CB%D3%EB%D7%D4%C8%BB&fp=1&tid=2295814809#!/pid49b25343fbf2b211d9e57116cb8065380dd78e2d/pn1">勿点！高显微镜下的物体</a>
+					</li>	
+					<li><!-- 小图第 1 行第 3 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%BC%C6%BB%AE&fp=1&tid=2292971738#!/pid3c6bc8177f3e670933be57a83ac79f3df9dc551c/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/tug6183wei.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%BC%C6%BB%AE&fp=1&tid=2292971738#!/pid3c6bc8177f3e670933be57a83ac79f3df9dc551c/pn1" target="_blank">跳水健将雷人表情赏</a>
+					</li>
+					<li><!-- 小图第 1 行第 4 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%D4%C2%C2%FA%D0%F9%C4%E1%CA%AB&flux=1&tid=2227912072&pic_id=0d338744ebf81a4c0dd036c4d62a6059242da6d9&pn=1&fp=2&see_lz=1#!/pida11ec354564e925838b646e39d82d158cdbf4eff/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/tug6184.jpg" width="150" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%D4%C2%C2%FA%D0%F9%C4%E1%CA%AB&flux=1&tid=2227912072&pic_id=0d338744ebf81a4c0dd036c4d62a6059242da6d9&pn=1&fp=2&see_lz=1#!/pida11ec354564e925838b646e39d82d158cdbf4eff/pn1" target="_blank">神马？这是食物做的！</a>
+					</li>
+					<li><!-- 小图第 1 行第 5 个 -->
+						<a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%CC%FA%B4%F2%B5%C4%D3%AA%C5%CC%C1%F7%CB%AE%B5%C4%B1%F8&flux=1&tid=2303538557&pic_id=f7246b600c33874402d47a21500fd9f9d72aa05e&pn=1&fp=2&see_lz=1#!/pidd53d372ac65c103892f7999fb3119313b17e894b/pn1" target="_blank">
+							<img src="http://tieba.baidu.com/tb/tug6185.jpg" height="113" />
+						</a>
+						<a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%CC%FA%B4%F2%B5%C4%D3%AA%C5%CC%C1%F7%CB%AE%B5%C4%B1%F8&flux=1&tid=2303538557&pic_id=f7246b600c33874402d47a21500fd9f9d72aa05e&pn=1&fp=2&see_lz=1#!/pidd53d372ac65c103892f7999fb3119313b17e894b/pn1" target="_blank">口吐莲花之疯狂的舌头</a>
+					</li>
+					<li><a class="gbbb_imglink" href="http://tieba.baidu.com/photo/p?kw=%B0%D9%B6%C8%CB%AE%BE%FC%C1%AA%C3%CB&flux=1&tid=2301490157&pic_id=3bf33a87e950352adebf56545243fbf2b3118b8b&pn=1&fp=2&see_lz=1#!/pidfb3a0aa98226cffc3a70cdeeb8014a90f703ea97/pn1" target="_blank"><img src="http://tieba.baidu.com/tb/tug6186.jpg" width="150" height="113" /></a><!-- 小图第 1 行第 6 个 --><a class="gbbb_textlink" href="http://tieba.baidu.com/photo/p?kw=%B0%D9%B6%C8%CB%AE%BE%FC%C1%AA%C3%CB&flux=1&tid=2301490157&pic_id=3bf33a87e950352adebf56545243fbf2b3118b8b&pn=1&fp=2&see_lz=1#!/pidfb3a0aa98226cffc3a70cdeeb8014a90f703ea97/pn1" target="_blank">留成这样的才叫胡子！</a>
+					</li>		
+	
+				</ul>
+			</dd>
+		</dl>	
+
+
+	</div><!-- gb_blocks -->
+	
+
+</div><!-- gallery body -->
+<div class="gallery_footer">
+	<span>&copy;<script>document.write(new Date().getFullYear());</script> Baidu</span>
+	<a target="_blank" href="/tb/eula.html">贴吧协议</a>
+	<a target="_blank" href="/f?kw=贴吧意见反馈&ie=utf-8">意见反馈</a>
+	<a target="_blank" href="/tb/zt/declare/">收费删贴警示</a>
+</div>
+
+
+
+
+<script>
+
+$(document).ready(function(){$("#photos").galleryView({panel_width:710,panel_height:350,frame_width:90,frame_height:60,frame_margin:8,border:"none",transition_interval:5000,overlay_height:40,overlay_text_color:"white",overlay_font_size:"20px",background_color:"white",pause_on_hover:true,filmstrip_position_top:4,wrapper_width:670,pointer_width:3,pointer_color:"#4A82F0",navigation_button_width:18});$("#gb_blocks").delegate(".gbbb_imglink","mouseenter",function(a){$(a.currentTarget).addClass("gbbb_imglink_hover")}).delegate(".gbbb_imglink","mouseleave",function(a){$(a.currentTarget).removeClass("gbbb_imglink_hover")});(function(){if($(window).width()<1220){return}var e=($.browser.msie&&($.browser.version<=6))?true:false;var f=false;var b=function(p,v){f=true;var u=null;var r=$(window);var q=r.scrollTop();var t=p-q;var s=0;function o(){t=Math.floor(t/2);s+=t;r.scrollTop(q+s);if(Math.abs(t)>2){u=setTimeout(o,50)}else{r.scrollTop(p);clearTimeout(u);f=false;v&&v()}}o()};var g=$("#gallery_nav").show();var k=null;var l=[];var i=5;var n=function(){k=g.find("a");for(var p=0,o=k.length;p<o;p++){l.push($("#"+k.eq(p).attr("href").substring(1)).offset().top)}};n();var j;var m=false;var h=e?"gallery_nav_fixed_ie6":"gallery_nav_fixed";var c=function(){for(var p=0,o=k.length;p<o;p++){k.eq(p).removeClass("gallery_nav_selected")}};var d=0;var a=function(){if(j){clearTimeout(j)}if(f){return}d=$(window).scrollTop();j=setTimeout(function(){if(d>l[0]){if(!m){g.addClass(h);m=true}}else{if(m){g.removeClass(h);m=false}}var o=0;for(var q=0,p=l.length;q<p-1;q++){if(d>l[q]){o=q+1}else{break}}c();k.eq(o).addClass("gallery_nav_selected")},50)};$(window).bind("scroll",a);g.delegate("a","click",function(q){var p=$(q.currentTarget);var o=p.attr("href").substring(1);b($("#"+o).offset().top,function(){a()});return false});setTimeout(a,200)})();setTimeout(function(){PageData.user_info=PageData.user;var a={user:PageData.user_info,tbs:PageData.tbs};function b(){if(PageData.user_info.is_login&&PageData.user_info.itieba_id>0){document.getElementById("itblink").setAttribute("href","/i/"+PageData.user_info.itieba_id)}else{if(PageData.user_info.is_login&&PageData.user_info.no_un){document.getElementById("itblink").setAttribute("href","/i/sys/jump?un="+PageData.user.name_url+"&fr_noun=1")}else{if(!a.user.is_login){document.getElementById("itblink").onclick=function(){TbCom.process("PassportSign","showDialog","normalLogin","afterLogined",function(){window.location.href="http://tieba.baidu.com"})}}else{return false}}}}b()},50);(function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=totalpv");$("#photos").delegate(".panel a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=top10")});$("#gbc_right_item_tpht").delegate("a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=tpht")});$("#gbc_right_item_rmhd").delegate("a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=rmhd")});$("#gbc_right_recommend").delegate("a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=recommend")});$("#gb_block_ylys").delegate(".gbb_body a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=ylys")});$("#gb_block_bxeg").delegate(".gbb_body a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=bxeg")});$("#gb_block_zbxc").delegate(".gbb_body a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=zbxc")});$("#gb_block_nvshen").delegate("a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=nvshen")});$("#gb_block_dmmt").delegate(".gbb_body a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=dmmt")});$("#gb_block_jpmt").delegate(".gbb_body a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=jpmt")});$("#gb_block_jxtc").delegate(".gbb_body a","click",function(){$.stats.sendRequest("fr=tb0_forum&st_mod=pic_square&st_type=jxtc")})})()});
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fb4218e9b3f606006112fa0cab682d481' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!--百度分享代码-->
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=6&amp;pos=right&amp;uid=104483" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+var bds_config = {'bdPic':'http://tieba.baidu.com/tb/r/image/2013-02-16/8387fcec197536ece3b046f8cde58ea3.jpg', 'bdText':'据科学研究证明，每天凝视美图15分钟，能够促进血液循环，提高身体免疫力！我在#贴吧图片广场#就发现这样一张看美图，特意邀请你跟我一起来看看！@百度贴吧 详情：'};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+</div>
+<script>PageUnitData={"search_input_tip":"\u8f93\u5165\u4f60\u611f\u5174\u8da3\u7684\u4e1c\u4e1c","search_input_force":"0","dimension_code_imagesrc_index":"\/tb\/static-common\/img\/dimensionCode\/tb_index_2dbc.jpg","dimension_code_imagesrc_others":"\/tb\/static-common\/img\/dimensionCode\/tb_common_2dbc.jpg","dimension_code_link_index":"http:\/\/c.tieba.baidu.com\/c\/s\/download\/pc?src=QR2<br>","dimension_code_others":"http:\/\/c.tieba.baidu.com\/c\/s\/download\/pc?src=QR2","dimension_code_name":"\u767e\u5ea6\u8d34\u5427\u5ba2\u6237\u7aef","dimension_code_des":"\u4e00\u5bf9\u4e00\u79c1\u5bc6\u804a\u5929"};</script>
+<!-- [!MARK][DO NOT DEL]IMPORTANT LOGI -->
+<!-- [!MARK][DO NOT DEL]NORMAL LOGIC -->
+<script>(function(){var searchForm = new CommonSearch.SearchFormV2();searchForm.init('head',{style:2,forumName:''});$('#tb_header_search_form').find('.j_benba_search').bind('click',function(){$.stats.sendRequest('fr=tb0_forum&st_mod=frs_search&st_type=benba_search_click');});$('#tb_header_search_form').find('.j_global_search').bind('click',function(){$.stats.sendRequest('fr=tb0_forum&st_mod=frs_search&st_type=global_search_click');});})();</script><script>if (typeof(PageData) !== "undefined" && typeof(PageData.user) !== "undefined") { TbCom.defaultLogicInit(PageData.user, 'forum');}</script><!-- [!MARK][DO NOT DEL]OPTIONAL LOGIC -->
+<script>_.Module.use('common/component/dimension_code',[true]);</script><script>
+if(typeof PDC != 'undefined'){//init wpo.pdc
+PDC.init( {
+is_login : PageData.user.is_login, //是否登录，由产品线判断返回0或1，无法判断请写0
+sample : 0.2, //采样率，范围0-1。计算方法：100万/页面pv。
+product_id : 14, //产品线ID，0-255数字，
+page_id : 3, // 页面ID，0-255数字
+fsHeight : 600
+});
+}
+</script>
+<script>
+PDC._load_js=function(b,c){var a=document.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src",b);a.onload=a.onreadystatechange=function(){if(!this.readyState||this.readyState=="loaded"||this.readyState=="complete"){a.onload=a.onreadystatechange=null;if(typeof c==="function"){c(b,true)}}};a.onerror=function(d){if(typeof c==="function"){c(b,false)}};document.getElementsByTagName("head")[0].appendChild(a)};PDC._load_analyzer=function(){var c=this._opt.special_pages;var d=[this._opt.sample];for(var b=0;b<c.length;b++){d.push(c[b]["sample"])}var a=Math.max.apply(null,d);if(PDC._is_sample(a)==false){return}PDC._analyzer.loaded=true;PDC._load_js(PDC._analyzer.url,function(){var g=PDC._analyzer.callbacks;for(var f=0,e=g.length;f<e;f++){g[f]()}})};PDC.send=function(){if(PDC._analyzer.loaded==true){WPO_PDA.send()}else{PDC._load_analyzer();PDC._analyzer.callbacks.push(function(){WPO_PDA.send()})}};PDC._is_sample=function(a){if(!PDC._random){PDC._random=Math.random()}return PDC._random<=a};(function(){if(document.attachEvent){window.attachEvent("onload",function(){PDC.mark("lt")},false)}else{window.addEventListener("load",function(){PDC.mark("let");PDC._setFS&&PDC._setFS();PDC._opt.ready&&PDC._load_analyzer()})}})();
+</script>
+</body>
+</html>
+<!--29856808670317337098092422-->
+<script> var _trace_page_logid = 2985680867; </script>

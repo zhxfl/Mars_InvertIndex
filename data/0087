@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>北京市公安局网络报警报警中心</title>
+<link href="style/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onload="MM_preloadImages('images/tip02.png','images/tip04.png','images/tip06.png','images/tip08.png')">
+<div id="index">
+    <div id="index01"></div>
+    <div id="indexnav">报警链接： <a href="http://www.cyberpolice.cn/">公安部</a> 
+                                 <a href="http://210.76.65.188/netalarm/index.jsp">广东</a> 
+                                 <a href="http://sh.cyberpolice.cn">上海</a> 
+                                 <a href="http://www.tj.cyberpolice.cn">天津</a> 
+                                 <a href="http://www.cqnet110.gov.cn">重庆</a> 
+                                 <a href="http://www.cdnet110.com">成都</a>  
+                                 <a href="http://www.fuzhou.cyberpolice.cn">福州</a> 
+                                 <a href="http://jinan.cyberpolice.cn">济南</a> 
+                                 <a href="http://www.hangzhou.cyberpolice.cn">杭州</a> 
+                                 <a href="http://www.njga.gov.cn/cps/site/njga/2004/110.htm">南京</a> 
+                                 <a href="http://www.hngawj.net">长沙</a> 
+                                 <a href="http://kunming.cyberpolice.cn/infoCategoryListAction.do?act=init">昆明</a> 
+                                 <a href="http://nanchang.cyberpolice.cn">南昌</a> 
+                                 <a href="http://www.sywj.gov.cn/bjzx/bjzx.asp">沈阳</a> 
+                                 <a href="http://hbsjz110.com">石家庄</a> 
+                                 <a href="http://haerbin.cyberpolice.cn/htm/wsbj2/SmsAlarm.asp">哈尔滨</a> 
+                                 <a href="http://changchun.cyberpolice.cn">长春</a> 
+                                 <a href="http://www.gx.cyberpolice.cn/nanning">南宁</a> 
+                                 <a href="http://hefei.cyberpolice.cn">合肥</a> 
+                                 <a href="http://www.zz-police.com">郑州</a> 
+                                 <a href="http://www.ty-police.com.cn/jubao.asp">太原</a> 
+                                 <a href="more.do">更多 >></a></div>
+<div id="index02">
+        <p style="padding-left:105px;"><a href="confirm.do?alarmType=porm">黄、赌、毒 4.11举报</a></p>
+        <p style="padding-left:76px;"><a href="confirm.do?alarmType=fraud">网络诈骗</a></p>
+        <p style="padding-left:63px;"><a href="confirm.do?alarmType=contraband">销售违禁品</a></p>
+        <p style="padding-left:60px;"><a href="confirm.do?alarmType=virusAndHacker">病毒与攻击</a></p>
+        <p style="padding-left:65px;"><a href="confirm.do?alarmType=game">网络游戏</a></p>
+        <p style="padding-left:73px;"><a href="confirm.do?alarmType=other">其他违法</a></p>
+    </div>
+<div id="index03">
+    <div><a href="#"><img src="images/police.png" width="85" height="186" id="index03img"/></a></div>
+    <div style="float:left; padding-left:170px;">
+    	<p><a href="http://www.cyberpolice.cn/wfjb/html/flfg/index.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/tip02.png',1)">
+       	<img src="images/tip01.png" name="Image2" width="58" height="58" border="0" id="Image2" /></a></p>
+        <p><a href="links.do" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/tip04.png',1)">
+        <img src="images/tip03.png" name="Image3" width="58" height="58" border="0" id="Image3" /></a></p>
+        <p><a href="notified.do" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','images/tip06.png',1)">
+        <img src="images/tip05.png" name="Image4" width="58" height="58" border="0" id="Image4" /></a></p>
+        <!--<p><a href="relation.do" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/tip08.png',1)">
+        <img src="images/tip07.png" name="Image5" width="58" height="58" border="0" id="Image5" /></a></p>-->
+  </div>
+  <div style="padding-top:20px; margin-left:100px; float:left; width:30px;"><img src="images/indexline.png" width="1" height="76" /></div>
+<div>
+      	<ul>
+        	<!--  <li><a href="#">·中华人民共和国行政处罚法　(12-10)</a></li>
+            <li><a href="#">·公安机关办理行政案件程序规定　(12-10)</a></li>
+            <li><a href="#">·互联网上网服务营业场所管理条例　(10-18)</a></li>
+            -->
+      	</ul>
+      </div>
+</div>
+<div id="index04">
+        <p align="center">北京市公安局版权所有 未经许可请勿转载</p>
+        <p align="center">Copyright@1998-2010 BeiJingPolice. All Rights Reserved </p>
+    </div>
+<div>
+</body>
+</html>

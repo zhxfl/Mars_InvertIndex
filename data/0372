@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>
+铁路客户服务中心
+</title>
+<head>
+<script lang="JAVASCRIPT">
+var url = location.host;
+if(url=="www.12306.cn")
+{
+	window.location="/mormhweb/";
+}
+else
+{
+
+	if(url=="wap.12306.cn")
+	{
+		window.location="/mormhwap/";
+	}
+	else
+	{
+		alert("非法的地址，浏览器将关闭！");
+		window.close();
+	}
+}
+
+
+</script>
+</html> 

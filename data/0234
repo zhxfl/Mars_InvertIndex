@@ -1,0 +1,510 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">人物</span> <span class="f14">分类下的开放分类共有112个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34608">自然科学</a>(9)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34534">人文领域</a>(25)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34607">社会科学</a>(7)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34531">文学领域</a>(30)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34532">军事领域</a>(18)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34530">艺术领域</a>(7)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34637">体育领域</a>(10)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34644">虚拟人物</a>(6)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34608" id="34608"></a>
+<div class="dirtit">自然科学</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%C6%D1%A7%BC%D2"target="_blank">科学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BD%D1%A7%BC%D2"target="_blank">医学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%FD%D1%A7%BC%D2"target="_blank">数学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%EF%C0%ED%D1%A7%BC%D2"target="_blank">物理学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%AF%D1%A7%BC%D2"target="_blank">化学家</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%A9%D1%A7%BC%D2"target="_blank">农学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%A9%D2%B5%D1%A7%BC%D2"target="_blank">农业学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%C9%FA%CE%EF%D1%A7%BC%D2"target="_blank">古生物学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BD%CA%A6"target="_blank">医师</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34534" id="34534"></a>
+<div class="dirtit">人文领域</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%CA%B5%DB"target="_blank">皇帝</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%DC%CD%B3"target="_blank">总统</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D7%CF%E0"target="_blank">首相</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%AE%CD%F5"target="_blank">女王</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F5%E5%FA"target="_blank">王妃</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F5%D7%D3"target="_blank">王子</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%CC%CA%A6"target="_blank">教师</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%F3%B3%BC"target="_blank">大臣</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%C2%B9%D9"target="_blank">宦官</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%B9%BD%DA"target="_blank">使节</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%EC%B5%BC%C8%CB"target="_blank">领导人</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%A8%D1%A7%BC%D2"target="_blank">法学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%C4%B8%EF%BC%D2"target="_blank">改革家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BA%D1%A7%BC%D2"target="_blank">汉学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%F0%D1%A7%BC%D2"target="_blank">佛学家</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%E5%D1%A7%BC%D2"target="_blank">儒学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%FE%D6%CE%BC%D2"target="_blank">政治家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%FE%C2%DB%BC%D2"target="_blank">政论家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E4%CA%F5%BC%D2"target="_blank">武术家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%FE%D6%CE%D1%A7%BC%D2"target="_blank">政治学家</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F1%CB%D7%D1%A7%BC%D2"target="_blank">民俗学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%B4%FA%BB%CA%BA%F3"target="_blank">古代皇后</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%B4%FA%E6%C9%E5%FA"target="_blank">古代嫔妃</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%B4%FA%BB%CA%D7%D3"target="_blank">古代皇子</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%B5%B1%B4%B6%FB%BA%CD%C6%BD%BD%B1%B5%C3%D6%F7"target="_blank">诺贝尔和平奖得主</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34607" id="34607"></a>
+<div class="dirtit">社会科学</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%BC%B9%C5%D1%A7%BC%D2"target="_blank">考古学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%B1%B4%FA%B7%A8%D1%A7%BC%D2"target="_blank">当代法学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%DC%C0%ED%D1%A7%BC%D2"target="_blank">管理学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%F1%D1%A7%BC%D2"target="_blank">神学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%CB%C0%E0%D1%A7%BC%D2"target="_blank">人类学家</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%E7%BB%E1%D1%A7%BC%D2"target="_blank">社会学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%CC%D3%FD%BC%D2"target="_blank">教育家</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34531" id="34531"></a>
+<div class="dirtit">文学领域</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%A7%D5%DF"target="_blank">学者</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%F7%BC%D2"target="_blank">作家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%AB%C8%CB"target="_blank">诗人</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%AD%D2%EB%BC%D2"target="_blank">翻译家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%A2%CE%C4%BC%D2"target="_blank">散文家</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%A1%CB%B5%BC%D2"target="_blank">小说家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%DC%D1%A7%BC%D2"target="_blank">哲学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%BC%CF%EB%BC%D2"target="_blank">思想家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C4%D1%A7%BC%D2"target="_blank">文学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%CE%CB%C4%BC%D2"target="_blank">宋四家</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%AA%CB%C4%BC%D2"target="_blank">元四家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F7%CB%C4%BC%D2"target="_blank">明四家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C4%D7%D6%D1%A7%BC%D2"target="_blank">文字学家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C2%E7%D7%F7%BC%D2"target="_blank">网络作家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%EF%D1%D4%D1%A7%BC%D2"target="_blank">语言学家</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%A9%B3%C7%C8%FD%D7%E6"target="_blank">桐城三祖</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%F5%CC%C6%CB%C4%BD%DC"target="_blank">初唐四杰</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%EE%D7%D3%B0%D9%BC%D2"target="_blank">诸子百家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%F1%C1%D6%C6%DF%CF%CD"target="_blank">竹林七贤</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%A8%B0%B2%C6%DF%D7%D3"target="_blank">建安七子</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%EF%D6%DD%B0%CB%B9%D6"target="_blank">扬州八怪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%F9%B3%AF%CB%C4%B4%F3%BC%D2"target="_blank">六朝四大家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BA%B8%B3%CB%C4%B4%F3%BC%D2"target="_blank">汉赋四大家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%AA%C7%FA%CB%C4%B4%F3%BC%D2"target="_blank">元曲四大家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%C6%CB%CE%B0%CB%B4%F3%BC%D2"target="_blank">唐宋八大家</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%F0%C1%EA%CA%AE%B6%FE%EE%CE"target="_blank">金陵十二钗</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BB%B0%D9%C1%E3%B0%CB%BD%AB"target="_blank">一百零八将</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%AD%C4%CF%CB%C4%B4%F3%B2%C5%D7%D3"target="_blank">江南四大才子</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%B5%B1%B4%B6%FB%CE%C4%D1%A7%BD%B1%B5%C3%D6%F7"target="_blank">诺贝尔文学奖得主</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%F8%C3%FB%D7%F7%BC%D2"target="_blank">著名作家</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34532" id="34532"></a>
+<div class="dirtit">军事领域</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%AB%BE%FC"target="_blank">将军</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%AB%C1%EC"target="_blank">将领</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%FC%CA%C2%BC%D2"target="_blank">军事家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%CB%CB%BE%C2%ED"target="_blank">八司马</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%AD%CF%C4%B0%CB%BF%A1"target="_blank">江夏八俊</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%BA%C7%EF%CE%E5%B0%D4"target="_blank">春秋五霸</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%EF%C3%FC%C1%D2%CA%BF"target="_blank">革命烈士</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F1%D7%E5%D3%A2%D0%DB"target="_blank">民族英雄</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%BD%B9%FA%CB%C4%B9%AB%D7%D3"target="_blank">战国四公子</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%F1%BA%BA%CE%E5%BB%A2%BD%AB"target="_blank">蜀汉五虎将</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%D4%B0%B0%CB%D0%A3%CE%BE"target="_blank">西园八校尉</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%AB%CB%EC%B0%CB%B2%BF%BD%AB"target="_blank">韩遂八部将</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%AE%B0%CB%C2%B7%D6%EE%BA%EE"target="_blank">十八路诸侯</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%AC%D0%C2%CB%C4%B9%AB%D7%D3"target="_blank">维新四公子</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%EC%D0%E7%C1%F9%BE%FD%D7%D3"target="_blank">戊戌六君子</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%DF%CA%AE%B6%FE%C1%D2%CA%BF"target="_blank">七十二烈士</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%C6%CC%A8%B6%FE%CA%AE%B0%CB%BD%AB"target="_blank">云台二十八将</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%E2%B7%C5%BE%FC%BD%AB%C1%EC"target="_blank">解放军将领</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34530" id="34530"></a>
+<div class="dirtit">艺术领域</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%F7%C7%FA%BC%D2"target="_blank">作曲家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%E9%BB%AD%BC%D2"target="_blank">书画家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%E9%B7%A8%BC%D2"target="_blank">书法家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%D5%CA%F5%BC%D2"target="_blank">艺术家</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%BC%D1%DD"target="_blank">导演</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%F7%B3%D6%C8%CB"target="_blank">主持人</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%F1%CB%DC%BC%D2"target="_blank">雕塑家</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34637" id="34637"></a>
+<div class="dirtit">体育领域</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%CB%B6%AF%D4%B1"target="_blank">运动员</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%E3%C7%F2%D4%CB%B6%AF%D4%B1"target="_blank">足球运动员</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%BA%C7%F2%D4%CB%B6%AF%D4%B1"target="_blank">篮球运动员</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%C0%BD%E7%D6%F8%C3%FB%D4%CB%B6%AF%D4%B1"target="_blank">世界著名运动员</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%B9%C5%D2%C7%F2%D4%CB%B6%AF%D4%B1"target="_blank">乒乓球运动员</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%F8%C3%FB%D4%CB%B6%AF%D4%B1"target="_blank">著名运动员</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%E5%D3%FD%D4%CB%B6%AF%D4%B1"target="_blank">体育运动员</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%F2%D0%C7"target="_blank">球星</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%D4%CB%B9%DA%BE%FC"target="_blank">奥运冠军</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%F2%D4%B1"target="_blank">球员</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34644" id="34644"></a>
+<div class="dirtit">虚拟人物</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AF%C2%FE%C8%CB%CE%EF"target="_blank">动漫人物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%CE%CF%B7%C8%CB%CE%EF"target="_blank">游戏人物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%A1%CB%B5%C8%CB%CE%EF"target="_blank">小说人物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AF%BB%AD%C8%CB%CE%EF"target="_blank">动画人物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%A8%CD%A8%C8%CB%CE%EF"target="_blank">卡通人物</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%E9%C4%E2%C8%CB%CE%EF"target="_blank">虚拟人物</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--03365740411130963978092423-->
+<script> var _trace_page_logid = 0336574041; </script>

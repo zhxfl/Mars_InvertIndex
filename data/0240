@@ -1,0 +1,524 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">文化</span> <span class="f14">分类下的开放分类共有116个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34551">文学</a>(30)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34646">中华文化</a>(13)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34553">文物古迹</a>(12)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34599">学派</a>(14)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34552">宗教</a>(18)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34647">民俗</a>(6)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34555">语种</a>(18)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34648">网络文化</a>(5)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34551" id="34551"></a>
+<div class="dirtit">文学</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%AB%B4%CA"target="_blank">诗词</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%A1%CB%B5"target="_blank">小说</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%A2%CE%C4"target="_blank">散文</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%AB%B8%E8"target="_blank">诗歌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%D3%CE%C4"target="_blank">杂文</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%C9%D3%EF"target="_blank">成语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%CA%BB%E3"target="_blank">词汇</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%E9%BC%AE"target="_blank">书籍</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%D5%B8%F1"target="_blank">谜格</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E5%B8%F1"target="_blank">五格</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%D7%D3%EF"target="_blank">俗语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%A2%D1%D4"target="_blank">寓言</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%CA%CA%C2"target="_blank">故事</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%AB%CB%B5"target="_blank">传说</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%AE%CA%E9"target="_blank">女书</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%E8%D3%EF"target="_blank">谚语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D9%B5%D3%EF"target="_blank">俚语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%AA%BA%F3%D3%EF"target="_blank">歇后语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%C4%B4%F3%C3%FB%D6%F8"target="_blank">四大名著</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%FE%CA%AE%CB%C4%CA%B7"target="_blank">二十四史</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%F9%B2%C5%D7%D3%CA%E9"target="_blank">六才子书</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%FD%D1%D4%B6%FE%C5%C4"target="_blank">三言二拍</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%A9%D3%F2%CE%C4%BB%AF"target="_blank">雪域文化</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%C0%BD%E7%C3%FB%D6%F8"target="_blank">世界名著</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%ED%C7%E5%CB%C4%B4%F3%C7%B4%D4%F0%D0%A1%CB%B5"target="_blank">晚清四大谴责小说</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BA%D7%D6"target="_blank">汉字</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%EF%CE%C4"target="_blank">语文</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E4%B9%CA"target="_blank">典故</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%D6%B5%E4"target="_blank">字典</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%C9%D3%EF%B4%CA%B5%E4"target="_blank">成语词典</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34646" id="34646"></a>
+<div class="dirtit">中华文化</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%D9%BC%D2%D5%F9%C3%F9"target="_blank">百家争鸣</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%C4%CA%E9%CE%E5%BE%AD"target="_blank">四书五经</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%B9%FA%C9%F1%BB%B0"target="_blank">中国神话</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%B5%E4%B5%E4%BC%AE"target="_blank">古典典籍</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%B9%FA%D2%F4%C0%D6"target="_blank">中国音乐</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%B9%FA%B7%FE%CA%CE"target="_blank">中国服饰</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%B9%FA%D2%FB%CA%B3"target="_blank">中国饮食</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E4%CA%F5"target="_blank">武术</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%E9%BB%AD"target="_blank">书画</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%D9%BC%D2%D0%D5"target="_blank">百家姓</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%C6%CA%AB"target="_blank">唐诗</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%CE%B4%CA"target="_blank">宋词</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%AA%C7%FA"target="_blank">元曲</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34553" id="34553"></a>
+<div class="dirtit">文物古迹</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%C5%D6%B7"target="_blank">遗址</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%C5%BC%A3"target="_blank">遗迹</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%BC%B9%C5"target="_blank">考古</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%C5%B6%AD"target="_blank">古董</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C4%BB%AF%B9%C5%BC%A3"target="_blank">文化古迹</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%CB%CE%C4%BE%B0%B9%DB"target="_blank">人文景观</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C4%BB%AF%D2%C5%B2%FA"target="_blank">文化遗产</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%D4%C8%BB%D2%C5%B2%FA"target="_blank">自然遗产</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%D4%C8%BB%BE%B0%B9%DB"target="_blank">自然景观</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%D4%C8%BB%B1%A3%BB%A4%C7%F8"target="_blank">自然保护区</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%C0%BD%E7%CE%C4%BB%AF%D2%C5%B2%FA"target="_blank">世界文化遗产</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%AB%B9%FA%D6%D8%B5%E3%CE%C4%CE%EF%B1%A3%BB%A4%B5%A5%CE%BB"target="_blank">全国重点文物保护单位</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34599" id="34599"></a>
+<div class="dirtit">学派</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%A8%D1%A7%D1%A7%C5%C9"target="_blank">法学学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%C6%D1%A7%D1%A7%C5%C9"target="_blank">科学学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%FA%CA%B7%D1%A7%C5%C9"target="_blank">历史学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%FD%D1%A7%D1%A7%C5%C9"target="_blank">数学学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%DC%D1%A7%D1%A7%C5%C9"target="_blank">哲学学派</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%A7%CA%F5%D1%A7%C5%C9"target="_blank">学术学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%EF%D1%D4%D1%A7%C5%C9"target="_blank">语言学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%DA%BD%CC%D1%A7%C5%C9"target="_blank">宗教学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%CC%B7%A8%D1%A7%C5%C9"target="_blank">教法学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%F0%BD%CC%D1%A7%C5%C9"target="_blank">佛教学派</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%FE%D6%CE%D1%A7%C5%C9"target="_blank">政治学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%A8%D6%FE%D1%A7%C5%C9"target="_blank">建筑学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%DC%C0%ED%D1%A7%C5%C9"target="_blank">管理学派</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F1%D7%E5%D1%A7%D1%A7%C5%C9"target="_blank">民族学学派</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34552" id="34552"></a>
+<div class="dirtit">宗教</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%F0%BD%CC"target="_blank">佛教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%C0%BD%CC"target="_blank">道教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C2%BD%CC"target="_blank">新教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%ED%D3%EE"target="_blank">庙宇</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%A5%BE%AD"target="_blank">圣经</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%F9%B6%BD%BD%CC"target="_blank">基督教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%EC%D6%F7%BD%CC"target="_blank">天主教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AB%D5%FD%BD%CC"target="_blank">东正教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A1%B6%C8%BD%CC"target="_blank">印度教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%FD%BF%CB%BD%CC"target="_blank">锡克教</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%C2%CB%B9%C1%D6"target="_blank">穆斯林</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%CC%CC%AB%BD%CC"target="_blank">犹太教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%C5%C2%DE%C3%C5%BD%CC"target="_blank">婆罗门教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%C1%CB%B9%C0%BC%BD%CC"target="_blank">伊斯兰教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%D8%B4%AB%B7%F0%BD%CC"target="_blank">藏传佛教</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%C4%B4%F3%B7%F0%BD%CC%C3%FB%C9%BD"target="_blank">四大佛教名山</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%DA%BD%CC"target="_blank">宗教</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%F0%BD%CC%CA%F5%D3%EF"target="_blank">佛教术语</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34647" id="34647"></a>
+<div class="dirtit">民俗</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%DA%C8%D5"target="_blank">节日</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%F1%BD%DA"target="_blank">礼节</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%DA%C6%F8"target="_blank">节气</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%FA%D0%A4"target="_blank">生肖</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%E9%CB%D7"target="_blank">婚俗</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F1%B8%E8"target="_blank">民歌</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34555" id="34555"></a>
+<div class="dirtit">语种</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A1%C5%B7%D3%EF%CF%B5"target="_blank">印欧语系</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BA%B2%D8%D3%EF%CF%B5"target="_blank">汉藏语系</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%A2%B6%FB%CC%A9%D3%EF%CF%B5"target="_blank">阿尔泰语系</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%C1%BA%AC%D3%EF%CF%B5"target="_blank">闪含语系</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%C2%C0%AD%CE%AC%B4%EF%D3%EF%CF%B5"target="_blank">德拉维达语系</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%DF%BC%D3%CB%F7%D3%EF%CF%B5"target="_blank">高加索语系</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%DA%C0%AD%B6%FB%D3%EF%CF%B5"target="_blank">乌拉尔语系</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BA%D3%EF"target="_blank">汉语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A2%D3%EF"target="_blank">英语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%C2%D3%EF"target="_blank">德语</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%A8%D3%EF"target="_blank">法语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%AB%D3%EF"target="_blank">韩语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%D5%D3%EF"target="_blank">日语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%B0%E0%D1%C0%D3%EF"target="_blank">西班牙语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%CF%CC%D1%D1%C0%D3%EF"target="_blank">葡萄牙语</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%EF%D1%D4"target="_blank">语言</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%CA%D3%EF"target="_blank">词语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%BD%D1%D4"target="_blank">方言</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34648" id="34648"></a>
+<div class="dirtit">网络文化</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C2%E7%D3%C3%D3%EF"target="_blank">网络用语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C2%E7%CE%C4%D1%A7"target="_blank">网络文学</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C2%E7%CA%F5%D3%EF"target="_blank">网络术语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C2%E7%C3%FB%B4%CA"target="_blank">网络名词</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C2%E7%C9%E7%C7%F8"target="_blank">网络社区</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--03418173080979313674092423-->
+<script> var _trace_page_logid = 0341817308; </script>

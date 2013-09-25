@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="/static/baiduwifi/images/favicon.ico" />
+    
+      <title>小度WiFi官网</title>
+      <meta name="description" content="小度wifi是百度推出的一款创新的手机免费上网的随身wifi路由器，插上电脑既可以马上让手机、pad免费上网" />
+      <meta name="keywords" content="小度wifi，baiduwifi，百度wifi,wifi预定，wifi免费，随身wifi" />
+    
+    <link rel="stylesheet" href="/static/baiduwifi/css/main.css?date=09241820" />
+</head>
+<body>
+  
+  <div class="top-nav">
+    <div class="width">
+    <a href="/">首页</a>
+    <a href="/wifi" class="current">小度WiFi</a>
+    <a href="/link">小度路由</a>
+    <a href="/yingbang">小度影棒</a>
+    </div>
+  </div>
+  <div class="index">
+
+    <!-- header -->
+    <div class="header">
+      <div class="width clearfix">
+      
+      <span><h1>小度WiFi</h1></span>
+      <span class="attention"><a href="http://weibo.com/baiduwifi" target="_blank">关注我们</a></span>
+         
+      
+      
+  <ul class="nav">
+    <li class="cur"><a href="/wifi">概述</a></li>
+    <li>|</li>
+    <li><a href="/wifi/detail">功能参数</a></li>
+    <li>|</li>
+    <li><a href="http://tieba.baidu.com/f?kw=%D0%A1%B6%C8wifi%C9%E8%B1%B8%B9%D9%B7%BD" target="_blank">官方贴吧</a></li>
+  </ul>
+
+      <div style=" width: 1000px;">
+      
+  <div class="wifi-logo clear"></div>
+  <h1 class="logo-desc">一步建立属于你的免费WiFi</h1>
+  <div class="price">仅售：<span>18.9</span>元</div>
+  <div class="wifi-infor"><span>9月24日9点30分</span>在京东首发，全国火热预售中</div>
+  <div class="wifi-img"></div>
+
+      
+      
+      <div class="index-book" id="bookBtn">
+        <a href="http://sale.jd.com/act/UgvCkxZdFIcGzJ.html" target="_blank"></a>
+      </div>
+      
+      </div>
+      </div>
+    </div>
+    <!-- 中间内容 -->
+    <div>
+    
+<div class="common-desc width">
+      <dl class="desc1 clearfix">
+        <dt class="infor">
+          <h2>精巧的WiFi路由器</h2>
+          <p>细节凸显做工精致，技术保障极速连接</p>
+        </dt>
+        <dd class="right"><img src="http://apps.bdimg.com/developer/static/09241820/assets/wifi-wifi.jpg" alt="精巧的WiFi路由器" /></dd>
+      </dl>
+      <dl class="desc4">
+        <dt class="left relative">
+        <img src="http://apps.bdimg.com/developer/static/09241820/assets/wifi-uploading.jpg" alt="隔空传物" />         
+        </dt>
+        <dd class="infor">
+          <h2>隔空传物</h2>
+          <p>无需插USB数据线就能把文件从PC传到手机上</p>
+          <p>让你的手机数据线随身带</p>
+        </dd>
+      </dl>      
+      <dl class="desc3">
+        <dt class="infor">
+          <h2>手机上网全免费</h2>
+          <p>只需将小度WiFi连上已联网的电脑</p>
+          <p>一步即可建立属于你的免费WiFi</p>
+          <p>扔掉设置复杂的路由器</p>
+          <p>让手机上网飞起来吧</p>       
+        </dt>
+        <dd class="right">          
+          <img src="http://apps.bdimg.com/developer/static/09241820/assets/wifi-netplay.jpg" alt="手机上网全免费" />   
+        </dd>
+      </dl>
+      <dl class="desc2">
+        <dt>
+          <img src="http://apps.bdimg.com/developer/static/09241820/assets/wifi-video.jpg" alt="手机看电脑视频" />
+        </dt>
+        <dd class="infor">
+          <h2>手机看电脑视频</h2>
+          <p>电脑中珍藏的大片，手机随时看</p>
+          <div class="tip">注：手机使用<span>百度视频</span>观看</div>
+        </dd>
+      </dl>
+      
+      <!-- 
+      <div class="more-desc"><a href="#">了解更多详细参数 >></a></div>
+      -->
+    </div>
+</div>
+
+    </div>
+  </div>
+  <div id="footer" class="footer">
+    <!-- <div class="footer-nav"><a href="#">百度首页</a>|<a href="#">免责声明</a>|<a href="#">联系我们</a></div> -->
+    ©2013 Baidu <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a> 京ICP证030173号
+  </div>
+  <script src="http://libs.baidu.com/jquery/1.10.1/jquery.min.js"></script>
+  <script src="http://libs.baidu.com/json/json2/json2.js"></script>  
+  <!--[if IE 6]>
+  <script type="text/javascript" src="/static/baiduwifi/js/iepng6.js"></script>
+  <script type="text/javascript">
+     EvPNG.fix('.product,.router-logo,.wifi-logo,.tv-logo,.router-img,.wifi-img,.tv-img,.index-book,.index-soon')
+  </script>
+  <![endif]-->
+
+   
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3fd0ad1a3c462b292ef6c99bd31872a6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+$("img[src$='21.gif']").hide();
+</script>
+</body>
+</html>

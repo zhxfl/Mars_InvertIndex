@@ -1,0 +1,137 @@
+﻿<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>百度手机地图官网-开启智能生活</title>
+<meta name="keywords" content="百度,baidu,地图,ditu,map,百度地图,手机地图,shoujiditu,百度手机地图,安卓手机地图,Android手机地图,iPhone手机地图,百度地图手机版,下载手机地图,百度地图Android版,百度地图iPhone版,百度地图Symbian版,百度地图iPad版,百度地图WP7版,百度地图WP8版,导航,daohang,手机导航,免费导航,语音导航,装机必备,离线地图,谷歌地图，高德导航，图吧，凯立德，老虎地图，搜狗地图" />
+<meta name="description" content="国内最大的生活地图，集附近搜索、路线规划，语音导航为一体，支持离线地图下载，跨平台多终端覆盖。订酒店、查餐厅，叫出租车只要不到3分钟！不误事，少绕路，快速又方便！" />
+<link href="css/main.css?v=20130826" rel="stylesheet" type="text/css" />
+<link href="http://wuxian.baidu.com/resource/css/mobile-titlebar.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+  (function() {
+            var A = window.navigator.userAgent.toLowerCase();
+            if ((/iphone/.test(A)|| /ipad/.test(A) || /ipod/.test(A) || /android/.test(A)) && /safari/.test(A)) {
+                location.href = "http://mo.baidu.com/map/";
+            }
+        })();
+</script>
+<script type="text/javascript" src="js/tangram.base.js"></script>
+<script type="text/javascript" src="js/jq.js"></script>
+<script type="text/javascript" src="js/base.js"></script>
+</head>
+<body>
+<div class="top">
+ <div class="nav-box clearfix">
+  <a href="#" title=""><img alt="" src="images/logo.png"></a>
+  <ul class="nav">
+   <li><a href="index.html" title="首页" class="current andr_from" onClick="statistic(SATA_INDEX)">首页</a>
+   </li>
+   <li><a href="map_download.html" class="andr_from" title="下载百度手机地图">产品下载</a></li>
+   <li><a href="map.html" title="下载百度地图离线数据包">离线资源</a></li>
+   <li><a href="update.html" title="百度手机地图功能介绍">成长历程</a></li>
+   <li><a href="navi.html" title="导航、公交、团购、身边指南">更多地图应用</a></li>
+  </ul>
+<!--nav end-->
+ </div><!-- nav-box end-->
+</div><!--top end-->
+<div class="event" id="ad_20121211">
+  <div class="eventContent">
+    <div class="eventback"></div>
+    <div class="eventContentWord">
+      <div class="wid980 center"> <a href="http://wuxian.baidu.com/map/navi.html"  target="_blank" class="text" onClick="statistic(SATA_NOTICE)" id="eword">百度导航客户端全新发布，离线使用，精准导航，更有周边检索功能！ 立即下载</a> </div>
+    </div>
+    <a href="javascript:void(0);" class="close" id="closeAD" title="关闭提示">关闭提示</a> </div>
+</div>
+<script type="text/javascript">
+if(!$("#eword").html()){$("#ad_20121211").remove();}
+$("#closeAD").click(function(){$("#ad_20121211").remove();});	
+</script>
+<div class="index_code">
+  <div class="map_code"></div>
+</div>
+<div class="ppx-box"><div class="ppt" id="ppt"></div><div class="wid980"><div class="dot clearfix" id="pptbar"></div></div><!--wid980 end--></div><!-- ppx-box end-->
+<div class="icon-bg">
+<ul class="icon-box">
+ <li><a href="http://map.baidu.com/maps/download/index.php?app=map&qudao=3052" title="将安装包下载到电脑，通过数据线安装到手机" class="icon1" id="andr_from" onClick="sendAndrLog();"></a><a href="map_download.html" class="andr_from" target="_blank" onClick="statistic(SATA_ANDROID_TXT)" title="点击进入百度地图Android版下载页">Android</a></li>
+ <li><a href="https://itunes.apple.com/cn/app/id452186370?ls=1&mt=8" title="前往苹果官方商店下载" class="icon2" target="_blank" onClick="sendIphoneLog();"></a><a target="_blank"  href="iphone.html" onClick="statistic(SATA_IPHONE_TXT)" title="点击进入百度地图iPhone版下载页">iPhone</a></li>
+ <li><a class="icon3" href="https://itunes.apple.com/cn/app/bai-du-de-tuhd/id553771681?ls=1&mt=8" title="前往苹果官方商店下载" target="_blank" onClick="statistic(SATA_IPAD)"></a><a href="ipad.html" target="_blank" onClick="statistic(SATA_IPAD_TXT)" title="点击进入百度地图iPad版下载页">iPad</a></li>
+ <li><a href="symbian.html" class="icon4" target="_blank" title="将安装包下载到电脑，通过数据线安装到手机" onClick="statistic(SATA_SYMBIAN)"></a><a href="symbian.html"  target="_blank" onClick="statistic(SATA_SYMBIAN_TXT)" title="点击进入百度地图Symbian版下载页">Symbian</a></li>
+ <li class="mar0"><a href="http://www.windowsphone.com/zh-cn/store/app/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE/5cab0530-4822-4edb-a471-1eb3cbec439a?4.8" title="前往微软官方市场下载" target="_blank" class="icon5" onClick="statistic(SATA_PHONE)"></a><a href="phone.html"  target="_blank" onClick="statistic(SATA_PHONE_TXT)" title="点击进入百度地图Windows Phone版下载页">Windows Phone</a></li>
+</ul>
+</div>
+
+<div class="contents-box">
+<div class="contents clearfix">
+   <h3>更多地图应用</h3>
+   <div class="icon-item clearfix">
+     <div class="lf"><a href="navi.html" title="百度导航" target="_blank"><img alt="百度导航" src="images/mo_icon6.png"></a></div>
+     <div class="rt">
+      <h4><a href="navi.html" title="百度导航" target="_blank">百度导航</a></h4>
+      <p>离线驾车导航软件。提供详尽的地图查询，精准的语音引导，专业的驾车导航体验 ...</p>
+      <a target="_blank" class="down-btn" title="免费下载" href="http://map.baidu.com/maps/download/index.php?app=navi&qudao=baidu" >免费下载</a>
+     </div><!--rt end-->
+   </div><!--icon-item end-->
+
+<!--   <div class="icon-item clearfix">
+     <div class="lf"><a href="road.html" title="百度路况" target="_blank" onClick="statistic(SATA_BAI_LU)"><img alt="百度路况" src="images/mo_icon1.png"></a></div>
+     <div class="rt">
+      <h4><a href="road.html" title="百度路况" target="_blank" onClick="statistic(SATA_BAI_LU_TITLE)">百度路况</a></h4>
+      <p>随时掌握周边路况，对比选择最畅通道路，沿途路况用耳听解放双手与眼睛</p>
+      <a target="_blank" class="down-btn" title="免费下载" href="https://itunes.apple.com/cn/app/bai-du-lu-kuang/id561864192?mt=8?20121226" onClick="statistic(SATA_BAI_LU_DOWN)">免费下载</a>
+     </div>
+   </div>-->
+   <div class="icon-item clearfix">
+     <div class="lf"><a href="tuan.html" title="百度团购" target="_blank" class="andr_from" onClick="statistic(SATA_BAIDU_TUAN_ICON)"><img alt="百度团购" src="images/mo_icon4.png"></a></div>
+     <div class="rt">
+      <h4><a href="tuan.html" title="百度团购" target="_blank" class="andr_from" onClick="statistic(SATA_BAIDU_TUAN_TITLE)">百度团购</a></h4>
+      <p>提供最全面的团购、优惠信息，让您可以随时随地、便捷快速地淘到实惠  ... </p>
+      <a href="tuan.html" target="_blank" class="down-btn andr_from" title="免费下载" onClick="statistic(SATA_TUANGUO_DOWM)">免费下载</a>
+     </div><!--rt end-->
+   </div><!--icon-item end-->
+   <div class="icon-item mar0 clearfix">
+     <div class="lf"><a href="http://lvyou.baidu.com/app/baidulvyou" title="百度旅游" target="_blank" onClick="statistic(SATA_BAIDU_LYOU_ICON)"><img alt="百度旅游" src="images/mo_icon5.png"></a></div>
+     <div class="rt">
+      <h4><a href="http://lvyou.baidu.com/app/baidulvyou" title="百度旅游" target="_blank" onClick="statistic(SATA_BAIDU_LYOU_TITLE)">百度旅游</a></h4>
+      <p>集合全球上万个目的地景点攻略指南，给你最新最全的实用攻略，让你轻松出发 ...</p>
+      <a target="_blank" class="down-btn" title="免费下载" href="http://lvyou.baidu.com/app/baidulvyou" onClick="statistic(SATA_BAIDU_LYOU_DOWN)">免费下载</a>
+     </div><!--rt end-->
+   </div><!--icon-item end-->
+</div><!--contents end-->
+<div class="contents addContents clearfix">
+   <div class="icon-item  clearfix">
+     <div class="lf"><a href="application.html" title="百度公交" target="_blank" onClick="statistic(SATA_BAI_BUS)"><img alt="百度公交" src="images/mo_icon2.png"></a></div>
+     <div class="rt">
+      <h4><a href="application.html" title="百度公交" target="_blank">百度公交</a></h4>
+      <p>为你规划最合理的公交出行方案，提供离线查询、到站提醒等贴心功能</p>
+      <a target="_blank" class="down-btn" title="免费下载" href="http://wuxian.baidu.com/download/map/bus/baidubus_andr_bus10048.apk" >免费下载</a>
+     </div><!--rt end-->
+   </div><!--icon-item end-->
+   <div class="icon-item mar0 clearfix">
+     <div class="lf"><a href="guide.html" title="百度身边指南" target="_blank" onClick="statistic(SATA_BAI_GUIDE)"><img alt="百度身边" src="images/mo_icon3.png"></a></div>
+     <div class="rt">
+      <h4><a href="guide.html" title="百度身边指南" target="_blank" onClick="statistic(SATA_BAI_GUIDE_TITLE)">百度身边指南</a></h4>
+      <p>提供最靠谱的餐饮、酒店、休闲娱乐等海量商户信息，打造一站式消费决策服务</p>
+      <a target="_blank" class="down-btn" title="免费下载" href="https://itunes.apple.com/cn/app/bai-du-shen-bian-zhi-nan-sheng/id428241991?mt=8
+" onClick="statistic(SATA_BAI_GUIDE_DOWN)">免费下载</a>
+     </div><!--rt end-->
+   </div><!--icon-item end-->
+</div><!--contents end-->
+</div>
+<div class="footer-box">
+ <div class="footer">
+  <div class="partners">合作伙伴 :<a href="http://www.xiaomi.com/index.php" title="小米" target="_blank"><img alt="" src="images/logo1.png"></a><a href="http://www.gionee.com/" title="金立" target="_blank"><img alt="" src="images/logo2.png"></a><a href="http://www.coolpad.cn/" title="酷派" target="_blank"><img alt="" src="images/logo3.png"></a><a href="http://vivo.com.cn/xplay/xplay.php" title="步步高" target="_blank"><img alt="" src="images/logo4.png"></a><a href="http://www.oppo.com/" title="OPPO" target="_blank"><img alt="" src="images/logo5.png"></a></div><!--partners end-->
+  <div class="bar" style="display:none;"><a href="#" title="" target="_blank" onClick="statistic(SATA_INDEX_BAR)"><img alt="" src="images/bar.png"></a></div><!--bar end-->
+  <div class="footer-txt">&copy;  2013 Baidu </div><!--footer-txt end-->
+ </div><!--footer end-->
+</div>
+<a href="http://map.baidu.com/zt/faq" title="常见问题" class="index_fqa" target="_blank"><img src="images/fqa.png" alt="常见问题" /></a>
+<script type="text/javascript" src="js/pptbox.js?v=20130426"></script>
+<script type="text/javascript" src="http://wuxian.baidu.com/resource/js/mobile-titlebar.js?onload=1"></script>
+<script type="text/javascript" src="js/i_from.js"></script>
+<script type="text/javascript" >
+	//统计首页访问次数
+	statistic(SATA_INDEX_PV);
+	statistic(SATA_ALL_PV);
+</script>
+</body>
+</html>

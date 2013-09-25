@@ -1,0 +1,376 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">社会</span> <span class="f14">分类下的开放分类共有70个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34562">军事</a>(15)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34563">机构</a>(19)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34564">民族</a>(6)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34565">政法</a>(11)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34651">职业</a>(5)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34652">传媒</a>(5)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34654">基础设施</a>(9)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34562" id="34562"></a>
+<div class="dirtit">军事</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%F8%C6%F7"target="_blank">兵器</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E4%C6%F7"target="_blank">武器</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%BD%D5%F9"target="_blank">战争</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%FC%B6%D3"target="_blank">军队</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%B9%BF%CB"target="_blank">坦克</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BD%C4%B8"target="_blank">航母</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%B1%CD%A7"target="_blank">潜艇</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%F0%BC%FD"target="_blank">火箭</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%CB%CE%E4%C6%F7"target="_blank">核武器</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%BD%B6%B7%BB%FA"target="_blank">战斗机</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BD%CC%EC%B7%C9%BB%FA"target="_blank">航天飞机</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%FC%CA%C2"target="_blank">军事</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%A4%D2%D5"target="_blank">工艺</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%B9%D0%B5"target="_blank">枪械</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%FC%CA%C2%D7%B0%B1%B8"target="_blank">军事装备</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34563" id="34563"></a>
+<div class="dirtit">机构</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%F3%D2%B5"target="_blank">企业</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%E9%D6%AF"target="_blank">组织</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%D9%D6%B0"target="_blank">官职</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%E2%BD%BB"target="_blank">外交</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%AA%BA%CF%B9%FA"target="_blank">联合国</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%A9%CE%EF%B9%DD"target="_blank">博物馆</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%F9%BD%F0%BB%E1"target="_blank">基金会</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%CD%C4%EE%B9%DD"target="_blank">纪念馆</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%FC%CA%C2%D7%E9%D6%AF"target="_blank">军事组织</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%E9%D6%AF%BB%FA%B9%B9"target="_blank">组织机构</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%B0%C4%DC%B2%BF%C3%C5"target="_blank">职能部门</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%B5%B1%B4%B6%FB%BD%B1"target="_blank">诺贝尔奖</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%AB%CB%BE"target="_blank">公司</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%FA%B9%B9"target="_blank">机构</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%D9%D4%B1"target="_blank">官员</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%AD%BB%E1"target="_blank">协会</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%DC%C0%ED"target="_blank">管理</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BD%D4%BA"target="_blank">医院</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%C6%B5%EA"target="_blank">酒店</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34564" id="34564"></a>
+<div class="dirtit">民族</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%BA%D7%E5"target="_blank">汉族</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F1%CB%D7"target="_blank">民俗</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%E7%CB%D7"target="_blank">风俗</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%D5%CA%CF"target="_blank">姓氏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B0%CB%D7"target="_blank">习俗</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F1%D7%E5"target="_blank">民族</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34565" id="34565"></a>
+<div class="dirtit">政法</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%DC%B7%A8"target="_blank">宪法</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%CC%B7%A8"target="_blank">刑法</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F1%B7%A8"target="_blank">民法</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%D0%D5%FE%B7%A8"target="_blank">行政法</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%CD%B6%AF%B7%A8"target="_blank">劳动法</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%AD%BC%C3%B7%A8"target="_blank">经济法</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%E2%BD%BB%B7%A8"target="_blank">外交法</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%F3%C2%BD%B7%A8%CF%B5"target="_blank">大陆法系</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A2%C3%C0%B7%A8%CF%B5"target="_blank">英美法系</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%A8%C2%C9"target="_blank">法律</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%FE%D6%CE"target="_blank">政治</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34651" id="34651"></a>
+<div class="dirtit">职业</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%B0%D2%B5%B9%E6%BB%AE"target="_blank">职业规划</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%B0%D2%B5%C5%E0%D1%B5"target="_blank">职业培训</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%D0%C6%B8"target="_blank">招聘</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C2%D6%B0%D2%B5"target="_blank">新职业</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%D0%D2%B5"target="_blank">行业</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34652" id="34652"></a>
+<div class="dirtit">传媒</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%A8%BF%AF"target="_blank">报刊</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%E3%B2%A5%B5%E7%CA%D3"target="_blank">广播电视</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C2%E7%C3%BD%CC%E5"target="_blank">网络媒体</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%E3%B8%E6"target="_blank">广告</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D3%C6%B5"target="_blank">视频</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34654" id="34654"></a>
+<div class="dirtit">基础设施</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%BB%CD%A8"target="_blank">交通</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%CA%B5%E7"target="_blank">邮电</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%A9%B5%E7"target="_blank">供电</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%A9%CB%AE"target="_blank">供水</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%CC%D2%B5%B7%FE%CE%F1"target="_blank">商业服务</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%BC%CA%F5%B7%FE%CE%F1"target="_blank">技术服务</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%B0%C1%D6%C2%CC%BB%AF"target="_blank">园林绿化</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%B7%B1%A3"target="_blank">环保</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%BD%C1%C6%CE%C0%C9%FA"target="_blank">医疗卫生</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--03857447311130963978092423-->
+<script> var _trace_page_logid = 0385744731; </script>

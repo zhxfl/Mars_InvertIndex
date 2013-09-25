@@ -1,0 +1,416 @@
+					<!doctype html>
+<!--STATUS OK-->
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" >
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>百度随心听</title>
+	<meta name="keywords" content="电台,FM,经典老歌,网络歌曲,轻音乐,流行歌曲,新歌,随身听" />
+	<meta name="description" content="百度旗下免费在线音乐，红心频道，多曲风分类频道，个性化推荐，随时随地畅听好音乐" />
+	<meta name="HandheldFriendly" content="True" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<meta name="application-name" content="百度随心听" />
+	<meta name="msapplication-starturl" content="http://fm.baidu.com" />
+	<meta name="msapplication-navbutton-color" content="#3480C0" />
+	<meta name="msapplication-window" content="width=1024;height=768" />
+	<meta name="msapplication-tooltip" content="百度随心听" /> 
+	<meta name="msapplication-task" content="name=随便听听; action-uri=http://fm.baidu.com/#/channel/public_tuijian_suibiantingting; icon-uri=http://fm.baidu.com/favicon.ico" /> 
+	<meta name="msapplication-task" content="name=私人频道; action-uri=http://fm.baidu.com/#/channel/private; icon-uri=http://fm.baidu.com/favicon.ico" />
+	<meta property="wb:webmaster" content="861b22c1be3411cc" />
+	<link rel="canonical" href="http://fm.baidu.com/" />
+	<link rel="shortcut icon" type="image/x-ico" href="http://fm.baidu.com/favicon.ico" />
+	<link rel="dns-prefetch" href="//mu6.bdstatic.com">
+	<link rel="dns-prefetch" href="//fm.baidu.com">
+	<link rel="dns-prefetch" href="//music.baidu.com">
+	<link rel="dns-prefetch" href="//passport.baidu.com">
+	<link rel="apple-touch-icon" href="http://mu6.bdstatic.com/static/fm/1380012004/images/apple-touch-icon.png" />
+	<link rel="stylesheet" type="text/css" href="http://mu6.bdstatic.com/static/fm/1380012004/css/fm.css" media="all" />
+</head>
+<body>
+	<div id="right-wrapper">
+		<div class="shortcut" id="mobile">
+			<div class="shortcut-bg"></div>
+			<div class="shortcut-text">
+				<a href="http://fm.baidu.com/app/" target="_blank">手机版</a>
+			</div>
+		</div>
+
+		<div class="shortcut" id="feedback">
+			<div class="shortcut-bg"></div>
+			<div class="shortcut-text">
+				<a href="http://tousu.baidu.com/music/add#2" target="_blank">意见反馈</a>
+			</div>
+		</div>
+	</div>
+	<div id="body-bg"></div>
+	<div id="body-bg-hide" style="display:none"></div>
+	<div id="promotionbar" style="display:none">
+		<div id="promotionbar-inner">
+			<div id="promotionbar-inner-w">
+				<span id="promotionbar-icon" class="png"></span>
+				<span id="promotionbar-text"></span>
+				<a id="promotionbar-close" class="png"></a>
+			</div>
+		</div>
+		<div id="promotionbar-bg"></div>
+	</div>
+	<div id="header" class="clearfix">
+		<div id="header-fading"></div>
+		<div id="header-bg"></div>
+		<div id="header-inner">
+			<div id="logo-xmas-bg"></div>
+			<div id="logo-wrap">
+				<h1 id="radio-logo"><a href="javascript:void(0);" onclick="return false;" hideFocus="true">百度随心听电台</a></h1>
+			</div>
+
+			<div class="hidden" id="channelbar-wrap">
+				<div id="currentchannel">
+					<div id="currentchannel-bg"></div>
+					<div id="currentchannel-arrow"></div>
+					<div id="currentchannel-icon" class="paused"></div>
+					<div id="currentchannel-text"></div>
+				</div>
+				<div id="switchchannel">
+					<div id="switchchannel-bg"></div>
+					<div id="switchchannel-inner">
+						<a id="btn-switchchannel" href="javascript:void(0);" onclick="return false;" hideFocus="true">换台</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="notlogined" id="user-bar">
+				<div>
+					<ul>
+						<li>
+							<a id="userinfo-listencount" class="userinfo-listencount" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="我听过的">0</a>
+							<a id="userinfo-listencount-fake" class="userinfo-listencount" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="我听过的">我听过的</a>
+						</li>
+						<li>
+							<a id="userinfo-lovecount" class="userinfo-lovecount" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="我喜欢的">0</a>
+							<a id="userinfo-lovecount-fake" class="userinfo-lovecount" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="我喜欢的">我喜欢的</a>
+						</li>
+						<li class="user-bar-right">
+							<a id="userinfo-hatecount" class="userinfo-hatecount" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="不喜欢的">0</a>
+							<a id="userinfo-hatecount-fake" class="userinfo-hatecount" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="不喜欢的">不喜欢的</a>
+						</li>
+						<li class="user-bar-sep">
+							<span>|</span>
+						</li>	
+						<li id="user-bar-login">
+							<a id="userinfo-login" class="userinfo-login" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="登录">登录</a>
+						</li>
+
+						<li id="user-bar-signup">
+							<a id="userinfo-signup" class="userinfo-signup" href="https://passport.baidu.com/v2/?reg&amp;regType=1&amp;tpl=fm&amp;u=http://fm.baidu.com/" target="_blank" hideFocus="true" title="注册">注册</a>
+						</li>
+						<li class="user-bar-left">
+							<div id="userinfo-username-wrapper">
+								<div id="userinfo-username-inner">
+									<div id="userinfo-username-out">
+										<a id="userinfo-username" href="javascript:void(0);" onclick="return false;" hideFocus="true" title=""></a>
+										<span id="userinfo-menutrigger"></span>
+										<div class="clear"></div>
+									</div>
+									<div id="userinfo-menu-bg" class="hidden"></div>
+									<ul id="userinfo-menu" class="hidden">
+										<li>
+											<a id="userinfo-btn-usercenter" href="javascript:void(0);" onclick="return false;" hideFocus="true">个人中心</a>
+										</li>
+										<li>
+											<a id="userinfo-btn-audioquality-hq" href="javascript:void(0);" onclick="return false;" hideFocus="true">高品质模式</a>
+										</li>
+										<li>
+											<a id="userinfo-btn-audioquality-sq" href="javascript:void(0);" onclick="return false;" hideFocus="true">流畅模式</a>
+										</li>
+										<li>
+											<a id="userinfo-btn-logout" href="javascript:void(0);" onclick="return false;" hideFocus="true">退出登录</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="main" class="clearfix">
+		<div id="fm-main">
+			<ul id="main-tab-list">
+				<li class="tab-page" style="display:none" id="tab-channellist">
+					<div id="channellist">
+	<div id="channellist-upper-wrapper">
+		<div class="channellist" id="channellist-top"></div>
+	</div>
+
+	<div class="clear"></div>
+
+	<div id="channellist-bottom-wrapper">
+		<div class="channellist" id="channellist-bottom"></div>
+		<div class="clear"></div>
+	</div>
+
+	<div class="clear"></div>
+</div>				</li>
+				<li class="tab-page" id="tab-player">
+					<div class="playerpanel audio" id="playerpanel">
+	<div class="playerpanel-top">
+		<div class="playerpanel-left">
+			<div id="playerpanel-prev-song" class="hidden">
+				<div id="playerpanel-prev-song-img-bg"></div>
+				<div id="playerpanel-prev-song-img"></div>
+				<div id="playerpanel-prev-song-overlay">
+					<div id="playerpanel-prev-song-overlay-bg"></div>
+					<div id="playerpanel-prev-song-overlay-text">再听一遍</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="playerpanel-mid">
+			<div id="playerpanel-video" class="playerpanel-video">
+				<div id="playerpanel-video-bg"></div>
+				<div id="playerpanel-video-wrapper">
+					<div id="playerpanel-video-obj"></div>
+				</div>
+			</div>
+
+			<div class="playerpanel-audio" id="playerpanel-audio">
+				<div id="playerpanel-cover">
+					<div id="playerpanel-cover-bg"></div>
+					<div id="playerpanel-cover-wrapper">
+						<div id="playerpanel-coverimg">
+							<a></a>
+						</div>
+						<div id="playerpanel-cover-overlay" class="hidden">
+							<div id="playerpanel-cover-overlay-bg"></div>
+							<div id="playerpanel-cover-overlay-text">点击继续播放</div>
+						</div>
+						<div id="playerpanel-upctrl">
+							<ul>
+								<li class="playerpanel-ctrl-item" id="player-volume-wrapper">
+									<a href="javascript:void(0);" onclick="return false;" hideFocus="true" title="静音" id="playerpanel-btnmute">静音</a>
+									<div id="playerpanel-volume"></div>
+								</li>
+
+								<li class="playerpanel-ctrl-item" id="playerpanel-timeinfo" >
+									<span></span>
+								</li>
+
+								<li class="playerpanel-ctrl-item" id="btndownload-li">
+									<a href="javascript:void(0);" onclick="return false;" hideFocus="true" title="下载这首歌" id="playerpanel-btndownload">下载这首歌</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="playerpanel-right">
+			<div id="playerpanel-songinfo">
+				<div id="playerpanel-songname-wrapper">
+					<a href="javascript:void(0);" hideFocus="true" title="" id="playerpanel-songname" class="playerpanel-songname" target="_blank"></a>
+				</div>
+				<div id="playerpanel-albumname-wrapper">
+					<a href="javascript:void(0);" hideFocus="true" title="" id="playerpanel-albumname" class="playerpanel-albumname" target="_blank"></a>
+				</div>
+				<div id="playerpanel-artistname-wrapper" class="clearfix"></div>
+			</div>
+
+			<div id="playerpanel-lyrics-outter">
+				<div id="playerpanel-lyrics-wrapper">
+					<ul id="playerpanel-lyrics"></ul>
+				</div>
+			</div>
+
+			<div id="playerpanel-showLink">
+				<a href="javascript:void(0);" onclick="return false;" hideFocus="true" title="" id="playerpanel-linkname" class="playerpanel-songname" ></a>
+			</div>
+		</div>
+	</div>
+
+	<div class="playerpanel-bottom">
+		<div class="playerpanel-left"></div>
+
+		<div class="playerpanel-mid">
+			<div id="playerpanel-bottomctrl">
+				<ul>
+					<li class="playerpanel-ctrl-item playerpanel-play left" >
+						<a class="playerpanel-btnplay png" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="暂停[空格键]" id="playerpanel-btnplay">暂停</a>
+					</li>
+					<li class="playerpanel-ctrl-item playerpanel-love">
+						<a class="playerpanel-btnlove png" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="喜欢这首歌" id="playerpanel-btnlove">喜欢这首歌</a>
+					</li>
+					<li class="playerpanel-ctrl-item playerpanel-hate">
+						<a class="playerpanel-btnhate png" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="不喜欢这首歌" id="playerpanel-btnhate">不喜欢这首歌</a>
+					</li>
+					<li class="playerpanel-ctrl-item playerpanel-skip right">
+						<a class="playerpanel-btnskip png" href="javascript:void(0);" onclick="return false;" hideFocus="true" title="切歌[→]" id="playerpanel-btnskip">切歌</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="playerpanel-right">
+			<div id="playerpanel-share">
+				<div id="playerpanel-share-inner">
+					<span id="share-text-statement">分享到</span>
+					<ul id="share-btn-list">
+						<li class="share-btn-item" id="playerpanel-share-tsina">
+							<a href="javascript:void(0);" onclick="return false;" hideFocus="true" title="分享到新浪微博" class="png">分享到新浪微博</a>
+						</li>
+						<li class="share-btn-item" id="playerpanel-share-qq">
+							<a href="javascript:void(0);" onclick="return false;" hideFocus="true" title="分享给QQ好友和群" class="png">分享给QQ好友和群</a>
+						</li>
+						<li class="share-btn-item" id="playerpanel-share-tieba">
+							<a href="javascript:void(0);" onclick="return false;" hideFocus="true" title="分享到百度贴吧" class="png">分享到百度贴吧</a>
+						</li>
+						<li class="share-btn-item" id="playerpanel-share-qzone">
+							<a href="javascript:void(0);" onclick="return false;" hideFocus="true" title="分享到QQ空间" class="png">分享到QQ空间</a>
+						</li>
+						<li class="share-btn-item" id="playerpanel-share-tqq">
+							<a href="javascript:void(0);" onclick="return false;" hideFocus="true" title="分享到腾讯微博" class="png">分享到腾讯微博</a>
+						</li>
+						<li class="share-btn-item" id="playerpanel-share-renren">
+							<a href="javascript:void(0);" onclick="return false;" hideFocus="true" title="分享到人人网" class="png">分享到人人网</a>
+						</li>
+						<li class="share-btn-item" id="playerpanel-share-douban">
+							<a href="javascript:void(0);" onclick="return false;" hideFocus="true" title="分享到豆瓣" class="png">分享到豆瓣</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+				</li>
+	            <li class="tab-page" style="display:none" id="tab-userlist">
+					 <div class="user-list">
+	<div>
+		<div class="nav">
+			<ul id="user-list-tabs">
+				<li class="music-history tab">
+					<a class="currentList" href="javascript:void(0)" hidefocus="true" onfocus="this.blur()">我听过的</a>
+				</li>
+
+				<li class="user-list-line"></li>
+
+				<li class="music-like tab">
+					<a href="javascript:void(0)"  hidefocus="true" onfocus="this.blur()">我喜欢的</a>
+				</li>
+
+				<li class="user-list-line"></li>
+
+				<li class="music-hate tab">
+					<a href="javascript:void(0)" hidefocus="true" onfocus="this.blur()">不喜欢的</a>
+				</li>
+			</ul>	
+		</div>
+
+		<div class="clearfix"></div>
+
+		<div id="song-container" class="song-list-container">
+			<div id="total-listen-wrapper" class="song-list-wrapper hidden">
+				<div id="fav-list-notice" class="song-list-notice">
+					<span class="song-list-notice-left">
+						根据听歌历史记录，百度随心听帮你挑选好音乐。
+					</span>
+				</div>
+				<div class="song-list-empty hidden">
+					<div class="song-list-empty-comment">
+						<p>担心找不到曾经听过的歌</p>
+						<p>放心！我们已经把Ta们都保存好了</p>
+						<p><a class="uc-login" href="javascript:void(0);" onclick="return M3.user.sign();" hideFocus="true" title="登录">登录</a> <a class="uc-login" href="https://passport.baidu.com/v2/?reg&tpl=fm&u=http://fm.baidu.com/" target="_blank" hideFocus="true" title="注册">注册</a></p>
+					</div>
+				</div>
+				<div class="song-list-inner">
+					<ul id="total-listen" class="song-list">
+					</ul>
+					<div id="history-notice" class="hidden">
+						我们只保存了您最近收听的歌曲
+					</div>
+				</div>
+				<div class="pager"></div>
+			</div>
+
+			<div id="like-songs-wrapper" class="song-list-wrapper hidden">
+				<div id="fav-list-notice" class="song-list-notice">
+					<span class="song-list-notice-left">
+						全部红心歌曲，一键添加到我的云音乐空间
+						<a class="png" href="javascript:void(0);" onclick="return false;" hideFocus="true" id="cloudsync">一键添加</a>
+					</span>
+					<span class="song-list-notice-right">
+						<a target="_blank" href="http://yinyueyun.baidu.com/">去我的云音乐空间</a>
+					</span>
+				</div>
+				<div class="song-list-empty hidden">
+					<div class="song-list-empty-comment">
+						<p>收藏歌曲到哪里去了？</p>
+						<p>都收藏到<span class="uc-love">红心频道</span>里，喜欢的歌曲一键播放</p>
+						<p><a class="uc-login" href="javascript:void(0);" onclick="return M3.user.sign();" hideFocus="true" title="登录">登录</a> <a class="uc-login" href="https://passport.baidu.com/v2/?reg&tpl=fm&u=http://fm.baidu.com/" target="_blank" hideFocus="true" title="注册">注册</a></p>
+					</div>
+				</div>
+				<div class="song-list-inner">
+					<ul id="like-songs" class="song-list"></ul>
+				</div>
+				<div class="pager"></div>
+			</div>
+
+			<div id="dislike-songs-wrapper" class="song-list-wrapper hidden">
+				<div id="fav-list-notice" class="song-list-notice">
+					<span class="song-list-notice-left">
+						表达不喜欢的歌曲越多，我们越能理解你的喜好，推荐你喜欢的歌曲。
+					</span>
+				</div>
+				<div class="song-list-empty hidden">
+					<div class="song-list-empty-comment">
+						<p>遇见了不喜欢的歌</p>
+						<p>扔进垃圾桶，再也不会出现啦</p>
+						<p><a class="uc-login" href="javascript:void(0);" onclick="return M3.user.sign();" hideFocus="true" title="登录">登录</a> <a class="uc-login" href="https://passport.baidu.com/v2/?reg&tpl=fm&u=http://fm.baidu.com/" target="_blank" hideFocus="true" title="注册">注册</a></p>
+					</div>
+				</div>
+				<div class="song-list-inner">
+					<ul id="dislike-songs" class="song-list"></ul>
+				</div>
+				<div class="pager"></div>
+			</div>
+		</div>
+	</div>
+</div>				</li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="footer"> &copy;2013 Baidu <a href="http://music.baidu.com" target="_blank">百度音乐</a></div>
+	<div id="videokernel"></div>
+	<div class="pop-bg" id="overlay"></div>
+	<div id="audiokernel"></div>
+
+</body>
+<script type="text/javascript">
+pageId = 'mp3-fm-v2';
+tsJs = +(new Date());
+staticPath = 'http://mu6.bdstatic.com/static/fm/1380012004';
+rawChannelList = {"user_id":0,"user_name":"","channel_list": [{"channel_id":"public_tuijian_zhongguohaoshengyin","channel_name":"\u4e2d\u56fd\u597d\u58f0\u97f3","channel_order":10103,"cate_id":"tuijian","cate":"\u63a8\u8350\u9891\u9053","cate_order":1,"pv_order":14},{"channel_id":"public_tuijian_summer","channel_name":"\u6e05\u723d\u8fc7\u590f","channel_order":10104,"cate_id":"tuijian","cate":"\u63a8\u8350\u9891\u9053","cate_order":1,"pv_order":36},{"channel_id":"public_tuijian_rege","channel_name":"\u98ce\u9761\u70ed\u6b4c","channel_order":10105,"cate_id":"tuijian","cate":"\u63a8\u8350\u9891\u9053","cate_order":1,"pv_order":4},{"channel_id":"public_tuijian_ktv","channel_name":"KTV\u91d1\u66f2","channel_order":10106,"cate_id":"tuijian","cate":"\u63a8\u8350\u9891\u9053","cate_order":1,"pv_order":9},{"channel_id":"public_tuijian_billboard","channel_name":"Billboard","channel_order":10107,"cate_id":"tuijian","cate":"\u63a8\u8350\u9891\u9053","cate_order":1,"pv_order":20},{"channel_id":"public_tuijian_chengmingqu","channel_name":"\u6210\u540d\u66f2","channel_order":10108,"cate_id":"tuijian","cate":"\u63a8\u8350\u9891\u9053","cate_order":1,"pv_order":8},{"channel_id":"public_tuijian_wangluo","channel_name":"\u7f51\u7edc\u7ea2\u6b4c","channel_order":10109,"cate_id":"tuijian","cate":"\u63a8\u8350\u9891\u9053","cate_order":1,"pv_order":6},{"channel_id":"public_tuijian_kaiche","channel_name":"\u5f00\u8f66","channel_order":10110,"cate_id":"tuijian","cate":"\u63a8\u8350\u9891\u9053","cate_order":1,"pv_order":22},{"channel_id":"public_tuijian_yingshi","channel_name":"\u5f71\u89c6","channel_order":10113,"cate_id":"tuijian","cate":"\u63a8\u8350\u9891\u9053","cate_order":1,"pv_order":35},{"channel_id":"public_tuijian_suibiantingting","channel_name":"\u968f\u4fbf\u542c\u542c","channel_order":10114,"cate_id":"tuijian","cate":"\u63a8\u8350\u9891\u9053","cate_order":1,"pv_order":16},{"channel_id":"public_shiguang_jingdianlaoge","channel_name":"\u7ecf\u5178\u8001\u6b4c","channel_order":10201,"cate_id":"shiguang","cate":"\u65f6\u5149\u9891\u9053","cate_order":2,"pv_order":3},{"channel_id":"public_shiguang_70hou","channel_name":"70\u540e","channel_order":10202,"cate_id":"shiguang","cate":"\u65f6\u5149\u9891\u9053","cate_order":2,"pv_order":28},{"channel_id":"public_shiguang_80hou","channel_name":"80\u540e","channel_order":10203,"cate_id":"shiguang","cate":"\u65f6\u5149\u9891\u9053","cate_order":2,"pv_order":11},{"channel_id":"public_shiguang_90hou","channel_name":"90\u540e","channel_order":10204,"cate_id":"shiguang","cate":"\u65f6\u5149\u9891\u9053","cate_order":2,"pv_order":12},{"channel_id":"public_shiguang_xinge","channel_name":"\u706b\u7206\u65b0\u6b4c","channel_order":10205,"cate_id":"shiguang","cate":"\u65f6\u5149\u9891\u9053","cate_order":2,"pv_order":26},{"channel_id":"public_shiguang_erge","channel_name":"\u513f\u6b4c","channel_order":10206,"cate_id":"shiguang","cate":"\u65f6\u5149\u9891\u9053","cate_order":2,"pv_order":37},{"channel_id":"public_shiguang_lvxing","channel_name":"\u65c5\u884c","channel_order":10208,"cate_id":"shiguang","cate":"\u65f6\u5149\u9891\u9053","cate_order":2,"pv_order":38},{"channel_id":"public_shiguang_yedian","channel_name":"\u591c\u5e97","channel_order":10209,"cate_id":"shiguang","cate":"\u65f6\u5149\u9891\u9053","cate_order":2,"pv_order":23},{"channel_id":"public_fengge_liuxing","channel_name":"\u6d41\u884c\u65e0\u5fcc","channel_order":10301,"cate_id":"fengge","cate":"\u98ce\u683c\u9891\u9053","cate_order":3,"pv_order":7},{"channel_id":"public_fengge_yaogun","channel_name":"\u6447\u6eda\u8086\u653e","channel_order":10302,"cate_id":"fengge","cate":"\u98ce\u683c\u9891\u9053","cate_order":3,"pv_order":33},{"channel_id":"public_fengge_minyao","channel_name":"\u6c11\u8c23\u98ce\u666f","channel_order":10303,"cate_id":"fengge","cate":"\u98ce\u683c\u9891\u9053","cate_order":3,"pv_order":39},{"channel_id":"public_fengge_qingyinyue","channel_name":"\u8f7b\u97f3\u4e50","channel_order":10304,"cate_id":"fengge","cate":"\u98ce\u683c\u9891\u9053","cate_order":3,"pv_order":15},{"channel_id":"public_fengge_xiaoqingxin","channel_name":"\u5c0f\u6e05\u65b0","channel_order":10305,"cate_id":"fengge","cate":"\u98ce\u683c\u9891\u9053","cate_order":3,"pv_order":27},{"channel_id":"public_fengge_zhongguofeng","channel_name":"\u4e2d\u56fd\u98ce","channel_order":10306,"cate_id":"fengge","cate":"\u98ce\u683c\u9891\u9053","cate_order":3,"pv_order":31},{"channel_id":"public_fengge_dj","channel_name":"DJ\u821e\u66f2","channel_order":10308,"cate_id":"fengge","cate":"\u98ce\u683c\u9891\u9053","cate_order":3,"pv_order":18},{"channel_id":"public_fengge_dianyingyuansheng","channel_name":"\u7535\u5f71\u539f\u58f0","channel_order":10309,"cate_id":"fengge","cate":"\u98ce\u683c\u9891\u9053","cate_order":3,"pv_order":40},{"channel_id":"public_xinqing_qingsongjiari","channel_name":"\u8f7b\u677e\u5047\u65e5","channel_order":10401,"cate_id":"xinqing","cate":"\u5fc3\u60c5\u9891\u9053","cate_order":4,"pv_order":19},{"channel_id":"public_xinqing_huankuai","channel_name":"\u5feb\u4e50\u65cb\u5f8b","channel_order":10402,"cate_id":"xinqing","cate":"\u5fc3\u60c5\u9891\u9053","cate_order":4,"pv_order":13},{"channel_id":"public_xinqing_tianmi","channel_name":"\u751c\u871c\u611f\u53d7","channel_order":10403,"cate_id":"xinqing","cate":"\u5fc3\u60c5\u9891\u9053","cate_order":4,"pv_order":30},{"channel_id":"public_xinqing_jimo","channel_name":"\u5bc2\u5bde\u7535\u6ce2","channel_order":10404,"cate_id":"xinqing","cate":"\u5fc3\u60c5\u9891\u9053","cate_order":4,"pv_order":29},{"channel_id":"public_xinqing_qingge","channel_name":"\u5355\u8eab\u60c5\u6b4c","channel_order":10405,"cate_id":"xinqing","cate":"\u5fc3\u60c5\u9891\u9053","cate_order":4,"pv_order":32},{"channel_id":"public_xinqing_shuhuan","channel_name":"\u8212\u7f13\u8282\u594f","channel_order":10406,"cate_id":"xinqing","cate":"\u5fc3\u60c5\u9891\u9053","cate_order":4,"pv_order":17},{"channel_id":"public_xinqing_yonglanwuhou","channel_name":"\u6175\u61d2\u5348\u540e","channel_order":10407,"cate_id":"xinqing","cate":"\u5fc3\u60c5\u9891\u9053","cate_order":4,"pv_order":25},{"channel_id":"public_xinqing_shanggan","channel_name":"\u4f24\u611f\u8c03\u9891","channel_order":10408,"cate_id":"xinqing","cate":"\u5fc3\u60c5\u9891\u9053","cate_order":4,"pv_order":21},{"channel_id":"public_yuzhong_huayu","channel_name":"\u6700\u8d5e\u534e\u8bed","channel_order":10501,"cate_id":"yuzhong","cate":"\u8bed\u79cd\u9891\u9053","cate_order":5,"pv_order":1},{"channel_id":"public_yuzhong_oumei","channel_name":"\u6b27\u7f8e","channel_order":10502,"cate_id":"yuzhong","cate":"\u8bed\u79cd\u9891\u9053","cate_order":5,"pv_order":5},{"channel_id":"public_yuzhong_riyu","channel_name":"\u65e5\u8bed","channel_order":10503,"cate_id":"yuzhong","cate":"\u8bed\u79cd\u9891\u9053","cate_order":5,"pv_order":41},{"channel_id":"public_yuzhong_hanyu","channel_name":"\u97e9\u8bed","channel_order":10504,"cate_id":"yuzhong","cate":"\u8bed\u79cd\u9891\u9053","cate_order":5,"pv_order":34},{"channel_id":"public_yuzhong_yueyu","channel_name":"\u7ca4\u8bed","channel_order":10505,"cate_id":"yuzhong","cate":"\u8bed\u79cd\u9891\u9053","cate_order":5,"pv_order":24}],"status":null}
+;
+rawLoginInfo = {"user_id":0,"user_name":"","counts": {"like_songs": 0,"dislike_songs": 0,"total_listen": 0},"status": null}
+;
+var _hmt = _hmt || [];
+</script>
+<script type="text/javascript" src="http://mu6.bdstatic.com/static/fm/lib/lab.js"></script>
+<script type="text/javascript">
+$LAB
+.script("http://mu6.bdstatic.com/static/fm/lib/jquery-1.9.1.js").wait()
+.script("http://mu6.bdstatic.com/static/fm/1380012004/js/fm.js").wait()
+.script("http://hm.baidu.com/h.js?095dca06dff008569144e1c474bad69a");
+</script>
+<!--[if IE 6]>
+<script type="text/javascript">
+$LAB
+.script("http://mu6.bdstatic.com/static/fm/lib/belatedpng.js").wait(function () {
+	DD_belatedPNG.fix('.png, .jq-tooltip-close');
+})
+</script>
+<![endif]-->
+</html>

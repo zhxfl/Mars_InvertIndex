@@ -1,0 +1,220 @@
+<!DOCTYPE html><html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=7" http-equiv="X-UA-Compatible"/>
+<link href="http://baike.bdimg.com/static/common/css/user-base.css?@=vj0oal&amp;t=20120315125647" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/common/js/user-base.js?@=2dyv14v&amp;t=20120315125647" type="text/javascript"></script><title>百度百科编修院</title><link href="http://baike.bdimg.com/static/usercenter/css/logic/doubt/index.css?@=8y4w0w" rel="stylesheet" type="text/css"/><script>var isCollator=false;</script>
+<script src="http://baike.bdimg.com/static/common/js/user-base.js?" type="text/javascript"></script><script src="http://baike.bdimg.com/static/usercenter/js/release/bk.shop.js?@=5hwy4n" type="text/javascript"></script><link href="http://baike.bdimg.com/static/common/css/view.css?t=20120315125647" rel="stylesheet" type="text/css"/><link href="/static/lemma/css/album.css?t=20120315125647" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/usercenter/css/logic/collator.css?@=z6htk4&amp;t=20120315125647" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/usercenter/css/liteoutput/bk.shop.propsbox.css?@=ku4fle" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/usercenter/js/release/bk.collator.js?@=c625s6" type="text/javascript"></script><style>#userbar{visibility:hidden}.foot #rights{margin-top:0}.tangram-pager-current{border:none;font-weight:bold;color:black}#content a:hover{text-decoration:underline}</style>
+<style>#rights{color:#666;margin-top:44px;text-align:center;font-size:12px}.area{margin-bottom:10px;zoom:1}.foot{height:100px}.main{width:980px;margin:0 auto;font-family:宋体}#ft{clear:both;font-size:12px;line-height:20px;margin-top:10px;white-space:nowrap;color:#77C;text-align:center}#search-content{overflow:hidden}</style>
+<script>baidu.dom.ready(function(){baidu.page.loadJsFile("http://baike.bdimg.com/static/common/js/sug.js?t="+Math.random());});</script>
+</head>
+<body>
+<div id="wrap">
+<div id="userbar"></div>
+<div class="search fix" style="margin-top:26px">
+<div class="clearfix" id="search">
+<div id="logo">
+<a title="到百科首页" href="/" class="nslog:1008"><img width="137" height="46" src="http://img.baidu.com/img/baike/logo-baike.png" /></a>
+</div>
+<div id="search-content">
+<p class="nv nslog-area" data-nslog-type="1009">
+<a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://music.baidu.com/?fr=bk">音乐</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><a href="http://map.baidu.com/?fr=bk">地图</a><strong>百科</strong><a href="http://wenku.baidu.com/?fr=bk">文库</a>
+</p>
+<form action="/search/word?" id="f1" method="get" name="f1" target="_self">
+<span class="s_ipt_wr"><span><input class="s_ipt" id="word" maxlength="100" name="word" tabindex="1" value=""/></span></span><span class="s_btn_wr" style="margin-right:6px"><span><input class="s_btn nslog:1010" onclick="this.form.pic.value=1" onmousedown="this.className=&#34;s_btn s_btn_h&#34;" onmouseout="this.className=&#34;s_btn&#34;" tabindex="2" type="submit" value="进入词条"/></span></span><span class="s_btn_wr"><span><input class="s_btn nslog:1011" onclick="this.form.pic.value=2" onmousedown="this.className=&#34;s_btn s_btn_h&#34;" onmouseout="this.className=&#34;s_btn&#34;" tabindex="3" type="submit" value="搜索词条"/></span></span>
+<input id="sw1" name="pic" type="hidden" value="1"/>
+<input name="sug" type="hidden" value="1"/>
+<input id="search-enc" name="enc" type="hidden" value="gbk"/>
+</form>
+</div>
+<div id="help">
+<a class="c-help nslog:1012" href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a>
+</div>
+<script type="text/javascript">baidu.event.on("word","focus",function(){var _=arguments.callee;baidu.sio.callByBrowser("http://baike.bdimg.com/static/common/js/sug.js",function(){baidu.event.un("word","focus",_);});});if(baidu.platform.isIpad){baidu.sio.callByBrowser("http://baike.bdimg.com/static/common/js/common/search_ipad.js");}</script>
+</div></div>
+<div id="page">
+<div style="margin-bottom:3px"><a href="/">百度百科</a>>&#160;百度百科编修院</div><span class="ext-l" id="ext-l"></span><span class="ext-r" id="ext-r"></span><div class="wrapper" id="wrapper">
+<div id="executing">
+<span class="ext-text">已有132名百科编修</span>
+</div>
+<div id="content">
+<div id="main">
+<div class="fail_entry">
+<h3>未百科化词条</h3>
+<div class="list">
+<div id="fail_entry-content">
+<div class="tag-list" id="collator-low-qly">
+<div id="collator-low-qly-table"></div>
+<div id="collator-low-qly-pager"></div>
+</div>
+</div>
+</div>
+</div>
+<script>/*<![CDATA[*/new bk.collator.Grid({mainTpl:'<table border="0" cellpadding="0" cellspacing="0"><col width="180"></col><col width="167"></col><col width="150"></col><col width=""></col>#{ths}#{trs}</table>',url:"/ajax/collator/getcollatorlemma",emptyText:"\u6682\u65f6\u6ca1\u6709\u8bcd\u6761\u7ed3\u6784\u5f85\u6574\u7406",pagingType:0,renderTo:"collator-low-qly-table",pagerRenderTo:"collator-low-qly-pager"});/*]]>*/</script>
+</div>
+<div id="sider">
+<div class="user-info">
+<div class="info-other">
+<div class="word1">
+如果你已掌握了百科的编辑技巧<br/>如果你心目中有梦想的百科愿景<br/>如果你想为人类贡献更好的知识
+</div>
+<div class="word2">
+欢迎加入百度百科编修院<br/>将词条百科化，做更好的知识
+</div>
+<div style="text-align:center"><a class="apply-btn" href="http://baike.baidu.com/cms/s/bkqc/index.html" onclick="return userApply()" target="_blank">申请加入</a></div>
+</div>
+<script>function userApply(){if(!window.curUser){userlogin();return false;}else{return true;}}</script>
+</div>
+<div id="excellentLemma"></div>
+<div class="step-doing">
+<h3>动态介绍</h3>
+<ul class="tag" id="dynamic-switcher">
+<li>整理动态</li>
+<li>成员动态</li>
+</ul>
+<div id="dynamic-content">
+<div>
+<div class="collate" id="dynamic-collate-sidebox" style="height:144px;overflow:hidden">
+<ul class="list" id="dynamic-collate-ul1">
+<li><div><a href="http://www.baidu.com/p/极速刚擦?from=wk" target="_blank">极速刚擦</a>领取了<a href="/view/286238.htm#286238" target="_blank">斑翅凤头鹃</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/极速刚擦?from=wk" target="_blank">极速刚擦</a>领取了<a href="/view/286246.htm#286246" target="_blank">棕腹杜鹃</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/lishucheng_71?from=wk" target="_blank">lishucheng_71</a>领取了<a href="/view/48323.htm#8227333" target="_blank">董小宛</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/pyququ?from=wk" target="_blank">pyququ</a>领取了<a href="/view/371445.htm#371445" target="_blank">出一头地</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/我乃野云鹤?from=wk" target="_blank">我乃野云鹤</a>完成了<a href="/view/10707554.htm#10926779" target="_blank">唐朝文化</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/pyququ?from=wk" target="_blank">pyququ</a>完成了<a href="/view/31932.htm#31932" target="_blank">安乐窝</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/★殷萌★?from=wk" target="_blank">★殷萌★</a>领取了<a href="/view/407610.htm#407610" target="_blank">司马颙</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/追逐人生86?from=wk" target="_blank">追逐人生86</a>领取了<a href="/view/13949.htm#13949" target="_blank">郭子仪</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/极速刚擦?from=wk" target="_blank">极速刚擦</a>领取了<a href="/view/859580.htm#859580" target="_blank">黑额黑雁</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/我乃野云鹤?from=wk" target="_blank">我乃野云鹤</a>完成了<a href="/view/2139640.htm#2139640" target="_blank">唐朝统一战争</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/我乃野云鹤?from=wk" target="_blank">我乃野云鹤</a>完成了<a href="/view/52521.htm#52521" target="_blank">乌苏里江</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/mo63160363?from=wk" target="_blank">mo63160363</a>领取了<a href="/view/53608.htm#53608" target="_blank">威廉·莎士比亚</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/★殷萌★?from=wk" target="_blank">★殷萌★</a>完成了<a href="/view/89656.htm#89656" target="_blank">赫连勃勃</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/★殷萌★?from=wk" target="_blank">★殷萌★</a>完成了<a href="/view/534566.htm#534566" target="_blank">张祚</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/我乃野云鹤?from=wk" target="_blank">我乃野云鹤</a>完成了<a href="/view/1256.htm#1256" target="_blank">中华人民共和国</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/朝阳山人?from=wk" target="_blank">朝阳山人</a>领取了<a href="/view/46361.htm#46361" target="_blank">念奴娇·赤壁怀古</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/d15055037840?from=wk" target="_blank">d15055037840</a>领取了<a href="/view/62569.htm#62569" target="_blank">明光</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/mo63160363?from=wk" target="_blank">mo63160363</a>完成了<a href="/view/150697.htm#150697" target="_blank">智能天线</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/阿波罗太阳王?from=wk" target="_blank">阿波罗太阳王</a>完成了<a href="/view/1724275.htm#1724275" target="_blank">张掖丹霞地貌</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/★殷萌★?from=wk" target="_blank">★殷萌★</a>完成了<a href="/view/221592.htm#7098513" target="_blank">张骏</a>词条的百科化</div></li>
+</ul>
+<ul class="list" id="dynamic-collate-ul2">
+<li><div><a href="http://www.baidu.com/p/极速刚擦?from=wk" target="_blank">极速刚擦</a>领取了<a href="/view/286238.htm#286238" target="_blank">斑翅凤头鹃</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/极速刚擦?from=wk" target="_blank">极速刚擦</a>领取了<a href="/view/286246.htm#286246" target="_blank">棕腹杜鹃</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/lishucheng_71?from=wk" target="_blank">lishucheng_71</a>领取了<a href="/view/48323.htm#8227333" target="_blank">董小宛</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/pyququ?from=wk" target="_blank">pyququ</a>领取了<a href="/view/371445.htm#371445" target="_blank">出一头地</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/我乃野云鹤?from=wk" target="_blank">我乃野云鹤</a>完成了<a href="/view/10707554.htm#10926779" target="_blank">唐朝文化</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/pyququ?from=wk" target="_blank">pyququ</a>完成了<a href="/view/31932.htm#31932" target="_blank">安乐窝</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/★殷萌★?from=wk" target="_blank">★殷萌★</a>领取了<a href="/view/407610.htm#407610" target="_blank">司马颙</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/追逐人生86?from=wk" target="_blank">追逐人生86</a>领取了<a href="/view/13949.htm#13949" target="_blank">郭子仪</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/极速刚擦?from=wk" target="_blank">极速刚擦</a>领取了<a href="/view/859580.htm#859580" target="_blank">黑额黑雁</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/我乃野云鹤?from=wk" target="_blank">我乃野云鹤</a>完成了<a href="/view/2139640.htm#2139640" target="_blank">唐朝统一战争</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/我乃野云鹤?from=wk" target="_blank">我乃野云鹤</a>完成了<a href="/view/52521.htm#52521" target="_blank">乌苏里江</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/mo63160363?from=wk" target="_blank">mo63160363</a>领取了<a href="/view/53608.htm#53608" target="_blank">威廉·莎士比亚</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/★殷萌★?from=wk" target="_blank">★殷萌★</a>完成了<a href="/view/89656.htm#89656" target="_blank">赫连勃勃</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/★殷萌★?from=wk" target="_blank">★殷萌★</a>完成了<a href="/view/534566.htm#534566" target="_blank">张祚</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/我乃野云鹤?from=wk" target="_blank">我乃野云鹤</a>完成了<a href="/view/1256.htm#1256" target="_blank">中华人民共和国</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/朝阳山人?from=wk" target="_blank">朝阳山人</a>领取了<a href="/view/46361.htm#46361" target="_blank">念奴娇·赤壁怀古</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/d15055037840?from=wk" target="_blank">d15055037840</a>领取了<a href="/view/62569.htm#62569" target="_blank">明光</a>词条</div></li>
+<li><div><a href="http://www.baidu.com/p/mo63160363?from=wk" target="_blank">mo63160363</a>完成了<a href="/view/150697.htm#150697" target="_blank">智能天线</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/阿波罗太阳王?from=wk" target="_blank">阿波罗太阳王</a>完成了<a href="/view/1724275.htm#1724275" target="_blank">张掖丹霞地貌</a>词条的百科化</div></li>
+<li><div><a href="http://www.baidu.com/p/★殷萌★?from=wk" target="_blank">★殷萌★</a>完成了<a href="/view/221592.htm#7098513" target="_blank">张骏</a>词条的百科化</div></li>
+</ul>
+</div>
+<a class="all" href="/collator/historylist" target="_blank">已百科化词条</a>
+</div>
+<div>
+<div class="member" id="dynamic-member-sidebox" style="height:144px;overflow:hidden">
+<ul class="list" id="dynamic-member-ul1">
+<li><div><a href="http://www.baidu.com/p/东大机械a尊?from=wk" target="_blank">东大机械a尊</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/飞回来的鸽子?from=wk" target="_blank">飞回来的鸽子</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/志锋的世界?from=wk" target="_blank">志锋的世界</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/zousx?from=wk" target="_blank">zousx</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/我来天堂时无人?from=wk" target="_blank">我来天堂时无人</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/南山之江?from=wk" target="_blank">南山之江</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/极速刚擦?from=wk" target="_blank">极速刚擦</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/囍从东来?from=wk" target="_blank">囍从东来</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/陌风期未荻花雨?from=wk" target="_blank">陌风期未荻花雨</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/柯南heaven?from=wk" target="_blank">柯南heaven</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/l_漏季?from=wk" target="_blank">l_漏季</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/乐观的寂寞独舞?from=wk" target="_blank">乐观的寂寞独舞</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/y148048352?from=wk" target="_blank">y148048352</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/BAOLILONG130?from=wk" target="_blank">BAOLILONG130</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/lishucheng_71?from=wk" target="_blank">lishucheng_71</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/水吻涟漪?from=wk" target="_blank">水吻涟漪</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/朝阳山人?from=wk" target="_blank">朝阳山人</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/魍魉雪?from=wk" target="_blank">魍魉雪</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/风炎之鹰?from=wk" target="_blank">风炎之鹰</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/xhffeng?from=wk" target="_blank">xhffeng</a>加入百科编修院</div></li>
+</ul>
+<ul class="list" id="dynamic-member-ul2">
+<li><div><a href="http://www.baidu.com/p/东大机械a尊?from=wk" target="_blank">东大机械a尊</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/飞回来的鸽子?from=wk" target="_blank">飞回来的鸽子</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/志锋的世界?from=wk" target="_blank">志锋的世界</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/zousx?from=wk" target="_blank">zousx</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/我来天堂时无人?from=wk" target="_blank">我来天堂时无人</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/南山之江?from=wk" target="_blank">南山之江</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/极速刚擦?from=wk" target="_blank">极速刚擦</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/囍从东来?from=wk" target="_blank">囍从东来</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/陌风期未荻花雨?from=wk" target="_blank">陌风期未荻花雨</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/柯南heaven?from=wk" target="_blank">柯南heaven</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/l_漏季?from=wk" target="_blank">l_漏季</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/乐观的寂寞独舞?from=wk" target="_blank">乐观的寂寞独舞</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/y148048352?from=wk" target="_blank">y148048352</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/BAOLILONG130?from=wk" target="_blank">BAOLILONG130</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/lishucheng_71?from=wk" target="_blank">lishucheng_71</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/水吻涟漪?from=wk" target="_blank">水吻涟漪</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/朝阳山人?from=wk" target="_blank">朝阳山人</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/魍魉雪?from=wk" target="_blank">魍魉雪</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/风炎之鹰?from=wk" target="_blank">风炎之鹰</a>加入百科编修院</div></li>
+<li><div><a href="http://www.baidu.com/p/xhffeng?from=wk" target="_blank">xhffeng</a>加入百科编修院</div></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script>var tab=new bk.usercenter.tab({switcherID:"dynamic-switcher",contentID:"dynamic-content",defaultIdx:0,indexChanged:function(_){baidu.dom.removeClass("dynamic-switcher","li0");baidu.dom.removeClass("dynamic-switcher","li1");baidu.dom.addClass("dynamic-switcher","li"+_);}});tab.init();baidu.dom.ready(function(){var A=20;if(A>6){marquee(document.getElementById("dynamic-collate-sidebox"),document.getElementById("dynamic-collate-ul1"),document.getElementById("dynamic-collate-ul2"),24,20,2000);}var _=20;if(_>6){marquee(document.getElementById("dynamic-member-sidebox"),document.getElementById("dynamic-member-ul1"),document.getElementById("dynamic-member-ul2"),24,20,2000);}});</script>
+<div class="ranking">
+<h3>用户排行榜</h3>
+<ul class="tag" id="rank-switcher">
+<li>本周贡献榜</li>
+<li>总贡献榜</li>
+</ul>
+<div id="rank-content">
+<ul class="list">
+<li><div><span class="ranknum top0">1</span><a href="http://www.baidu.com/p/%E6%88%91%E4%B9%83%E9%87%8E%E4%BA%91%E9%B9%A4?from=wk" target="_blank">我乃野云鹤</a><span class="num">7</span></div></li>
+<li><div><span class="ranknum top1">2</span><a href="http://www.baidu.com/p/lishucheng_71?from=wk" target="_blank">lishucheng_71</a><span class="num">3</span></div></li>
+<li><div><span class="ranknum top2">3</span><a href="http://www.baidu.com/p/%E2%98%85%E6%AE%B7%E8%90%8C%E2%98%85?from=wk" target="_blank">★殷萌★</a><span class="num">3</span></div></li>
+<li><div><span class="ranknum top3">4</span><a href="http://www.baidu.com/p/%E9%98%BF%E6%B3%A2%E7%BD%97%E5%A4%AA%E9%98%B3%E7%8E%8B?from=wk" target="_blank">阿波罗太阳王</a><span class="num">2</span></div></li>
+<li><div><span class="ranknum top4">5</span><a href="http://www.baidu.com/p/Dream_Riser?from=wk" target="_blank">Dream_Riser</a><span class="num">1</span></div></li>
+<li><div><span class="ranknum top5">6</span><a href="http://www.baidu.com/p/%E6%9C%9D%E9%98%B3%E5%B1%B1%E4%BA%BA?from=wk" target="_blank">朝阳山人</a><span class="num">1</span></div></li>
+<li><div><span class="ranknum top6">7</span><a href="http://www.baidu.com/p/%E5%B7%A5%E5%8F%A3%E5%A4%AA%E4%BC%8A?from=wk" target="_blank">工口太伊</a><span class="num">1</span></div></li>
+<li><div><span class="ranknum top7">8</span><a href="http://www.baidu.com/p/371880996?from=wk" target="_blank">371880996</a><span class="num">1</span></div></li>
+<li><div><span class="ranknum top8">9</span><a href="http://www.baidu.com/p/%E5%B0%8F%E4%B8%9C%E8%A5%BFabc1?from=wk" target="_blank">小东西abc1</a><span class="num">1</span></div></li>
+<li><div><span class="ranknum top9">10</span><a href="http://www.baidu.com/p/mo63160363?from=wk" target="_blank">mo63160363</a><span class="num">1</span></div></li>
+</ul>
+<ul class="list">
+<li><div><span class="ranknum top0">1</span><a href="http://www.baidu.com/p/%E6%88%91%E4%B9%83%E9%87%8E%E4%BA%91%E9%B9%A4?from=wk" target="_blank">我乃野云鹤</a><span class="num">2930</span></div></li>
+<li><div><span class="ranknum top1">2</span><a href="http://www.baidu.com/p/%E4%B8%9C%E7%8C%8A?from=wk" target="_blank">东猊</a><span class="num">1778</span></div></li>
+<li><div><span class="ranknum top2">3</span><a href="http://www.baidu.com/p/mo63160363?from=wk" target="_blank">mo63160363</a><span class="num">1425</span></div></li>
+<li><div><span class="ranknum top3">4</span><a href="http://www.baidu.com/p/%E7%8B%82%E5%A5%94%E7%9A%84%E8%9C%97%E7%89%9B%E8%B6%8A?from=wk" target="_blank">狂奔的蜗牛越</a><span class="num">1267</span></div></li>
+<li><div><span class="ranknum top4">5</span><a href="http://www.baidu.com/p/yangzhemin12?from=wk" target="_blank">yangzhemin12</a><span class="num">1165</span></div></li>
+<li><div><span class="ranknum top5">6</span><a href="http://www.baidu.com/p/%E9%9B%B7%E8%99%8E%E7%9A%84%E5%B9%B3%E6%96%B9?from=wk" target="_blank">雷虎的平方</a><span class="num">1075</span></div></li>
+<li><div><span class="ranknum top6">7</span><a href="http://www.baidu.com/p/%E4%B8%81%E5%98%89%E8%80%95%E7%9A%84%E5%B4%87%E6%8B%9C%E8%80%85?from=wk" target="_blank">丁嘉耕的崇拜者</a><span class="num">1061</span></div></li>
+<li><div><span class="ranknum top7">8</span><a href="http://www.baidu.com/p/bridgeking?from=wk" target="_blank">bridgeking</a><span class="num">631</span></div></li>
+<li><div><span class="ranknum top8">9</span><a href="http://www.baidu.com/p/%E8%BE%B0%E7%8C%AB%E6%9A%AE%E9%9B%AA?from=wk" target="_blank">辰猫暮雪</a><span class="num">615</span></div></li>
+<li><div><span class="ranknum top9">10</span><a href="http://www.baidu.com/p/pyququ?from=wk" target="_blank">pyququ</a><span class="num">403</span></div></li>
+</ul>
+</div>
+</div>
+<script>var tab=new bk.usercenter.tab({switcherID:"rank-switcher",contentID:"rank-content",defaultIdx:0,indexChanged:function(_){baidu.dom.removeClass("rank-switcher","li0");baidu.dom.removeClass("rank-switcher","li1");baidu.dom.addClass("rank-switcher","li"+_);}});tab.init();</script>
+</div>
+</div>
+</div><script>function divAlignTo(F,H,C){var _=baidu.g(H),E=baidu.dom.getPosition(_),B=baidu.g(F),G=parseInt(baidu.dom.getStyle(B,"width")),D=parseInt(baidu.dom.getStyle(_,"width")),A={};if(C=="l"){A={top:E.top,left:E.left-G+2};}else{if(C=="r"){A={top:E.top,left:E.left+D};}}baidu.dom.setPosition(B,A);}function alignRightLeft(){var A=baidu.page.getViewWidth(),_=(Math.max(A-1000,0))/2;_=Math.min(_,186);baidu.dom.setStyle("ext-r","width",_+"px");divAlignTo("ext-l","executing","l");divAlignTo("ext-r","executing","r");}baidu.on(window,"resize",alignRightLeft);alignRightLeft();</script>
+</div>
+<div class="foot main">
+<div class="area" id="rights"><img alt="" src="http://img.baidu.com/img/baike/ico_bz.gif"/>&#160;&#160;如想投诉，请到<a href="http://tousu.baidu.com/baike" target="_blank">百度百科投诉中心</a>；如想提出意见、建议，请到<a href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%B0%D9%BF%C6" target="_blank">百度百科吧</a>；想要了解您在百度百科的权利与义务，请查看<a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">权利声明</a>。</div>
+<div id="ft">&#169;<script>document.write((new Date).getFullYear());</script> Baidu <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a> | <a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">百科协议</a> | <a href="http://baike.baidu.com/hezuo/" target="_blank">百度百科合作平台</a> <!--[if gt IE 8]>| <a href="javascript:;" onclick="window.external.msAddSiteMode()">将百科添加到开始菜单</a><![endif]--></div>
+</div>
+</div>
+</body>
+</html><!--02885200540979313674092423-->
+<script> var _trace_page_logid = 0288520054; </script>

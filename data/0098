@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+        
+            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+            <meta http-equiv="X-UA-Compatible" content="IE=7, IE=9, IE=11, IE=12"/>
+            <meta name="application-name" content="百度音乐盒"/>
+            <meta name="keywords" content="听歌,播放器,音乐盒,收藏,列表,云音乐"/>
+            <meta name="description" content="百度音乐，与我同行"/>
+            <meta name="baidu-site-verification" content="5d9ac666f428f238c9d2e191259775f9"/>
+        
+
+        <title>百度音乐盒</title>
+        <script type="text/javascript">var OPENTIME = +new Date();</script>
+        <!--STATUS OK-->
+
+        <!--[if IE]>
+        <script type="text/javascript">
+            document.execCommand("BackgroundImageCache", false, true);
+        </script>
+        <![endif]-->
+        
+        
+            <link rel="icon" href="/player/static/css/image-32/icon48.png" sizes="48x48">
+            <link rel="icon" href="/player/static/css/image-32/icon32.png" sizes="32x32">
+            <link rel="shortcut icon" href="/player/static/css/image-32/favicon.ico" type="image/x-icon"/>
+            <link type="text/css" rel="stylesheet" href="http://mu9.bdstatic.com/player/t/c/doWxYMJP.css"/>
+                        
+            <!--[if gte IE 7]><!-->
+            
+            <!--<![endif]-->
+            <!--[if IE 6]>
+            <link type="text/css" rel="stylesheet" href="/player/static/css/player_ie6.css"/>
+            <![endif]-->
+
+
+
+        
+
+
+    
+</head>
+
+<body class="mbox wrapper skin-default" data-skin="default">
+
+
+    
+    <div class="default-main" id="mainContent" alog-alias="mbox-main-content" monkey="mbox-main-content">
+        <div class="main-wrapper">
+            <div class="mb-layout-bd column1" id="leftCol">
+                <div class="leftbar-bottom-bg">
+                    <div class="leftbar-outer">
+                        <div class="leftbar">
+                            <div class="list list-temp" id="list_temp">
+                                <a  class="icon column1-icon list-temp-icon" hidefocus="true"></a>
+                                <a class="text">临时列表</a>
+                                <a  class="column1-icon listening-icon" hidefocus="true"></a>
+                            </div>
+                            <div class="local-views">
+                                
+                                <div class="list-item" id="local_artist_view">
+                                    <a class="text">歌手</a>
+                                    <a class="column1-icon listening-icon" hidefocus="true"></a>
+                                </div>
+                                <div class="list-item" id="local_album_view">
+                                    <a class="text">专辑</a>
+                                    <a class="column1-icon listening-icon" hidefocus="true"></a>
+                                </div>
+                            </div>
+                            <div class="list list-history" id="list_late">
+                                <a  class="icon column1-icon list-history-icon" hidefocus="true"></a>
+                                <a class="text">播放记录</a>
+                                <a  class="listening-icon" hidefocus="true"></a>
+                            </div>
+                            <div class="list list-most" id="list_often">
+                                <a  class="icon column1-icon list-most-icon" hidefocus="true"></a>
+                                <a class="text">我最常听</a>
+                                <a  class="column1-icon listening-icon" hidefocus="true"></a>
+                            </div>
+
+                            <div class="list-all">
+                                <div class="list-title">我的音乐</div>
+                                <div class="list list-favor" id="list_allfavor">
+                                    <a  class="icon column1-icon list-all-icon" hidefocus="true"></a>
+                                    <a class="text">我的收藏</a>
+                                    <a  class="column1-icon listening-icon" hidefocus="true"></a>
+                                </div>
+                                <ul class="mylist-wrapper logged-list">
+                                </ul>
+                                <div class="add-list logged-list" id="addList">
+                                    <input type="text" class='new-list-name' value="我的歌单"/>
+                                    <p class=""><span>+</span> 新建</p>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                
+                    <div class="playlist-length-cloud">
+                        <ul>
+                            <li>
+                                <div class="myspace-title">我的云空间</div>
+                                <div class="bar-outer">
+                                    <div class="bar-inner" style="width: 0%; overflow: hidden;"></div>
+                                </div>
+                            </li>
+                            <li>
+                                <p class="amount">
+                                    <strong><span class="amount">0</span>首</strong>/<span class="max">500</span>首
+                                </p>
+                                <p class="cloud-link">
+                                    <a class="cloud-manage" href="http://yinyueyun.baidu.com" target="_blank">管理</a>
+                                    <span class="separator"> | </span>
+                                    <a class="cloud-superspace" href="http://music.baidu.com/home/payment/cloud"
+                                       target="_blank">扩容</a>
+                                </p>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="m-client-product">
+                       <ul class="product-list">
+                           <li class="product-pc">
+                               <a href="http://qianqian.baidu.com/download/BaiduMusic-12345614.exe?pst=play" target="_blank"></a>
+                               <span class="product-list-split"></span>
+                           </li>
+                           <li class="product-android">
+                               <a href="http://music.baidu.com/cms/mobile/static/apk/BaiduMusic_yinyuehe.apk" target="_blank"></a>
+                               <span class="product-list-split"></span>
+                           </li>
+                           <li class="product-iphone">
+                               <a title="iphone">iphone</a>
+                           </li>
+                       </ul>
+                    </div>
+                </div>  
+
+            </div>
+
+            <div class="mb-layout-bd column3" id="lrcCol">
+                <div class="album-wrapper">
+                    <div class="album">
+                        <a  target="_blank">
+                            <img width="135" height="135" src="//mu9.bdstatic.com/player/t/i/48Q0pufo.jpg"/>
+                        </a>
+
+                        <div class="album-name">
+                            <a target="_blank"></a>
+                        </div>
+                    </div>
+
+                    <div class="split"></div>
+                </div>
+                <div class="lrc-wrapper" id="lrcWrap">
+                    <div class="no-lrc">
+                        <div></div>
+                        <span>该歌曲暂时没有歌词</span>
+                    </div>
+                </div>
+                <div class="link-wrapper">
+                    <div class="link-source" id="linkSource">
+                        来源:<a   ></a>
+                    </div>
+
+                    <div class="split2"></div>
+                    <div class="clipboard-wrapper">
+                        
+                        <a id="downloadLrc" class="clip-btn"  target="_blank">下载歌词</a>
+                        <a id="errorLrc" class="clip-btn">歌曲信息报错</a>
+                    </div>
+                </div>
+                <div class="ui-resizable" id="lrcResize">
+                    <div class="resizable-icon" id="widResize"></div>
+                </div>
+            </div>
+            <div class="mb-layout-bd column4"></div>
+            <div class="mb-layout-bd column2" onselectstart="return false;">
+                <div class="tab-main" id="tab">
+                    <div class="tab-header" id="tabHeader">
+                        <div class="back-btn" id="backBtn" title="返回"></div>
+                        <div class="text-hint" id="textHint">我的云音乐</div>
+                        <div class="tab-pointer"></div>
+                        <ul class="tab-nav">
+                            <li class="tab-button">
+                                <a href="#page-song" class="tab-nav-song"><span class="icon trans"></span>歌曲</a>
+                            </li>
+                            <li class="tab-button">
+                                <a href="#page-artist" class="tab-nav-artist"><span class="icon trans"></span>歌手</a>
+                            </li>
+                            <li class="tab-button no-border">
+                                <a href="#page-album" class="tab-nav-album"><span class="icon trans"></span>专辑</a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                    <div class="tab-content cfix">
+                        <div id="page-song" class="tab-page"></div>
+                        <div id="page-artist" class="tab-page">
+                            <div class="artist-view"></div>
+                            <div class="artist-detail">
+                                <div class="artist-info">
+                                    <div class="artist-cover cover-img artist-cover-hook">
+                                        <a  class="cover artist-link">
+                                            <img width="130" height="130" class="cover-image">
+                                        </a>
+                                    </div>
+                                    <div class="artist-name"><a class="artist-link"></a></div>
+                                    <div class="other-info">
+                                        <p class="birthday"></p>
+                                        <p class="area"></p>
+                                        <p class="single-song">单曲：<a class="num"></a>首</p>
+                                        <p class="album">专辑：<a class="num"></a>张</p>
+                                    </div>
+                                </div>
+                                <div class="song-list">
+                                    <div class="playlist-header">
+                                        <p>您已经云同步Ta<span class="num" id="artist-favor-num"></span>首歌曲</p>
+                                        <p class="float-right">Ta还有<span class="num" id="artist-total"></span>首歌曲，<a class="music-web-link">去看看&gt;&gt;</a></p>
+                                    </div>
+                                    <div class="artist-playlist" data-artistId="">
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="page-album" class="tab-page">
+                            <div class="album-view"></div>
+                            <div class="album-detail">
+                                <div class="album-info">
+                                    <div class="album-cover" >
+                                        <a class="cover album-link">
+                                            <img  width="200" height="200" class="album-image">
+                                        </a>
+                                        <div class="album-name-d">
+                                            <div class="bg"></div>
+                                            <div class="album-name-s"></div>
+                                            <div class="artistName"></div>
+                                        </div>
+                                    </div>
+                                    <div class="other-info">
+                                        <p class="publish-time"></p>
+                                        <p class="publish-company"></p>
+                                        <p class="music-style"></p>
+                                    </div>
+                                </div>
+                                <div class="song-list">
+                                    <div class="playlist-header">
+                                        <p>您已经云同步本专辑<span class="num" id="albumFavorNum"></span>首歌曲</p>
+                                        <p class="float-right">还有<span class="num" id="albumOtherNum"></span>首未同步，<a class="music-web-link">去看看&gt;&gt;</a></p>
+                                    </div>
+                                    <div class="album-playlist" data-albumId="">
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="floatBtn" class="floatBtn">
+                    <a  hidefocus="true" class="favor" title="云同步">&nbsp;</a>
+                    <a  hidefocus="true" class="add" title="添加到歌单">&nbsp;</a>
+                    <a  hidefocus="true" class="download" title="下载歌曲">&nbsp;</a>
+                    <a  hidefocus="true" class="delete" title="从列表中删除" style="display: none;">&nbsp;</a>
+                    <a  hidefocus="true" class="lossless" title="无损音乐下载" style="display: none;">&nbsp;</a>
+                </div>
+                <div id="myFooter" class="p-footer"></div>
+                <div id="artist-floatBtn" class="floatBtn">
+                    <a  hidefocus="true" class="favor" title="云同步">&nbsp;</a>
+                    <a  hidefocus="true" class="add" title="添加到歌单">&nbsp;</a>
+                    <a  hidefocus="true" class="download" title="下载歌曲">&nbsp;</a>
+                    <a  hidefocus="true" class="delete" title="从列表中删除" style="display: none;">&nbsp;</a>
+                </div>
+                <div id="artist-footer" class="p-footer"></div>
+                <div id="album-floatBtn" class="floatBtn">
+                    <a  hidefocus="true" class="favor" title="云同步">&nbsp;</a>
+                    <a  hidefocus="true" class="add" title="添加到歌单">&nbsp;</a>
+                    <a  hidefocus="true" class="download" title="下载歌曲">&nbsp;</a>
+                    <a  hidefocus="true" class="delete" title="从列表中删除" style="display: none;">&nbsp;</a>
+                </div>
+                <div id="album-footer" class="p-footer"></div>
+            </div>
+        </div>
+    </div>
+    <div class="mb-layout-hd" alog-alias="mbox-header" monkey="mbox-header">
+        <div class="top-banner">
+            <div class="logo-wrapper">
+                <div class="logo"></div>
+            </div>
+            <div id="searchBar">
+                <form action="http://music.baidu.com/search" method="get" target="_blank">
+                    <input type="text" accesskey="s" size="24" class="sug-input" autocomplete="off"
+                           name="key" placeholder="输入歌曲、歌手、专辑名" id="search-sug-input" />
+                    <input type="submit" id="search-sug-submit" value="">
+                </form>
+            </div>
+            <div id="userBar" class="user-bar">
+                <ul class="user-info user-logged" style="display:none;">
+                    <li class="myhome-li">
+                        <a class="myhome" title="">
+                            <span class="user-name"></span>
+                        </a>
+
+                        <div class="pop-opt">
+                            <a href="http://passport.baidu.com/#0,1" target="_blank">个人资料</a>
+                            <a  class="logout">退　　出</a>
+                        </div>
+                    </li>
+                    <li><a href="http://music.baidu.com/home/vip" target="_blank" class="vip-icon"> </a></li>
+                    <li class="separator">|</li>
+                    <li class="skin-web">
+                        <a><span class="skin-web-link"></span>换肤</a>
+                    </li>
+                    <li class="separator">|</li>
+                    <li class="feedback">
+                        <a href="http://qingting.baidu.com/index?pid=30" target="_blank">反馈</a>
+                    </li>
+                    <li class="separator">|</li>
+                    <li class="baidu-fm">
+                        <a class="fm-link" href="http://fm.baidu.com" target="_blank">百度随心听</a>
+                    </li>
+                    <li class="music-web">
+                        <a class="music-web-link" href="http://music.baidu.com" target="_blank">
+                            百度音乐首页
+                        </a>
+                    </li>
+                </ul>
+                <ul class="user-info user-unlogged">
+                    <li>
+                        <a  class="login">登录</a>
+                    </li>
+                    <li class="separator">|</li>
+                    <li>
+                    <a href="https://passport.baidu.com/v2/?reg&tpl=mp&u=http%3A%2F%2Fmusic.baidu.com%2F" target="_blank">注册</a>
+                    </li>
+                    <li class="separator">|</li>
+                    <li class="skin-web">
+                        <a><span class="skin-web-link"></span>换肤</a>
+                    </li>
+                    <li class="separator">|</li>
+                    <li class="feedback">
+                        <a href="http://qingting.baidu.com/index?pid=30" target="_blank">反馈</a>
+                    </li>
+                    <li class="separator">|</li>
+                    <li class="baidu-fm">
+                        <a class="fm-link" href="http://fm.baidu.com" target="_blank">百度随心听</a>
+                    </li>
+                    <li class="music-web">
+                        <a class="music-web-link" href="http://music.baidu.com/?pst=musichome_play" target="_blank">
+                            百度音乐首页
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <div class="mb-layout-ft minwidth" onselectstart="return false;" alog-alias="mbox-play-ctrl" monkey="mbox-play-ctrl">
+        <div class="panel" id="playPanel">
+            <div class="left-panel" id="leftPanel">
+                <ul class="play-btn">
+                    <li class="prev">
+                        <a class="" hidefocus="true" title="上一首[←]"></a>
+                    </li>
+                    <li class="play" title="暂停">
+                        <a class="" hidefocus="true" ></a>
+                    </li>
+                    <li class="next">
+                        <a class="" hidefocus="true" title="下一首[→]"></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="right-panel">
+                <ul class="playmod" id="playMode">
+                    <li class="random-mode">
+                        <a  hidefocus="true" title="随机播放"></a>
+                    </li>
+                    <li class="single-mode">
+                        <a hidefocus="true" title="单曲播放"></a>
+                    </li>
+                    <li class="list-mode">
+                        <a hidefocus="true"  title="循环播放"></a>
+                    </li>
+                </ul>
+                <div class="volume" id="volumeWrap">
+                    <a class="mute" hidefocus="true" title="静音"></a>
+
+                    <div class="vol-slider-wrapper">
+                        <div id="volSlider" class="vol-slider">
+                        </div>
+                    </div>
+                </div>
+                <div class="hq" id="hq">
+                    <div class="hq-switch" id="hqSwitch"><span class="hq-desc">音质设置</span></div>
+                    <div class="hq-switch-loading"></div>
+                </div>
+            </div>
+            <div class="main-panel">
+                <div class="title-wrapper" id="playTitle">
+                    <div class="title" >
+                        <a class="songname" target="_blank"></a>
+                        <span class="split">-</span>
+                        <a class="artist" target="_blank"></a>
+                    </div>
+                    <div class="curSong-hq" id="curSongHqIcon">
+                        <a hidefocus="true"></a>
+                    </div>
+                    <ul class="icons">
+
+                        <li class="favor"><a class="" hidefocus="true"></a></li>
+                        <li class="share"><a class="" hidefocus="true" title="分享"></a></li>
+                    </ul>
+                </div>
+                <div class="pane">
+                    <div class="time" id="timeWrap">
+                        <span class="curTime">00:00</span>
+                        <span class="split">/</span>
+                        <span class="totalTime">00:00</span>
+                    </div>
+                    <div class="progress-wrapper">
+                        <div id="progressSlider">
+                            <div class="ui-slider-left"></div>
+                            <div class="ui-slider-right"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <div id="naga_ads_panel">
+        
+        
+        </div>
+    </div>
+    <div id="submitError" class="lrc-error">
+        <div class="form-desc">请填写错误类型，帮助我们不断改进：</div>
+        <input type="checkbox" name="" id="lyricErr" class="item" value="音频错误"/><label for="lyricErr">音频错误</label>
+        <input type="checkbox" name="" id="slErr" class="item" value="歌词错误"/><label for="slErr">歌词错误</label>
+        <input type="checkbox" name="" id="otherErr" class="item" value="其他错误"/><label for="otherErr">其他错误</label>
+        <input type="text" name="errorDesc" class="errorDesc"/>
+    </div>
+    <ul id="switch" class="hq-list">
+        <li class="header">优先播放</li>
+        <li data-value="0" class="item select"><a class="hq-check"></a><span>普通音质模式</span></li>
+        <li data-value="1" class="item"><a class="hq-check"></a><span>超高音质模式</span><span class="hq-mode-1"></span><a class="vip-icon vip"></a></li>
+        <li data-value="2" class="item"><a class="hq-check"></a><span>超高音质（音效增强）模式</span> <span class="hq-mode-2"></span><a class="vip-icon vip"></a></li>
+        <li class="link-pc-native" id="pc-native-ad"><a href="http://qianqian.baidu.com/download/BaiduMusic-12345624.exe?pst=play">百度音乐PC版，高品质、无损免费体验</a></li>
+    </ul>
+    <div id="hqTip" class="hq-tip">
+        <div class="hq-tip-title">尊敬的用户：
+            <div class="tip-close-btn"></div>
+            <div class="split"></div>
+        </div>
+        <div class="hq-tip-content"></div>
+        <div class="hq-tip-icon"></div>
+    </div>
+    <div class="download-2rcode">
+        <p>扫描下方的二维码立即安装，好音乐无处不在</p>
+        <p><img class="codeimg" src="http://mu8.bdstatic.com/player/t/i/cfzMyq0l.png"/></p>
+        <p>手机访问music.baidu.com更快捷</p>
+        <div class="bottom-corner"></div>
+        <a class="tworcode-close-btn" title="关闭">关闭</a>
+    </div>
+
+
+<script type="text/javascript">
+    
+    var mbox = mbox || { };
+        mbox.userInfo = null;
+            mbox.isForeign = "";
+        mbox.listInfo = [
+            ];
+
+    mbox.favorIds = {
+        data : {
+            "total"   :  0 ,
+            "quota"   :  0 ,
+            "songList" : []
+        }
+    };
+
+    window.hitData = '';
+        mbox.verTag = 'naga_201309241133';
+    window.useSkin = '';
+        
+    function LOG() { }
+</script>
+
+    <script type="text/javascript" src="//mu8.bdstatic.com/player/t/j/R3yDrqR3.js"></script>
+
+    <script type="text/javascript" src="//mu9.bdstatic.com/player/t/j/k74upXMI.js"></script>
+    <script type="text/javascript" src="//mu8.bdstatic.com/player/t/j/2cPQ7uQR.js"></script>
+    <script type="text/javascript" src="//mu9.bdstatic.com/player/t/j/Od1znGTf.js"></script>
+    <script type="text/javascript" src="//mu9.bdstatic.com/player/t/j/eOJJNFDA.js"></script>
+
+
+    <script type="text/javascript">
+        var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+        document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F2b0f0945031c52df2a103f3ed5d7c3aa' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    
+    <script type="text/javascript">
+        var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+        document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd0ad46e4afeacf34cd12de4c9b553aa6' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        var pageId = "naga_player";
+        document.write(unescape("%3Cscript src='" + _bdhmProtocol + "img.baidu.com/hunter/musicmonkey.min.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+</body>
+</html>

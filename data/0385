@@ -1,0 +1,17 @@
+<html>
+
+<head>
+
+
+</head>
+
+<body>
+<script>if(/hao123/.test(document.referrer)){
+		location.href='http://www.cntv.cn/?t=hao123_index';
+	}else{
+		location.href='http://www.cntv.cn/';
+	}
+</script>
+</body>
+
+</html>

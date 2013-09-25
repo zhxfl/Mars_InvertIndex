@@ -1,0 +1,2303 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	招商银行 -- 一网通主页
+</title>
+
+	<script language="javascript" type="text/javascript" src="../Scripts/NetBank.js"></script>
+
+	<script language="javascript" type="text/javascript" src="../Scripts/Common.js"></script>
+    <link rel="Shortcut Icon" href="cmb.ico" /><link rel="Bookmark" href="cmb.ico" /><link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png" /><link href="Styles/Common.css" rel="stylesheet" type="text/css" /><link href="Styles/header.css" rel="stylesheet" type="text/css" /><link href="Styles/footer.css" rel="stylesheet" type="text/css" />
+
+<meta name="keywords" content="招商银行, 招行,招商银行官方网站,招商银行官网, China Merchants Bank, CMB, 一网通, 网上银行, 电话银行, 手机银行, 手机网站, 手机一网通, 掌上银行, 一卡通, 信用卡, 金葵花卡, 财富账户, 储蓄, 贷款, 汇款, 客户服务, 证券, 基金, 外汇, 商城, 房城, 理财, 黄金, 社区, 企业银行, 资产托管, 企业年金, 招行新闻, 招行公告, 营业网点, 酒店预订, 机票预订, 利率, 人才招聘,@CMBOK@" /><meta name="description" content="招商银行, 招行,招商银行官方网站,招商银行官网, China Merchants Bank, CMB, 一网通, 网上银行, 电话银行, 手机银行, 手机网站, 手机一网通, 掌上银行, 一卡通, 信用卡, 金葵花卡, 财富账户, 储蓄, 贷款, 汇款, 客户服务, 证券, 基金, 外汇, 商城, 房城, 理财, 黄金, 社区, 企业银行, 资产托管, 企业年金, 招行新闻, 招行公告, 营业网点, 酒店预订, 机票预订, 利率, 人才招聘,@CMBOK@" /><meta name="status-check" content="@CMBOK@" /></head>
+<body>
+	<form name="aspnetForm" method="post" action="Default.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODI2MzQxNzYyZGSpCSBe3YYppMm1FmFdK0uEf3C93g==" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWKgL7ydn7CwKPwLv+AgLHj5tmArCeu60DAq+eu60DAq+j+/sLArCew6oDAqrkn9wLAvexs7gKApnZuY4HAtGc47IDAsePn2kCsJ7TpgMC0ZzLqAMC0ZzTpgMCsJ7LqAMC0Zy7rQMCpJ3LqAMCxZu7rQMCr57jsgMC+O6PiwoCz+Gb3QsCmJKZiQECytHrmgsCneyrkAoCzJ/HrQMC2+2bhAoC85SVigECytHzmAsC1seJzwQCq5/TpgMCpdT3mwsCxZvjsgMCttqtlQcClLOjvAoCytGToAsCneyDigoCmdmpkgcCq5/LqAMCq5/DqgMCxZvTpgMCr57LqAPjjxBofg+SKbekzASsoND7+44B7g==" />
+</div>
+<script type="text/javascript">
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+	if(window.location.href.indexOf("?from=mweb")<0){		try{
+			if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
+				window.location.href="http://m.cmbchina.com/";
+			}else if(/iPad/i.test(navigator.userAgent)){
+			}else{
+				window.location.href="http://m.cmbchina.com/"
+			}
+		}catch(e){}
+	}
+}
+</script>
+	
+<div id="top_bar">
+    <table cellspacing="0" align="center" class="FrameTable" style="line-height: 32px;">
+        <tr>
+            <td width="25">
+            </td>
+            <td width="60" align="center" id="tdf_1" style="display:none">
+                <a href="javascript:toGB2312()" cname="顶部导航" oname="简体中文" otype="文字链接">简体中文</a>
+            </td>
+               <td class="version_left"  id="tdf_2" style="display:none">
+            </td>
+            <td class="version_bg" width="49"  id="tdf_3" style="display:none">
+                                <a href="javascript:toBig5()" cname="顶部导航" oname="繁体中文" otype="文字链接">繁体中文</a>
+            </td>
+            <td class="version_right"  id="tdf_4" style="display:none">
+            </td>
+
+            <td class="version_left"  id="tdj_1">
+            </td>
+            <td class="version_bg" width="49"   id="tdj_2">
+                <a href="javascript:toGB2312()" cname="顶部导航" oname="简体中文" otype="文字链接">简体中文</a>
+            </td>
+            <td class="version_right"   id="tdj_3">
+            </td>
+            <td width="60" align="center"  id="tdj_4">
+                <a href="javascript:toBig5()" cname="顶部导航" oname="繁体中文" otype="文字链接">繁体中文</a>
+            </td>
+            
+            <td width="60" align="center">
+                <fjtignoreurl><a href="http://english.cmbchina.com" target="_blank" cname="顶部导航" oname="English" otype="文字链接">English</a></fjtignoreurl>
+            </td>
+            <td width="200">
+            </td>
+            <td align="right">
+                <div id="common_navlink">
+                    <ul>
+                        <li><a href="http://www.cmbchina.com/MBankWeb/Site/" target="_blank" cname="顶部导航"
+                            oname="手机一网通" otype="文字链接">手机一网通</a></li>
+                        <li>|</li>
+                        <li><a href="http://branch.cmbchina.com/" target="_blank" cname="顶部导航" oname="分行网站"
+                            otype="文字链接">分行网站</a></li>
+                        <li>|</li>
+                        <li><a href="http://career.cmbchina.com/" target="_blank" cname="顶部导航" oname="人才招聘"
+                            otype="文字链接">人才招聘</a></li>
+                        <li>|</li>
+                        <li><a href="http://map.cmbchina.com" target="_blank" cname="顶部导航" oname="服务网点" otype="文字链接">
+                            服务网点</a></li>
+                        <li>|</li>
+                        <li><a href="javascript:fLoginICS();" cname="顶部导航" oname="在线客服" otype="文字链接">在线客服</a></li>
+                        <li>|</li>
+                    </ul>
+                </div>
+            </td>
+            <td width="65">
+                <a href="/About/SiteMap.aspx" id="maplink" class="map_link" onmouseover="showNavList(this)"
+                    onmouseout="hideNavList()" cname="顶部导航" oname="网站导航" otype="文字链接">网站导航<span style="line-height: 20px;
+                        height: 20px;"><img src="../../images/arrow_01.gif" width="8" height="4" border="0"
+                            align="middle" /></span></a>
+            </td>
+        </tr>
+    </table>
+</div>
+<div id="divNavList" onmouseover="this.style.display='block'; document.getElementById('maplink').className = 'map_link_focus';"
+    onmouseout="this.style.display='none'; document.getElementById('maplink').className = 'map_link';">
+    <P><FONT color=#ff0000><STRONG><FONT color=#000000>投资理财：</FONT></STRONG><BR></FONT><A href="http://fund.cmbchina.com/" target=_blank>基金</A> <A href="http://fx.cmbchina.com/" target=_blank>外汇</A> <A href="http://gold.cmbchina.com/" target=_blank>黄金</A> <A href="http://info.cmbchina.com/" target=_blank>证券</A><BR><A href="http://cmbchina.cigna-cmc.com/" target=_blank>保险</A> <A href="http://www.cmbchina.com/cfweb" target=_blank>理财产品</A> <A href="http://info.cmbchina.com/bond" target=_blank>债券<STRONG><FONT color=#ff0000></FONT></STRONG></A></P>
+<P><STRONG>分支机构：</STRONG><BR><A href="http://www.winglungbank.com/wlbchannel.html" target=_blank>永隆银行</A>&nbsp; <A href="http://ny.cmbchina.com" target=_blank>纽约分行</A>&nbsp; <A href="http://hk.cmbchina.com" target=_blank>香港分行</A><BR><A href="http://branch.cmbchina.com/0010.htm" target=_blank>北京分行</A>&nbsp; <A href="http://branch.cmbchina.com/0021.htm" target=_blank>上海分行</A>&nbsp; <A href="http://branch.cmbchina.com/0020.htm" target=_blank>广州分行</A></P>
+<P><STRONG><FONT color=#000000>快捷通道：<BR></FONT></STRONG><A href="javascript:fLoginICS();">在线客服</A> <A href="http://i.cmbchina.com/" target=_blank>I理财</A> <A href="http://forum.cmbchina.com/" target=_blank>社区</A> <A href="http://ccclub.cmbchina.com/" target=_blank>信用卡商城</A><BR><A href="http://shop.cmbchina.com/CellTelephone/Default.aspx" target=_blank>手机充值</A> <A href="http://trip.cmbchina.com/" target=_blank>机票预订</A>&nbsp;&nbsp;<A href="http://95555.cmbchina.com" target=_blank>远程银行</A>&nbsp; <BR><A href="http://shop.cmbchina.com" target=_blank>商城</A>&nbsp;&nbsp; <A href="http://www.cmbchina.com/corporate/custody/" target=_blank>托管银行</A> <A href="http://pension.cmbchina.com/" target=_blank>企业年金</A></P>
+<P><STRONG><A href="/About/sitemap.aspx" target=_blank><FONT color=#000000>更多内容&gt;&gt;</FONT></A></STRONG></P>
+</div>
+
+<script language="javascript">
+
+
+      if(window.location.href.indexOf("big5.cmbchina.com") != -1)
+      {
+         for(var i = 1; i<= 4; i++)
+         {
+            document.getElementById("tdj_"+i).style.display = "none";
+            document.getElementById("tdf_"+i).style.display = "";
+         }
+      }
+     
+	if (top.location != self.location) {
+		var topWeb = document.referrer;
+		if (topWeb.indexOf(".cmbchina.com") == -1) {
+			top.location = self.location;
+		}
+	}
+
+	function showNavList(element) {
+		var obj = document.getElementById("divNavList");
+		obj.style.display = 'block';
+		var offsetTop = element.offsetTop;
+		var offsetLeft = element.offsetLeft;
+		var offsetWidth = element.offsetWidth;
+		var offsetHeight = element.offsetHeight;
+		while (element = element.offsetParent) {
+			offsetTop += element.offsetTop;
+			offsetLeft += element.offsetLeft;
+		}
+		obj.style.left = (offsetLeft - 147) + "px";
+		obj.style.top = offsetTop + 20 + "px";
+		document.getElementById("maplink").className = "map_link_focus";
+	}
+
+	function hideNavList() {
+		var obj = document.getElementById("divNavList");
+		obj.style.display = 'none';
+		document.getElementById("maplink").className = "map_link";
+	}
+
+	function toGB2312() {
+		var curUrl = window.location.href;
+		var gb2312Url = curUrl.replace("big5.cmbchina.com/gate/big5/", "");
+		window.location.href = gb2312Url;
+	}
+
+	function toBig5() {
+		var curUrl = window.location.href;
+		var big5Url = "http://big5.cmbchina.com/gate/big5/" + curUrl.replace("http://", "");
+		window.open(big5Url);
+	}
+
+	document.onkeypress = function(evt) {
+		var isie = (document.all) ? true : false; //判断是IE内核还是Mozilla
+		var key;
+		if (isie) {
+			key = window.event.keyCode;
+			if (key == 13) {
+				window.event.returnValue = false;
+				document.getElementById("btn_search").click();
+			}
+		}
+		else {
+			key = evt.which;
+			if (key == 13) {
+				evt.preventDefault();
+				document.getElementById("btn_search").click();
+			}
+		}
+	}
+//    var curDomain = location.hostname;
+//     if (curDomain.indexOf(".cmbchina.com") == -1) {
+//      location.href = "http://www.cmbchina.com";
+//     }
+
+</script>
+
+
+	
+
+<script src="/Scripts/cmbsearch.js" type="text/javascript" charset="gb2312"></script>
+<table cellspacing="0" align="center" class="FrameTable">
+    <tr>
+        <td>
+            <a href="http://www.cmbchina.com" class=mainlogo></a>
+        <a href="http://www.cmbchina.com" class=mainlogo1></a>  
+        </td>
+        <td>
+            <div class="mainsearch">
+                <input id="SearchWord" value="请输入关键字. . ." onfocus="this.style.color='black';
+	                if (this.value == '请输入关键字. . .' ) {
+	                this.value='';
+	                }" onblur="this.style.color = '#666';
+	                if ( this.value =='' ){
+	                this.value = '请输入关键字. . .';
+	                }" name="SearchWord" />
+                <div style="float: left;">
+                    <input id="btn_search" name="btn_search" type="button" onclick="CmbSearch(document.getElementById('SearchWord').value, 'www')"  cname="搜索" oname="搜索按钮" otype="按钮链接" /></div>
+            </div>
+        </td>
+    </tr>
+</table>
+
+
+
+	
+
+<script type="text/javascript">
+    var tabIndex;
+
+    function SelectMenu(index) {
+ 
+        for (i = 1; i <= 6; i++) 
+        {
+            if (i == index)
+                continue;
+            if (document.getElementById("sub_menu_" + i) && document.getElementById("sub_menu_" + i).style.display != "none")
+                document.getElementById("sub_menu_" + i).style.display = "none";
+                
+            if(i == tabIndex)
+                continue;
+                
+            if (document.getElementById("menu_" + i) && document.getElementById("menu_" + i).className != "mainmenu")
+                document.getElementById("menu_" + i).className = "mainmenu";
+         }
+
+        if (document.getElementById("sub_menu_" + index) && document.getElementById("sub_menu_" + index).style.display != "block")
+            document.getElementById("sub_menu_" + index).style.display = "block";
+        else if(tabIndex == 0) 
+            document.getElementById("sub_menu_1").style.display = "block";
+            
+        if (document.getElementById("menu_" + index) && document.getElementById("menu_" + index).className != "CurMenu") {
+            document.getElementById("menu_" + index).className = "CurMenu";
+        }
+    }
+    
+    function HideAllMenu() 
+    {
+        for (i = 1; i <= 6; i++) {
+            if (i == tabIndex)
+                continue;
+            if (document.getElementById("sub_menu_" + i) && document.getElementById("sub_menu_" + i).style.display == "block")
+                document.getElementById("sub_menu_" + i).style.display = "none";
+            if (document.getElementById("menu_" + i) && document.getElementById("menu_" + i).className != "mainmenu")
+                document.getElementById("menu_" + i).className = "mainmenu";
+        }
+         if (document.getElementById("sub_menu_" + tabIndex))
+            document.getElementById("sub_menu_" + tabIndex).style.display = "block";
+         else
+            document.getElementById("sub_menu_1").style.display = "block";
+        
+          if (document.getElementById("menu_" + tabIndex) && document.getElementById("menu_" + tabIndex).className != "CurMenu") 
+            document.getElementById("menu_" + tabIndex).className = "CurMenu";
+    }
+      
+    function HideMenu(e, subMenuElementID)
+    {
+        if(!isMouseToSubMenu(e, subMenuElementID))
+        HideAllMenu();
+    } 
+    
+    function HideSubMenu(e, handler)
+    {
+        if(isMouseLeaveOrEnter(e, handler))
+        {
+        HideAllMenu();
+        }
+    } 
+    
+
+    function isMouseLeaveOrEnter(e, handler)
+    {
+      if (e.type != 'mouseout' && e.type != 'mouseover') return false;
+       var reltg = e.relatedTarget ? e.relatedTarget : e.type == 'mouseout' ? e.toElement : e.fromElement;
+       while (reltg && reltg != handler)
+                 reltg = reltg.parentNode;
+       return (reltg != handler);
+    }
+
+    function isMouseToSubMenu(e, subMenuElementID)
+    {
+     if (e.type != 'mouseout')
+        return false;
+     var reltg = e.relatedTarget ? e.relatedTarget : e.toElement;
+     while(reltg && reltg.id != subMenuElementID)
+        reltg = reltg.parentNode;
+       
+      return reltg;
+    }
+
+</script>
+
+
+    <div class="FrameTable">
+        <div class="menubg">
+            <div class="main_menu">
+                <ul>
+                    <li class="MenuLeftspace">&nbsp;</li>
+                    
+                    <li class="MenuLi"><a href="/" class="CurMenu" onmouseover="SelectMenu(1);" cname="主菜单导航" oname="主 页" otype="文字链接">主 页</a></li>
+
+                    <script>                        tabIndex = 1;</script>
+
+                    
+                    <li>
+                        <div class="mainMenu_Spacer">
+                        </div>
+                    </li>
+                    
+                    <li class="MenuLi" onmouseout="HideMenu(event, 'subMenuItems')" onmouseover="SelectMenu(2)"><a class="mainmenu" href="/personal"  id="menu_2" cname="主菜单导航" oname="个人业务" otype="文字链接">个人业务</a></li>
+                    
+                    <li>
+                        <div class="mainMenu_Spacer">
+                        </div>
+                    </li>
+                    
+                    <li class="MenuLi" onmouseout="HideMenu(event, 'subMenuItems')" onmouseover="SelectMenu(3)"><a class="mainmenu" href="/corporate" id="menu_3" cname="主菜单导航" oname="公司业务" otype="文字链接">公司业务</a></li>
+                    
+                    <li>
+                        <div class="mainMenu_Spacer">
+                        </div>
+                    </li>
+                    
+                    <li class="MenuLi" onmouseout="HideMenu(event, 'subMenuItems')" onmouseover="SelectMenu(6)"><a class="mainmenu" href="/corporate/sme" id="menu_6" cname="主菜单导航" oname="小企业" otype="文字链接">小企业</a></li>
+                    
+                    <li>
+                        <div class="mainMenu_Spacer">
+                        </div>
+                    </li>
+                    <li class="MenuLi" onmouseout="HideMenu(event, 'subMenuItems')" onmouseover="SelectMenu(4)"><a class="mainmenu" href="http://cc.cmbchina.com" id="menu_4" target="_blank" cname="主菜单导航" oname="信用卡" otype="文字链接">信用卡</a></li>
+                    <li>
+                        <div class="mainMenu_Spacer">
+                        </div>
+                    </li>
+                      <li class="MenuLi"><a class="mainmenu" href="http://i.cmbchina.com" target="_blank" cname="主菜单导航" oname="i理财" otype="文字链接">i理财</a></li>
+                    <li>
+                        <div class="mainMenu_Spacer">
+                        </div>
+                        </li>
+                      <li class="MenuLi"><a class="mainmenu" href="http://trip.cmbchina.com" target="_blank" cname="主菜单导航" oname="商旅预订" otype="文字链接">商旅预订</a></li>
+                    <li>
+                        <div class="mainMenu_Spacer">
+                        </div>
+                    
+                    <li class="MenuLi" onmouseout="HideMenu(event, 'subMenuItems')" onmouseover="SelectMenu(5)"><a class="mainmenu" href="/cmbinfo" id="menu_5" cname="主菜单导航" oname="今日招行" otype="文字链接">今日招行</a></li>
+                    
+
+                    
+
+                  
+                    <li></li>
+                </ul>
+            </div>
+            <div class="main_online">
+                <a href="../../CustomerService/Default.aspx" target="_blank">
+                    <img src="/images/main_95555.gif" border="0" /></a></div>
+        </div>
+        <div class="submenubg" id="subMenuItems" onmouseout="HideSubMenu(event, this)">
+            <div class="sub_menu" id="sub_menu_1">
+                
+<ul>
+	<li>
+		<p class="submenu_title">
+			热点频道：</p>
+	</li>
+	<li><a href="/personal/sunflower" class="submenu" cname="热点频道" oname="金葵花理财" otype="文字链接">金葵花理财</a> |</li>
+	<li><a href="/privatebank" class="submenu" cname="热点频道" oname="私人银行" otype="文字链接">私人银行</a> |</li>
+	<li><a href="/personal/credit" class="submenu" cname="热点频道" oname="个人贷款" otype="文字链接">个人贷款</a> |</li>
+	<li><a href="/personal/cgjr" class="submenu" cname="热点频道" oname="出国金融" otype="文字链接">出国金融</a> |</li>	
+	<li><a href="/corporate/cashmanagement" class="submenu" cname="热点频道" oname="现金管理" otype="文字链接">现金管理</a> |</li>	
+	<li><a href="http://95555.cmbchina.com" target="_blank" class="submenu" cname="热点频道" oname="空中银行" otype="文字链接">空中银行</a> |</li>
+
+	<li><a href="http://vip.cmbchina.com" target="_blank" class="submenu" cname="热点频道" oname="财智生活网" otype="文字链接">财智生活网</a> |</li>
+	<li><a href="http://www.vipchina.com/" target="_blank" class="submenu" cname="热点频道" oname="VIP尊享" otype="文字链接">VIP尊享</a> |</li>
+	<!--<li><a href="/cmbinfo/brand/" target="_blank" class="submenu">品牌活动</a> |</li>-->
+	<li><a href="/cmbir/" target="_blank" class="submenu" cname="热点频道" oname="投资者关系" otype="文字链接">投资者关系</a> |</li>			   	
+	<li><a href="http://branch.cmbchina.com" target="_blank" class="submenu" cname="热点频道" oname="分行网站" otype="文字链接">分行网站</a> |</li>		
+	<li><a href="http://forum.cmbchina.com/" target="_blank" class="submenu" cname="热点频道" oname="社区" otype="文字链接">社区</a> |</li>	
+	<li><a href="http://t.sina.com.cn/cmbchina" target="_blank" class="submenu" cname="热点频道" oname="微博" otype="文字链接">微博</a></li>	
+</ul>
+
+            </div>
+            <div class="sub_menu" id="sub_menu_2" style="display: none">
+                
+<ul>
+	
+	<li>
+		<a href="/personal/sunflower" class="submenu" cname="个人业务二级导航" oname="金葵花理财" otype="文字链接">金葵花理财</a> |</li>
+	<li>
+		<a href="/privatebank" class="submenu" cname="个人业务二级导航" oname="私人银行" otype="文字链接">私人银行</a> |</li>
+	<li>
+		<a href="/personal/cgjr" class="submenu" cname="个人业务二级导航" oname="出国金融" otype="文字链接">出国金融</a> |</li>
+	 <li>
+		<a href="/personal/credit" class="submenu" cname="个人业务二级导航" oname="个人贷款" otype="文字链接">个人贷款</a> |</li>
+	<li><a href="http://95555.cmbchina.com" target="_blank" class="submenu" cname="个人业务二级导航" oname="空中银行" otype="文字链接">空中银行</a> |</li>
+	<li>
+		<a href="/personal/allinonecard" class="submenu" cname="个人业务二级导航" oname="一卡通" otype="文字链接">一卡通</a> |</li>
+	 	<li>
+	 	<a href="/personal/WealthAccount" class="submenu" cname="个人业务二级导航" oname="财富账户" otype="文字链接">财富账户</a> |</li>
+	<li>
+		<a href="/personal/LifeChoice" class="submenu" cname="个人业务二级导航" oname="伙伴一生" otype="文字链接">伙伴一生</a> |</li>
+	<li>
+		<a href="/personal/ebank" class="submenu" cname="个人业务二级导航" oname="电子银行" otype="文字链接">电子银行</a> |</li>
+	<li>
+		<a href="/personal/living" class="submenu" cname="个人业务二级导航" oname="居家生活" otype="文字链接">居家生活</a> |</li>
+	<li>
+		<a href="/personal/saving" class="submenu" cname="个人业务二级导航" oname="储蓄业务" otype="文字链接">储蓄业务</a> |</li>
+	<li>
+		<a href="/personal/invest" class="submenu" cname="个人业务二级导航" oname="投资理财" otype="文字链接">投资理财</a> |</li>
+	<li>
+		<a href="/personal/netbank" class="submenu" cname="个人业务二级导航" oname="网上个人银行" otype="文字链接">网上个人银行</a>
+		</li>
+</ul>
+
+            </div>
+            <div class="sub_menu" id="sub_menu_3" style="display: none">
+                
+<ul>
+    <li>
+        <p class="submenu_title">
+            &nbsp;</p>
+    </li>
+  
+    <li>
+        <a href="/corporate/cashmanagement" class="submenu" cname="公司业务二级导航" oname="现金管理" otype="文字链接">现金管理</a> |</li>
+    <li>
+        <a href="/corporate/domestic" class="submenu" cname="公司业务二级导航" oname="国内业务" otype="文字链接">国内业务</a> |</li>
+    <li>
+        <a href="/corporate/international" class="submenu" cname="公司业务二级导航" oname="国际业务" otype="文字链接">国际业务</a> |</li>
+    <li>
+        <a href="/corporate/investment" class="submenu" cname="公司业务二级导航" oname="投资银行" otype="文字链接">投资银行</a> |</li>
+    <li>
+        <a href="/corporate/offshore" class="submenu" cname="公司业务二级导航" oname="离岸业务" otype="文字链接">离岸业务</a> |</li>
+    <li>
+<a href="http://www.cmbchina.com/corporate/custody"  class="submenu" cname="公司业务二级导航" oname="资产托管" otype="文字链接">资产托管</a> |</li>
+    <li>
+     <a href="/corporate/pension" class="submenu" cname="公司业务二级导航" oname="养老金金融" otype="文字链接">养老金金融</a> |</li>
+    <li><a href="/cfweb/corporate/"  class="submenu" target="_blank"  cname="公司业务二级导航" oname="公司理财" otype="文字链接">公司理财</a> |</li>
+    <li><a href="http://www.cmb-leasing.com/" target="_blank" class="submenu" cname="公司业务二级导航" oname="融资租赁" otype="文字链接">融资租赁</a> |</li>
+    <li>
+        <a href="/corporate/financial" class="submenu" cname="公司业务二级导航" oname="同业金融" otype="文字链接">同业金融</a> |</li>
+        <li>
+        <a href="/corporate/firmbank" class="submenu" cname="公司业务二级导航" oname="网上企业银行" otype="文字链接">网上企业银行</a></li>
+</ul>
+
+            </div>
+            <div class="sub_menu" id="sub_menu_4" style="display: none">
+                <ul>
+                    <li>
+                        <p class="submenu_title">
+                            &nbsp;</p>
+                    </li>
+                    <li><a href="http://cc.cmbchina.com/"
+                        target="_blank" class="submenu" cname="主菜单二级导航-信用卡" oname="信用卡首页" otype="文字链接">信用卡首页</a> |</li>
+                    <li><a href="http://cc.cmbchina.com/cusservice/" target="_blank"
+                        class="submenu" cname="主菜单二级导航-信用卡" oname="客户服务" otype="文字链接">客户服务</a> |</li>
+                    <li><a href="http://ccclub.cmbchina.com/ccproduct/newcustomer.aspx?WT.mc_id=N379101201012150" target="_blank" class="submenu" cname="主菜单二级导航-信用卡" oname="信用卡在线申请" otype="文字链接">
+                        信用卡在线申请</a> |</li>
+                    <li><a href="http://cc.cmbchina.com/Promotion/" target="_blank" class="submenu" cname="主菜单二级导航-信用卡" oname="特惠快讯" otype="文字链接">
+                        特惠快讯</a> |</li>
+                    <li><a href="http://ccclub.cmbchina.com/ccclubnew/Default.aspx" target="_blank" class="submenu" cname="主菜单二级导航-信用卡" oname="积分计划" otype="文字链接">积分计划</a> |</li>
+                    <li><a href="http://best.cmbchina.com/" target="_blank" class="submenu" cname="主菜单二级导航-信用卡" oname="优惠商户" otype="文字链接">优惠商户</a> |</li>
+                    <li><a href="http://cc.cmbchina.com/StepShop/" target="_blank"
+                        class="submenu" cname="主菜单二级导航-信用卡" oname="分期付款购物" otype="文字链接">分期付款购物</a> |</li>
+                    <li><a href="http://cc.cmbchina.com/financing/" target="_blank" class="submenu" cname="主菜单二级导航-信用卡" oname="信贷理财" otype="文字链接">
+                        信贷理财</a> |</li>
+                    <li><a href="http://ccclub.cmbchina.com/ccclubnew/PointCategory.aspx?categoryId=2583" target="_blank" class="submenu" cname="主菜单二级导航-信用卡" oname="信用卡商城" otype="文字链接">二维码兑换</a> |</li>
+                    <li><a href="http://trip.cmbchina.com/" target="_blank" class="submenu" cname="主菜单二级导航-信用卡" oname="商旅预订" otype="文字链接">商旅预订</a></li>
+                </ul>
+            </div>
+            <div class="sub_menu" id="sub_menu_5" style="display: none">
+                
+<ul>
+    <li>
+        <p class="submenu_title">
+            &nbsp;</p>
+    </li>
+    <li>
+        <a href="/cmbinfo/aboutcmb/" class="submenu" cname="今日招行二级导航" oname="招行介绍" otype="文字链接">招行介绍</a> |</li>
+    <li>
+        <a href="/cmbinfo/news/" class="submenu" cname="今日招行二级导航--cmbinfo" oname="招行新闻" otype="文字链接">招行新闻</a> |</li>
+    <li><a href="/cmbir" target="_blank" class="submenu" cname="今日招行二级导航--cmbinfo" oname="投资者关系" otype="文字链接">投资者关系</a> |</li>
+            <li>
+        <a href="/cmbinfo/brand/" class="submenu" cname="今日招行二级导航--cmbinfo" oname="品牌活动" otype="文字链接">品牌活动</a> |</li>
+    
+    <li>
+        <a href="/cmbinfo/awards/" class="submenu" cname="今日招行二级导航--cmbinfo" oname="荣誉榜" otype="文字链接">荣誉榜</a> |</li>
+    <li><a href="http://career.cmbchina.com" target="_blank" class="submenu" cname="今日招行二级导航--cmbinfo" oname="人才招聘" otype="文字链接">人才招聘</a> |</li>
+    <li><a href="http://purchase.cmbchina.com/portal/" target="_blank" class="submenu" cname="今日招行二级导航--cmbinfo" oname="采购平台" otype="文字链接">采购平台</a>
+        |</li>
+    <li><a href="/cmbir/ProductInfo.aspx?type=info&id=CSR" class="submenu" cname="今日招行二级导航--cmbinfo" oname="企业社会责任" otype="文字链接">企业社会责任</a> |</li>
+    <li>
+        <a href="/cmbinfo/finremark/" class="submenu" cname="今日招行二级导航--cmbinfo" oname="金融市场评论" otype="文字链接">金融市场评论</a> |</li>
+    <li>
+        <a href="/assetdisposal" class="submenu" cname="今日招行二级导航--cmbinfo" oname="资产处置" otype="文字链接">资产处置</a> |</li>
+    <li><a href="http://vip.cmbchina.com/" target="_blank" class="submenu">
+        财智生活</a> </li>
+</ul>
+
+            </div>
+            <div class="sub_menu" id="sub_menu_6" style="display: none">
+            
+<ul>
+    <li>
+        <p class="submenu_title">
+            &nbsp;</p>
+    </li>
+  
+    <li>
+        <a href="/corporate/cashmanagement" class="submenu" cname="公司业务二级导航" oname="现金管理" otype="文字链接">现金管理</a> |</li>
+    <li>
+        <a href="/corporate/domestic" class="submenu" cname="公司业务二级导航" oname="国内业务" otype="文字链接">国内业务</a> |</li>
+    <li>
+        <a href="/corporate/international" class="submenu" cname="公司业务二级导航" oname="国际业务" otype="文字链接">国际业务</a> |</li>
+    <li>
+        <a href="/corporate/investment" class="submenu" cname="公司业务二级导航" oname="投资银行" otype="文字链接">投资银行</a> |</li>
+    <li>
+        <a href="/corporate/offshore" class="submenu" cname="公司业务二级导航" oname="离岸业务" otype="文字链接">离岸业务</a> |</li>
+    <li>
+<a href="http://www.cmbchina.com/corporate/custody"  class="submenu" cname="公司业务二级导航" oname="资产托管" otype="文字链接">资产托管</a> |</li>
+    <li>
+     <a href="/corporate/pension" class="submenu" cname="公司业务二级导航" oname="养老金金融" otype="文字链接">养老金金融</a> |</li>
+    <li><a href="/cfweb/corporate/"  class="submenu" target="_blank"  cname="公司业务二级导航" oname="公司理财" otype="文字链接">公司理财</a> |</li>
+    <li><a href="http://www.cmb-leasing.com/" target="_blank" class="submenu" cname="公司业务二级导航" oname="融资租赁" otype="文字链接">融资租赁</a> |</li>
+    <li>
+        <a href="/corporate/financial" class="submenu" cname="公司业务二级导航" oname="同业金融" otype="文字链接">同业金融</a> |</li>
+        <li>
+        <a href="/corporate/firmbank" class="submenu" cname="公司业务二级导航" oname="网上企业银行" otype="文字链接">网上企业银行</a></li>
+</ul>
+
+            </div>
+        </div>
+        <div class="submenubottom">
+        </div>
+    </div>
+
+    <script type="text/javascript">       
+     SelectMenu(tabIndex);
+  </script> 
+            
+
+	
+	<div id="container">
+		<div id="column_left">
+			
+<div class="new_ad">
+    <div class="new_ad_head">
+        <h2>
+            特别推介</h2>
+    </div>
+    
+            <div>
+                <div class="sub_new_ad_common" id="item1">
+                    <span><a href="http://live.cmbchina.com/nfmsweb/tbook.aspx?promotionid=201201&prdcode=1&source=www " target="_blank" cname="特别推介" oname="专业版优Key免费送"
+                        otype="文字链接">
+                        专业版优Key免费送</a></span>
+                </div>
+            </div>
+        
+            <div>
+                <div class="sub_new_ad_common" id="item2">
+                    <span><a href="http://trip.cmbchina.com/Home/Index.html?source=016" target="_blank" cname="特别推介" oname="商旅中心出行易"
+                        otype="文字链接">
+                        商旅中心出行易</a></span>
+                </div>
+            </div>
+        
+            <div>
+                <div class="sub_new_ad_common" id="item3">
+                    <span><a href="http://95555.cmbchina.com/CmbLoan/ShengyiLoanApply.aspx?fromweb=CMBPC4" target="_blank" cname="特别推介" oname="在线申请生意贷"
+                        otype="文字链接">
+                        在线申请生意贷</a></span>
+                </div>
+            </div>
+        
+            <div>
+                <div class="sub_new_ad_common" id="item4">
+                    <span><a href="http://www.cmbchina-mcard.com" target="_blank" cname="特别推介" oname="一卡通M+卡潮人专享"
+                        otype="文字链接">
+                        一卡通M+卡潮人专享</a></span>
+                </div>
+            </div>
+        
+            <div>
+                <div class="sub_new_ad_common" id="item5">
+                    <span><a href="http://www.cmbchina.com/personal/common.aspx?pageid=20130603ydyh" target="_blank" cname="特别推介" oname="招行卡网购 一定优惠"
+                        otype="文字链接">
+                        招行卡网购 一定优惠</a></span>
+                </div>
+            </div>
+        
+            <div>
+                <div class="sub_new_ad_common" id="item6">
+                    <span><a href="http://pos.cmbchina.allyes.com/" target="_blank" cname="特别推介" oname="千家万惠 全城热刷"
+                        otype="文字链接">
+                        千家万惠 全城热刷</a></span>
+                </div>
+            </div>
+        
+            <div>
+                <div class="sub_new_ad_common" id="item7">
+                    <span><a href="http://cc.cmbchina.com/Common/Default.aspx?pageid=zxkf1&from=zzz" target="_blank" cname="特别推介" oname="信用卡免费微信服务"
+                        otype="文字链接">
+                        信用卡免费微信服务</a></span>
+                </div>
+            </div>
+        
+</div>
+
+		</div>
+		<div id="column_center">
+			
+<div id="MainBanner">
+    <div id="SlidePlayer" style="width: 530px; height: 185px;">
+        <ul class="Slides" id="Slides" style="height: 185px;">
+            
+                    <li style="width: 530px; height: 185px;"><a href="http://www.cmbchina.com/personal/common.aspx?pageid=20130922sjyh"
+                        target="_blank" cname="主广告位--main01" oname="电子银行三剑客"
+                        otype="图片链接">
+                        <img title="电子银行三剑客" style="width: 530px;
+                            height: 185px;" src="http://images.cmbchina.com/cmbadv/201309/84d5f5a1-c1d4-4378-a5bc-1bf435de24dc.jpg" /></a>
+                    </li>
+                
+                    <li style="width: 530px; height: 185px;"><a href="http://95555.cmbchina.com/CmbLoan/ShengyiLoanApply.aspx?fromweb=CMBPC2"
+                        target="_blank" cname="主广告位--main01" oname="生意贷"
+                        otype="图片链接">
+                        <img title="生意贷" style="width: 530px;
+                            height: 185px;" src="http://images.cmbchina.com/cmbadv/201302/4ada5b3a-49e7-48a4-9a1d-319e1209234a.jpg" /></a>
+                    </li>
+                
+                    <li style="width: 530px; height: 185px;"><a href="http://www.cmbchina.com/Personal/Promotion/PrmotionInfo.aspx?guid=84109b2f-2aa5-4f1b-932b-d2b5cdc05cdf"
+                        target="_blank" cname="主广告位--main01" oname="“金葵花”亲子财商成长活动"
+                        otype="图片链接">
+                        <img title="“金葵花”亲子财商成长活动" style="width: 530px;
+                            height: 185px;" src="http://images.cmbchina.com/cmbadv/201309/02577d82-29e3-4c8b-8681-b459d9732d0c.jpg" /></a>
+                    </li>
+                
+                    <li style="width: 530px; height: 185px;"><a href="http://www.cmbchina.com/main/noticeinfo.aspx?guid=1f831243-8ef8-4514-90a5-161df0244ecc"
+                        target="_blank" cname="主广告位--main01" oname="人行系统切换"
+                        otype="图片链接">
+                        <img title="人行系统切换" style="width: 530px;
+                            height: 185px;" src="http://images.cmbchina.com/cmbadv/201309/4557b71a-88d2-41a8-9d96-ae7d764722af.jpg" /></a>
+                    </li>
+                
+                    <li style="width: 530px; height: 185px;"><a href="http://career.cmbchina.com/Campus/Campus.aspx"
+                        target="_blank" cname="主广告位--main01" oname="2014年校园招聘"
+                        otype="图片链接">
+                        <img title="2014年校园招聘" style="width: 530px;
+                            height: 185px;" src="http://images.cmbchina.com/cmbadv/201309/80a2e422-7792-457d-a7be-6399ea10b926.jpg" /></a>
+                    </li>
+                
+                    <li style="width: 530px; height: 185px;"><a href="http://live.cmbchina.com/webpages/jrzs2013/index.html"
+                        target="_blank" cname="主广告位--main01" oname="金融知识宣传服务月"
+                        otype="图片链接">
+                        <img title="金融知识宣传服务月" style="width: 530px;
+                            height: 185px;" src="http://images.cmbchina.com/cmbadv/201308/71ef8cb3-bc54-4099-925b-5ae5845d97b5.jpg" /></a>
+                    </li>
+                
+        </ul>
+        <ul class="SlideTriggers" id="SlideTriggers" style="display:block">
+            <li class="current">1</li>
+            
+            <li class="">
+                2</li>
+            
+            <li class="">
+                3</li>
+            
+            <li class="">
+                4</li>
+            
+            <li class="">
+                5</li>
+            
+            <li class="">
+                6</li>
+            
+        </ul>
+    </div>
+</div>
+
+<script src="../../Scripts/YUI.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    //    SlidePlayerShow = function(parm) {
+    //        function Each(list, fun) {
+    //            for (var i = 0, len = list.length; i < len; i++) { fun(list[i], i); }
+    //        };
+
+    //        var Nums = $("SlideTriggers").getElementsByTagName("li");
+    //        parm = parm.replace("px", "");
+    //        var tv2 = new TransformView("SlidePlayer", "Slides", parm, Nums.length, {
+    //            onStart: function() { Each(Nums, function(o, i) { o.className = tv2.Index == i ? "current" : ""; }) }, //按钮样式
+    //            Up: true
+    //        });
+
+    //        tv2.Start();
+    //        $("Slides").onmouseover = function() {
+    //            tv2.Stop();
+    //        }
+    //        $("Slides").onmouseout = function() {
+    //        tv2.Start();
+    //        }
+    //        Each(Nums, function(o, i) {
+    //            o.onmouseover = function() {
+    //                o.className = "current";
+    //                tv2.Auto = false;
+    //                tv2.Index = i;
+    //            }
+    //            o.onmouseout = function() {
+    //                o.className = "";
+    //                tv2.Auto = true;
+    //                tv2.Start();
+    //            }
+    //        })
+    //    }
+    //var height = "185px";
+    //SlidePlayerShow(height);
+    //window.Error = function() { return true };
+    function Each(list, fun) {
+        for (var i = 0, len = list.length; i < len; i++) { fun(list[i], i); }
+    };
+
+    var Nums = document.getElementById("SlideTriggers").getElementsByTagName("li");
+ 
+    var xsfade = new XsFade(document.getElementById("SlidePlayer").getElementsByTagName("img"), Nums);
+    xsfade.init();
+
+    Each(Nums, function(o, i) {
+        o.onmouseover = function() {
+            xsfade.SetPlayIndex(i);
+        }
+        o.onmouseout = function() {
+            xsfade.Resume();
+        }
+    })
+</script>
+
+
+			
+<div class="mid_notice">
+    <div class="mid_notice_head">
+        <h2>
+            <span>重要公告</span></h2>
+        <div class="mid_notice_more">
+            <a href="/main" cname="重要公告" oname="更多" otype="文字链接">
+                更多>></a></div>
+    </div>
+    <div class="mid_notice_info">
+        <table id="ctl00_ContentPlaceHolder1_CmbNotice2_repList" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
+	<tr>
+		<td class="liLeft">
+                <a target="_blank" cname="重要公告" oname="关于国庆期间暂停个人客户跨行转账业务的公告" otype="文字链接" title="关于国庆期间暂停个人客户跨行转账业务的公告" href="/main/noticeinfo.aspx?guid=1f831243-8ef8-4514-90a5-161df0244ecc" class="gray">
+                    ·关于国庆期间暂停个人客户跨行转账...
+                </a>
+            </td><td class="liRight">
+                <a target="_blank" cname="重要公告" oname="关于2013年国庆节期间上海黄金交易所市场风险控制的公告" otype="文字链接" title="关于2013年国庆节期间上海黄金交易所市场风险控制的公告" href="/main/noticeinfo.aspx?guid=90ca40db-1d94-4f67-a428-4b420c68a7f9" class="gray">
+                    ·关于2013年国庆节期间上海黄金...
+                </a>
+            </td>
+	</tr><tr>
+		<td class="liLeft">
+                <a target="_blank" cname="重要公告" oname="关于上海黄金交易所系统升级的公告" otype="文字链接" title="关于上海黄金交易所系统升级的公告" href="/main/noticeinfo.aspx?guid=24e849b9-787a-45de-816d-ef10430f63fc" class="gray">
+                    ·关于上海黄金交易所系统升级的公告
+                </a>
+            </td><td class="liRight">
+                <a target="_blank" cname="重要公告" oname="关于做好“招财金”代理交易2013年中秋节期间市场风险控制工作的公告" otype="文字链接" title="关于做好“招财金”代理交易2013年中秋节期间市场风险控制工作的公告" href="/main/noticeinfo.aspx?guid=f451a3c7-85f8-45f4-8d5f-d426d7376538" class="gray">
+                    ·关于做好“招财金”代理交易201...
+                </a>
+            </td>
+	</tr>
+</table>
+    </div>
+</div>
+
+		</div>
+		<div id="column_right">
+			
+<div class="netbankrightbg">
+    <div class="netbankdiv" style="height: 583px">
+        <div class="rightheader">
+            <span>网上银行</span></div>
+        <div class="whitebgtop">
+            &nbsp;</div>
+        <div class="whitebgmid" style="height: 177px;">
+            <ul>
+                <li><a href="javascript:hbwindows();" class="bg textleft" cname="网上银行" oname="个人银行大众版" otype="文字链接">
+                    · 个人银行大众版</a></li>
+                <li><a href="javascript:EWallet();" class="bg textleft" cname="网上银行" oname="个人银行专业版" otype="文字链接">
+                    · 个人银行专业版</a></li>
+                <li><a href="javascript:ifinwindows();" class="bg textleft" cname="网上银行" oname="i理财大众版" otype="文字链接">
+                    · i理财大众版</a></li>
+                <li><a href="http://szdl.cmbchina.com/download/PBBS/PBBusinessSetup.exe" target="_blank"
+                    cname="网上银行" class="bg textleft" oname="电子商务专业版" otype="文字链接">· 电子商务专业版</a></li>
+                <li><a href="/corporate/firmbank/" target="_blank" cname="网上银行" class="bg textleft" oname="企业银行UBANK"
+                    otype="文字链接">· 企业银行UBANK</a></li>
+                <li><a href="http://live.cmbchina.com/webpages/safecard/index.html" target="_blank"
+                    cname="网上银行" class="bg textleft" oname="安全提示" otype="文字链接">· 安全提示</a></li>
+            </ul>
+        </div>
+        <div class="whitebgbottom">
+        </div>
+        <div class="rightheader">
+            <a href="http://www.cmbchina.com/mbankweb/" target="_blank" class="rightheadertitle"
+                cname="手机银行" oname="手机银行" otype="文字链接">手机银行</a></div>
+        <div class="whitebgtop">
+            &nbsp;</div>
+        <div class="whitebgmid" style="height: 90px;">
+            <ul>
+                <li><a href="http://www.cmbchina.com/MBankWeb/Site/" class="bg textleft" cname="手机银行" oname="手机一网通"
+                    otype="文字链接" target="_blank">· 手机一网通</a></li>
+                <li><a href="http://www.cmbchina.com/mbankweb/" target="_blank" cname="手机银行" class="bg textleft"
+                    oname="个人手机银行" otype="文字链接">· 个人手机银行</a></li>
+                <li><a href="http://live.cmbchina.com/webpages/mobilefirmbank/index.html" target="_blank"
+                    class="bg textleft" cname="手机银行" oname="企业手机银行" otype="文字链接">· 企业手机银行</a></li>
+            </ul>
+        </div>
+        <div class="whitebgbottom">
+        </div>
+            <div class="rightheader">
+            <a href="http://www.cmbchina.com/mbankweb/pad/" target="_blank" class="rightheadertitle"
+                cname="Pad银行" oname="Pad银行" otype="文字链接">Pad银行</a></div>
+        <div class="whitebgtop">
+            &nbsp;</div>
+        <div class="whitebgmid" style="height: 30px;">
+            <ul>
+                <li><a href="http://www.cmbchina.com/mbankweb/pad/" class="bg textleft" cname="Pad银行" oname="Pad银行"
+                    otype="文字链接" target="_blank">· iPad银行</a></li>
+            </ul>
+        </div>
+        <div class="whitebgbottom">
+        </div>
+        <div class="rightheader">
+            <span>在线服务</span></div>
+        <div class="whitebgtop">
+            &nbsp;</div>
+        <div class="whitebgmid" style="height: 118px;">
+            <ul>
+                <li class="nobgbig textleftnobg">· <a href="http://www.cmbchina.com/personalbank/netpay/CmbPay.htm#null"
+                    target="_blank" cname="在线服务" oname="网上支付申请" otype="文字链接">网上支付申请</a></li>
+                <li class="nobgbig textleftnobg">· <a href="javascript:OpenFirm()" cname="在线服务" oname="网上商户结账处理"
+                    otype="文字链接">网上商户结账处理</a></li>
+                <li class="nobgbig textleftnobg">· <a href="http://ccclub.cmbchina.com/ccproduct/newcustomer.aspx" target="_blank"
+                    cname="在线服务" oname="信用卡申请" otype="文字链接">信用卡申请</a></li>                
+                <li class="nobgbig textleftnobg">· <a href="http://i.cmbchina.com/introduction.html" target="_blank"
+                    cname="在线服务" oname="i理财账户申请" otype="文字链接">i理财账户申请</a></li>
+                    <li class="nobgbig textleftnobg">· <a href="http://95555.cmbchina.com/CmbLoan/ShengyiLoanApply.aspx?fromweb=95555"
+                    target="_blank" cname="在线服务" oname="在线申请生意贷" otype="文字链接">在线申请生意贷</a>
+                    <img class="True" width="24" height="9" src="/images/personal_new.gif" /></li>
+            </ul>
+        </div>
+        <div class="whitebgbottom">
+        </div>
+    </div>
+    <div class="netbankbottom">
+    </div>
+</div>
+<div style="height: 0px!important; height: 4px; overflow: hidden">
+</div>
+
+			
+<div style="height: 8px!important; height: 4px; overflow: hidden">
+</div>
+<div class="toolboxdiv" style="height: 229px;">
+    <div class="rightheader">
+        <a href="/CmbWebPubInfo/" target="_blank" class="rightheadertitle" cname="实时金融信息--/Default" oname="实时金融信息" otype="文字链接">
+            实时金融信息</a></div>
+    <div class="whitebgtop">
+        &nbsp;</div>
+    <div class="whitebgmid">
+        <ul>
+            <li class="nobgbig"><span>· <a href="http://fx.cmbchina.com/hq/" target="_blank"
+                cname="实时金融信息--/Default" oname="外汇实时汇率" otype="文字链接">外汇实时汇率</a></span></li>
+            <li class="nobgbig"><span>· <a href="http://gold.cmbchina.com/rate/" target="_blank" cname="实时金融信息--/Default" oname="黄金市场行情" otype="文字链接">
+                黄金市场行情</a></span></li>
+            <li class="nobgbig"><span>· <a href="/CmbWebPubInfo/BondTradePrice.aspx?chnl=bondprice"
+                target="_blank" cname="实时金融信息--/Default" oname="国债柜台交易报价" otype="文字链接">国债柜台交易报价</a></span></li>
+            <li class="nobgbig"><span>· <a href="http://www.cmbchina.com/cfweb/personal/prodvalue.aspx"
+                target="_blank" cname="实时金融信息--/Default" oname="理财产品净值" otype="文字链接">理财产品净值</a></span></li>
+            <li class="nobgbig"><span>· <a href="/CmbWebPubInfo/CmbFundRate.aspx?chnl=cmbfund"
+                target="_blank" cname="实时金融信息--/Default" oname="基金净值" otype="文字链接">基金净值</a></span></li>
+            <li class="nobgbig"><span>· <a href="/CmbWebPubInfo/InterestRate.aspx?chnl=ckrate"
+                target="_blank" cname="实时金融信息--/Default" oname="存款利率" otype="文字链接">存款利率</a></span></li>
+            <li class="nobgbig"><span>· <a href="/CmbWebPubInfo/CDRate.aspx?chnl=cdrate" target="_blank" cname="实时金融信息--/Default" oname="贷款利率" otype="文字链接">
+                贷款利率</a></span></li>
+            <li class="nobgbig"><span>· <a href="/CustomerService/CustomerServiceInfo.aspx?pageid=zhbz"
+                target="_blank" cname="实时金融信息--/Default" oname="资费标准" otype="文字链接">资费标准</a></span></li>
+        </ul>
+    </div>
+    <div class="whitebgbottom">
+    </div>
+</div>
+<div class="netbankbottom">
+</div>
+
+			<div style="height: 8px!important; height: 7px; overflow: hidden">
+			</div>
+			<a href="/CustomerService" target="_blank" cname="客户服务" oname="客户服务" otype="文字链接">
+				<img width="209" height="95" alt="客户服务" src="/images/cs.gif" border=0 /></a>
+			
+<div style="height: 8px!important; height: 4px; overflow: hidden">
+</div>
+<div class="toolboxdivbg">
+    <div class="toolboxdiv" style="height: 347px;">
+        <div class="rightheader" style="width:190px">
+            <span>便捷服务</span><span  style="margin-left:50px"><a href="/Common/QuickService.aspx" target="_blank" cname="便捷服务--/Default" oname="更多" otype="文字链接"><span>>>更多</span></a></span></div>
+        <div class="whitebgtop">
+            &nbsp;</div>
+        <div class="whitebgmid" style="height: 305px; text-align: center;">
+            <table cellpadding="2" border="0" cellspacing="0" align="center" width="180">
+                <tr>
+                    <td style="width: 92px;">
+                        <a href="http://map.cmbchina.com" target="_blank" cname="便捷服务--/Default" oname="网点地图" otype="文字链接">
+                            <img style="border: 0px; width: 76px; height: 53px;" src="/images/toolbox_map.jpg" /></a><div>
+                                · <a href="http://map.cmbchina.com" target="_blank" cname="便捷服务--/Default" oname="网点地图" otype="文字链接">
+                                    网点地图</a></div>
+                    </td>
+                    <td style="width: 92px;">
+                        <a href="http://t.sina.com.cn/cmbchina" target="_blank" cname="便捷服务--/Default" oname="微博" otype="文字链接">
+                            <img style="border: 0px; width: 76px; height: 53px;" src="/images/toolbox_wb.jpg" /></a><div>
+                                · <a href="http://t.sina.com.cn/cmbchina" target="_blank" cname="便捷服务--/Default" oname="微博"
+                                    otype="文字链接">微博</a></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 92px;">
+                        <a href="http://i.cmbchina.com/Finance" target="_blank" cname="便捷服务--/Default" oname="理财经理"
+                            otype="文字链接">
+                            <img style="border: 0px; width: 76px; height: 53px;" src="/images/toolbox_finamanager.jpg" /></a><div>
+                                · <a href="http://i.cmbchina.com/Finance" target="_blank" cname="便捷服务--/Default" oname="理财经理"
+                                    otype="文字链接">理财经理</a></div>
+                    </td>
+                    <td>
+                        <a href="/Customerservice/customerserviceinfo.aspx?pageid=calculator" target="_blank"
+                            cname="便捷服务--/Default" oname="理财计算器" otype="文字链接">
+                            <img style="border: 0px; width: 76px; height: 53px;" src="/images/toolbox_jsq.jpg" /></a><div>
+                                · <a href="/Customerservice/customerserviceinfo.aspx?pageid=calculator" target="_blank"
+                                    cname="便捷服务--/Default" oname="理财计算器" otype="文字链接">理财计算器</a></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="http://shop.cmbchina.com/celltelephone/default.aspx" target="_blank" cname="便捷服务--/Default"
+                            oname="手机充值" otype="文字链接">
+                            <img style="border: 0px; width: 76px; height: 53px;" src="/images/toolbox_mobile.jpg" /></a><div>
+                                · <a href="http://shop.cmbchina.com/celltelephone/default.aspx" target="_blank" cname="便捷服务--/Default"
+                                    oname="手机充值" otype="文字链接">手机充值</a></div>
+                    </td>
+                    <td>
+                        <a href="http://ccclub.cmbchina.com/ccclubnew/Default.aspx" target="_blank" cname="便捷服务--/Default"
+                            oname="积分兑换" otype="文字链接">
+                            <img style="border: 0px; width: 76px; height: 53px;" src="/images/toolbox_ccclub.jpg" /></a><div>
+                                · <a href="http://ccclub.cmbchina.com/ccclubnew/Default.aspx" target="_blank" cname="便捷服务--/Default"
+                                    oname="积分兑换" otype="文字链接">积分兑换</a></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="http://trip.cmbchina.com/" target="_blank" cname="便捷服务" oname="酒店预订" otype="文字链接">
+                            <img style="border: 0px; width: 76px; height: 53px;" src="/images/toolbox_hotel.jpg" /></a><div>
+                                · <a href="http://trip.cmbchina.com/" target="_blank" cname="便捷服务--/Default" oname="酒店预订" otype="文字链接">
+                                    酒店预订</a></div>
+                    </td>
+                    <td>
+                        <a href="http://trip.cmbchina.com/" target="_blank" cname="便捷服务" oname="机票预订" otype="文字链接">
+                            <img style="border: 0px; width: 76px; height: 53px;" src="/images/toolbox_ticket.jpg" /></a><div>
+                                · <a href="http://trip.cmbchina.com/" target="_blank" cname="便捷服务--/Default" oname="机票预订" otype="文字链接">
+                                    机票预订</a></div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="whitebgbottom">
+        </div>
+    </div>
+    <div class="toolboxbottom">
+    </div>
+</div>
+
+			<div style="height: 8px; overflow: hidden"></div>
+			
+<div class="firmbankdiv" style="height:132px;">
+	<div class="rightheader">
+		<span>企业在线查询服务</span></div>
+	<div class="whitebgtop">
+		&nbsp;</div>
+	<div class="whitebgmid" style="height: 90px;">
+		<ul>
+			<li class="nobgbig"><span>· <a href="http://pension.cmbchina.com/" target="_blank" cname="企业在线查询服务" oname="企业年金查询" otype="文字链接">企业年金查询</a></span></li>
+<!--			<li class="nobgbig"><span>· <a href="https://app.cmbchina.com/cicl/" target="_blank" cname="企业在线查询服务" oname="进口信用证来单查询" otype="文字链接">
+				进口信用证来单查询</a></span></li>-->
+			<li class="nobgbig"><span>· <a href="https://app.cmbchina.com/cevs" target="_blank" cname="企业在线查询服务" oname="企业自助打印服务" otype="文字链接">
+				企业自助打印服务</a></span></li>
+			<li class="nobgbig"><span>· <a href="/corporate/common.aspx?pageid=contactus"  target="_blank" cname="企业在线查询服务" oname="公司业务申办渠道" otype="文字链接">公司业务申办渠道</a></span></li>
+		</ul>
+	</div>
+	<div class="whitebgbottom">
+	</div>
+</div>
+<div class="firmbankbottom">
+</div>
+
+			<div style="height: 8px!important; height: 4px; overflow: hidden">
+			</div>
+			<a href="/cmbir" target="_blank" cname="投资者关系" oname="客户服务" otype="文字链接">
+				<img width="209" height="86" src="/images/cor_report.jpg" alt="投资者关系" border=0 /></a>
+			
+	<div style="height:8px!important;height: 4px; overflow: hidden">
+</div>
+<div class="realinfodiv" style="height:119px;">
+	<div class="rightheader">
+		<span>分支机构</span></div>
+	<div class="whitebgtop">
+		&nbsp;</div>
+	<div class="whitebgmid" style="height: 77px; text-align: center;">
+		<select id="AbroadWebInfo" onchange="openBranchWebInfo(this.id)" style="width: 70%;margin-bottom:8px !important;margin-bottom:6px;"
+			name="abroadWeb">
+			<option value="">海外机构网站</option>
+			<option value="http://www.winglungbank.com/wlbchannel.html">永隆银行</option>
+			<option value="http://hk.cmbchina.com">香港分行</option>
+			<option value="http://ny.cmbchina.com">纽约分行</option>			
+		</select>
+		<select name="ctl00$ContentPlaceHolder1$BranchWebSites1$dropBranchWeb" id="ctl00_ContentPlaceHolder1_BranchWebSites1_dropBranchWeb" onchange="openBranchWebInfo(this.id)" style="width: 70%;margin-bottom:8px !important;margin-bottom:6px;">
+	<option value="">国内分支机构</option>
+	<option value="http://branch.cmbchina.com/0010.htm">北京分行</option>
+	<option value="http://branch.cmbchina.com/0431.htm">长春分行</option>
+	<option value="http://branch.cmbchina.com/0731.htm">长沙分行</option>
+	<option value="http://branch.cmbchina.com/0028.htm">成都分行</option>
+	<option value="http://branch.cmbchina.com/0411.htm">大连分行</option>
+	<option value="http://branch.cmbchina.com/0023.htm">重庆分行</option>
+	<option value="http://branch.cmbchina.com/0769.htm">东莞分行</option>
+	<option value="http://branch.cmbchina.com/0757.htm">佛山分行</option>
+	<option value="http://branch.cmbchina.com/0591.htm">福州分行</option>
+	<option value="http://branch.cmbchina.com/0020.htm">广州分行</option>
+	<option value="http://branch.cmbchina.com/0451.htm">哈尔滨分行</option>
+	<option value="http://branch.cmbchina.com/0571.htm">杭州分行</option>
+	<option value="http://branch.cmbchina.com/0551.htm">合肥分行</option>
+	<option value="http://branch.cmbchina.com/0471.htm">呼和浩特</option>
+	<option value="http://branch.cmbchina.com/0531.htm">济南分行</option>
+	<option value="http://branch.cmbchina.com/0871.htm">昆明分行</option>
+	<option value="http://branch.cmbchina.com/0931.htm">兰州分行</option>
+	<option value="http://branch.cmbchina.com/0791.htm">南昌分行</option>
+	<option value="http://branch.cmbchina.com/0025.htm">南京分行</option>
+	<option value="http://branch.cmbchina.com/0513.htm">南通分行</option>
+	<option value="http://branch.cmbchina.com/0574.htm">宁波分行</option>
+	<option value="http://branch.cmbchina.com/0532.htm">青岛分行</option>
+	<option value="http://branch.cmbchina.com/0595.htm">泉州分行</option>
+	<option value="http://branch.cmbchina.com/0021.htm">上海分行</option>
+	<option value="http://branch.cmbchina.com/0755.htm">深圳分行</option>
+	<option value="http://branch.cmbchina.com/0024.htm">沈阳分行</option>
+	<option value="http://branch.cmbchina.com/0512.htm">苏州分行</option>
+	<option value="http://branch.cmbchina.com/0576.htm">台州分行</option>
+	<option value="http://branch.cmbchina.com/0351.htm">太原分行</option>
+	<option value="http://branch.cmbchina.com/0022.htm">天津分行</option>
+	<option value="http://branch.cmbchina.com/0991.htm">乌鲁木齐分行</option>
+	<option value="http://branch.cmbchina.com/0027.htm">武汉分行</option>
+	<option value="http://branch.cmbchina.com/0029.htm">西安分行</option>
+	<option value="http://branch.cmbchina.com/0592.htm">厦门分行</option>
+	<option value="http://branch.cmbchina.com/0535.htm">烟台分行</option>
+	<option value="http://branch.cmbchina.com/0717.htm">宜昌分行</option>
+	<option value="http://branch.cmbchina.com/0371.htm">郑州分行</option>
+	<option value="http://branch.cmbchina.com/0311.htm">石家庄分行</option>
+	<option value="http://branch.cmbchina.com/0951.htm">银川分行</option>
+	<option value="http://branch.cmbchina.com/0771.htm">南宁分行</option>
+
+</select>
+		<select id="subordWeb" onchange="openBranchWebInfo(this.id)" 
+			name="subordWeb" style="width: 70%;">
+			<option value="">附属公司</option>			
+			<option value="http://www.cmbi.com.hk">招银国际</option>
+			<option value="http://www.cmb-leasing.com">招银租赁</option>
+			<option value="http://www.cigna-cmc.com/">招商信诺</option>
+		</select>
+	</div>
+	<div class="whitebgbottom">
+	</div>
+</div>
+<div class="realinfobottom">
+</div>
+
+<script language="javascript" type="text/javascript">
+	function openBranchWebInfo(id) {
+		var url = document.getElementById(id).value;
+		if (url != "") {
+			window.open(url);
+		}
+	}
+</script>
+
+
+			
+<div style="height:8px!important;height: 8px; overflow: hidden">
+</div>
+<div class="realinfodiv" style="height:141px !important; height:147px">
+	<div class="rightheader">
+		<span>股票市场</span></div>
+	<div class="whitebgtop">
+		&nbsp;</div>
+	<div class="whitebgmid" style="height: 100px !important; height:106px; text-align: center;">
+		<iframe frameborder="0" height="100px" scrolling="no" width="186px" src="http://branch.cmbchina.com/stockinfo.htm"> </iframe>
+	</div>
+	<div class="whitebgbottom">
+	</div>
+</div>
+<div class="realinfobottom">
+</div>
+		</div>
+		<div id="column_main">
+			
+<div class="m_mid_con_newprod">
+    <h2 class="m_head">
+        <span>优惠快讯</span></h2>
+    <div class="m_mid_con_container">
+        <div class="m_con_notice">
+            <div class="m_notice_head">
+                <h2>
+                    <span>一卡通</span></h2>
+                <div class="m_notice_more">
+                    <a href="../../Personal/Promotion/default.aspx" target="_blank" cname="优惠快讯" oname="一卡通" otype="文字链接">
+                        <img class="common_img_more" src="/images/more.jpg" /></a></div>
+            </div>
+            <div class="m_con_info">
+                
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+    
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="[一定优惠]买电影票，就上招商银行手机银行格瓦拉客户端！优惠多多，实惠多多！" otype="文字链接" title="[一定优惠]买电影票，就上招商银行手机银行格瓦拉客户端！优惠多多，实惠多多！" href="/Personal/Promotion/PrmotionInfo.aspx?guid=2e3bbd64-e274-4036-af15-2206336d4f92">
+                        ·[一定优惠]买电影票，就上招商银行手机银行格...
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="外币网上汇出，选招行最划算！" otype="文字链接" title="外币网上汇出，选招行最划算！" href="/Personal/Promotion/PrmotionInfo.aspx?guid=c984a11b-c32f-4699-8a37-08d21c4f4dbb">
+                        ·外币网上汇出，选招行最划算！
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="[一定优惠]用招行手机支付，赢免费电影票，每月一万张 " otype="文字链接" title="[一定优惠]用招行手机支付，赢免费电影票，每月一万张 " href="http://www.cmbchina.com/personal/common.aspx?pageid=20130729sjzf">
+                        ·[一定优惠]用招行手机支付，赢免费电影票，每...
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="[一定优惠]您买手机我送现金，还有数码礼包等着你" otype="文字链接" title="[一定优惠]您买手机我送现金，还有数码礼包等着你" href="/Personal/Promotion/PrmotionInfo.aspx?guid=9caafd59-d906-4eae-b263-f3e7af2f953e">
+                        ·[一定优惠]您买手机我送现金，还有数码礼包等...
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="[一定优惠]东方票务手机客户端使用招行卡购票，每单即可立减10元" otype="文字链接" title="[一定优惠]东方票务手机客户端使用招行卡购票，每单即可立减10元" href="/Personal/Promotion/PrmotionInfo.aspx?guid=5c5802bd-a128-4da0-9b37-c1d28f0ce4dc">
+                        ·[一定优惠]东方票务手机客户端使用招行卡购票...
+                    </a>
+                </td>
+            </tr>
+        
+</table>
+
+            </div>
+        </div>
+        <div class="m_con_midline">
+        </div>
+        <div class="m_con_specialsale">
+            <div class="m_specialsale_head">
+                <h2>
+                    <span>信用卡</span></h2>
+                <div class="m_specialsale_more">
+                    <a href="http://cc.cmbchina.com/Promotion/" target="_blank" cname="优惠快讯" oname="信用卡" otype="文字链接">
+                        <img class="common_img_more" src="/images/more.jpg" alt="" border="0" /></a></div>
+            </div>
+            <div id="icefable11" class="m_con_info">
+                
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+    
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="官方APP和官方微信用户专享" otype="文字链接" title="官方APP和官方微信用户专享" href="http://cc.cmbchina.com/Promotion/DetailInfo.aspx?guid=74011c6c-9d46-41d1-b34a-c0df749b26be">
+                        ·官方APP和官方微信用户专享
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="欢迎开通每笔消费提醒功能，无论金额大小，确保用卡安全！" otype="文字链接" title="欢迎开通每笔消费提醒功能，无论金额大小，确保用卡安全！" href="http://cc.cmbchina.com/Common/Default.aspx?pageid=zxkf1&from=th">
+                        ·欢迎开通每笔消费提醒功能，无论金额大小，确保...
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="十年感恩0系你我" otype="文字链接" title="十年感恩0系你我" href="http://cc.cmbchina.com/Promotion/DetailInfo.aspx?guid=79a2e143-c14b-4f28-9600-b20b096715bb">
+                        ·十年感恩0系你我
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="戴尔分期12期0手续费 更享幸运大抽奖" otype="文字链接" title="戴尔分期12期0手续费 更享幸运大抽奖" href="http://cc.cmbchina.com/Promotion/DetailInfo.aspx?guid=e06eef83-481a-4414-b1df-78bf35610bce">
+                        ·戴尔分期12期0手续费 更享幸运大抽奖
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="禾绿寿司全单8折起" otype="文字链接" title="禾绿寿司全单8折起" href="http://cc.cmbchina.com/Promotion/DetailInfo.aspx?guid=4a210647-5cfe-401a-9071-86ce1b694dde">
+                        ·禾绿寿司全单8折起
+                    </a>
+                </td>
+            </tr>
+        
+</table>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+			
+
+<script language="javascript">
+
+
+    var finaIndex = 1;
+    var finaTime = setInterval("autoShow()", 2000);
+    var pause = false;
+    function autoShow() {
+
+        if (finaIndex <= 7) {
+
+            if (document.getElementById("fmenu_" + finaIndex))
+                changeFinanceMenu(document.getElementById("fmenu_" + finaIndex), finaIndex);
+            finaIndex++;
+        }
+        else {
+            changeFinanceMenu(document.getElementById("fmenu_1"), 1);
+            pause = true;
+            clearInterval(finaTime);
+        }
+    }
+    function changeFinanceMenu(obj, index) {
+        finaIndex = index;
+        for (i = 1; i <= 7; i++) {
+            if (document.getElementById("Div" + i))
+                document.getElementById("Div" + i).style.display = "none";
+            if (document.getElementById("fmenu_" + i))
+                document.getElementById("fmenu_" + i).parentNode.className = "f_menu";
+        }
+        obj.parentNode.className = "f_curmenu";
+        if (document.getElementById("Div" + index))
+            document.getElementById("Div" + index).style.display = "block";
+    }
+
+</script>
+
+<div class="m_finance_con">
+    <div class="finance_menu_home">
+    </div>
+    <div class="finance_menu">
+        <ul>
+            <li class="finance_menu_left"></li>
+            <li class="f_curmenu"><a href="http://www.cmbchina.com/cfweb" cname="财富管理--理财产品--/Default" oname="理财产品" otype="文字链接"  target="_blank" id="fmenu_1" onmouseover="changeFinanceMenu(this,1);">
+                理财产品</a></li>
+            <li>
+                <div class="f_menu_spit">
+                </div>
+            </li>
+            <li class="f_menu"><a href="http://fund.cmbchina.com"  cname="财富管理--基金--/Default" oname="基金" otype="文字链接"  target="_blank"  id="fmenu_2" onmouseover="changeFinanceMenu(this,2);">
+                基金</a></li>
+            <li>
+                <div class="f_menu_spit">
+                </div>
+            </li>
+            <li class="f_menu"><a href="http://gold.cmbchina.com"  cname="财富管理--黄金--/Default" oname="黄金" otype="文字链接"  target="_blank" id="fmenu_3" onmouseover="changeFinanceMenu(this,3);">
+                黄金</a></li>
+            <li>
+                <div class="f_menu_spit">
+                </div>
+            </li>
+            <li class="f_menu"><a href="http://fx.cmbchina.com"  cname="财富管理--外汇--/Default" oname="外汇" otype="文字链接"  target="_blank" id="fmenu_4" onmouseover="changeFinanceMenu(this,4);">
+                外汇</a></li>
+            <li>
+                <div class="f_menu_spit">
+                </div>
+            </li>
+            <li class="f_menu"><a href="http://info.cmbchina.com/"   cname="财富管理--证券--/Default" oname="证券" otype="文字链接" target="_blank" id="fmenu_5" onmouseover="changeFinanceMenu(this,5);">
+                证券</a></li>
+            <li>
+                <div class="f_menu_spit">
+                </div>
+            </li>
+            <li class="f_menu"><a href="http://cmbchina.cigna-cmc.com/"  cname="财富管理--保险--/Default" oname="保险" otype="文字链接"  target="_blank" id="fmenu_6" onmouseover="changeFinanceMenu(this,6);">
+                保险</a></li>
+            <li>
+                <div class="f_menu_spit">
+                </div>
+            </li>
+            <li class="f_menu"><a href="http://ccclub.cmbchina.com/ccclubnew/default.aspx"  cname="财富管理--商城--/Default" oname="商城" otype="文字链接"  target="_blank" id="fmenu_7" onmouseover="changeFinanceMenu(this,7);">
+                商城</a></li>
+            <li>
+                <div class="f_menu_spit">
+                </div>
+            </li>
+            <li class="finance_menu_right"></li>
+        </ul>
+    </div>
+    <div id="Div1" class="m_finance_container">
+        
+<div class="m_finance_left">
+ <h2 class="m_finance_title">
+        <span>热销理财产品</span></h2>
+   <div class="m_finance_more">
+        <a href="http://www.cmbchina.com/cfweb/" cname="财富管理--理财产品" oname="更多" otype="文字链接" target="_blank">
+            <img class="common_img_more" src="/images/more.jpg" /></a></div>
+     <div style="clear:both"></div>
+    <div class="m_finance_info">
+        
+                <li class="repeaterli">·<a href="http://www.cmbchina.com/cfweb/personal/productdetail.aspx?code=104232"
+                    target="_blank" title='黄金表现联动（区间累积型）理财计划' cname="财富管理--理财产品--/Default" oname="104232" otype="文字链接">
+                    黄金表现联动（区间累积型）理财计划(104232)
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://www.cmbchina.com/cfweb/personal/productdetail.aspx?code=106322"
+                    target="_blank" title='岁月流金522号理财计划' cname="财富管理--理财产品--/Default" oname="106322" otype="文字链接">
+                    岁月流金522号理财计划(106322)
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://www.cmbchina.com/cfweb/personal/productdetail.aspx?code=300053"
+                    target="_blank" title='鼎鼎成金53号理财计划' cname="财富管理--理财产品--/Default" oname="300053" otype="文字链接">
+                    鼎鼎成金53号理财计划(300053)
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://www.cmbchina.com/cfweb/personal/productdetail.aspx?code=300054"
+                    target="_blank" title='鼎鼎成金54号理财计划' cname="财富管理--理财产品--/Default" oname="300054" otype="文字链接">
+                    鼎鼎成金54号理财计划(300054)
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://www.cmbchina.com/cfweb/personal/productdetail.aspx?code=300055"
+                    target="_blank" title='鼎鼎成金55号理财计划' cname="财富管理--理财产品--/Default" oname="300055" otype="文字链接">
+                    鼎鼎成金55号理财计划(300055)
+                </a></li>
+            
+    </div>
+    <div class="m_finance_more">
+        <a href="http://www.cmbchina.com/cfweb/" target="_blank" cname="财富管理--理财产品--/Default" oname="more" otype="文字链接">
+            <img class="common_img_more" src="/images/more.jpg" /></a></div>
+</div>
+<div class="m_finance_midline">
+</div>
+<div class="m_finance_right">
+    <h2 class="m_finance_title">
+        <span>理财产品快捷通道</span></h2>
+    <div class="m_finance_info">
+       <TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR>
+<TD width=12 rowspan=5></td>
+<TD width="55%">·<A href="http://www.cmbchina.com/cfweb/personal/" target=_blank cname="财富管理--理财产品" oname="理财产品" otype="文字链接">个人理财产品</A></TD>
+<TD>·<A href="http://www.cmbchina.com/cfweb/personal/prodvalue.aspx" target=_blank cname="财富管理--理财产品" oname="个人产品净值" otype="文字链接">产品净值</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/cfweb/Corporate/" target=_blank cname="财富管理--理财产品" oname="公司理财产品" otype="文字链接">公司理财产品</A></TD>
+<TD>·<A href="http://www.cmbchina.com/cfweb/Corporate/prodvalue.aspx" target=_blank cname="财富管理--理财产品" oname="公司产品净值" otype="文字链接">产品净值</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/cfweb/Financial/" target=_blank cname="财富管理--理财产品" oname="银和理财产品" otype="文字链接">银和理财产品</A></TD>
+<TD>·<A href="http://www.cmbchina.com/cfweb/Financial/prodvalue.aspx" target=_blank cname="财富管理--理财产品" oname="银和产品净值" otype="文字链接">产品净值</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/cfweb/personal/prodnotice.aspx" target=_blank>个人理财产品公告</A></TD>
+<TD>·<A href="http://www.cmbchina.com/cfweb/Corporate/prodnotice.aspx" target=_blank>公司理财产品公告</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/cfweb/Financial/prodnotice.aspx" target=_blank>银和理财产品公告</A></TD>
+<TD>·<A href="http://info.cmbchina.com/Financing/?channel=Financing&amp;topic=Bank" target=_blank cname="财富管理--理财产品" oname="理财资讯" otype="文字链接">理财资讯</A></TD></TR></TBODY></TABLE>
+    </div>
+</div>
+
+    </div>
+    <div class="spacer"></div>
+    <div id="Div2" style="display: none;" class="m_finance_container">
+        
+<div class="m_finance_left">
+<h2 class="m_finance_title">
+        <span>热销基金</span></h2>
+          <div class="m_finance_more">
+        <a href="http://fund.cmbchina.com/openfund" target="_blank"  cname="财富管理--基金" oname="更多" otype="文字链接">
+            <img class="common_img_more" src="/images/more.jpg" /></a></div>
+     <div style="clear:both"></div>
+    <div class="m_finance_info">
+        <table id="ctl00_ContentPlaceHolder1_FinanceIndex1_Fund1_listfund" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
+	<tr>
+		<td style="height:22px;width:50%;">
+                <a href="http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=160603" target="_blank" cname="财富管理--基金--/Default" oname="160603" otype="文字链接">·
+                    鹏华普天收益
+                    (160603)</a>
+            </td><td style="height:22px;width:50%;">
+                <a href="http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=050010" target="_blank" cname="财富管理--基金--/Default" oname="050010" otype="文字链接">·
+                    博时特许价值
+                    (050010)</a>
+            </td>
+	</tr><tr>
+		<td style="height:22px;width:50%;">
+                <a href="http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=110017" target="_blank" cname="财富管理--基金--/Default" oname="110017" otype="文字链接">·
+                    易方达增强回报A
+                    (110017)</a>
+            </td><td style="height:22px;width:50%;">
+                <a href="http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=163302" target="_blank" cname="财富管理--基金--/Default" oname="163302" otype="文字链接">·
+                    大摩资源优选混合
+                    (163302)</a>
+            </td>
+	</tr><tr>
+		<td style="height:22px;width:50%;">
+                <a href="http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=121006" target="_blank" cname="财富管理--基金--/Default" oname="121006" otype="文字链接">·
+                    国投瑞银稳健增长
+                    (121006)</a>
+            </td><td style="height:22px;width:50%;">
+                <a href="http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=020001" target="_blank" cname="财富管理--基金--/Default" oname="020001" otype="文字链接">·
+                    国泰金鹰增长
+                    (020001)</a>
+            </td>
+	</tr><tr>
+		<td style="height:22px;width:50%;">
+                <a href="http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=090011" target="_blank" cname="财富管理--基金--/Default" oname="090011" otype="文字链接">·
+                    大成核心双动力
+                    (090011)</a>
+            </td><td style="height:22px;width:50%;">
+                <a href="http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=100038" target="_blank" cname="财富管理--基金--/Default" oname="100038" otype="文字链接">·
+                    富国沪深300
+                    (100038)</a>
+            </td>
+	</tr><tr>
+		<td style="height:22px;width:50%;">
+                <a href="http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=080003" target="_blank" cname="财富管理--基金--/Default" oname="080003" otype="文字链接">·
+                    长盛积极配置
+                    (080003)</a>
+            </td><td style="height:22px;width:50%;">
+                <a href="http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=070019" target="_blank" cname="财富管理--基金--/Default" oname="070019" otype="文字链接">·
+                    嘉实价值优势
+                    (070019)</a>
+            </td>
+	</tr>
+</table>
+    </div>
+</div>
+<div class="m_finance_midline">
+</div>
+<div class="m_finance_right">
+    <h2 class="m_finance_title">
+        <span>基金快捷通道</span></h2>
+    <div class="m_finance_info">
+        <TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR>
+<TD width=12 rowspan=5></td>
+<TD width="55%">·<A href="http://fund.cmbchina.com/FundPages/OpenFund/FundNetValue.aspx" target=_blank cname="财富管理--基金" oname="基金净值" otype="文字链接">基金净值</A></TD>
+<TD>·<A href="http://fund.cmbchina.com/openfund" target=_blank cname="财富管理--基金" oname="开放式基金" otype="文字链接">开放式基金</A></TD></TR>
+<TR>
+<TD>·<A href="http://fund.cmbchina.com/company" target=_blank cname="财富管理--基金" oname="基金公司" otype="文字链接">基金公司</A>&nbsp;</TD>
+<TD>·<A href="http://fund.cmbchina.com/closefund" target=_blank cname="财富管理--基金" oname="封闭式基金" otype="文字链接">封闭式基金</A></TD></TR>
+<TR>
+<TD>·<A href="http://fund.cmbchina.com/news" target=_blank cname="财富管理--基金" oname="基金资讯" otype="文字链接">基金资讯</A></TD>
+<TD>·<A href="http://fund.cmbchina.com/FundPages/OpenFund/FundLeaderBoard.aspx" target=_blank cname="财富管理--基金" oname="基金排行榜" otype="文字链接">基金排行榜</A></TD></TR>
+<TR>
+<TD>·<A href="http://fund.cmbchina.com/school" target=_blank cname="财富管理--基金" oname="基金学院" otype="文字链接">基金学苑</A></A>&nbsp;</TD>
+<TD>·<A href="http://fund.cmbchina.com/FundPages/OpenFund/MorningStarRank.aspx" target=_blank cname="财富管理--基金" oname="基金评级" otype="文字链接">基金评级</A></TD></TR>
+<TR>
+<TD>·<A href="http://app.cmbchina.com/cmbcurve/jzqx.aspx" target=_blank>基金曲线</A></TD>
+<TD>·<A href="http://fund.cmbchina.com/FundPages/OpenFund/FinancialProducts.aspx" target=_blank>券商理财</A></TD></TR></TBODY></TABLE>
+    </div>
+</div>
+
+    </div>
+     <div class="spacer"></div>
+    <div id="Div3" style="display: none;" class="m_finance_container">
+        
+<div class="m_finance_left">
+	<h2 class="m_finance_title">
+		<span>金市日评</span></h2>
+		<div class="m_finance_more">
+		<a href="http://gold.cmbchina.com/" target="_blank"  cname="财富管理--黄金" oname="更多" otype="文字链接">
+			<img class="common_img_more" src="/images/more.jpg" /></a></div>
+	<div style="clear:both"></div>		
+	<div class="m_finance_info">
+		
+				<li class="repeaterli">·<a href="http://gold.cmbchina.com/review/detail.aspx?id=5158373&topic=goldanalyse"
+					title='伦敦现货黄金周二午盘定盘价为1314.25美元/盎司' cname="财富管理--黄金--/Default" oname="伦敦现货黄金周二午盘定盘价为1314.25美元/盎司" otype="文字链接">
+					伦敦现货黄金周二午盘定盘价为1314.25美元/盎司
+				</a></li>
+			
+				<li class="repeaterli">·<a href="http://gold.cmbchina.com/review/detail.aspx?id=5158368&topic=goldanalyse"
+					title='现货黄金价格持稳1313美元/盎司附近' cname="财富管理--黄金--/Default" oname="现货黄金价格持稳1313美元/盎司附近" otype="文字链接">
+					现货黄金价格持稳1313美元/盎司附近
+				</a></li>
+			
+				<li class="repeaterli">·<a href="http://gold.cmbchina.com/review/detail.aspx?id=5158316&topic=goldanalyse"
+					title='黄金价格一路下滑 再次游走千三边缘' cname="财富管理--黄金--/Default" oname="黄金价格一路下滑 再次游走千三边缘" otype="文字链接">
+					黄金价格一路下滑 再次游走千三边缘
+				</a></li>
+			
+				<li class="repeaterli">·<a href="http://gold.cmbchina.com/review/detail.aspx?id=5158224&topic=goldanalyse"
+					title='9月24日黄金T+D价格走势分析(夜市开盘)' cname="财富管理--黄金--/Default" oname="9月24日黄金T+D价格走势分析(夜市开盘)" otype="文字链接">
+					9月24日黄金T+D价格走势分析(夜市开盘)
+				</a></li>
+			
+				<li class="repeaterli">·<a href="http://gold.cmbchina.com/review/detail.aspx?id=5158189&topic=goldanalyse"
+					title='印度8月黄金首饰出口较7月上升' cname="财富管理--黄金--/Default" oname="印度8月黄金首饰出口较7月上升" otype="文字链接">
+					印度8月黄金首饰出口较7月上升
+				</a></li>
+			
+	</div>
+</div>
+<div class="m_finance_midline">
+</div>
+<div class="m_finance_right">
+	<h2 class="m_finance_title">
+		<span>黄金快捷通道</span></h2>
+	<div class="m_finance_info">
+		<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR>
+<TD width=12 rowSpan=5></TD>
+<TD width="55%">·<A href="http://www.cmbchina.com/personal/invest/InvestInfo.aspx?guid=0718e370-59e4-401f-8c08-8df749fe715c" target=_blank cname="财富管理--黄金" oname="招财金" otype="文字链接">招财金</A>&nbsp;</TD>
+<TD>·<A href="http://gold.cmbchina.com/" target=_blank cname="财富管理--黄金" oname="黄金市场行情" otype="文字链接">黄金市场行情</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/personal/invest/InvestInfo.aspx?guid=1a1530d9-68e3-4ca5-a920-0d3dad4b2338" target=_blank cname="财富管理--黄金" oname="个人金银投资品代购" otype="文字链接">个人金银投资品代购</A></TD>
+<TD>·<A href="http://www.cgsec.com/cmb_price.php" target=_blank cname="财富管理--黄金" oname="高赛尔黄金报价" otype="文字链接">高赛尔黄金报价</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/personal/invest/InvestInfo.aspx?guid=aa27662d-b024-45fd-9855-1db0b019bbf5" target=_blank cname="财富管理--黄金" oname="纸黄金买卖" otype="文字链接">纸黄金买卖</A></TD>
+<TD>·<A href="http://gold.cmbchina.com/ExchangeIntro" target=_blank cname="财富管理--黄金" oname="交易所介绍" otype="文字链接">交易所介绍</A></TD></TR>
+<TR>
+<TD>·<A href="http://gold.cmbchina.com/" target=_blank cname="财富管理--黄金" oname="一金通" otype="文字链接">一金通</A></TD>
+<TD>·<A href="http://forum.cmbchina.com/cmu/viewforum.aspx?forumid=85" target=_blank cname="财富管理--黄金" oname="黄金论坛" otype="文字链接">黄金论坛</A></TD></TR>
+<TR>
+<TD>·<A href="http://gold.cmbchina.com/Metals/" target=_blank cname="财富管理--黄金" oname="金属市场" otype="文字链接">金属市场</A></TD>
+<TD>·<A href="http://gold.cmbchina.com/invest" target=_blank cname="财富管理--黄金" oname="黄金投资" otype="文字链接">黄金投资</A></TD></TR></TBODY></TABLE>
+	</div>
+</div>
+
+    </div>
+     <div class="spacer"></div>
+    <div id="Div4" style="display: none;" class="m_finance_container">
+        
+     <div class="m_finance_left">
+       <h2 class="m_finance_title">
+                <span>汇市快讯</span></h2>
+                     <div class="m_finance_more">
+                <a href="http://fx.cmbchina.com/" target="_blank"  cname="财富管理--外汇" oname="更多" otype="文字链接">
+                    <img class="common_img_more" src="/images/more.jpg" /></a></div>
+             <div style="clear:both"></div>       
+            <div class="m_finance_info">
+              
+                <li class="repeaterli">·<a href="http://fx.cmbchina.com/news/detail.aspx?topic=FRX&id=356304"
+                    title='更新版 1-中国汇市：人民币收平交易额创近四个月高位，中间价影响力式微'  cname="财富管理--外汇--/Default" oname="更新版 1-中国汇市：人民币收平交易额创近四个月高位，中间价影响力式微" otype="文字链接">
+                    更新版 1-中国汇市：人民币收平交易额创近四个月高位...
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://fx.cmbchina.com/news/detail.aspx?topic=FRX&id=356303"
+                    title='台湾汇市：台币/美元收在平盘附近，市场趋向观望'  cname="财富管理--外汇--/Default" oname="台湾汇市：台币/美元收在平盘附近，市场趋向观望" otype="文字链接">
+                    台湾汇市：台币/美元收在平盘附近，市场趋向观望
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://fx.cmbchina.com/news/detail.aspx?topic=FRX&id=356292"
+                    title='表格：外资及陆资在台股买超56.82亿台币，连19日买超1,257.87亿'  cname="财富管理--外汇--/Default" oname="表格：外资及陆资在台股买超56.82亿台币，连19日买超1,257.87亿" otype="文字链接">
+                    表格：外资及陆资在台股买超56.82亿台币，连19日...
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://fx.cmbchina.com/news/detail.aspx?topic=FRX&id=356289"
+                    title='《汇市简讯》欧洲开盘：风险资产走势沉闷'  cname="财富管理--外汇--/Default" oname="《汇市简讯》欧洲开盘：风险资产走势沉闷" otype="文字链接">
+                    《汇市简讯》欧洲开盘：风险资产走势沉闷
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://fx.cmbchina.com/news/detail.aspx?topic=FRX&id=356288"
+                    title='《汇市简讯》美元/日圆陷於窄幅区间，卖单挂在98.05-20'  cname="财富管理--外汇--/Default" oname="《汇市简讯》美元/日圆陷於窄幅区间，卖单挂在98.05-20" otype="文字链接">
+                    《汇市简讯》美元/日圆陷於窄幅区间，卖单挂在98.0...
+                </a></li>
+            
+            </div>
+        </div>
+        <div class="m_finance_midline">
+        </div>
+        <div class="m_finance_right">
+            <h2 class="m_finance_title">
+                <span>外汇快捷通道</span></h2>
+            <div class="m_finance_info">
+          <TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR>
+<TD width=12 rowSpan=5></TD>
+<TD width="55%">·<A href="http://fx.cmbchina.com/Hq/" target=_blank cname="财富管理--外汇" oname="外汇实时汇率" otype="文字链接">外汇实时汇率</A></TD>
+<TD>·<A href="http://www.cmbchina.com/personal/invest/InvestInfo.aspx?pageid=zhj" target=_blank cname="财富管理--外汇" oname="纸黄金" otype="文字链接">纸黄金白银</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/personal/invest/InvestInfo.aspx?guid=f3323b30-2374-45ac-b7e3-8606f12813ad" target=_blank cname="财富管理--外汇" oname="外汇买卖" otype="文字链接">外汇买卖</A></TD>
+<TD>·<A href="http://www.cmbchina.com/personal/living/LivingInfo.aspx?pageid=zzjhhk" target=_blank cname="财富管理--外汇" oname="自助境外汇款业务" otype="文字链接">自助境外汇款业务</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/Personal/Invest/WHQQ.aspx" target=_blank cname="财富管理--外汇" oname="外汇期权" otype="文字链接">外汇期权</A></TD>
+<TD>·<A href="http://www.cmbchina.com/personal/saving/SavingInfo.aspx?pageid=saving13" target=_blank cname="财富管理--外汇" oname="境外汇款" otype="文字链接">境外汇款</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/personal/living/LivingInfo.aspx?guid=af9fd53b-dc57-4690-834e-7b59f19e4e9e" target=_blank cname="财富管理--外汇" oname="自助结售汇" otype="文字链接">自助结售汇</A></A></A></TD>
+<TD>·<A href="http://www.cmbchina.com/personal/living/LivingInfo.aspx?pageid=gjsyzzsb" target=_blank cname="财富管理--外汇" oname="国际收入自助申报" otype="文字链接">国际收入自助申报</A></TD></TR>
+<TR>
+<TD>·<A href="http://fx.cmbchina.com/AnalyseReview/?topic=1002" target=_blank cname="财富管理--外汇" oname="币种分析" otype="文字链接">币种分析</A></TD>
+<TD>·<A href="http://fx.cmbchina.com/AnalyseReview/" target=_blank cname="财富管理--外汇" oname="分析评论" otype="文字链接">分析评论</A></TD></TR></TBODY></TABLE>
+            </div>
+        </div>
+    </div>
+     <div class="spacer"></div>
+    <div id="Div5" style="display: none;" class="m_finance_container">
+            
+<div class="m_finance_left">
+    <h2 class="m_finance_title">
+        <span>证券市场要闻</span></h2>
+          <div class="m_finance_more">
+        <a href="http://info.cmbchina.com/Stock/List.aspx?channel=Important&topic=ZQSCXGYW
+" target="_blank" cname="财富管理--证券" oname="更多" otype="文字链接">
+            <img class="common_img_more" src="/images/more.jpg" /></a></div>
+    <div style="clear:both"></div>
+    <div class="m_finance_info">
+              
+                <li class="repeaterli">·<a href="http://info.cmbchina.com/Stock/Detail.aspx?channel=Important&topic=ZQSCXGYW&id={6DD96F25-3A80-405E-97A3-E6602348902A}" target="_blank"
+                    title='香港股市:港股跟随内地股市下滑 受美联储政策动向不确定性拖累' cname="财富管理--证券--/Default" oname="香港股市:港股跟随内地股市下滑 受美联储政策动向不确定性拖累" otype="文字链接">
+                    香港股市:港股跟随内地股市下滑 受美联储政策动向不确...
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://info.cmbchina.com/Stock/Detail.aspx?channel=Important&topic=ZQSCXGYW&id={98B8E549-7809-4860-91D4-3801A8FFAC7B}" target="_blank"
+                    title='香港股市:恒指周二跌0.82%报23179点 中资股普遍调整' cname="财富管理--证券--/Default" oname="香港股市:恒指周二跌0.82%报23179点 中资股普遍调整" otype="文字链接">
+                    香港股市:恒指周二跌0.82%报23179点 中资股...
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://info.cmbchina.com/Stock/Detail.aspx?channel=Important&topic=ZQSCXGYW&id={F3549F34-89EB-49D2-A977-7E87D025F688}" target="_blank"
+                    title='十大上市银行不良率双升' cname="财富管理--证券--/Default" oname="十大上市银行不良率双升" otype="文字链接">
+                    十大上市银行不良率双升
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://info.cmbchina.com/Stock/Detail.aspx?channel=Important&topic=ZQSCXGYW&id={ADBF7A57-A453-4127-BC53-67C1C16015EF}" target="_blank"
+                    title='盘后点评:权重股集体下挫 沪指收跌0.61%' cname="财富管理--证券--/Default" oname="盘后点评:权重股集体下挫 沪指收跌0.61%" otype="文字链接">
+                    盘后点评:权重股集体下挫 沪指收跌0.61%
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://info.cmbchina.com/Stock/Detail.aspx?channel=Important&topic=ZQSCXGYW&id={BBAD49AB-B2F6-4E00-AC81-5D8BDA57D81B}" target="_blank"
+                    title='韩国股市:受美联储不确定性压抑小幅收低 外资温和买超限制跌幅' cname="财富管理--证券--/Default" oname="韩国股市:受美联储不确定性压抑小幅收低 外资温和买超限制跌幅" otype="文字链接">
+                    韩国股市:受美联储不确定性压抑小幅收低 外资温和买超...
+                </a></li>
+            
+    </div>
+</div>
+<div class="m_finance_midline">
+</div>
+<div class="m_finance_right">
+    <h2 class="m_finance_title">
+        <span>证券快捷通道</span></h2>
+    <div class="m_finance_info">
+        <TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR>
+<TD width=12 rowspan=5></td>
+<TD width="55%">·<A href="https://office.cmbchina.com/CmbWebPubInfo/BondTradePrice.aspx?chnl=bondprice" target=_blank cname="财富管理--证券" oname="国债柜台交易报价" otype="文字链接">国债柜台交易报价</A></TD>
+<TD>·<A href="http://info.cmbchina.com/Third/" target=_blank cname="财富管理--证券" oname="第三方存管" otype="文字链接">第三方存管</A></TD></TR>
+<TR>
+<TD>·<A href="http://info.cmbchina.com/Finance/?topic=CJSP" target=_blank cname="财富管理--证券" oname="财经时评" otype="文字链接">财经时评</A></TD>
+<TD>·<A href="http://info.cmbchina.com/Finance/?topic=JRSC" target=_blank cname="财富管理--证券" oname="金融市场" otype="文字链接">金融市场</A></TD></TR>
+<TR>
+<TD>·<A href="http://info.cmbchina.com/Finance/?topic=GNCJ" target=_blank cname="财富管理--证券" oname="国内财经要闻" otype="文字链接">国内财经要闻</A></TD>
+<TD>·<A href="http://info.cmbchina.com/Stock/List.aspx?channel=Analyse" target=_blank cname="财富管理--证券" oname="股市分析" otype="文字链接">股市分析</A></TD></TR>
+<TR>
+<TD>·<A href="http://info.cmbchina.com/Stock/List.aspx?channel=Report" target=_blank cname="财富管理--证券" oname="研究报告" otype="文字链接">研究报告</A></TD>
+<TD>·<A href="http://info.cmbchina.com/Stock/List.aspx?channel=Report&amp;topic=HYYJ" target=_blank cname="财富管理--证券" oname="行业研究" otype="文字链接">行业研究</A></TD></TR>
+<TR>
+<TD>·<A href="http://info.cmbchina.com/Stock/List.aspx?channel=Analyse&amp;topic=DPFX" target=_blank>大势研判</A></TD>
+<TD>·<A href="http://info.cmbchina.com/Stock/List.aspx?channel=Analyse&amp;topic=BKFX" target=_blank>板块分析</A></TD></TR></TBODY></TABLE>
+    </div>
+</div>
+    </div>
+     <div class="spacer"></div>
+    <div id="Div6" style="display: none;" class="m_finance_container">
+        
+<!--
+<div class="m_finance_left">
+    <h2 class="m_finance_title">
+        <span>代理险种</span></h2>
+    <div class="m_finance_more">
+        <a href="http://cmbchina.cigna-cmc.com/" target="_blank" cname="财富管理--保险" oname="更多"
+            otype="文字链接">
+            <img class="common_img_more" src="/images/more.jpg" /></a></div>
+    <div style="clear: both">
+    </div>
+    <div class="m_finance_info">
+        
+                <li class="repeaterli">·<a href="http://ins.cmbchina.com/product/insprddetail.aspx?prdcode=I00067"
+                    target="_blank" title='泰康金满仓B款年金保险（分红型）' cname="财富管理--保险--/Default"
+                    oname="泰康金满仓B款年金保险（分红型）" otype="文字链接">
+                    泰康金满仓B款年金保险（分红型）
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://ins.cmbchina.com/product/insprddetail.aspx?prdcode=I00057"
+                    target="_blank" title='太平盈盛两全保险C款（分红型）' cname="财富管理--保险--/Default"
+                    oname="太平盈盛两全保险C款（分红型）" otype="文字链接">
+                    太平盈盛两全保险C款（分红型）
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://ins.cmbchina.com/product/insprddetail.aspx?prdcode=I00066"
+                    target="_blank" title='泰康幸福人生A款终身年金保险（分红型）' cname="财富管理--保险--/Default"
+                    oname="泰康幸福人生A款终身年金保险（分红型）" otype="文字链接">
+                    泰康幸福人生A款终身年金保险（分红型）
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://ins.cmbchina.com/product/insprddetail.aspx?prdcode=I00032"
+                    target="_blank" title='财富精选投连保险' cname="财富管理--保险--/Default"
+                    oname="财富精选投连保险" otype="文字链接">
+                    财富精选投连保险
+                </a></li>
+            
+                <li class="repeaterli">·<a href="http://ins.cmbchina.com/product/insprddetail.aspx?prdcode=I00009"
+                    target="_blank" title='太平财富定期寿险' cname="财富管理--保险--/Default"
+                    oname="太平财富定期寿险" otype="文字链接">
+                    太平财富定期寿险
+                </a></li>
+            
+    </div>
+    <div class="m_finance_more">
+        <a href="http://cmbchina.cigna-cmc.com/" target="_blank" cname="财富管理--保险--/Default"
+            oname="more" otype="文字链接">
+            <img class="common_img_more" src="/images/more.jpg" /></a></div>
+</div>
+<div class="m_finance_midline">
+</div>
+-->
+<div>
+    <DIV class=bx_box>
+<DIV class=bx_c_list>
+<DIV class=bx_c_r_title><STRONG><A href="http://cmbchina.cigna-cmc.com/product/lekangwuyou.html" target=_blank>住院津贴保险，满期高额返还</A></STRONG> <A class=bx_more href="http://cmbchina.cigna-cmc.com/product/lekangwuyou.html" target=_blank>更多</A> </DIV>
+<DIV class=bx_c_r_m>
+<DIV class=bx_c_r_pic><A href="http://cmbchina.cigna-cmc.com/product/lekangwuyou.html" target=_blank><IMG alt=住院津贴保险 src="../../images/ins_pic_2.jpg"></A></DIV>
+<P><A href="http://cmbchina.cigna-cmc.com/product/lekangwuyou.html" target=_blank>意外及疾病住院津贴型保险，满期返还128%已交保费，不影响社保和其他医疗保障。</A></P></DIV>
+<UL class=bx_c_r_b>
+<LI><A href="http://cmbchina.cigna-cmc.com/product/lexiangkangjian.html" target=_blank>128%返还型重大疾病保险</A> </LI>
+<LI><A href="http://cmbchina.cigna-cmc.com/product/xinyunwuyou.html" target=_blank>110%返还型意外伤害保险</A> </LI>
+<LI><A href="http://cmbchina.cigna-cmc.com/product/jingneilvyou.html" target=_blank>境内旅游意外险</A> </LI>
+<LI><A href="http://cmbchina.cigna-cmc.com/product/changqingshouxian.html" target=_blank>老年寿险计划</A></LI></UL></DIV>
+<DIV class=bx_c_select>
+<DL class=bx_c_l_r>
+<DT><A href="http://cmbchina.cigna-cmc.com/product/" target=_blank>挑选保险</A> 
+<DD><A href="http://cmbchina.cigna-cmc.com/product/#1" target=_blank>健康管理</A> 
+<DD><A href="http://cmbchina.cigna-cmc.com/product/#2" target=_blank>防范意外</A> 
+<DD><A href="http://cmbchina.cigna-cmc.com/product/#6" target=_blank>外出旅游</A> 
+<DD><A href="http://cmbchina.cigna-cmc.com/product/#3" target=_blank>关爱子女</A> 
+<DD><A href="http://cmbchina.cigna-cmc.com/product/#4" target=_blank>孝敬父母</A></DD></DL><IMG class=bx_c_l_pic alt=人物 src="../../images/ins_pic_1.jpg" width=59 height=116> 
+<DIV class=bx_c_l_m><STRONG><A href="http://cmbchina.cigna-cmc.com/product/?c=need#3" target=_blank>没有最好，<BR>只有最适合的保险！</A></STRONG> <SPAN>根据您的需求定制产品</SPAN> <A class=btn_startest title=开始测试 href="http://cmbchina.cigna-cmc.com/product/?c=need#3" target=_blank></A></DIV></DIV></DIV>
+<STYLE type=text/css>
+.bx_box{ width:691px;height:165px; padding:15px 15px 0 15px;}
+.bx_box a{ color:#333; text-decoration:none}
+.bx_box a:hover{ color:#ff0000;}
+.bx_box a img{ border:0px; }
+.bx_c_list{ float:left; width:351px; padding:0 19px 5px 0; border-right:solid 1px #ccc; font-size:12px;}
+.bx_c_r_title{float:left; width:351px; padding-bottom:6px;}
+.bx_c_r_title strong a{ float:left;font-size:14px; display:block;background:url(../../images/ins_icon_arrow.gif) no-repeat left center; padding-left:14px;}
+.bx_more{height:17px; line-height:17px; border:solid 1px #DCDCDC; background:url(../../images/ins_icon_arrow2.gif) no-repeat 32px center; padding:0 18px 0 6px; display:block; float:right; }
+.bx_c_r_m{ clear:both;width:337px; padding-left:14px; }
+.bx_c_r_pic{ float:left; width:92px;height:62px; background:#fff; border:solid 1px #ccc; padding:3px; margin-right:10px;}
+.bx_c_r_m p{ float:left; width:210px; font-size:12px; }
+.bx_c_r_m p a{ color:#999; line-height:18px; }
+.bx_c_r_m p a:hover{ color:#ff0000;}
+.bx_c_r_b{list-style-type:none; font-size:12px; clear:both; width:351px; padding-top:7px; color:#444;}
+.bx_c_r_b li{ list-style-type:none; width:160px; float:left;background:url(../../images/ins_dot.gif) no-repeat left center; padding-left:14px; line-height:22px;}
+.bx_c_select{ width:300px; float:right;}
+.bx_c_l_pic{float:left; padding-top:27px;} 
+.bx_c_l_m{ float:left; width:auto; padding:30px 0 0 6px; } 
+.bx_c_l_m strong a{ color:#7F5441; font-size:14px; font-family:"微软雅黑"; line-height:18px;}
+.bx_c_l_m strong a:hover{color:#ff0000;}
+.bx_c_l_m span{ font-size:12px; color:#999; display:block; padding:12px 0 0 0; }
+.btn_startest{ display:block; width:120px;height:35px; background:url(../../images/ins_btn_startest.gif) no-repeat; margin-top:10px;}
+.bx_c_l_r{ float:left; font-size:12px; padding-right:17px;}
+.bx_c_l_r dt{ font-size:14px; color:#333; background:url(../../images/ins_icon_arrow.gif) no-repeat left center; padding-left:14px; font-weight:bold; margin-bottom:10px; }
+.bx_c_l_r dd{background:url(../../images/ins_dot.gif) no-repeat left center; padding-left:8px; line-height:24px;margin:0px;}</STYLE>
+</div>
+
+    </div>
+    
+    <div id="Div7" style="display: none;" class="m_finance_container">
+        
+<div class="m_finance_left">
+ <h2 class="m_finance_title">
+        <span>最新积分商品</span></h2>
+            <div class="m_finance_more">
+        <a href="http://ccclub.cmbchina.com/ccclubnew/Default.aspx" target="_blank" cname="财富管理--商城" oname="更多" otype="文字链接">
+            <img class="common_img_more" src="/images/more.jpg" /></a></div>
+    <div style="clear:both"></div>
+    <div class="m_finance_info">
+        
+        <div class="SingleProduct">
+            <div class="proImg" style="height:85px;">
+                <a href="http://ccclub.cmbchina.com/ccclubnew/productinfo.aspx?gid=2013083054172" title="抽奖AKG耳机" target="_blank" cname="财富管理--商城--/Default" oname="抽奖AKG耳机" otype="文字链接">
+                    <img alt="抽奖AKG耳机" src="http://file.cmbchina.com/ccclub/thumb/201308/2013083054172_1.jpg" width="80px" height="80px" border="0" />
+                </a>
+            </div>
+            <ul class="proDetail">
+                <li><a href="http://ccclub.cmbchina.com/ccclubnew/productinfo.aspx?gid=2013083054172" title="抽奖AKG耳机" target="_blank" cname="财富管理--商城--/Default" oname="抽奖AKG耳机" otype="文字链接">
+                    抽奖AKG耳机</a></li>
+                
+                <li>兑换积分：9分
+                    
+            </ul>
+        </div>
+        <div style="width:15px; float:left">&nbsp;</div>
+        
+        <div class="SingleProduct">
+            <div class="proImg" style="height:85px;">
+                <a href="http://ccclub.cmbchina.com/ccclubnew/productinfo.aspx?gid=2013083054171" title="抽奖iPad 4" target="_blank" cname="财富管理--商城--/Default" oname="抽奖iPad 4" otype="文字链接">
+                    <img alt="抽奖iPad 4" src="http://file.cmbchina.com/ccclub/thumb/201308/2013083054171_1.jpg" width="80px" height="80px" border="0" />
+                </a>
+            </div>
+            <ul class="proDetail">
+                <li><a href="http://ccclub.cmbchina.com/ccclubnew/productinfo.aspx?gid=2013083054171" title="抽奖iPad 4" target="_blank" cname="财富管理--商城--/Default" oname="抽奖iPad 4" otype="文字链接">
+                    抽奖iPad 4</a></li>
+                
+                <li>兑换积分：99分
+                    
+            </ul>
+        </div>
+        <div style="width:15px; float:left">&nbsp;</div>
+        
+        <div class="SingleProduct">
+            <div class="proImg" style="height:85px;">
+                <a href="http://ccclub.cmbchina.com/ccclubnew/productinfo.aspx?gid=2013083054170" title="抽奖佳能微单套机" target="_blank" cname="财富管理--商城--/Default" oname="抽奖佳能微单套机" otype="文字链接">
+                    <img alt="抽奖佳能微单套机" src="http://file.cmbchina.com/ccclub/thumb/201308/2013083054170_1.jpg" width="80px" height="80px" border="0" />
+                </a>
+            </div>
+            <ul class="proDetail">
+                <li><a href="http://ccclub.cmbchina.com/ccclubnew/productinfo.aspx?gid=2013083054170" title="抽奖佳能微单套机" target="_blank" cname="财富管理--商城--/Default" oname="抽奖佳能微单套机" otype="文字链接">
+                    抽奖佳能微单套机</a></li>
+                
+                <li>兑换积分：199分
+                    
+            </ul>
+        </div>
+        <div style="width:15px; float:left">&nbsp;</div>
+        
+    </div>
+
+</div>
+<div class="m_finance_midline">
+</div>
+<div class="m_finance_right">
+    <h2 class="m_finance_title">
+        <span>商城快捷通道</span></h2>
+    <div class="m_finance_info">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" align=center>
+<TBODY>
+<TR>
+<TD rowSpan=5 width=12></TD>
+<TD width="55%">·<A href="http://shop.cmbchina.com/CellTelephone/Default.aspx" target=_blank cname="财富管理--商城" oname="手机充值" otype="文字链接">手机充值</A></TD>
+<TD>·<A href="http://shop.cmbchina.com/GameCard/Default.aspx" target=_blank cname="财富管理--商城" oname="游戏点卡" otype="文字链接">游戏点卡</A></TD></TR>
+<TR>
+<TD>·<A href="http://shop.cmbchina.com/Lottery.htm" target=_blank cname="财富管理--商城" oname="彩票充值" otype="文字链接">彩票充值</A></TD>
+<TD>·<A href="http://shop.cmbchina.com/join" target=_blank cname="财富管理--商城" oname="商城" otype="文字链接">加盟流程</A></TD></TR>
+<TR>
+<TD>·<A href="http://ccclub.cmbchina.com/ccclubnew/Default.aspx" target=_blank cname="财富管理--商城" oname="积分计划" otype="文字链接">积分计划</A></TD>
+<TD>·<A href="http://www.cardcmb.com/djf/" target=_blank cname="财富管理--商城" oname="积分抵消费" otype="文字链接">积分抵消费</A></TD></TR>
+<TR>
+<TD>·<A href="http://ccclub.cmbchina.com/ccclubnew/PointCategory.aspx?categoryId=1070" target=_blank>积分抽奖</A></TD>
+<TD>·<A href="http://ccclub.cmbchina.com/ccclubnew/PointCategory.aspx?categoryId=2643" target=_blank cname="财富管理--商城" oname="生日积分专区" otype="文字链接">生日积分专区</A></TD></TR>
+<TR>
+<TD>·<A href="http://ccclub.cmbchina.com/ccclubnew/PointCategory.aspx?categoryId=1025" target=_blank>缤纷好礼</A></TD>
+<TD>·<A href="http://ccclub.cmbchina.com/ccclubnew/PointCategory.aspx?categoryId=2583" target=_blank>二维码兑换</A></TD></TR></TBODY></TABLE>
+    </div>
+   
+</div>
+
+    </div> <div class="spacer"></div>
+</div>
+<script type="text/javascript" language="javascript">
+    for (var i = 0; i < 7; i++) {
+        o = document.getElementById("Div" + i);
+        if (o) {
+            o.onmouseover = function() {
+                clearInterval(finaTime);
+            }
+            o.onmouseout = function() {
+            if(!pause)
+                finaTime = setInterval("autoShow()", 2000);
+            }
+        }
+    }
+</script>
+			<div style=" margin-bottom:6px!important; margin-bottom:5px">
+            </div>
+             <div class="adv_big" style="margin-bottom:8px;"><A href="http://live.cmbchina.com/webpages/zyz2013/index.html" target=_blank><IMG border=0 src="http://images.cmbchina.com/cmbcms/201309/7636e5d8-2b00-48c0-80ee-62cfa1fefcf7.jpg" width=723 height=96></A></div>
+			
+<div class="m_mid_con">
+    <h2 class="m_head">
+        <span>个人业务</span></h2>
+    <div class="spacer">
+    </div>
+    <div class="m_con_container">
+        <DIV class=m_bussiness_left>
+<DIV class=m_bussiness_img><A href="http://www.cmbchina.com/personal/allinonecard/CardInfo.aspx?guid=f6b86786-1726-4205-bd38-f454dad045f0" target=_blank><IMG border=0 src="http://images.cmbchina.com/cmbcms/201306/f90d066f-5354-4d58-bc4d-8cddd596f133.png" width=108 height=108></A></DIV>
+<DIV class=m_bussiness_r>
+<DIV class=m_bussiness_head>一卡通M+卡</DIV>
+<DIV class=m_bussiness_info><A href="http://www.cmbchina.com/personal/allinonecard/CardInfo.aspx?guid=f6b86786-1726-4205-bd38-f454dad045f0" target=_blank cname="个人业务" oname="生意贷" otype="文字链接">“一卡通”M+卡是招商银行发行的年轻人专属的银行卡，多款酷炫卡面设计，全国首创卡面二维码查优惠，高效、便携、实惠的金融服务，立享转账取款免费特权。 </A></DIV>
+<DIV class=m_bussiness_more><A href="http://www.cmbchina.com/personal/allinonecard/CardInfo.aspx?guid=f6b86786-1726-4205-bd38-f454dad045f0" target=_blank cname="个人业务" oname="消费易-more" otype="文字链接"><IMG border=0 src="http://file.cmbchina.com/cmbcms/201006/d317cb28-c61e-4f5e-92f9-48138ede6bf1.jpg" width=49 height=19></A></DIV></DIV></DIV>
+<DIV class=m_bussiness_midline></DIV>
+<DIV class=m_bussiness_right>
+<H2 class=m_bussiness_title><SPAN>个人业务快捷通道</SPAN></H2>
+<DIV class=m_bussiness_info>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" align=center>
+<TBODY>
+<TR>
+<TD width="55%">·<A href="http://www.cmbchina.com/personal/living/LivingInfo.aspx?guid=14ede84e-37f4-4f48-a603-8496561da297" target=_blank cname="个人业务" oname="自助缴费" otype="文字链接">自助缴费</A></TD>
+<TD>·<A href="http://www.cmbchina.com/personal/living/LivingInfo.aspx?guid=af9fd53b-dc57-4690-834e-7b59f19e4e9e" target=_blank cname="个人业务" oname="个人自助结售汇业务" otype="文字链接">个人自助结售汇业务</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/personal/living/LivingInfo.aspx?guid=bde03936-36ae-435b-beac-c61d43959a05" target=_blank cname="个人业务" oname="国际收入自助申报" otype="文字链接">国际收入自助申报</A></TD>
+<TD>·<A href="http://www.cmbchina.com/personal/saving/SavingInfo.aspx?guid=77cfca76-1c25-493d-b969-b0e696a2c507" target=_blank cname="个人业务" oname="境内汇款" otype="文字链接">境内汇款</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/personal/credit/CreditInfo.aspx?guid=0e8f9198-9b73-4f2a-94e7-c334f5e5417c" target=_blank cname="个人业务" oname="生意一卡通" otype="文字链接">生意一卡通</A></TD>
+<TD>·<A href="http://www.cmbchina.com/personal/saving/SavingInfo.aspx?guid=86652863-3ab6-4061-bf13-1ea4673d5dd0" target=_blank cname="个人业务" oname="境外汇款" otype="文字链接">境外汇款</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/personal/living/LivingInfo.aspx?guid=f09fe257-85a4-41f3-b364-6411df7096fa" target=_blank cname="个人业务" oname="自助境外汇款业务" otype="文字链接">自助境外汇款业务</A></TD>
+<TD>·<A href="http://www.cmbchina.com/personal/credit/" target=_blank>个人贷款</A></TD></TR></TBODY></TABLE></DIV>
+<DIV class=m_bussiness_more><A href="http://www.cmbchina.com/personal" target=_blank cname="个人业务" oname="more" otype="文字链接"><IMG border=0 src="http://file.cmbchina.com/cmbcms/201006/d317cb28-c61e-4f5e-92f9-48138ede6bf1.jpg" width=49 height=19></A></DIV></DIV></div>
+</div>
+
+			
+<div class="m_mid_con">
+    <h2 class="m_head">
+        <span>公司业务</span></h2>
+    <div class="m_con_container">
+        <DIV class=m_bussiness_left>
+<DIV class=m_bussiness_img><A href="http://www.cmbchina.com/corporate/sme/SMEInfo.aspx?guid=60f53bff-d077-4ec9-afe2-5e57609301c3" target=_blank><IMG border=0 src="http://images.cmbchina.com/cmbcms/201301/589bf6d7-20eb-49c7-94ef-cfe1c722200e.jpg" width=108 height=108></A></DIV>
+<DIV class=m_bussiness_r>
+<DIV class=m_bussiness_head>小贷通</DIV>
+<DIV class=m_bussiness_info><A href="http://www.cmbchina.com/corporate/sme/SMEInfo.aspx?guid=60f53bff-d077-4ec9-afe2-5e57609301c3" target=_blank cname="公司业务" oname="小贷通" otype="文字链接">招商银行以通用融资产品加定制化贷款业务，标准流程，快速放贷，弹性还款，满足小企业短、小、频、急融资需求。 </A></DIV>
+<DIV class=m_bussiness_more><A href="http://live.cmbchina.com/webpages/zld/zld01.html" target=_blank cname="公司业务" oname="助力贷-more" otype="文字链接"><IMG border=0 src="http://file.cmbchina.com/cmbcms/201006/d317cb28-c61e-4f5e-92f9-48138ede6bf1.jpg" width=49 height=19></A></DIV></DIV></DIV>
+<DIV class=m_bussiness_midline></DIV>
+<DIV class=m_bussiness_right>
+<H2 class=m_bussiness_title><SPAN>公司业务快捷通道</SPAN></H2>
+<DIV class=m_bussiness_info>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" align=center>
+<TBODY>
+<TR>
+<TD width="55%">·<A href="http://www.cmbchina.com/corporate/cashmanagement/" target=_blank cname="公司业务" oname="现金管理" otype="文字链接">现金管理</A></TD>
+<TD>·<A href="http://www.cmbchina.com/corporate/investment/" target=_blank cname="公司业务" oname="投资银行" otype="文字链接">投资银行</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/corporate/international/" target=_blank cname="公司业务" oname="国际业务" otype="文字链接">国际业务</A></TD>
+<TD>·<A href="http://www.cmbchina.com/corporate/pension/" target=_blank cname="公司业务" oname="企业年金" otype="文字链接">企业年金</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmbchina.com/corporate/custody/" target=_blank cname="公司业务" oname="资产托管" otype="文字链接">资产托管</A></TD>
+<TD>·<A href="http://www.cmbchina.com/corporate/offshore/" target=_blank cname="公司业务" oname="离岸业务" otype="文字链接">离岸业务</A></TD></TR>
+<TR>
+<TD>·<A href="http://www.cmb-leasing.com/" target=_blank cname="公司业务" oname="融资租赁" otype="文字链接">融资租赁</A></TD>
+<TD>·<A href="http://www.cmbchina.com/corporate/financial/" target=_blank cname="公司业务" oname="同业金融" otype="文字链接">同业金融</A></TD></TR></TBODY></TABLE></DIV>
+<DIV class=m_bussiness_more><A href="http://www.cmbchina.com/corporate/" target=_blank cname="公司业务" oname="more" otype="文字链接"><IMG border=0 src="http://file.cmbchina.com/cmbcms/201006/d317cb28-c61e-4f5e-92f9-48138ede6bf1.jpg" width=49 height=19></A></DIV></DIV>
+    </div>
+</div>
+
+			
+<div class="c_mid_con">
+    <h2 class="m_head">
+        <span>信用卡</span></h2>
+    <div class="c_con_container">
+        <DIV class=c_bussiness_left>
+<DIV class=m_bussiness_img><A href="http://ccclub.cmbchina.com/ccclubnew/Default.aspx" target=_blank><IMG border=0 src="http://images.cmbchina.com/cmbcms/201211/efb6a5ad-8207-4c02-86de-0da3c404edb7.jpg" width=108 height=108></A></DIV>
+<DIV class=m_bussiness_r>
+<DIV class=m_bussiness_head>小积分大乐趣</DIV>
+<DIV class=m_bussiness_info><A href="http://www.cardcmb.com/2011jfnew/xbk.html" target=_blank>·星巴克全国：799积分</A><BR><A href="http://www.cardcmb.com/2011jfnew/familymart.html" target=_blank>·全家：25积分=1元</A><BR><A href="http://www.cardcmb.com/2011jfnew/dq.html" target=_blank>·DQ：20积分=1元</A><BR><A href="http://www.cardcmb.com/2011jfnew/mdl.html" target=_blank>·麦当劳299积分起兑 </A></DIV>
+<DIV class=m_bussiness_more><A href="http://cc.cmbchina.com/" target=_blank cname="信用卡" oname="more" otype="文字链接"><IMG border=0 src="http://file.cmbchina.com/cmbcms/201006/d317cb28-c61e-4f5e-92f9-48138ede6bf1.jpg" width=49 height=19></A></DIV></DIV></DIV>
+<DIV class=c_bussiness_midline></DIV>
+<DIV class=c_bussiness_right>
+<H2 class=m_bussiness_title><SPAN>信用卡业务快捷通道</SPAN></H2>
+<DIV class=m_bussiness_info>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" align=center>
+<TBODY>
+<TR>
+<TD width="55%">·<A href="http://ccclub.cmbchina.com/CCProduct/newcustomer.aspx" target=_blank cname="信用卡" oname="信用卡申请" otype="文字链接">信用卡申请</A></TD>
+<TD>·<A href="http://cc.cmbchina.com/Promotion/" target=_blank cname="信用卡" oname="特惠快讯" otype="文字链接">特惠快讯</A></TD></TR>
+<TR>
+<TD>·<A href="http://ccclub.cmbchina.com/CCProduct/Recomment.aspx" target=_blank cname="信用卡" oname="推荐亲友办卡" otype="文字链接">推荐亲友办卡</A></TD>
+<TD><A href="http://cc.cmbchina.com/financing/" target=_blank cname="信用卡" oname="分期付款购物" otype="文字链接">·分期付款购物</A></TD></TR>
+<TR>
+<TD>·<A href="http://ccclub.cmbchina.com/ccclubnew/index.aspx" target=_blank cname="信用卡" oname="购信用卡商城" otype="文字链接">非常E购信用卡商城</A></TD>
+<TD>·<A href="http://best.cmbchina.com/" target=_blank cname="信用卡" oname="优惠商户" otype="文字链接">优惠商户</A></TD></TR>
+<TR>
+<TD>·<A href="http://ccclub.cmbchina.com/ccclubnew/Default.aspx" target=_blank cname="信用卡" oname="积分计划" otype="文字链接">积分计划</A></TD>
+<TD>·<A href="http://cc.cmbchina.com/cusservice/" target=_blank cname="信用卡" oname="客户服务" otype="文字链接">客户服务</A></TD></TR></TBODY></TABLE></DIV>
+<DIV class=m_bussiness_more><A href="http://cc.cmbchina.com/" target=_blank><IMG border=0 src="http://file.cmbchina.com/cmbcms/201006/d317cb28-c61e-4f5e-92f9-48138ede6bf1.jpg" width=49 height=19></A></DIV></DIV>
+    </div>
+</div>
+			 <div class="adv_small" style="margin-bottom:8px; clear:both"><TABLE border=0 cellSpacing=0 cellPadding=0 width=723 height=68>
+<TBODY>
+<TR>
+<TD align=left><A href="http://cmbchina.allyes.com/lfw/" target=_blank><IMG border=0 src="http://images.cmbchina.com/cmbcms/201205/22ffd44a-1b14-4918-ad4b-2017b7b7565e.jpg" width=177 height=68></A></TD>
+<TD align=middle><A href="http://warmpackage.cmbchina.allyes.com/" target=_blank><IMG border=0 src="http://images.cmbchina.com/cmbcms/201301/c16a2d2b-9048-4b5f-a43b-d480f962d6cf.jpg" width=177 height=68></A></TD>
+<TD align=middle><A href="http://live.cmbchina.com/webpages/cmb2013promotion/index.html" target=_blank><IMG border=0 src="http://images.cmbchina.com/cmbcms/201305/6fc8d873-cbd2-468f-af67-d7611b874fd7.jpg" width=177 height=68></A></TD>
+<TD align=right><A href="http://www.cmbchina.com/personal/common.aspx?pageid=20130603ydyh" target=_blank><IMG border=0 src="http://images.cmbchina.com/cmbcms/201307/f266f1db-5429-4c30-b4c3-65ea917cf6d2.jpg" width=177 height=68></A></TD></TR></TBODY></TABLE></div>
+		    
+<div class="m_mid_con_cmbinfo">
+    <h2 class="m_head">
+        <span>今日招行</span></h2>
+    <div class="spacer">
+    </div>
+    <div class="m_con_container_cmbinfo">
+        <div class="m_con_left">
+            <h2 class="m_con_title">
+                <span>招行新闻</span></h2>
+            <div class="m_con_info">
+                
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+    
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="招商银行：私人银行或成为银行转型突破口" otype="文字链接" title="招商银行：私人银行或成为银行转型突破口" href="/cmbinfo/news/newsinfo.aspx?guid=8d9f9b92-742a-4f44-b62e-4f580f329335">
+                        ·招商银行：私人银行或成为银行转型突破口
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="招行确定配股价格为9.29元" otype="文字链接" title="招行确定配股价格为9.29元" href="/cmbinfo/news/newsinfo.aspx?guid=79da7858-419b-4877-b165-ff43c03cc5d9">
+                        ·招行确定配股价格为9.29元
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="田惠宇：以服务为主线深入推进二次转型" otype="文字链接" title="田惠宇：以服务为主线深入推进二次转型" href="/cmbinfo/news/newsinfo.aspx?guid=5c88804c-1c98-4a4d-a066-4ba033ff8193">
+                        ·田惠宇：以服务为主线深入推进二次转型
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="招行志愿者 全国十地接力爱心" otype="文字链接" title="招行志愿者 全国十地接力爱心" href="/cmbinfo/news/newsinfo.aspx?guid=fc023385-f1f1-4bd0-bc0b-3e92cd8a88d0">
+                        ·招行志愿者 全国十地接力爱心
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="招行差异化服务能力显著增强" otype="文字链接" title="招行差异化服务能力显著增强" href="/cmbinfo/news/newsinfo.aspx?guid=f45c27a6-5bb5-4e46-bb59-6514f2facc74">
+                        ·招行差异化服务能力显著增强
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="招商银行：因您而变 开启新一轮成长周期" otype="文字链接" title="招商银行：因您而变 开启新一轮成长周期" href="/cmbinfo/news/newsinfo.aspx?guid=e3c433d9-71e5-4ed8-87d9-dc664cf4f745">
+                        ·招商银行：因您而变 开启新一轮成长周期
+                    </a>
+                </td>
+            </tr>
+        
+            <tr>
+                <td height="24px">
+                    <a target="_blank" cname="优惠快讯" oname="招行推智慧供应链金融平台 企业可自助申请贷款" otype="文字链接" title="招行推智慧供应链金融平台 企业可自助申请贷款" href="/cmbinfo/news/newsinfo.aspx?guid=141588c8-8ad1-4654-89a0-8341441aa871">
+                        ·招行推智慧供应链金融平台 企业可自助申请贷款
+                    </a>
+                </td>
+            </tr>
+        
+</table>
+
+            </div>
+            <div class="m_con_more">
+                <a href="/cmbinfo/news/">
+                    <img class="common_img_more" src="/images/more.jpg" /></a></div>
+        </div>
+        <div class="m_con_midline_cmbinfo">
+        </div>
+        <div class="m_con_right">
+            <h2 class="m_con_title">
+                <span>招行公告</span></h2>
+            <div class="m_con_info">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                    
+                            <tr>
+                                <td height="24px">
+                                    <a target="_blank" title="关于签署募集资金专户存储监管协议的公告" href="/cmbir/DetailInfo.aspx?chnl=Announcement&id=1201"  cname="招行公告" oname="关于签署募集资金专户存储监管协议的公告" otype="文字链接">
+                                        ·关于签署募集资金专户存储监管协议的公告
+                                    </a>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td height="24px">
+                                    <a target="_blank" title="关于田惠宇先生行长任职资格核准的公告" href="/cmbir/DetailInfo.aspx?chnl=Announcement&id=1200"  cname="招行公告" oname="关于田惠宇先生行长任职资格核准的公告" otype="文字链接">
+                                        ·关于田惠宇先生行长任职资格核准的公告
+                                    </a>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td height="24px">
+                                    <a target="_blank" title="2013年度A股配股股份变动及获配股票上市公告书" href="/cmbir/DetailInfo.aspx?chnl=Announcement&id=1199"  cname="招行公告" oname="2013年度A股配股股份变动及获配股票上..." otype="文字链接">
+                                        ·2013年度A股配股股份变动及获配股票上...
+                                    </a>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td height="24px">
+                                    <a target="_blank" title="2013年度A股配股发行结果公告" href="/cmbir/DetailInfo.aspx?chnl=Announcement&id=1198"  cname="招行公告" oname="2013年度A股配股发行结果公告" otype="文字链接">
+                                        ·2013年度A股配股发行结果公告
+                                    </a>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td height="24px">
+                                    <a target="_blank" title="关于公司章程修订获中国银监会核准的公告" href="/cmbir/DetailInfo.aspx?chnl=Announcement&id=1196"  cname="招行公告" oname="关于公司章程修订获中国银监会核准的公告" otype="文字链接">
+                                        ·关于公司章程修订获中国银监会核准的公告
+                                    </a>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td height="24px">
+                                    <a target="_blank" title="2013年度A股配股发行提示性公告" href="/cmbir/DetailInfo.aspx?chnl=Announcement&id=1197"  cname="招行公告" oname="2013年度A股配股发行提示性公告" otype="文字链接">
+                                        ·2013年度A股配股发行提示性公告
+                                    </a>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td height="24px">
+                                    <a target="_blank" title="2013年度A股配股发行提示性公告" href="/cmbir/DetailInfo.aspx?chnl=Announcement&id=1195"  cname="招行公告" oname="2013年度A股配股发行提示性公告" otype="文字链接">
+                                        ·2013年度A股配股发行提示性公告
+                                    </a>
+                                </td>
+                            </tr>
+                        
+                </table>
+            </div>
+            <div class="m_con_more">
+                <a href="/cmbir" cname="招行公告" oname="更多" otype="文字链接">
+                    <img class="common_img_more" src="/images/more.jpg" /></a></div>
+        </div>
+    </div>
+</div>
+
+		</div>
+		<div style="clear:both"></div>
+		<div style="height: 6px!important; height:8px;overflow: hidden;"></div>
+	    <div style="width:950px; height:209px;">
+		<iframe frameborder="0" height="209" scrolling="no" width="950px" src="http://vip.cmbchina.com/vipdefault.aspx"> </iframe>
+	</div>		
+	</div>
+<div style="width:110px; height:147px; position:fixed; bottom:10px; _position:absolute; right:10px; background-color:#FFFFFF; _top:expression(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight);">
+	    <a href="http://www.cmbchina.com/mbankweb/" target="_blank" title="手机银行下载">
+	        <img style="width:110px; height:147px; border:none; cursor:pointer" src="Images/mobile_app_qr_code.jpg" alt="手机银行下载" />
+	    </a>
+	</div>
+ 
+	<div class="spacer"></div>
+	
+<table cellspacing="0" cellpadding="0" width="950px" align="center" border="0">
+    <tr height="8">
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="background-color: #666;">
+            <div id="FooterNav">
+                <div style="float: left; width: 150px; height: 30px;">
+                </div>
+                <ul>
+                    <li><a href="/webpages/certificate.htm" target="_blank" cname="页脚导航" oname="安全说明"
+                        otype="文字链接">安全说明</a></li>
+                    <li>|</li>
+                    <li><a href="/about/?pageid=webnotice" cname="页脚导航" oname="网站声明" otype="文字链接">网站声明</a></li>
+                    <li>|</li>
+                    <li><a href="/about/?pageid=privacy" cname="页脚导航" oname="隐私保密条款" otype="文字链接">隐私保密条款</a></li>
+                    <li>|</li>
+                    <li><a href="/about/sitemap.aspx" cname="页脚导航" oname="网站地图" otype="文字链接">网站地图</a></li>
+                    <li>|</li>
+                    <li><a href="/about/?pageid=goodlink" cname="页脚导航" oname="友情链接" otype="文字链接">友情链接</a></li>
+                    <li>|</li>
+                    <li><a href="javascript:AddFavorite('http://www.cmbchina.com','招商银行--欢迎来到一网通主站');"
+                        cname="页脚导航" oname="加入收藏夹" otype="文字链接">加入收藏夹</a></li>
+                    <li>|</li>
+                    <li><a target="_blank" href="http://career.cmbchina.com/" cname="页脚导航" oname="人才招聘"
+                        otype="文字链接">人才招聘</a></li>
+                    <li>|</li>
+                    <li><a target="_blank" href="http://www.cmbchina.com/MBankWeb/Site/" cname="页脚导航"
+                        oname="手机一网通" otype="文字链接">手机一网通</a></li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
+<table cellspacing="0" cellpadding="0" width="950px" align="center" border="0">
+    <tr>
+    <td width = "15%" style="text-align:center" rowspan=2 valign=top> <br /><img src="/images/2-dbarcode.png" border="0" alt="手机一网通二维码"><br /><div style=" font-size:12px; height:25px; line-height:15px; margin-top:10px;">手机一网通<br />m.cmbchina.com</div></td>
+    <td><table  cellspacing="0" cellpadding="0" width="780px" align="center" border="0">
+    <tr><td colspan="3">&nbsp;</tr>
+    <tr>
+      <td width="30%">服务热线：95555</td>
+      <td width="30%">&nbsp;</td>
+      <td width="40%">招商银行客户投诉受理渠道：</td>
+    </tr>
+    <tr>
+    <td>境外服务热线：86-755-84391000</td>
+    <td>私人银行服务专线：40066-95555</td>
+     <td>电话渠道：95555转7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;网络渠道：95555@cmbchina.com</td>
+    </tr>
+    <tr>
+    <td>信用卡服务热线：400-820-5555</td>
+     <td>钻石贵宾服务专线：40068-95555</td>
+      <td>信函渠道：深圳市福田区深南大道7088号招商银行大厦，</td>
+    </tr>
+    <tr>
+    <td>企业年金服务热线：800-830-8855</td>
+     <td>金葵花贵宾服务专线：40088-95555</td>
+      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;招商银行服务监督管理中心，邮政编码：518040</td>
+    </tr>
+    
+    </table></td>
+    
+    <tr width="85%">
+        <td>
+            <table cellpadding="0" cellspacing="0" border="0" width="60%" align="center">
+                <tr>
+                    <td align="center">
+                        <a target="_blank" href="/webpages/cmbsafe/index.htm">
+                            <img src="/images/wangan.gif" border="0" alt="网络安全标志"></a>
+                    </td>
+                    <td width=15></td>
+                    <td align="center">
+                        <a href="http://www.sznet110.gov.cn/netalarm/index.jsp" target="_blank">
+                            <img src="/images/sz_police.gif" border="0" alt="网络安全标志"></a>
+                    </td>
+                    <td align="center">
+                        <a id='___szfw_logo___' href='https://search.szfw.org/cert/l/CX20120110001800001833'
+                            target='_blank'>
+                            <img src="/images/chengxinlogo.png" border="0" alt="诚信网站"></a>
+
+                        <script type='text/javascript'>(function(){document.getElementById('___szfw_logo___').oncontextmenu = function(){return false;}})();</script>
+
+                    </td>
+                    <td align="center" class="FooterGray">
+                        招商银行一网通 创建于一九九七年
+                        <br>
+                        &copy 2013 招商银行 版权所有<br>
+                        ICP许可证号 粤B2-20040497
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<script language="javascript">
+function AddFavorite(sURL, sTitle)
+{
+    try
+    {
+        window.external.addFavorite(sURL, sTitle);
+    }
+    catch (e)
+    {
+        try
+        {
+            window.sidebar.addPanel(sTitle, sURL, "");
+        }
+         catch(e)
+        {
+        }
+    }
+}
+    if (window.screen.width > 1024) {
+    	document.body.style.background = "#fff url(/images/bg.gif) no-repeat center top";
+    	document.getElementById("top_bar").style.width = "950px";
+    }
+    else {
+        document.body.style.background = "#fff";
+        document.getElementById("top_bar").style.width = "100%";
+    }
+</script>
+
+<script language="javascript" src="/scripts/sdc_web.js" type="text/javascript"></script>
+
+
+	</form>
+</body>
+</html>

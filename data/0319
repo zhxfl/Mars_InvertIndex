@@ -1,0 +1,694 @@
+<!DOCTYPE html><html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=7" http-equiv="X-UA-Compatible"/>
+<link href="http://baike.bdimg.com/static/common/css/user-base.css?@=vj0oal&amp;t=20120315125647" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/common/js/user-base.js?@=2dyv14v&amp;t=20120315125647" type="text/javascript"></script><meta charset="utf-8"/><meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible"/><title>百度百科学术委员会</title><link href="http://baike.bdimg.com/static/common/ui/basecss/basecss.css" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/common/css/view.css" rel="stylesheet" type="text/css"/><link href="/static/lemma/css/album.css" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/usercenter/css/logic/recruit.css?@=y9baqk" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/usercenter/js/release/bk.shop.js?@=5hwy4n" type="text/javascript"></script><style>.tangram-pager-current{border:none;font-weight:bold;color:black}</style>
+<style>#rights{color:#666;margin-top:44px;text-align:center;font-size:12px}.area{margin-bottom:10px;zoom:1}.foot{height:100px}.main{width:980px;margin:0 auto;font-family:宋体}#ft{clear:both;font-size:12px;line-height:20px;margin-top:10px;white-space:nowrap;color:#77C;text-align:center}#search-content{overflow:hidden}</style>
+<script>baidu.dom.ready(function(){baidu.page.loadJsFile("http://baike.bdimg.com/static/common/js/sug.js?t="+Math.random());});</script>
+</head>
+<body>
+<div id="wrap">
+<div id="userbarx"></div>
+<div class="search fix" style="margin-top:26px">
+<div class="clearfix" id="search">
+<div id="logo">
+<a title="到百科首页" href="/" class="nslog:1008"><img width="137" height="46" src="http://img.baidu.com/img/baike/logo-baike.png" /></a>
+</div>
+<div id="search-content">
+<p class="nv nslog-area" data-nslog-type="1009">
+<a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://music.baidu.com/?fr=bk">音乐</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><a href="http://map.baidu.com/?fr=bk">地图</a><strong>百科</strong><a href="http://wenku.baidu.com/?fr=bk">文库</a>
+</p>
+<form action="/search/word?" id="f1" method="get" name="f1" target="_self">
+<span class="s_ipt_wr"><span><input class="s_ipt" id="word" maxlength="100" name="word" tabindex="1" value=""/></span></span><span class="s_btn_wr" style="margin-right:6px"><span><input class="s_btn nslog:1010" onclick="this.form.pic.value=1" onmousedown="this.className=&#34;s_btn s_btn_h&#34;" onmouseout="this.className=&#34;s_btn&#34;" tabindex="2" type="submit" value="进入词条"/></span></span><span class="s_btn_wr"><span><input class="s_btn nslog:1011" onclick="this.form.pic.value=2" onmousedown="this.className=&#34;s_btn s_btn_h&#34;" onmouseout="this.className=&#34;s_btn&#34;" tabindex="3" type="submit" value="搜索词条"/></span></span>
+<input id="sw1" name="pic" type="hidden" value="1"/>
+<input name="sug" type="hidden" value="1"/>
+<input id="search-enc" name="enc" type="hidden" value="gbk"/>
+</form>
+</div>
+<div id="help">
+<a class="c-help nslog:1012" href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a>
+</div>
+<script type="text/javascript">baidu.event.on("word","focus",function(){var _=arguments.callee;baidu.sio.callByBrowser("http://baike.bdimg.com/static/common/js/sug.js",function(){baidu.event.un("word","focus",_);});});if(baidu.platform.isIpad){baidu.sio.callByBrowser("http://baike.bdimg.com/static/common/js/common/search_ipad.js");}</script>
+</div></div>
+<div id="page">
+<div class="grid container">
+<div>
+<a href="/">百度百科</a>>&#160;百科学术委员会
+</div>
+<div class="g69">
+<div class="recommendations slider-container box-container">
+<div class="btn-carousel nslog-area:6502" style="display:none">
+<a class="left arrow-left" href="javascript:;" id="btn_prev"></a>
+<div class="dot" id="slide_dot">
+</div>
+<a class="right arrow-right" href="javascript:;" id="btn_next"></a>
+</div>
+<div class="slider-list articles clearfix" id="mrtj">
+
+
+
+<div class="slider-item f-l item">
+            <div class="clearfix article">
+                <div class="pic">
+                    <a target="_blank" href="http://baike.baidu.com/cms/s/expert/zhangcheng.html" class="nslog:6501">
+                        <img src="http://baike.baidu.com/cms/rc/r/image/2013-01-16/4a92cd32c01d8f5bfc46a9ca595e8363.jpg" width="270" height="146"/>
+                        <div class="img-border"></div>
+                    </a>
+                </div>
+                <div class="content">
+                    <h4>
+                        <a target="_blank" href="http://baike.baidu.com/cms/s/expert/zhangcheng.html" class="nslog:6500">百科学术委员会</a>
+                    </h4>
+                    <p>百科学术委员会由一群具有社会影响力的行业精英、学术权威组成，旨在匡正去伪，在提供各领域内容的同时，对百度百科内容提供权威的解释和专业的判定。加入成员全面覆盖了12个基础学科领域，其中不乏像天体物理、人类基因等高精尖领域专家，包含众多清华、北大等名校院士、教授、博士生导师等。&nbsp;<a href="http://baike.baidu.com/cms/s/expert/zhangcheng.html" target="_blank" class="more3 nslog:6500">阅读全文</a></p>
+                </div>
+            </div>
+         </div>
+
+</div>
+</div>
+<div class="clearfix members">
+<div class="clearfix top">
+<h4>特约顾问</h4>
+</div>
+<ul>
+<li>
+<div>
+<a href="/zhuanjia/zhangshaozhong" target="_blank"><img alt="张召忠" height="120" src="http://g.hiphotos.baidu.com/baike/wh%3D141%2C188/sign=c95cdbb6c93d70cf4cafa20cccedfd31/b3b7d0a20cf431ad7d8dcab64b36acaf2fdd98e6.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<p class="name">
+<a href="/zhuanjia/zhangshaozhong" target="_blank">张召忠</a>
+</p>
+<p>
+中国军事理论家、军事评论家</p>
+</li>
+<li>
+<div>
+<a href="/zhuanjia/joeliu" target="_blank"><img alt="刘尧奇" height="120" src="http://b.hiphotos.baidu.com/baike/wh%3D141%2C188/sign=007d0e41d143ad4ba67b4ec1b633769e/35a85edf8db1cb13901acff7dd54564e93584be7.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<p class="name">
+<a href="/zhuanjia/joeliu" target="_blank">刘尧奇</a>
+</p>
+<p>
+3M亚太区及大中华区研发资深副总裁</p>
+</li>
+<li>
+<div>
+<a href="/zhuanjia/majun" target="_blank"><img alt="马军" height="120" src="http://d.hiphotos.baidu.com/baike/wh%3D141%2C188/sign=8b7eff11c3fdfc03e52debb9e00eaba5/3801213fb80e7bec17650a0e2f2eb9389a506ba5.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<p class="name">
+<a href="/zhuanjia/majun" target="_blank">马军</a>
+</p>
+<p>
+环保斗士、《时代周刊》全球最具影响100...</p>
+</li>
+<li>
+<div>
+<a href="/zhuanjia/liyinhe" target="_blank"><img alt="李银河" height="120" src="http://h.hiphotos.baidu.com/baike/wh%3D141%2C188/sign=967aa0fec65c1038242bc6c38620bf22/8ad4b31c8701a18bf8fcb2ab9e2f07082838fe3b.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<p class="name">
+<a href="/zhuanjia/liyinhe" target="_blank">李银河</a>
+</p>
+<p>
+中国社科院教授、《亚洲周刊》最具影响力人...</p>
+</li>
+<li>
+<div>
+<a href="/zhuanjia/chenjunshi" target="_blank"><img alt="陈君石" height="120" src="http://d.hiphotos.baidu.com/baike/wh%3D141%2C188/sign=8e126b0581cb39dbc1956f57e4272515/91ef76c6a7efce1bcec0c725af51f3deb58f6571.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<p class="name">
+<a href="/zhuanjia/chenjunshi" target="_blank">陈君石</a>
+</p>
+<p>
+中国工程院院士</p>
+</li>
+<li>
+<div>
+<a href="/zhuanjia/liucixin" target="_blank"><img alt="刘慈欣" height="120" src="http://g.hiphotos.baidu.com/baike/wh%3D141%2C188/sign=edc952fd4f4a20a4314b34c6a463b413/c995d143ad4bd113dd2fbddd5aafa40f4afb057a.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<p class="name">
+<a href="/zhuanjia/liucixin" target="_blank">刘慈欣</a>
+</p>
+<p>
+科幻作家，中国科幻银河奖得主</p>
+</li>
+<li>
+<div>
+<a href="/zhuanjia/limiao" target="_blank"><img alt="李淼" height="120" src="http://d.hiphotos.baidu.com/baike/wh%3D141%2C188/sign=e61590f52834349b74536684fddb39ff/4b90f603738da977fa2af7c4b051f8198718e3dc.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<p class="name">
+<a href="/zhuanjia/limiao" target="_blank">李淼</a>
+</p>
+<p>
+中科院物理教授</p>
+</li>
+<li>
+<div>
+<a href="/zhuanjia/cuiyutao" target="_blank"><img alt="崔玉涛" height="120" src="http://h.hiphotos.baidu.com/baike/wh%3D141%2C188/sign=b6aa82dcb80e7bec238f0be01b1f9509/a1ec08fa513d2697d6459e8e55fbb2fb4216d84b.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<p class="name">
+<a href="/zhuanjia/cuiyutao" target="_blank">崔玉涛</a>
+</p>
+<p>
+北京和睦家医院儿科主任</p>
+</li>
+</ul>
+</div><div class="members-classify clearfix">
+<h4 id="expertlist">学术委员</h4>
+<ul class="classify clearfix">
+<li class="on"><a href="/zhuanjia?type=0">全部</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E5%93%B2%E5%AD%A6">哲学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E6%B3%95%E5%AD%A6">法学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E7%BB%8F%E6%B5%8E%E5%AD%A6">经济学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E6%95%99%E8%82%B2%E5%AD%A6">教育学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E6%96%87%E5%AD%A6">文学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E5%8E%86%E5%8F%B2%E5%AD%A6">历史学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E7%90%86%E5%AD%A6">理学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E5%B7%A5%E5%AD%A6">工学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E5%86%9C%E5%AD%A6">农学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E5%8C%BB%E5%AD%A6">医学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E5%86%9B%E4%BA%8B%E5%AD%A6">军事学</a>|</li>
+<li class=""><a href="/zhuanjia?type=1&amp;category=%E7%AE%A1%E7%90%86%E5%AD%A6">管理学</a></li>
+</ul>
+<ul class="list clearfix">
+<li>
+<div class="pic">
+<a href="/zhuanjia/wangdingxiong" target="_blank"><img alt="汪定雄" height="120" src="http://b.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=8649dce6252dd42a5f5c09a233176a87/b151f8198618367a8bd7f6522e738bd4b21ce5e7.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/wangdingxiong" target="_blank">汪定雄</a>
+<div class="field">
+<p>领域:</p>
+<p>天体物理</p>
+</div>
+<p class="intro">
+华中科技大学物理学院教授，博士生导师、国际天...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/wangxufeng" target="_blank"><img alt="王旭峰" height="120" src="http://h.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=24145200b2119313c716f7b955143de5/a8014c086e061d957d2cabfa7bf40ad163d9ca8e.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/wangxufeng" target="_blank">王旭峰</a>
+<div class="field">
+<p>领域:</p>
+<p>营养与食品卫生学</p>
+</div>
+<p class="intro">
+北京营养师俱乐部理事长，中国互联网新闻中心食...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/sunbaoli" target="_blank"><img alt="孙葆丽" height="120" src="http://g.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=4cb34bbc918fa0ec7f926c0416bb68dc/0e2442a7d933c895ff2011f4d11373f0830200e6.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/sunbaoli" target="_blank">孙葆丽</a>
+<div class="field">
+<p>领域:</p>
+<p>体育人文社会学</p>
+</div>
+<p class="intro">
+担任东北亚体育史学会理事、中国体育史学会副主...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/yijiandong" target="_blank"><img alt="易剑东" height="120" src="http://a.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=883099a095cad1c8d0eef42e4f12563b/0df431adcbef7609f34810102edda3cc7dd99efa.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/yijiandong" target="_blank">易剑东</a>
+<div class="field">
+<p>领域:</p>
+<p>体育人文社会学</p>
+</div>
+<p class="intro">
+奥林匹克权威专家，北体大博士、教授，江西财经...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/guzhongyi" target="_blank"><img alt="顾中一" height="120" src="http://f.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=83eba866b9014a90816b4eb4995b0820/7e3e6709c93d70cfa63bbdd9f8dcd100bba12b24.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/guzhongyi" target="_blank">顾中一</a>
+<div class="field">
+<p>领域:</p>
+<p>营养与食品卫生学</p>
+</div>
+<p class="intro">
+首都医科大学附属北京友谊医院营养师，北京市营...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/yuxinzhong" target="_blank"><img alt="余新忠" height="120" src="http://d.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=f95eb95f908fa0ec7f926c0416bb68dc/0e2442a7d933c8954acde317d01373f08202002e.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/yuxinzhong" target="_blank">余新忠</a>
+<div class="field">
+<p>领域:</p>
+<p>专门史</p>
+</div>
+<p class="intro">
+著名医疗社会文化史家。现任南开大学历史学院暨...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/yangbicheng" target="_blank"><img alt="杨碧澄" height="120" src="http://e.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=b21c3b9b7dd98d10768104381113893c/279759ee3d6d55fb2e3adb416c224f4a21a4dddd.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/yangbicheng" target="_blank">杨碧澄</a>
+<div class="field">
+<p>领域:</p>
+<p>遗传学</p>
+</div>
+<p class="intro">
+杨碧澄，生物科学博士，现任华大基因总部办公室...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/hanshanshan" target="_blank"><img alt="韩珊珊" height="120" src="http://b.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=649e30e373f082022dc799367bd7cadf/9d82d158ccbf6c8149dff828bc3eb13532fa4002.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/hanshanshan" target="_blank">韩珊珊</a>
+<div class="field">
+<p>领域:</p>
+<p>妇产科学</p>
+</div>
+<p class="intro">
+澳大利亚南澳州妇女儿童医院妇产科医生及临床营...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/chenliang" target="_blank"><img alt="陈亮" height="120" src="http://g.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=05d8796ad50735fa91a546b0ae7d3e81/bd315c6034a85edf2371255248540923dc5475c6.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/chenliang" target="_blank">陈亮</a>
+<div class="field">
+<p>领域:</p>
+<p>传播学</p>
+</div>
+<p class="intro">
+央视财经主持人，民建会员。先后就读于浙江传媒...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/hexiangming" target="_blank"><img alt="何向明" height="120" src="http://d.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=69dc532b2e738bd4c474ba3891a7b6e4/c9fcc3cec3fdfc03212dcf4ed43f8794a5c226ea.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/hexiangming" target="_blank">何向明</a>
+<div class="field">
+<p>领域:</p>
+<p>化学工程</p>
+</div>
+<p class="intro">
+清华大学核能与新能源技术研究院新型能源与材料...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/wangsuilou" target="_blank"><img alt="王岁楼" height="120" src="http://d.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=39c62ad26d224f4a57cc7b1a39dba160/a50f4bfbfbedab6488721134f736afc378311ec5.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/wangsuilou" target="_blank">王岁楼</a>
+<div class="field">
+<p>领域:</p>
+<p>食品科学</p>
+</div>
+<p class="intro">
+中国药科大学教授、博士生导师、主任，工学博士...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/zhanghuaping" target="_blank"><img alt="张华平" height="120" src="http://c.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=3a99ed82269759ee4a0568c282d77224/d043ad4bd11373f0b061e610a40f4bfbfaed04e6.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/zhanghuaping" target="_blank">张华平</a>
+<div class="field">
+<p>领域:</p>
+<p>计算机应用技术</p>
+</div>
+<p class="intro">
+北京理工大学网络搜索挖掘与安全实验室负责人，...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/sunlijie" target="_blank"><img alt="孙立洁" height="120" src="http://h.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=f42dc44ff736afc30e59376c8335daf6/838ba61ea8d3fd1fb6562bb5304e251f94ca5fe6.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/sunlijie" target="_blank">孙立洁</a>
+<div class="field">
+<p>领域:</p>
+<p>细胞生物学</p>
+</div>
+<p class="intro">
+中国科学院助理研究员，武汉中科光谷绿色生物技...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/yangyi" target="_blank"><img alt="杨轶" height="120" src="http://g.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=a6fa15be4c086e066afd374232244ac6/dcc451da81cb39dba89eeed9d0160924aa1830e6.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/yangyi" target="_blank">杨轶</a>
+<div class="field">
+<p>领域:</p>
+<p>天体物理</p>
+</div>
+<p class="intro">
+中科院中国天文科普网“天之文论坛”版主，欧洲...</p>
+</div>
+</li>
+<li>
+<div class="pic">
+<a href="/zhuanjia/liuhuaiyuan" target="_blank"><img alt="刘淮源" height="120" src="http://a.hiphotos.baidu.com/baike/wh%3D90%2C120/sign=29e00e08d0a20cf446c5f6d646257a04/a8ec8a13632762d087612d30a0ec08fa503dc6e6.jpg" width="90"/>
+<div class="img-border">
+</div>
+</a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/liuhuaiyuan" target="_blank">刘淮源</a>
+<div class="field">
+<p>领域:</p>
+<p>光学</p>
+</div>
+<p class="intro">
+深圳清华大学研究院光机电重点实验室副主任，国...</p>
+</div>
+</li>
+</ul>
+<div class="pageborder" id="expertListPager" style="display:none">
+</div>
+</div></div>
+<div class="g25 g-a4">
+<div class="join clearfix">
+<p>
+如果你在某专业学有所长，
+</p>
+<p>
+如果你从事某项专业工作，
+</p>
+<p>
+如果你是某个领域的专家，
+</p>
+<p>
+<strong>欢迎加入百科学术委员会，</strong>
+</p>
+<p>
+<strong>为传承知识做出努力！</strong>
+</p>
+<a class="btn-join" href="/doubt/expertapply" target="_blank"></a>
+</div>
+<div class="clearfix ranklist">
+<h4>本月贡献排行榜</h4>
+<ol>
+<li class="rank-top3">
+<div>
+<span class="num">1</span>
+<div class="pic">
+<a class="name" href="/zhuanjia/yushihua" target="_blank"><img alt="喻世华" height="53" src="http://e.hiphotos.baidu.com/baike/wh%3D84%2C84/sign=324081353a87e9504242fb6424146b77/08f790529822720e88b36c0c7bcb0a46f31fabc3.jpg" width="53"/></a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/yushihua" target="_blank">喻世华</a>
+<p>
+副教授、副编审、副主编</p>
+</div>
+</div>
+</li><li class="rank-top3">
+<div>
+<span class="num">2</span>
+<div class="pic">
+<a class="name" href="/zhuanjia/dingdawei" target="_blank"><img alt="丁大卫" height="53" src="http://b.hiphotos.baidu.com/baike/wh%3D84%2C84/sign=765f4463d100baa1ba794fb3733c8126/dc54564e9258d1095abc203dd158ccbf6d814de6.jpg" width="53"/></a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/dingdawei" target="_blank">丁大卫</a>
+<p>
+国际著名金融专家、教授</p>
+</div>
+</div>
+</li><li class="rank-top3">
+<div>
+<span class="num">3</span>
+<div class="pic">
+<a class="name" href="/zhuanjia/yanlei001" target="_blank"><img alt="杨磊" height="53" src="http://h.hiphotos.baidu.com/baike/wh%3D84%2C84/sign=aeffe8fcb80e7bec238f0be91b02810c/3b87e950352ac65c87c69a80fbf2b21192138a06.jpg" width="53"/></a>
+</div>
+<div class="about">
+<a class="name" href="/zhuanjia/yanlei001" target="_blank">杨磊</a>
+<p>
+哲学博士</p>
+</div>
+</div>
+</li><li>
+<div>
+<span class="num">4</span>
+<div class="about">
+<a class="name" href="/zhuanjia/tangpingsheng" target="_blank">汤平圣</a>
+<p>
+营养师</p>
+</div>
+</div>
+</li><li>
+<div>
+<span class="num">5</span>
+<div class="about">
+<a class="name" href="/zhuanjia/wangpeizi" target="_blank">汪培梓</a>
+<p>
+郑州博物馆副研究员</p>
+</div>
+</div>
+</li><li>
+<div>
+<span class="num">6</span>
+<div class="about">
+<a class="name" href="/zhuanjia/liuxinchun" target="_blank">刘新春</a>
+<p>
+中国美术家协会会员</p>
+</div>
+</div>
+</li><li>
+<div>
+<span class="num">7</span>
+<div class="about">
+<a class="name" href="/zhuanjia/chengaoqiang" target="_blank">陈高强</a>
+<p>
+清华大学工学博士</p>
+</div>
+</div>
+</li><li>
+<div>
+<span class="num">8</span>
+<div class="about">
+<a class="name" href="/zhuanjia/zhaolian" target="_blank">赵练</a>
+<p>
+北京航空航天大学机械工</p>
+</div>
+</div>
+</li><li>
+<div>
+<span class="num">9</span>
+<div class="about">
+<a class="name" href="/zhuanjia/danghongmei" target="_blank">党红梅</a>
+<p>
+哲学讲师</p>
+</div>
+</div>
+</li><li>
+<div>
+<span class="num">10</span>
+<div class="about">
+<a class="name" href="/zhuanjia/kongweijie" target="_blank">孔维杰</a>
+<p>
+兰州大学物理学博士</p>
+</div>
+</div>
+</li></ol>
+</div><div class="baike-xueshu clearfix">
+<h4>词条综合讨论区</h4>
+<p>
+发起词条讨论，向学术委员请教专业知识。<a href="/doubtlist" target="_blank">过去看看 ></a>
+</p>
+</div>
+<div class="professional" style="">
+<h4>专业判断的词条</h4>
+<ul>
+<li class="clearfix" style="">
+<div class="pic">
+<a href="/usercenter/zhuanjia/dingdawei" target="_blank"><img height="53" src="http://b.hiphotos.baidu.com/baike/wh%3D55%2C55/sign=99ad87789f3df8dca6688794f83d47be/dc54564e9258d1095abc203dd158ccbf6d814de6.jpg" width="53"/></a>
+</div>
+<div class="summary">
+<p class="notice">
+<a href="/zhuanjia/dingdawei" target="_blank">丁大卫</a>对<a href="/view/7708#sub5407361" target="_blank">纽约</a>进行判断，核实了相关内容。
+</p>
+<p>
+东南部<a class="checkout" href="/view/7708#sub5407361" target="_blank">查看</a>
+</p>
+</div>
+</li><li class="clearfix" style="">
+<div class="pic">
+<a href="/usercenter/zhuanjia/dingdawei" target="_blank"><img height="53" src="http://b.hiphotos.baidu.com/baike/wh%3D55%2C55/sign=99ad87789f3df8dca6688794f83d47be/dc54564e9258d1095abc203dd158ccbf6d814de6.jpg" width="53"/></a>
+</div>
+<div class="summary">
+<p class="notice">
+<a href="/zhuanjia/dingdawei" target="_blank">丁大卫</a>对<a href="/view/134668#sub134668" target="_blank">损益表</a>进行判断，核实了相关内容。
+</p>
+<p>
+损益表亦称利润表，是企业在一定会计期经营结...<a class="checkout" href="/view/134668#sub134668" target="_blank">查看</a>
+</p>
+</div>
+</li><li class="clearfix" style="">
+<div class="pic">
+<a href="/usercenter/zhuanjia/zhangyoucai" target="_blank"><img height="53" src="http://f.hiphotos.baidu.com/baike/wh%3D55%2C55/sign=321b81e2c8fcc3ceb495c136a769e3bd/6d81800a19d8bc3ec43e0b0a828ba61ea8d3453f.jpg" width="53"/></a>
+</div>
+<div class="summary">
+<p class="notice">
+<a href="/zhuanjia/zhangyoucai" target="_blank">张有才</a>对<a href="/view/10258017#sub10420393" target="_blank">合肥军大医院</a>进行判断，核实了相关内容。
+</p>
+<p>
+<a class="checkout" href="/view/10258017#sub10420393" target="_blank">查看</a>
+</p>
+</div>
+</li><li class="clearfix" style="">
+<div class="pic">
+<a href="/usercenter/zhuanjia/yushihua" target="_blank"><img height="53" src="http://e.hiphotos.baidu.com/baike/wh%3D55%2C55/sign=b2936effb6003af34defd4650006f369/08f790529822720e88b36c0c7bcb0a46f31fabc3.jpg" width="53"/></a>
+</div>
+<div class="summary">
+<p class="notice">
+<a href="/zhuanjia/yushihua" target="_blank">喻世华</a>对<a href="/view/418871#sub418871" target="_blank">邓绾</a>进行判断，核实了相关内容。
+</p>
+<p>
+元祐初，徙扬州。<a class="checkout" href="/view/418871#sub418871" target="_blank">查看</a>
+</p>
+</div>
+</li><li class="clearfix" style="">
+<div class="pic">
+<a href="/usercenter/zhuanjia/zhangyoucai" target="_blank"><img height="53" src="http://f.hiphotos.baidu.com/baike/wh%3D55%2C55/sign=321b81e2c8fcc3ceb495c136a769e3bd/6d81800a19d8bc3ec43e0b0a828ba61ea8d3453f.jpg" width="53"/></a>
+</div>
+<div class="summary">
+<p class="notice">
+<a href="/zhuanjia/zhangyoucai" target="_blank">张有才</a>对<a href="/view/10258017#sub10420393" target="_blank">合肥军大医院</a>进行判断，核实了相关内容。
+</p>
+<p>
+<a class="checkout" href="/view/10258017#sub10420393" target="_blank">查看</a>
+</p>
+</div>
+</li><li class="clearfix" style="">
+<div class="pic">
+<a href="/usercenter/zhuanjia/sunxin" target="_blank"><img height="53" src="http://c.hiphotos.baidu.com/baike/wh%3D55%2C55/sign=03ab8e166159252da342150101b7360e/503d269759ee3d6d8fa9ebc742166d224f4ade4b.jpg" width="53"/></a>
+</div>
+<div class="summary">
+<p class="notice">
+<a href="/zhuanjia/sunxin" target="_blank">孙欣</a>对<a href="/view/710887#sub710887" target="_blank">iPhone</a>进行判断，核实了相关内容。
+</p>
+<p>
+<a class="checkout" href="/view/710887#sub710887" target="_blank">查看</a>
+</p>
+</div>
+</li><li class="clearfix" style="">
+<div class="pic">
+<a href="/usercenter/zhuanjia/zhangyoucai" target="_blank"><img height="53" src="http://f.hiphotos.baidu.com/baike/wh%3D55%2C55/sign=321b81e2c8fcc3ceb495c136a769e3bd/6d81800a19d8bc3ec43e0b0a828ba61ea8d3453f.jpg" width="53"/></a>
+</div>
+<div class="summary">
+<p class="notice">
+<a href="/zhuanjia/zhangyoucai" target="_blank">张有才</a>对<a href="/view/10258017#sub10420393" target="_blank">合肥军大医院</a>进行判断，核实了相关内容。
+</p>
+<p>
+<a class="checkout" href="/view/10258017#sub10420393" target="_blank">查看</a>
+</p>
+</div>
+</li><li class="clearfix" style="border-bottom:none">
+<div class="pic">
+<a href="/usercenter/zhuanjia/dingdawei" target="_blank"><img height="53" src="http://b.hiphotos.baidu.com/baike/wh%3D55%2C55/sign=99ad87789f3df8dca6688794f83d47be/dc54564e9258d1095abc203dd158ccbf6d814de6.jpg" width="53"/></a>
+</div>
+<div class="summary">
+<p class="notice">
+<a href="/zhuanjia/dingdawei" target="_blank">丁大卫</a>对<a href="/view/2761#sub5044079" target="_blank">金融</a>进行判断，核实了相关内容。
+</p>
+<p>
+这段话与本词条没有关系，只能起到误导作用，...<a class="checkout" href="/view/2761#sub5044079" target="_blank">查看</a>
+</p>
+</div>
+</li></ul>
+</div></div>
+</div><script>var pageInfo;if(location.search){var query=location.search.slice(1);pageInfo=baidu.url.jsonToQuery(baidu.extend(baidu.url.queryToJson(query),{page:"#{page}"}),function(_){return _;});}else{pageInfo="page=#{page}";}var page=1,totalPage=43;if(totalPage>1){new baidu.ui.Pager({endPage:totalPage+1,currentPage:page,itemCount:10,element:"expertListPager",autoRender:true,tplHref:location.pathname+"?"+pageInfo+"#expertlist",tplLabel:"#{page}",leftItemCount:3});baidu.g("expertListPager").style.display="block";}</script><script type="text/javascript"></script>
+</div>
+<div class="foot main">
+<div class="area" id="rights"><img alt="" src="http://img.baidu.com/img/baike/ico_bz.gif"/>&#160;&#160;如想投诉，请到<a href="http://tousu.baidu.com/baike" target="_blank">百度百科投诉中心</a>；如想提出意见、建议，请到<a href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%B0%D9%BF%C6" target="_blank">百度百科吧</a>；想要了解您在百度百科的权利与义务，请查看<a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">权利声明</a>。</div>
+<div id="ft">&#169;<script>document.write((new Date).getFullYear());</script> Baidu <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a> | <a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">百科协议</a> | <a href="http://baike.baidu.com/hezuo/" target="_blank">百度百科合作平台</a> <!--[if gt IE 8]>| <a href="javascript:;" onclick="window.external.msAddSiteMode()">将百科添加到开始菜单</a><![endif]--></div>
+</div>
+</div>
+</body>
+</html><!--04317787480643507210092423-->
+<script> var _trace_page_logid = 0431778748; </script>

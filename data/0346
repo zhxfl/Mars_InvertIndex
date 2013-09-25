@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>百科投诉-百度投诉服务</title>
+<meta name="Keywords" content="百科投诉,百度百科投诉,百度百科投诉中心,百科投诉中心,删除百度百科,百度百科投诉吧,删除百度百科,百度百科客服" />
+<meta name="Description" content="受理来自百度百科用户对百科的内容、用户等有违反百科协议的反馈。百度提醒您请勿接受收费删帖服务，百度将对您的投诉和反馈依法免费处理。" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<link rel="shortcut icon" href="/static/image/favicon.ico"/>
+<link type="text/css" rel="stylesheet" href="/static/css/global.css" />
+<script type="text/javascript" src="/static/js/lib/tangram-2.0.2.1.js"></script>
+<script type="text/javascript" src="/static/js/common.js"></script><style type="text/css">
+.form2 table th{width:120px;}
+.form2 table .iptArea{width:470px;}
+</style>
+<script type="text/javascript">
+var product_name_en = "baike";
+var is_login = "0";
+var username = "";
+</script>
+</head>
+
+<body>
+<div class="logInfo" id="logInfo">
+    <a href="http://www.baidu.com" target="_blank">百度首页</a> |
+    <a href="#" id="btnLogin">登录</a>
+    <a href="https://passport.baidu.com/v2/?reg">注册</a>
+</div>
+
+<div class="header clear">
+    <h1 class="logo"><a href="http://service.baidu.com/index"><img src="/static/image/logo.png" alt="百度用户服务中心"/></a></h1>
+    <form class="searchForm clear" action="http://service.baidu.com/searchResult" name="f" id="searchForm" method="get">
+        <input id="search_txt" value="请简单描述您遇到的问题" placeholder="请简单描述您遇到的问题" type="text" class="searchKey" x-webkit-speech="true"  name="keywords"/>
+        <input id="searchbutton" class="btnSearch" type="submit" value="搜索问题"/>
+    </form>
+</div><div class="position pos_a">
+    <h2 class="tname"><a href="/">投诉服务</a><span>-</span><strong>百科投诉</strong></h2>
+    <p><a href="http://www.baidu.com/search/tsgz.html" class="fedback" target="_blank">投诉规则</a></p>
+</div>
+<div class="main formPage">
+	<div class="content">
+		<div class="tip tsRule">本页仅受理来自百度百科用户对百科的内容、用户等有违反 <a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">百科协议</a> 的反馈。</div>
+		<ul class="tab1" id="formTab">
+	<li class="on setTab-tab"><a href="#1">未通过词条查询</a></li>
+	<li class="setTab-tab"><a href="#2">违规举报</a></li>
+	<li class="setTab-tab"><a href="#3">同义词反馈</a></li>	
+	<li class="setTab-tab"><a href="#4">封禁查询与解封</a></li>	
+</ul>
+<div class="formMod tab1Cnt" id="formPanel">
+	<div class="setTab-panel">
+		<div class="tip tip_a on"><strong class="caution">反馈须知：</strong>如果您提交的词条版本未通过系统审核，且您对系统反馈的原因有疑问，可在此反馈。</div>
+				<div class="tip tip_b red">请您 <a href="#" class="btnLog">登录</a> 之后发起投诉，以便在 <a href="/pscenter" class="btnLog">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				
+		<form method="post" name="tousu_form2" id="tousu_form2" class="form2" action="/baike/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span> <label for="form2_title">标题：</label></th>
+					<td><input type="text" class="iptxt" id="form2_title" name="title" value="查询" minlength="0" maxlength="100" required disabled/> <span id="form2_title_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> <label for="form2_ids">ID：</label></th>
+					<td><input name="ids"  class="iptxt" id="form2_ids" type="text" maxlength="14" value="" disabled/>
+						<span id="form2_ids_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> <label for="form2_extra">词条名：</label></th>
+					<td><input name="extra"  class="iptxt" id="form2_extra" type="text" maxlength="100" value="" disabled/>
+						<span id="form2_extra_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> <label for="form2_time">版本提交时间：</label></th>
+					<td><input name="time"  class="iptxt" id="form2_time" type="text" maxlength="40" value="" disabled/>
+						<span id="form2_time_err" class="err"></span>
+						<p class="formInfo">例如2013-06-28 11:09，请至少精确到分钟</p>
+					</td>
+				</tr>					
+				<tr>
+					<th><span class="red">*</span> <label for="form2_content">描述：</label></th>
+					<td><textarea name="content" id="form2_content" class="iptArea" minlength="0" maxlength="1000" disabled></textarea> <span id="form2_content_ok" class="msgok"></span>
+						<p id="form2_content_err" class="err"></p>
+						<p class="formInfo">请您详细描述投诉的对象及理由，以保证您的投诉得到及时准确的处理(500个字以内)</p>
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+					<td><input id="form2_btnSubmit" type="submit" class="btn" value="提交" disabled/></td>
+				</tr>
+			</table>			
+			<input type="hidden" name="category" value="2" disabled/>
+		</form>	
+	</div>
+
+	<div class="setTab-panel" style="display:none;">
+		<div class="tip tip_a on"><strong class="caution">反馈须知：</strong>如果您发现词条中存在违法、虚假等内容，或恶意添加上述内容的用户，及词条错误可在此反馈。</div>
+				<div class="tip tip_b">建议您 <a href="#" class="btnLog">登录</a> 后发起投诉，以便在 <a href="/pscenter">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				<form method="post" name="tousu_form1" id="tousu_form1" action="/baike/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span>  <label for="form1_title">标题：</label></th>
+					<td><input type="text" class="iptxt" id="form1_title" name="title" value="异常" maxlength="100" disabled/> <span id="form1_title_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> <label for="form1_link1">投诉链接：</label></th>
+					<td>
+						<div id="form1_link" class="multiLink">
+							<div><input type="text" class="iptxt formlink" id="form1_link1" value="" size="40" maxlength="1024"/> <span id="form1_link1_err" class="err"></span>
+							</div>
+							<div><input type="text" class="iptxt formlink" id="form1_link2" value="" size="40" maxlength="1024"/> <span id="form1_link2_err" class="err"></span></div>
+							<div><input type="text" class="iptxt formlink" id="form1_link3" value="" size="40" maxlength="1024"/> <span id="form1_link3_err" class="err"></span></div>
+						</div>
+						<p><input type="button" value="增加..." id="form1_link_add" class="btn1" /> <span class="formInfo">点击增加，相应增加3个投诉链接框，最多12个投诉链接</span></p>
+					</td>
+				</tr>
+				
+				<tr>
+					<th><label for="form1_ids">被投诉ID：</label></th>
+					<td><input name="ids"  class="iptxt" id="form1_ids" type="text" maxlength="14" />
+						<span id="form1_ids_err" class="err"></span></td>
+				</tr>
+			
+				<tr>
+					<th><span class="red">*</span> <label for="form1_content">描述：</label></th>
+					<td><textarea name="content" id="form1_content" class="iptArea" minlength="0" maxlength="1000"></textarea> <span id="form1_content_ok" class="msgok"></span>
+						<p id="form1_content_err" class="err"></p>
+						<p class="formInfo">请您详细描述投诉的对象及理由，以保证您的投诉得到及时准确的处理(500个字以内)</p>
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+					<td><input id="form1_btnSubmit" type="submit" class="btn" value="提交"/></td>
+				</tr>	
+			</table>
+			<input type="hidden" name="links" id="form1_links" value="">
+			<input type="hidden" name="category" value="1"/>
+		</form>		
+	</div>
+
+	<div class="setTab-panel" style="display:none;">
+		<div class="tip tip_a on"><strong class="caution">反馈须知：</strong>如果您发现某几个词条所描述的是同一个人物、事物或概念，存在同义词关系，可在此分类下反馈。</div>
+				<div class="tip tip_b red">请您 <a href="#" class="btnLog">登录</a> 之后发起投诉，以便在 <a href="/pscenter" class="btnLog">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				<form method="post" name="tousu_form3" id="tousu_form3" action="/baike/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span> <label for="form3_title">标题：</label></th>
+					<td><input type="text" class="iptxt" id="form3_title" name="title" value="反馈" minlength="0" maxlength="100" required disabled/> <span id="form3_title_err" class="err"></span></td>
+				</tr>
+				<tr>
+					<th><span class="red">*</span> <label for="form3_link1">投诉链接：</label></th>
+					<td>
+						<div id="form3_link" class="multiLink">
+							<div><input type="text" class="iptxt formlink" id="form3_link1" value="" maxlength="1024" disabled/> <span id="form3_link1_err" class="err"></span>
+							</div>
+							<div><input type="text" class="iptxt formlink" id="form3_link2" value="" maxlength="1024" disabled/> <span id="form3_link2_err" class="err"></span></div>
+							<div><input type="text" class="iptxt formlink" id="form3_link3" value="" maxlength="1024" disabled/> <span id="form3_link3_err" class="err"></span></div>
+						</div>
+						<p><input type="button" value="增加..." id="form3_link_add" class="btn1" disabled/> <span class="formInfo">点击增加，相应增加3个投诉链接框，最多12个投诉链接</span></p>
+					</td>
+				</tr>
+				
+				<tr>
+					<th><span class="red">*</span> <label for="form3_content">描述：</label></th>
+					<td><textarea name="content" id="form3_content"class="iptArea" minlength="0" maxlength="1000" disabled></textarea> <span id="form3_content_ok" class="msgok"></span>
+						<p id="form3_content_err" class="err"></p>
+						<p class="formInfo">请您详细描述投诉的对象及理由，以保证您的投诉得到及时准确的处理(500个字以内)</p>
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+					<td><input id="form3_btnSubmit" type="submit" class="btn" value="提交" disabled/></td>
+				</tr>
+			</table>
+			<input type="hidden" name="links" id="form3_links" value="">
+			<input type="hidden" name="category" value="3">
+		</form>	
+	</div>
+
+	<div class="setTab-panel" style="display:none;">
+		<div class="tip tip_a on"><strong class="caution">反馈须知：</strong>如果您的百度百科帐号被封禁，而您对封禁结论或原因有疑问，请在此反馈。</div>
+				<div class="tip tip_b red">请您 <a href="#" class="btnLog">登录</a> 之后发起投诉，以便在 <a href="/pscenter" class="btnLog">服务记录</a> 及时跟踪处理状态，并在第一时间收到答复。</div>				<form method="post" name="tousu_form5" id="tousu_form5" action="/baike/submit" target="ifr">
+			<table cellspacing="0" cellpadding="0">
+				<tr>
+					<th><span class="red">*</span> <label for="form5_id">被封禁ID：</label></th>
+					<td><input name="id"  class="iptxt" id="form5_id" type="text" maxlength="14" value="" disabled/>
+						<span id="form5_id_err" class="err"></span></td>
+				</tr>
+				
+				<tr>
+					<th><span class="red">*</span> <label for="form5_content">描述：</label></th>
+					<td><textarea name="content" id="form5_content"class="iptArea" minlength="0" maxlength="1000" disabled></textarea> <span id="form5_content_ok" class="msgok"></span>
+						<p id="form5_content_err" class="err"></p>
+						<p class="formInfo">请您详细描述投诉的对象及理由，以保证您的投诉得到及时准确的处理(500个字以内)</p>
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+					<td><input id="form5_btnSubmit" type="submit" class="btn" value="提交" disabled/></td>
+				</tr>
+			</table>
+			<input type="hidden" name="category" value="5">
+		</form>	
+	</div>
+	<p class="formCaption">如果想对百度百科提出意见、建议，请到<a href="http://tieba.baidu.com/f?kw=%b0%d9%b6%c8%b0%d9%bf%c6" target="_blank">百度百科吧</a>。</p>
+</div>
+<iframe name="ifr" id="ifr" width="0" height="0" style="display:none;"></iframe>	</div>
+	<div class="sideBar">
+		<h3 class="tit">常见问题</h3>
+		<ul class="txtlist">
+						<li><a href="http://service.baidu.com/question?prod_en=baike&subclass=词条编辑方针&id=1546" target="_blank">百科同义词添加原则</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=baike&subclass=词条编辑方针&id=1556" target="_blank">如何使词条顺利通过</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=baike&subclass=词条编辑操作说明&id=1560" target="_blank">为词条设置百科名片</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=baike&subclass=词条编辑操作说明&id=1566" target="_blank">为百科词条添加图册</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=baike&subclass=百科关系操作说明&id=1574" target="_blank">编辑联系表</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=tousu&subclass=百度投诉中心介绍&id=2315" target="_blank">百度投诉中心简介</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=tousu&subclass=百度投诉中心介绍&id=2316" target="_blank">投诉流程</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=tousu&subclass=百度投诉中心介绍&id=2317" target="_blank">我对处理结果不满意，怎么办？</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=tousu&subclass=百度投诉中心介绍&id=2318" target="_blank">我要怎么知道投诉处理结果？</a></li>
+						<li><a href="http://service.baidu.com/question?prod_en=tousu&subclass=百度投诉中心介绍&id=2320" target="_blank">如何填写投诉单并进入处理流程？</a></li>
+					</ul>
+	</div>
+	<div class="sideBarBot"></div>
+</div>
+<div class="footer">
+    &copy; 2013 Baidu <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>
+</div>
+<script type="text/javascript">var sugapi="http://service.baidu.com";</script>
+<script type="text/javascript" src="/static/js/sug_.js"></script>
+<script type="text/javascript" src="../static/js/commonTousu.js"></script>
+<script type="text/javascript">
+var chkForm = {
+	vaild: {
+		link: /^((http:\/\/(baike|bk)\.baidu\.com)|((baike|bk)\.baidu\.com))/i,
+		time:/^(\d{2}|\d{4})[-\/\.年]{1}\d{1,2}[-\/\.月]{1}\d{1,2}(日)?(( \d{1,2}\:\d{1,2})|( \d{1,2}\:\d{1,2}\:\d{1,2}))$/
+	},
+	msg: {
+		title_empty: vaildForm.msg["title_empty"],
+		title_long: vaildForm.msg["title_long"],
+		link_empty: vaildForm.msg["link_empty"],
+		link_err:"您输入的不是百度百科地址，请重新输入",
+		link_exist: vaildForm.msg["link_exist"],
+		extra_empty:"请输入词条名",
+		ID_err: vaildForm.msg["ID_err"],
+        ID_empty: vaildForm.msg["ID_empty"],
+        ID_exist: vaildForm.msg["ID_exist"],
+        ID_long: vaildForm.msg["ID_long"],
+		content_empty: vaildForm.msg["content_empty"],
+	    content_long: vaildForm.msg["content_long"],
+	    time_empty: "请输入提交时间",
+	    time_err: "时间格式有误"
+	},
+
+	getLinkCfg: function(formIdNum){
+		var linkChkCbk = function(linksWrapId){
+			return function(obj,rlt){
+				var links = baidu("#" + linksWrapId).find("input.formlink");
+				if(!rlt){
+					for(var i = 0, l = links.length; i < l; i ++){
+			 			var empty = vaildForm.isEmpty(links[i]);
+			 			if(empty && (links[i] != obj)){
+			 				vaildForm.setChkMsg(links[i],"");  //清空empty错误信息
+			 			}
+			 		}
+			 		return false;
+				}
+				var formMsg = chkForm.msg;
+				if(vaildForm.isEmpty(obj)){
+			 		var isEmpty = true;
+			 		for(var i = 0, l = links.length; i < l; i ++){
+			 			var empty = vaildForm.isEmpty(links[i]);
+			 			if(empty){
+			 				vaildForm.setChkMsg(links[i],"");  //清空empty错误信息
+			 			}
+			 			isEmpty = isEmpty && empty;
+			 		}
+
+			 		if(isEmpty){
+			 			vaildForm.setChkMsg(obj, formMsg["link_empty"]);
+			 			return false;
+			 		}
+			 	} else {
+			 		//检查是否重复
+			 		var val = obj.value;
+			 		if(!vaildForm.http(val)){
+			 			obj.value = "http://" + val;
+			 		}
+			 		val = baidu.string(val).trim();
+			 		var isRepeat = false;
+			 		for(var i = 0, l = links.length; i < l; i ++){
+			 			if(links[i] != obj && (baidu.string(links[i].value).trim() == val)){
+			 				isRepeat = true;
+			 				break;
+			 			}
+			 		}
+
+			 		if(isRepeat){
+			 			vaildForm.setChkMsg(obj, formMsg["link_exist"]);
+			 			return false;
+			 		}
+			 	}
+			 	return true;
+			};
+		};
+		var config = {
+			"regExp": chkForm.vaild.link,
+			"errMsg" : chkForm.msg["link_err"],
+			"noSubmit":true,
+			"callback": linkChkCbk("form" + formIdNum + "_link")
+		};
+		return config;
+	},
+	bindAddLink: function(formIdNum, formO, linkCfg){
+		baidu("#form"+ formIdNum +"_link_add").click(function(){
+			var callback = function(idAry){
+				var fields = {};
+				for(var i = 0, l = idAry.length; i < l; i ++){
+					fields["#" + idAry[i]] = linkCfg;
+				};
+				formO.vaildForm({"fields" : fields});
+			};
+			tousu.addLink("form"+ formIdNum +"_link",3,12, callback);
+		});
+	},
+	submitCbk: function(linksWrapId,rlt){
+		var formMsg = chkForm.msg;
+		var links = baidu("#" + linksWrapId).find("input.formlink");
+		var linkReg = chkForm.vaild.link;
+		var urls = [];
+		var tempLinksId = [];
+		var hasErr = false;
+		var result = true;
+			for(var i = 0; i < links.length; i++){
+				var link = links.eq(i);
+				var url = baidu.string(link.val()).trim();
+				vaildForm.setChkMsg(link[0],"");  //清空提示
+				if(url == ""){ continue; }
+				var tempErrMsg = null;
+				if(linkReg.test(url)){
+					url = url.replace(/\t/g,"");
+					var tempHasRepeat = false;
+					for(var j = 0, l = urls.length; j < l; j ++){
+						if(url == urls[j]){
+							tempHasRepeat = true;
+							break;
+						}
+					}
+
+					if(!tempHasRepeat){
+						urls.push(url);
+						tempLinksId.push(link.attr("id"));
+						tempErrMsg = null;
+					} else {
+						hasErr = true;
+						tempErrMsg = formMsg.link_exist;
+					}
+
+				} else {
+					hasErr = true;
+					tempErrMsg = formMsg.link_err;
+				}
+				vaildForm.setChkMsg(link[0],tempErrMsg);  //显示正确/错误
+			}
+
+			if(hasErr){
+				result = false;
+			} else if(urls.length <= 0 && (!hasErr)){
+				vaildForm.setChkMsg(links[0],formMsg.link_empty);
+				result = false;
+			} else {
+				tousu["tempLinksId"] = tempLinksId.concat();
+				urls = urls.join("\t");
+				baidu("#" + linksWrapId + "s").val(urls);
+			}
+			result = result && rlt;
+			return result;
+	},
+	setCurrentTime: function(ipt){
+	    var today = baidu.date.format(new Date(),'yyyy-MM-dd');
+	    ipt.value = today;
+	},
+	changeBtnSubmit: function(formIdNum, isFinish){
+		var self = this;
+		var btnSubmit = baidu("#form" + formIdNum + "_btnSubmit");
+		
+		if(isFinish){
+			btnSubmit.removeClass("btn_off");
+			btnSubmit.val("提交");
+			btnSubmit.removeAttr("submiting");
+		} else {
+
+			if(btnSubmit.attr("submiting") == "1"){ return false;}
+			btnSubmit.addClass("btn_off");
+			btnSubmit.val("正在提交");
+			btnSubmit.attr("submiting", "1");
+		}
+		return true;
+	}
+};
+
+var form1 = {
+	formO : baidu("#tousu_form1"),
+	init: function(){
+		this.bindCheck();
+		chkForm.bindAddLink("1", this.formO, this.linkCfg);
+	},
+	bindCheck: function(){
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		var linkCfg = this.linkCfg = chkForm.getLinkCfg("1");
+		formO.vaildForm({
+			fields:{
+				"#form1_title": {
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["title_empty"],
+			        errMsg: formMsg["title_long"]
+				},
+				"#form1_link1": linkCfg,
+				"#form1_link2": linkCfg,
+				"#form1_link3": linkCfg,
+				"#form1_ids":{
+			        regExp:"validId",
+			        emptyMsg: formMsg["ID_empty"],
+			        errMsg: formMsg["ID_err"],
+			        longMsg: formMsg["ID_long"]
+				},
+				"#form1_content":{
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["content_empty"],
+			        errMsg: formMsg["content_long"]
+				}
+			},
+			submitCbk: function(rlt){
+				var chkRlt = chkForm.submitCbk("form1_link", rlt);
+				if(chkRlt){
+					chkRlt = chkForm.changeBtnSubmit(1);
+				}
+				return chkRlt;
+			}
+		});
+	}
+};
+
+var form2 = {
+	formO : baidu("#tousu_form2"),
+	init: function(){
+		this.bindCheck();
+		var iptTime = baidu("#form2_time")[0];
+		/*
+		if(vaildForm.isEmpty(iptTime)){
+			chkForm.setCurrentTime(iptTime);
+		}
+		var datepicker = new magic.setup.datePicker('form2_time',{
+                'format': 'yyyy-MM-dd HH:mm',
+                'calendarOptions': {
+                    'timer': {
+                        enable: true
+                    }
+                }
+            });
+
+	*/
+	},
+	bindCheck: function(){
+		var self = this;
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		formO.vaildForm({
+			fields:{
+				"#form2_title": {
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["title_empty"],
+			        errMsg: formMsg["title_long"]
+				},
+				"#form2_ids":{
+					required:true,
+			        regExp:"validId",
+			        emptyMsg: formMsg["ID_empty"],
+			        errMsg: formMsg["ID_err"],
+			        longMsg: formMsg["ID_long"]
+				},
+				"#form2_extra":{
+					required:true,
+			        regExp:"isEmpty",
+			        emptyMsg: formMsg["extra_empty"]
+				},
+				"#form2_time":{
+					required:true,
+			        regExp: chkForm.vaild.time,
+			        emptyMsg: formMsg["time_empty"],
+			        errMsg: formMsg["time_err"]
+				},
+				"#form2_content":{
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["content_empty"],
+			        errMsg: formMsg["content_long"]
+				}
+			},
+			submitCbk: function(rlt){
+				if(rlt){
+					rlt = chkForm.changeBtnSubmit(2);
+				}
+				return rlt;
+			}
+		});
+	}
+};
+
+var form3 = {
+	formO : baidu("#tousu_form3"),
+	init: function(){
+		this.bindCheck();
+		chkForm.bindAddLink("3", this.formO, this.linkCfg);
+	},
+	bindCheck: function(){
+		var self = this;
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		var linkCfg = this.linkCfg = chkForm.getLinkCfg("3");
+		formO.vaildForm({
+			fields:{
+				"#form3_title": {
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["title_empty"],
+			        errMsg: formMsg["title_long"]
+				},
+				"#form3_link1": linkCfg,
+				"#form3_link2": linkCfg,
+				"#form3_link3": linkCfg,
+				"#form3_content":{
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["content_empty"],
+			        errMsg: formMsg["content_long"]
+				}
+			},
+			submitCbk: function(rlt){
+				var chkRlt = chkForm.submitCbk("form3_link", rlt);
+				if(chkRlt){
+					chkRlt = chkForm.changeBtnSubmit(3);
+				}
+				return chkRlt;
+			}
+		});
+	}
+};
+var form5 = {
+	formO : baidu("#tousu_form5"),
+	init: function(){
+		this.bindCheck();
+	},
+	bindCheck: function(){
+		var self = this;
+		var formO = this.formO;
+		var formMsg = chkForm.msg;
+		formO.vaildForm({
+			fields:{
+				"#form5_id": {
+					required:true,
+			        regExp:"validId",
+			        emptyMsg: formMsg["ID_empty"],
+			        errMsg: formMsg["ID_err"],
+			        longMsg: formMsg["ID_long"]
+				},
+				"#form5_content":{
+					required:true,
+			        regExp:"len",
+			        emptyMsg: formMsg["content_empty"],
+			        errMsg: formMsg["content_long"]
+				}
+			},
+			submitCbk: function(rlt){
+				if(rlt){
+					rlt = chkForm.changeBtnSubmit(5);
+				}
+				return rlt;
+			}
+		});
+	}
+};
+
+form1.init();
+form2.init();
+form3.init();
+form5.init();
+</script>
+</body>
+</html>

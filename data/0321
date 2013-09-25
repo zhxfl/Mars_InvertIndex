@@ -1,0 +1,115 @@
+<!DOCTYPE html><html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=7" http-equiv="X-UA-Compatible"/>
+<link href="http://baike.bdimg.com/static/common/css/user-base.css?@=vj0oal&amp;t=20120315125647" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/common/js/user-base.js?@=2dyv14v&amp;t=20120315125647" type="text/javascript"></script><meta charset="utf-8"/><title>百科学术委员会专家报名</title><META CONTENT="no-cache" HTTP-EQUIV="Pragma"/><META CONTENT="no-cache" HTTP-EQUIV="Cache-Control"/><META CONTENT="Wed, 26 Feb 1997 08:21:57 GMT" HTTP-EQUIV="expires"/><META CONTENT="0" HTTP-EQUIV="Expires"/><link href="http://baike.bdimg.com/static/common/css/view.css?t=20120315125647" rel="stylesheet" type="text/css"/><link href="/static/lemma/css/album.css?t=20120315125647" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/common/js/user-base.js?" type="text/javascript"></script><link href="http://baike.bdimg.com/static/usercenter/css/logic/bk.usercenter.expert.css?@=agrgkm" rel="stylesheet" type="text/css"/><script src="http://baike.bdimg.com/static/usercenter/js/logic/expert.reg.js?@=y9uzkp" type="text/javascript"></script>
+<script type="text/javascript">userlogin();</script>
+<style>#rights{color:#666;margin-top:44px;text-align:center;font-size:12px}.area{margin-bottom:10px;zoom:1}.foot{height:100px}.main{width:980px;margin:0 auto;font-family:宋体}#ft{clear:both;font-size:12px;line-height:20px;margin-top:10px;white-space:nowrap;color:#77C;text-align:center}#search-content{overflow:hidden}</style>
+<script>baidu.dom.ready(function(){baidu.page.loadJsFile("http://baike.bdimg.com/static/common/js/sug.js?t="+Math.random());});</script>
+</head>
+<body>
+<div id="wrap">
+<div id="userbar"></div>
+<div class="search fix" style="margin-top:26px">
+<div class="clearfix" id="search">
+<div id="logo">
+<a title="到百科首页" href="/" class="nslog:1008"><img width="137" height="46" src="http://img.baidu.com/img/baike/logo-baike.png" /></a>
+</div>
+<div id="search-content">
+<p class="nv nslog-area" data-nslog-type="1009">
+<a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://music.baidu.com/?fr=bk">音乐</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><a href="http://map.baidu.com/?fr=bk">地图</a><strong>百科</strong><a href="http://wenku.baidu.com/?fr=bk">文库</a>
+</p>
+<form action="/search/word?" id="f1" method="get" name="f1" target="_self">
+<span class="s_ipt_wr"><span><input class="s_ipt" id="word" maxlength="100" name="word" tabindex="1" value=""/></span></span><span class="s_btn_wr" style="margin-right:6px"><span><input class="s_btn nslog:1010" onclick="this.form.pic.value=1" onmousedown="this.className=&#34;s_btn s_btn_h&#34;" onmouseout="this.className=&#34;s_btn&#34;" tabindex="2" type="submit" value="进入词条"/></span></span><span class="s_btn_wr"><span><input class="s_btn nslog:1011" onclick="this.form.pic.value=2" onmousedown="this.className=&#34;s_btn s_btn_h&#34;" onmouseout="this.className=&#34;s_btn&#34;" tabindex="3" type="submit" value="搜索词条"/></span></span>
+<input id="sw1" name="pic" type="hidden" value="1"/>
+<input name="sug" type="hidden" value="1"/>
+<input id="search-enc" name="enc" type="hidden" value="gbk"/>
+</form>
+</div>
+<div id="help">
+<a class="c-help nslog:1012" href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a>
+</div>
+<script type="text/javascript">baidu.event.on("word","focus",function(){var _=arguments.callee;baidu.sio.callByBrowser("http://baike.bdimg.com/static/common/js/sug.js",function(){baidu.event.un("word","focus",_);});});if(baidu.platform.isIpad){baidu.sio.callByBrowser("http://baike.bdimg.com/static/common/js/common/search_ipad.js");}</script>
+</div></div>
+<div id="page">
+<div class="expert-main">
+<div>
+<a href="/">百度百科</a>>&#160;&#160;<a href="/zhuanjia">百科学术委员会</a>>&#160;&#160;报名
+</div>
+<div class="content">
+<h2 class="info-title">填写个人基本信息</h2>
+<form action="/ajax/doubt/setExpertInfo" id="info" method="post">
+<input id="userName" name="userName" type="hidden" value=""/>
+<input name="operate" type="hidden" value="submit"/>
+<input name="applyStep" type="hidden" value="1"/>
+<div class="info-item">
+<label for="expertName">姓&#160;&#160;&#160;&#160;&#160;&#160;&#160;名<span class="must-input">*</span></label>
+<input class="text-input" id="expertName" name="expertName" type="text"/><span class="refer show" id="expertName-refer">请输入您的中文名<div class="coner"></div></span><span class="error" id="expertName-error">姓名不能为空</span>
+</div>
+<div class="info-item">
+<label for="fields">擅长领域<span class="must-input">*</span></label>
+<select id="field0">
+<option selected="selected" value="0">-&#160;类别&#160;-</option>
+<option value="哲学">哲学</option>
+<option value="经济学">经济学</option>
+<option value="法学">法学</option>
+<option value="教育学">教育学</option>
+<option value="文学">文学</option>
+<option value="历史学">历史学</option>
+<option value="理学">理学</option>
+<option value="工学">工学</option>
+<option value="农学">农学</option>
+<option value="医学">医学</option>
+<option value="军事学">军事学</option>
+<option value="管理学">管理学</option>
+</select>
+<select id="field1">
+<option selected="selected" value="0">一级学科</option>
+</select>
+<select id="field2">
+<option selected="selected" value="0">二级学科</option>
+</select><span class="error" id="fields-error">请选择你擅长的领域</span>
+<input id="fields" name="fields" type="hidden"/>
+</div>
+<div class="info-item">
+<label for="currentIdentity">当前身份<span class="must-input">*</span></label>
+<select id="currentIdentity" name="currentIdentity">
+<option selected="selected" value="0">-&#160;选择&#160;-</option>
+<option value="教授">教授</option>
+<option value="大学教师">大学教师</option>
+<option value="博士">博士</option>
+<option value="硕士">硕士</option>
+<option value="从业者">从业者</option>
+<option value="其他">其他</option>
+</select><span class="error" id="currentIdentity-error">请选择您的当前身份</span>
+</div>
+<div class="info-item">
+<label for="longTitle">头&#160;&#160;&#160;&#160;&#160;&#160;&#160;衔<span class="must-input">*</span></label>
+<input class="text-input" id="longTitle" name="longTitle" type="text"/><span class="refer" id="longTitle-refer">请填写您现在的头衔<div class="coner"></div></span><span class="error" id="longTitle-error">头衔不能为空</span>
+</div>
+<div class="info-item">
+<label for="celphone">手&#160;&#160;&#160;&#160;&#160;&#160;&#160;机<span class="must-input">*</span></label>
+<input class="text-input" id="celphone" name="celphone" type="text"/><span class="refer" id="celphone-refer">此信息不对外展示，仅用于与您联系<div class="coner"></div></span><span class="error" id="celphone-error">手机号不能为空</span>
+</div>
+<div class="info-item">
+<label for="email">邮&#160;&#160;&#160;&#160;&#160;&#160;&#160;箱<span class="must-input">*</span></label>
+<input class="text-input" id="email" name="email" type="text"/><span class="refer" id="email-refer">请填写您常用的邮箱<div class="coner"></div></span><span class="error" id="email-error">邮箱格式不正确</span>
+</div>
+<div class="info-item">
+<label for="introduction">个人简介<span class="must-input">*</span></label>
+<textarea class="textarea-input" id="introduction" name="introduction"></textarea><span class="refer" id="introduction-refer">请填写您的个人简历，研究成果及获奖经历等<div class="coner"></div></span><span class="error" id="introduction-error">个人简介不能为空</span>
+</div>
+<input class="info-sub" id="info-sub" type="submit" value="提交"/>
+</form>
+</div>
+</div>
+<script type="text/javascript">var _bdhmProtocol=(("https:"==document.location.protocol)?" https://":" http://");document.write(unescape("%3Cscript src='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fb3781c3520bab7f0233d0440a9a48895' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<div class="foot main">
+<div class="area" id="rights"><img alt="" src="http://img.baidu.com/img/baike/ico_bz.gif"/>&#160;&#160;如想投诉，请到<a href="http://tousu.baidu.com/baike" target="_blank">百度百科投诉中心</a>；如想提出意见、建议，请到<a href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%B0%D9%BF%C6" target="_blank">百度百科吧</a>；想要了解您在百度百科的权利与义务，请查看<a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">权利声明</a>。</div>
+<div id="ft">&#169;<script>document.write((new Date).getFullYear());</script> Baidu <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a> | <a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">百科协议</a> | <a href="http://baike.baidu.com/hezuo/" target="_blank">百度百科合作平台</a> <!--[if gt IE 8]>| <a href="javascript:;" onclick="window.external.msAddSiteMode()">将百科添加到开始菜单</a><![endif]--></div>
+</div>
+</div>
+</body>
+</html><!--04340036200643507210092423-->
+<script> var _trace_page_logid = 0434003620; </script>

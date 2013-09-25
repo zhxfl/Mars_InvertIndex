@@ -1,0 +1,996 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<title>百度百科--百科之星      </title>
+<link href="http://baike.bdimg.com/css/list.css" rel="stylesheet" type="text/css">
+<script src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423" type="text/javascript"></script>
+<script type="text/javascript" src="http://baike.bdimg.com/js/index.js"></script>
+<style>
+#content{
+    float:left;
+width:776px;
+overflow:hidden;
+}
+#aside{
+float:right;
+width:196px;
+overflow:hidden;
+display:block
+}
+.usertitle{width:60px;height:16px;background:url(/static/common/images/user/titles.png) no-repeat;border:0}.level2{background-position:0 -23px}.level3{background-position:0 -46px}.level4{background-position:0 -68px}.level5{background-position:0 -89px}.level6{background-position:0 -121px}.level7{background-position:0 -144px}.level8{background-position:0 -167px}.level9{background-position:0 -190px}.level10{background-position:0 -214px}.level11{background-position:0 -248px}.level12{background-position:0 -271px;width:67px}.level13{background-position:0 -294px;width:79px}.level14{background-position:0 -317px}.level15{background-position:0 -340px}
+#usrbarWrap{font-family:arial;text-align:right;font-size:12px;position:absolute;right:10px;top:8px;z-index:10000;}
+</style>
+</head>
+<body>
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!--/help/-->
+<div id="userbar">
+</div>
+
+<div id="wrap">
+<div id="header">
+<form name="f1" method="get" target="_self" action="/search/word">
+<table cellpadding="0" cellspacing="0" id="hd"><tr>
+<td width="137" valign="top"><a href="http://baike.baidu.com/"><img src="http://img.baidu.com/img/baike/logo-baike.gif" class="lg" alt="到百度百科首页" /></a></td>
+
+<td valign="top" nowrap>
+<div class="ch"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><strong>百科</strong><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0" class="sh"><tr><td valign="top" nowrap><input id="kw" name="word" size="42" maxlength="256" value="" tabindex="1" class="i" /></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="b" onclick="document.f1.pic.value='1'" tabindex="2"/><input type="submit" value="搜索词条" class="b" onclick="document.f1.pic.value='2'" tabindex="3"/><a
+href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+</div>
+<div id="contaner">
+<div id="path"><a href="/">百度百科</a> &gt;&nbsp;百科之星</div>
+<div id="nav"><h3>百科之星</h3> </div>
+<div id="container-inner">
+<div id="content">
+
+
+<div id="current-star" >
+<div id="current-inner">
+<h3 id="curstar-title">本周百科之星</h3>
+    <div class="star-pic">
+        <div class="new-photo">
+        <img src="http://imgsrc.baidu.com/baike/abpic/item/0bd162d9f2d3572c3fab510d8b13632763d0c392.jpg" width="95" onload="imageResize(this,95,95)" title="yangzhemin12" alt="yangzhemin12" />
+        </div>
+    </div>
+
+<div class="star-content">
+    <div class="area-left">
+        <p class="star-author">
+        
+        <a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=yangzhemin12#3"  target="_blank"><strong>yangzhemin12</strong></a><span class="info">&nbsp;&nbsp;<a href="http://www.baidu.com/search/baike_help.html#&#30334;&#31185;&#31215;&#20998;&#20307;&#31995;" target="_blank"><img src="http://img.baidu.com/img/baike/blank.gif" class="usertitle level10" align="absmiddle" /></a>十级</span>
+        </p>
+
+    
+        <div class="star-voice">
+            <strong> 星星感言：</strong><q>谦为人徒，多做整理。贡献百科，提升自己。</q>
+        </div>
+    
+
+        <div class="star-info">
+            <ul>
+            
+            <li>创建词条：1062</li>
+            
+            <li>编辑词条：15112</li>
+            
+            <li>优质词条版本：23</li>
+            
+            <li>高质量词条版本：35</li>
+            
+            </ul>
+            <div class="clear"></div>
+        </div>
+
+        <div class="star-express">
+            
+            <h5>
+            <a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=yangzhemin12#3"  target="_blank">yangzhemin12</a> 的百科之旅
+            </h5>
+            <ul>
+            
+            <li>2011-07-13&nbsp;&nbsp;第一次编辑词条：
+            
+            <a href="/view/3807140.htm" target="_blank">法拉利手机</a></li>
+            
+            
+
+            
+            <li>2012-12-03&nbsp;&nbsp;第一个优质词条版本：
+            
+            <a href="/view/150782.htm" target="_blank">两江师范学堂</a></li>
+            
+            
+
+            
+            <li>2012-11-19&nbsp;&nbsp;第一个高质量词条版本：
+            
+            <a href="/view/150782.htm" target="_blank">两江师范学堂</a></li>
+            
+            
+
+            
+            </ul>
+            
+        </div>
+
+    </div>
+    
+
+    <div class="area-right">
+        
+        <div class="story">
+        <h5>背后的故事 </h5>
+        
+
+        
+        <p class="story-block"><cite><a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=yangzhemin12#3" target="_blank">yangzhemin12</a></cite>：
+    <q> 从尝试编辑第一个百科词条开始，我就喜欢上了这份&quot;工作&quot;，现在编辑百科已经成为生活中不可或缺的一部分了。回顾过往，2011年7月13日通过第一个词条，2012年12月成为编修院成员，2013年4月成为分类管理员，5月加入督察院，6月加入大蝌蚪团……感谢一路以来官方的赏识、前辈的教诲、朋友的支持。在百科收获颇多，学到很多知识的同时也结交了一群好朋友，大家朝着一个方向努力，这种感觉很好，祝福百科。 </q>
+        </p>
+        
+    
+
+        
+        <p class="star-comment">
+            <strong>蝌蚪点评：</strong>一步一步，脚踏实地，就能更好地成长，展现自己的能力，收获知识和挚友。同样祝福你，赢得更加耀眼的未来！
+        </p>
+        
+    </div>
+
+
+    <div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+
+<h3 id="star-title">历届百科之星</h3>
+
+
+<ul id="star-list">
+
+
+<li class="list-mo1 list">
+
+<a name="yangzhemin12"></a>
+    <div class="star-time">2013-08-13</div>
+    <div class="star-pic">
+        <div class="new-photo">
+        <img src="http://imgsrc.baidu.com/baike/abpic/item/9f510fb30f2442a7fa590c48d043ad4bd0130283.jpg" onload="imageResize(this,95,95)" alt="yangzhemin12" title="yangzhemin12"/>
+        </div>
+    </div>
+
+    <div class="star-content">
+<div class="area-left">
+        <p class="star-author">
+            
+            <a class="usercard" userName="yangzhemin12" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=yangzhemin12#3"  target="_blank"><strong>yangzhemin12</strong></a><span class="info">&nbsp;&nbsp;<a href="http://www.baidu.com/search/baike_help.html#&#30334;&#31185;&#31215;&#20998;&#20307;&#31995;" target="_blank"><img src="http://img.baidu.com/img/baike/blank.gif" class="usertitle level10" align="absmiddle" /></a>十级</span> </p>
+
+    
+        <div class="star-voice">
+           <strong> 星星感言：</strong><q>谦为人徒，多做整理。贡献百科，提升自己。</q>
+        </div>
+    
+
+    <div class="star-info">
+    <ul>
+    
+       <li>创建词条：1063</li>
+    
+       <li>编辑词条：15113</li>
+    
+       <li>优质词条版本：23</li>
+    
+       <li>高质量词条版本：35</li>
+    
+    </ul>
+
+    <div class="clear"></div>
+    </div>
+
+    <div class="star-express">
+
+    
+    <h5>
+    <a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=yangzhemin12#3"  target="_blank">yangzhemin12</a>的百科之旅
+    </h5>
+    <ul>
+    
+          <li>2011-07-13&nbsp;&nbsp;第一次编辑词条：
+
+         
+          <a href="/view/3807140.htm" target="_blank">法拉利手机</a>        </li>
+          
+         
+
+    
+          <li>2012-12-03&nbsp;&nbsp;第一个优质词条版本：
+
+         
+          <a href="/view/150782.htm" target="_blank">两江师范学堂</a>        </li>
+          
+         
+
+    
+          <li>2012-11-19&nbsp;&nbsp;第一个高质量词条版本：
+
+         
+          <a href="/view/150782.htm" target="_blank">两江师范学堂</a>        </li>
+          
+         
+
+    
+
+    <div class="clear"></div>
+    </ul>
+    
+    </div>
+    <div class="clear"></div>
+
+</div>
+<div class="area-right">
+    
+    <div class="story">
+     <h5>背后的故事 </h5>
+    
+
+
+    
+    <p class="story-block">
+    <cite><a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=yangzhemin12#3" target="_blank">yangzhemin12</a></cite>:
+    <q> 从尝试编辑第一个百科词条开始，我就喜欢上了这份&quot;工作&quot;，现在编辑百科已经成为生活中不可或缺的一部分了。回顾过往，2011年7月13日通过第一个词条，2012年12月成为编修院成员，2013年4月成为分类管理员，5月加入督察院，6月加入大蝌蚪团……感谢一路以来官方的赏识、前辈的教诲、朋友的支持。在百科收获颇多，学到很多知识的同时也结交了一群好朋友，大家朝着一个方向努力，这种感觉很好，祝福百科。 </q>
+    </p>
+    
+
+
+
+    
+    <p class="star-comment">
+                <strong>蝌蚪点评：</strong>一步一步，脚踏实地，就能更好地成长，展现自己的能力，收获知识和挚友。同样祝福你，赢得更加耀眼的未来！
+
+    </p>
+     
+    </div>
+    </div>
+    <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+</li>
+
+
+<li class="list-mo0 list">
+
+<a name="CSUeditor"></a>
+    <div class="star-time">2013-05-07</div>
+    <div class="star-pic">
+        <div class="new-photo">
+        <img src="http://imgsrc.baidu.com/baike/abpic/item/8ad4b31c8701a18b6f880c0e9f2f07082838fe14.jpg" onload="imageResize(this,95,95)" alt="CSUeditor" title="CSUeditor"/>
+        </div>
+    </div>
+
+    <div class="star-content">
+<div class="area-left">
+        <p class="star-author">
+            
+            <a class="usercard" userName="CSUeditor" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=CSUeditor#3"  target="_blank"><strong>CSUeditor</strong></a><span class="info">&nbsp;&nbsp;<a href="http://www.baidu.com/search/baike_help.html#&#30334;&#31185;&#31215;&#20998;&#20307;&#31995;" target="_blank"><img src="http://img.baidu.com/img/baike/blank.gif" class="usertitle level6" align="absmiddle" /></a>六级</span> </p>
+
+    
+        <div class="star-voice">
+           <strong> 星星感言：</strong><q>了解百科，编辑百科，提升百科，相信我们在做一件有意义的事情。</q>
+        </div>
+    
+
+    <div class="star-info">
+    <ul>
+    
+       <li>创建词条：61</li>
+    
+       <li>编辑词条：2133</li>
+    
+       <li>优质词条版本：3</li>
+    
+       <li>高质量词条版本：16</li>
+    
+    </ul>
+
+    <div class="clear"></div>
+    </div>
+
+    <div class="star-express">
+
+    
+    <h5>
+    <a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=CSUeditor#3"  target="_blank">CSUeditor</a>的百科之旅
+    </h5>
+    <ul>
+    
+          <li>2012-10-19&nbsp;&nbsp;第一次编辑词条：
+
+         
+          <a href="/view/1037997.htm" target="_blank">中南大学信息科学与工程学院</a>        </li>
+          
+         
+
+    
+          <li>2013-05-03&nbsp;&nbsp;第一个优质词条版本：
+
+         
+          <a href="/view/1061624.htm" target="_blank">保定市第一中学</a>        </li>
+          
+         
+
+    
+          <li>2012-11-14&nbsp;&nbsp;第一个高质量词条版本：
+
+         
+          <a href="/view/1061624.htm" target="_blank">保定市第一中学</a>        </li>
+          
+         
+
+    
+
+    <div class="clear"></div>
+    </ul>
+    
+    </div>
+    <div class="clear"></div>
+
+</div>
+<div class="area-right">
+    
+    <div class="story">
+     <h5>背后的故事 </h5>
+    
+
+
+    
+    <p class="story-block">
+    <cite><a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=CSUeditor#3" target="_blank">CSUeditor</a></cite>:
+    <q> 我是一名知识先锋，是从加入中南du百科之后才开始编辑词条的。在百度百科这个世界中，我在线上和线下都收获了很多友谊，也得到了很多人的帮助，自己的能力也得到了很大的提高。我知道自己的成绩和很多科友相比还有一段距离，自己的态度也需要更加严谨认真，我会在百科世界里成长的同时，不断严格要求自己，提升自己，向优秀看齐的。 </q>
+    </p>
+    
+
+
+
+    
+    <p class="star-comment">
+                <strong>蝌蚪点评：</strong>作为一名知识先锋，CSUeditor同学在团队里一直都非常积极努力。高标准，严要求，相信你会更优秀！
+
+    </p>
+     
+    </div>
+    </div>
+    <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+</li>
+
+
+<li class="list-mo1 list">
+
+<a name="%B0%D9%BF%C6%D0%C2%B3%C9%D4%B1"></a>
+    <div class="star-time">2013-04-16</div>
+    <div class="star-pic">
+        <div class="new-photo">
+        <img src="http://imgsrc.baidu.com/baike/abpic/item/a8ec8a13632762d03c99f1d3a1ec08fa513dc633.jpg" onload="imageResize(this,95,95)" alt="百科新成员" title="百科新成员"/>
+        </div>
+    </div>
+
+    <div class="star-content">
+<div class="area-left">
+        <p class="star-author">
+            
+            <a class="usercard" userName="百科新成员" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B0%D9%BF%C6%D0%C2%B3%C9%D4%B1#3"  target="_blank"><strong>百科新成员</strong></a><span class="info">&nbsp;&nbsp;<a href="http://www.baidu.com/search/baike_help.html#&#30334;&#31185;&#31215;&#20998;&#20307;&#31995;" target="_blank"><img src="http://img.baidu.com/img/baike/blank.gif" class="usertitle level7" align="absmiddle" /></a>七级</span> </p>
+
+    
+        <div class="star-voice">
+           <strong> 星星感言：</strong><q>百科知识，深至精深，熟知了解，在做编辑，以质为先，以量为后。</q>
+        </div>
+    
+
+    <div class="star-info">
+    <ul>
+    
+       <li>创建词条：257</li>
+    
+       <li>编辑词条：688</li>
+    
+       <li>优质词条版本：54</li>
+    
+       <li>高质量词条版本：66</li>
+    
+    </ul>
+
+    <div class="clear"></div>
+    </div>
+
+    <div class="star-express">
+
+    
+    <h5>
+    <a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B0%D9%BF%C6%D0%C2%B3%C9%D4%B1#3"  target="_blank">百科新成员</a>的百科之旅
+    </h5>
+    <ul>
+    
+          <li>2012-11-13&nbsp;&nbsp;第一次编辑词条：
+
+         
+          <a href="/view/3609395.htm" target="_blank">黑豚鼠</a>        </li>
+          
+         
+
+    
+          <li>2012-11-30&nbsp;&nbsp;第一个优质词条版本：
+
+         
+          <a href="/view/86582.htm" target="_blank">七彩鲑鱼</a>        </li>
+          
+         
+
+    
+          <li>2012-11-19&nbsp;&nbsp;第一个高质量词条版本：
+
+         
+          <a href="/view/3609395.htm" target="_blank">黑豚鼠</a>        </li>
+          
+         
+
+    
+
+    <div class="clear"></div>
+    </ul>
+    
+    </div>
+    <div class="clear"></div>
+
+</div>
+<div class="area-right">
+    
+    <div class="story">
+     <h5>背后的故事 </h5>
+    
+
+
+    
+    <p class="story-block">
+    <cite><a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B0%D9%BF%C6%D0%C2%B3%C9%D4%B1#3" target="_blank">百科新成员</a></cite>:
+    <q> 一直以来自己对“百度百科”都很关注，后来无意中加入了这个无尽的知识平台，自己就深深地喜欢上了这里。因为这里除了聚集知识以外，还有友情、欢乐，虽然我来到这里的时间比较短暂，却学会了很多。自从我编辑的第一个优质得到了专员的认可以后，更是让自己对这里产生了巨大的向往，也因此对于编辑优质词条获得了更大的信心与鼓励。在此希望以后还能有幸在这里继续前进，与大家携手，为百度百科共建一个美好的家园。 </q>
+    </p>
+    
+
+
+
+    
+    <p class="star-comment">
+                <strong>蝌蚪点评：</strong>有知识，有友情，有快乐，百科是一个分享的知识平台，愿你在这里学到更多，成为“百科好成员”，加油！
+
+    </p>
+     
+    </div>
+    </div>
+    <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+</li>
+
+
+<li class="list-mo0 list">
+
+<a name="mo63160363"></a>
+    <div class="star-time">2013-02-26</div>
+    <div class="star-pic">
+        <div class="new-photo">
+        <img src="http://imgsrc.baidu.com/baike/abpic/item/0b7b02087bf40ad17a87f9cb562c11dfa9ecceb2.jpg" onload="imageResize(this,95,95)" alt="mo63160363" title="mo63160363"/>
+        </div>
+    </div>
+
+    <div class="star-content">
+<div class="area-left">
+        <p class="star-author">
+            
+            <a class="usercard" userName="mo63160363" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=mo63160363#3"  target="_blank"><strong>mo63160363</strong></a><span class="info">&nbsp;&nbsp;<a href="http://www.baidu.com/search/baike_help.html#&#30334;&#31185;&#31215;&#20998;&#20307;&#31995;" target="_blank"><img src="http://img.baidu.com/img/baike/blank.gif" class="usertitle level9" align="absmiddle" /></a>九级</span> </p>
+
+    
+        <div class="star-voice">
+           <strong> 星星感言：</strong><q>做百科人，编辑词条，必守规则！</q>
+        </div>
+    
+
+    <div class="star-info">
+    <ul>
+    
+       <li>创建词条：729</li>
+    
+       <li>编辑词条：2460</li>
+    
+       <li>优质词条版本：28</li>
+    
+       <li>高质量词条版本：133</li>
+    
+    </ul>
+
+    <div class="clear"></div>
+    </div>
+
+    <div class="star-express">
+
+    
+    <h5>
+    <a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=mo63160363#3"  target="_blank">mo63160363</a>的百科之旅
+    </h5>
+    <ul>
+    
+          <li>2011-10-05&nbsp;&nbsp;第一次创建词条：
+
+         
+          <a href="/view/6590764.htm" target="_blank">双模版</a>        </li>
+          
+         
+
+    
+          <li>2013-01-06&nbsp;&nbsp;第一个优质词条版本：
+
+         
+          <a href="/view/662044.htm" target="_blank">硬脂酸钡</a>        </li>
+          
+         
+
+    
+          <li>2012-03-02&nbsp;&nbsp;第一个高质量词条版本：
+
+         
+          <a href="/view/7998963.htm" target="_blank">迈克尔·兰迪</a>        </li>
+          
+         
+
+    
+
+    <div class="clear"></div>
+    </ul>
+    
+    </div>
+    <div class="clear"></div>
+
+</div>
+<div class="area-right">
+    
+    <div class="story">
+     <h5>背后的故事 </h5>
+    
+
+
+    
+    <p class="story-block">
+    <cite><a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=mo63160363#3" target="_blank">mo63160363</a></cite>:
+    <q> 加入百度百科大家庭已有好几年了，百科是一个群策群力的知识分享平台，重在参与的热情促使着本人编辑了大量词条。一路走来，得到百科相关管理人员的帮助和教导以及在百科优质版吧的学习，取得了一些成绩。百度百科丰富与更新了本人知识储备，同时也使本人结识了许多志同道合的科友。在这里本人最衷心地感谢无私帮助本人的百科相关管理人员、朋友们，谢谢你们！我会继续努力，为百科做出更多的贡献！ </q>
+    </p>
+    
+
+
+
+    
+    <p class="star-comment">
+                <strong>蝌蚪点评：</strong>和百科一起成长进步，收获知识与友谊，希望你能和更多志同道合的朋友们交流心得，取得更好的成绩！
+
+    </p>
+     
+    </div>
+    </div>
+    <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+</li>
+
+
+<li class="list-mo1 list">
+
+<a name="%D4%B8%CF%CC%D3%EB%BA%E3"></a>
+    <div class="star-time">2013-01-29</div>
+    <div class="star-pic">
+        <div class="new-photo">
+        <img src="http://imgsrc.baidu.com/baike/abpic/item/29381f30e924b89963231d086f061d950a7bf6e7.jpg" onload="imageResize(this,95,95)" alt="愿咸与恒" title="愿咸与恒"/>
+        </div>
+    </div>
+
+    <div class="star-content">
+<div class="area-left">
+        <p class="star-author">
+            
+            <a class="usercard" userName="愿咸与恒" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%D4%B8%CF%CC%D3%EB%BA%E3#3"  target="_blank"><strong>愿咸与恒</strong></a><span class="info">&nbsp;&nbsp;<a href="http://www.baidu.com/search/baike_help.html#&#30334;&#31185;&#31215;&#20998;&#20307;&#31995;" target="_blank"><img src="http://img.baidu.com/img/baike/blank.gif" class="usertitle level9" align="absmiddle" /></a>九级</span> </p>
+
+    
+        <div class="star-voice">
+           <strong> 星星感言：</strong><q>贡献你的知识，分享给更多的人！</q>
+        </div>
+    
+
+    <div class="star-info">
+    <ul>
+    
+       <li>创建词条：71</li>
+    
+       <li>编辑词条：7552</li>
+    
+       <li>优质词条版本：15</li>
+    
+       <li>高质量词条版本：15</li>
+    
+    </ul>
+
+    <div class="clear"></div>
+    </div>
+
+    <div class="star-express">
+
+    
+    <h5>
+    <a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%D4%B8%CF%CC%D3%EB%BA%E3#3"  target="_blank">愿咸与恒</a>的百科之旅
+    </h5>
+    <ul>
+    
+          <li>2011-12-26&nbsp;&nbsp;第一次编辑词条：
+
+         
+          <a href="/view/474622.htm" target="_blank">法国中尉的女人</a>        </li>
+          
+         
+
+    
+          <li>2012-12-18&nbsp;&nbsp;第一个优质词条版本：
+
+         
+          <a href="/view/9736179.htm" target="_blank">故宫燕</a>        </li>
+          
+         
+
+    
+          <li>2012-12-05&nbsp;&nbsp;第一个高质量词条版本：
+
+         
+          <a href="/view/9687970.htm" target="_blank">沁园春·万里封侯</a>        </li>
+          
+         
+
+    
+
+    <div class="clear"></div>
+    </ul>
+    
+    </div>
+    <div class="clear"></div>
+
+</div>
+<div class="area-right">
+    
+    <div class="story">
+     <h5>背后的故事 </h5>
+    
+
+
+    
+    <p class="story-block">
+    <cite><a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%D4%B8%CF%CC%D3%EB%BA%E3#3" target="_blank">愿咸与恒</a></cite>:
+    <q> 加入百度百科以来，我从连参考资料都不知道怎么添加，到现在熟练掌握了很多编辑方法，也结识了很多朋友，很感谢官方人员的帮助。有时候自己在编辑百科的过程中有了发现，会在第一时间用帖子的形式记录下来，发到百科核心用户贴吧里面，看到帖子成为精品时，心里特别高兴，希望自己能够一直写下去，把自己的心得分享给广大科友。以后我会多多编辑自己擅长的领域，和大家多交流，共同进步！ </q>
+    </p>
+    
+
+
+
+    
+    <p class="star-comment">
+                <strong>蝌蚪点评：</strong>百科是一个学习知识、结识朋友、提升能力的平台，祝愿咸与恒在这里能够与大家分享、收获更多更好的知识！
+
+    </p>
+     
+    </div>
+    </div>
+    <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+</li>
+
+
+<li class="list-mo0 list">
+
+<a name="%B2%D0%D0%F9%B8%F3%D6%F7"></a>
+    <div class="star-time">2012-12-25</div>
+    <div class="star-pic">
+        <div class="new-photo">
+        <img src="http://imgsrc.baidu.com/baike/abpic/item/b812c8fcc3cec3fd6411a1add688d43f8794273e.jpg" onload="imageResize(this,95,95)" alt="残轩阁主" title="残轩阁主"/>
+        </div>
+    </div>
+
+    <div class="star-content">
+<div class="area-left">
+        <p class="star-author">
+            
+            <a class="usercard" userName="残轩阁主" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B2%D0%D0%F9%B8%F3%D6%F7#3"  target="_blank"><strong>残轩阁主</strong></a><span class="info">&nbsp;&nbsp;<a href="http://www.baidu.com/search/baike_help.html#&#30334;&#31185;&#31215;&#20998;&#20307;&#31995;" target="_blank"><img src="http://img.baidu.com/img/baike/blank.gif" class="usertitle level8" align="absmiddle" /></a>八级</span> </p>
+
+    
+        <div class="star-voice">
+           <strong> 星星感言：</strong><q>既然走过，就不要让他留下遗憾！</q>
+        </div>
+    
+
+    <div class="star-info">
+    <ul>
+    
+       <li>创建词条：143</li>
+    
+       <li>编辑词条：3400</li>
+    
+       <li>优质词条版本：57</li>
+    
+       <li>高质量词条版本：75</li>
+    
+    </ul>
+
+    <div class="clear"></div>
+    </div>
+
+    <div class="star-express">
+
+    
+    <h5>
+    <a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B2%D0%D0%F9%B8%F3%D6%F7#3"  target="_blank">残轩阁主</a>的百科之旅
+    </h5>
+    <ul>
+    
+          <li>2012-04-08&nbsp;&nbsp;第一次编辑词条：
+
+         
+          <a href="/view/21951.htm" target="_blank">于果</a>        </li>
+          
+         
+
+    
+          <li>2012-10-23&nbsp;&nbsp;第一个优质词条版本：
+
+         
+          <a href="/view/307447.htm" target="_blank">烧塔</a>        </li>
+          
+         
+
+    
+          <li>2012-08-21&nbsp;&nbsp;第一个高质量词条版本：
+
+         
+          <a href="/view/8618557.htm" target="_blank">广东文理职业学院</a>        </li>
+          
+         
+
+    
+
+    <div class="clear"></div>
+    </ul>
+    
+    </div>
+    <div class="clear"></div>
+
+</div>
+<div class="area-right">
+    
+    <div class="story">
+     <h5>背后的故事 </h5>
+    
+
+
+    
+    <p class="story-block">
+    <cite><a href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B2%D0%D0%F9%B8%F3%D6%F7#3" target="_blank">残轩阁主</a></cite>:
+    <q> 还记得，第一次知道百科是高三的时候（目测是非常非常晚的），当时和历史老师谈起太平天国，老师搜索了百度百科，于是我知道了原来还有百度百科的存在。今年上半年我终于有了属于自己的电脑，其实当时一直很奇怪那个编辑词条是什么玩意，今年四月八日我终于点击了那个键，于是开始了我的百科生活。认识了不少的人，笑过，也曾生气过，时间长了，也就看的淡了。作一个揖感谢在这条路上所有帮助过我的人，谢谢！！！ </q>
+    </p>
+    
+
+
+
+    
+    <p class="star-comment">
+                <strong>蝌蚪点评：</strong>认真和执着是获得成功的两大利器，愿你继续踏实前行，在百科中创造更多的精彩！
+
+    </p>
+     
+    </div>
+    </div>
+    <div class="clear"></div>
+    </div>
+
+
+
+
+
+
+
+</li>
+
+</ul>
+</div>
+
+
+<div id="aside">
+    <div id="introduce">
+        <dl>
+        <dt>什么是百科之星?</dt>
+        <dd>
+        百科之星是百度百科用户的一项特殊荣誉，颁发给对百科内容建设做出突出贡献、努力帮助百科词条质量不断提高的用户。百科之星每周产生一位。您可以去<a href="http://tieba.baidu.com/f?kw=%B0%D9%BF%C6%D6%AE%D0%C7&fr=wk" target="_blank">百科之星吧</a>自荐或者推荐别人。
+        </dd>
+        </dl>
+    </div>
+
+	<div id="hot-lemma-list">
+		<dl>
+			<dt><strong>热门词条榜</strong></dt>
+			
+        <dd>
+        <ul class='top_list'>
+			<li class="list-0"><a  href="http://baike.baidu.com/view/633311.htm#sub11233901" target="_blank">时间胶囊</a></li>
+<li class="list-1"><a id="hot-lemma-list_1_index" href="http://baike.baidu.com/view/184448.htm" target="_blank">默克尔</a></li>
+<li class="list-2"><a id="hot-lemma-list_2_index" href="http://baike.baidu.com/view/54634.htm" target="_blank">座头鲸</a></li>
+<li class="list-3"><a id="hot-lemma-list_3_index" href="http://baike.baidu.com/view/1130099.htm#sub11223374" target="_blank">天兔</a></li>
+<li class="list-4"><a name="hot-lemma-list_4_10_index" href="http://baike.baidu.com/view/3253208.htm" target="_blank">赵丙贤</a></li>
+<li class="list-5"><a name="hot-lemma-list_4_10_index" href="http://baike.baidu.com/view/1269565.htm" target="_blank">佳士得 </a></li>
+<li class="list-6"><a name="hot-lemma-list_4_10_index" href="http://baike.baidu.com/view/3176414.htm" target="_blank">地铁禁食令</a></li>
+<li class="list-7"><a name="hot-lemma-list_4_10_index" href="http://baike.baidu.com/view/10920446.htm" target="_blank">肯尼亚枪战</a></li>
+<li class="list-8"><a name="hot-lemma-list_4_10_index" href="http://baike.baidu.com/view/3004791.htm" target="_blank">索马里青年党</a></li>
+<li class="list-9"><a name="hot-lemma-list_4_10_index" href="http://baike.baidu.com/view/1534168.htm" target="_blank">卡巴耶娃 </a></li>
+
+        </ul>
+		</dd>
+		
+		</dl>
+	</div>
+
+
+
+<div id="userList">
+    <div id='userListTit'>
+        <a href="/star/contribution/grow.html?func=congrow" target="_blank" class="more" id="D2_tab_more_1">更多</a>
+        <a href="/star/contribution/highquality_grow.html?func=conhqgrow" target="_blank" class="more" style='display:none' id="D2_tab_more_2">更多</a><strong>用户排行榜</strong>
+    </div>
+    <ul class='D2_tab'>
+        <li id="D2_tab_1" class='D2_tab_on' onmouseover="SwitchTab.lc(1,'D2_')">上周贡献榜</li>
+        <li class="sp"></li>
+        <li id="D2_tab_2" onmouseover="SwitchTab.lc(2,'D2_')" >上周优质版本</li>
+    </ul>
+    <div id="D2_tab_con_1" class="D2_tab_con">
+        <table width="145" border="0" align="center" cellpadding="0" cellspacing="0" id="phbCon1" class="phb_con">
+            
+            <tr>
+                <td width="18px" align="center"></td>
+                <td  nowrap><a class="usercard" userName="markzmj" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=markzmj#3" target="_blank">markzmj</a></td>
+                <td width="40px" align='right'>1570</td>
+            </tr>
+            
+            <tr>
+                <td width="18px" align="center"></td>
+                <td  nowrap><a class="usercard" userName="QQBIDUOK28" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=QQBIDUOK28#3" target="_blank">QQBIDUOK28</a></td>
+                <td width="40px" align='right'>1534</td>
+            </tr>
+            
+            <tr>
+                <td width="18px" align="center"></td>
+                <td  nowrap><a class="usercard" userName="gzyfzlvip" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=gzyfzlvip#3" target="_blank">gzyfzlvip</a></td>
+                <td width="40px" align='right'>1533</td>
+            </tr>
+            
+            <tr>
+                <td width="18px" align="center"></td>
+                <td  nowrap><a class="usercard" userName="ktdh123" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=ktdh123#3" target="_blank">ktdh123</a></td>
+                <td width="40px" align='right'>1518</td>
+            </tr>
+            
+            <tr>
+                <td width="18px" align="center"></td>
+                <td  nowrap><a class="usercard" userName="无形雨" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%CE%DE%D0%CE%D3%EA#3" target="_blank">无形雨</a></td>
+                <td width="40px" align='right'>1514</td>
+            </tr>
+            
+        </table>
+        <p class="phb_ver"><a href="/star/contribution/total.html?func=contotal" target="_blank">查看总贡献榜&gt;&gt;</a></p>
+
+    </div>
+
+    <div id="D2_tab_con_2" class="D2_tab_con" style="display:none">
+        <table width="145" border="0" align="center" cellpadding="0" cellspacing="0" id="phbCon2" class="phb_con">
+            
+            <tr>
+                <td width="22px" align="center"></td>
+                <td nowrap><a class="usercard" userName="我乃野云鹤" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%CE%D2%C4%CB%D2%B0%D4%C6%BA%D7#3" target="_blank">我乃野云鹤</a></td>
+                <td width="40" align='right'>9</td>
+            </tr>
+            
+            <tr>
+                <td width="22px" align="center"></td>
+                <td nowrap><a class="usercard" userName="问道花开1" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%CE%CA%B5%C0%BB%A8%BF%AA1#3" target="_blank">问道花开1</a></td>
+                <td width="40" align='right'>3</td>
+            </tr>
+            
+            <tr>
+                <td width="22px" align="center"><a href="http://baike.baidu.com/cms/s/kdt/index.html" target="_blank"><img src="http://img.baidu.com/img/baike/tadpole.gif" title="百度百科蝌蚪团" border="0"></a></td>
+                <td nowrap><a class="usercard" userName="东篱小菊" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B6%AB%C0%E9%D0%A1%BE%D5#3" target="_blank">东篱小菊</a></td>
+                <td width="40" align='right'>3</td>
+            </tr>
+            
+            <tr>
+                <td width="22px" align="center"></td>
+                <td nowrap><a class="usercard" userName="辰猫暮雪" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=%B3%BD%C3%A8%C4%BA%D1%A9#3" target="_blank">辰猫暮雪</a></td>
+                <td width="40" align='right'>2</td>
+            </tr>
+            
+            <tr>
+                <td width="22px" align="center"></td>
+                <td nowrap><a class="usercard" userName="BAOLILONG130" href="http://passport.baidu.com/?business&aid=7&default_tab=2&un=BAOLILONG130#3" target="_blank">BAOLILONG130</a></td>
+                <td width="40" align='right'>1</td>
+            </tr>
+            
+        </table>
+        <p class="phb_ver"><a href="/star/contribution/highquality_total.html?func=conhqtotal" target="_blank">查看总优质版本榜&gt;&gt;</a></p>
+
+    </div>
+    <div class="clear"></div>
+</div>
+
+</div>
+
+
+
+<div class="clear">
+</div>
+</div>
+</div>
+
+          <div class="ps"><font class=f9>&nbsp;1&nbsp;<a href="/starlist&pn=6">[2]</a>&nbsp;<a href="/starlist&pn=12">[3]</a>&nbsp;<a href="/starlist&pn=18">[4]</a>&nbsp;<a href="/starlist&pn=24">[5]</a>&nbsp;<a href="/starlist&pn=6">下一页</a>&nbsp;<a href="/starlist&pn=270">[尾页]</a></font></div>
+
+
+
+</div>
+
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+
+</div>
+
+<script type="text/javascript">cutText({story_lemma:190},1);</script>
+</body>
+</html><!--04350582130289874954092423-->
+<script> var _trace_page_logid = 0435058213; </script>

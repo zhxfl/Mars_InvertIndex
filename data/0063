@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>舞动官方网站-贴吧游戏-再一次，心跳！</title>
+    <link href="http://wanba.baidu.com/brands/touch/css/index.css" rel="stylesheet" />
+    <script src="http://js.youxi.bdimg.com/js/jquery-1.8.2.min.js"></script>
+    <script type="text/javascript" src="http://passport.baidu.com/passApi/js/uni_login_wrapper.js"></script>
+    <script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/hdft/js/behavior-v2.min.js"></script>
+    <script src="http://wanba.baidu.com/brands/touch/js/index.js"></script>
+</head>
+<body class="home">
+    <div class="wrapper">
+        <div class="topFlash">
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="1920" height="586">
+                <param name="movie" value="http://wanba.baidu.com/brands/touch/images/touch_head.swf" />
+                <param name="quality" value="high" />
+                <param name="wmode" value="opaque" />
+                <embed src="http://wanba.baidu.com/brands/touch/images/touch_head.swf" quality="high" wmode="opaque" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="1920" height="586"></embed>
+            </object>
+        </div>
+        <div class="container">
+            <div class="head">
+                <a class="first_time_unity" href="http://down3.baiduwebgame.com/touch/UnityWebPlayerDevelopment.exe"></a>
+                <a class="mac_unity" href="http://down3.baiduwebgame.com/touch/webplayer-mini.dmg"></a>
+                <div class="slider">
+                    <script type="text/javascript">
+                        var swf_width = 530;
+                        var swf_height = 125;
+                        var files = 'http://wanba.baidu.com/r/image/2013-08-28/9027d9a8f0fbf9b8d43749b953f728af.jpg|http://wanba.baidu.com/r/image/2013-08-28/b97d5bbaa089c5b3bdbb21f1670afe72.jpg|http://wanba.baidu.com/r/image/2013-08-28/6ca2b24c17578ee2a1187ac981335681.jpg';
+                        var links = 'http://wanba.baidu.com/games/5d/article/2013-08-29/1383411648.html|http://wanba.baidu.com/games/5d/article/2013-08-29/1383411648.html|http://image.baidu.com/';
+
+                        var texts = '';
+                        document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="' + swf_width + '" height="' + swf_height + '">');
+                        document.write('<param name="movie" value="http://wanba.baidu.com/tab.swf"><param name="quality" value="high">');
+                        document.write('<param name="menu" value="false"><param name=wmode value="opaque">');
+                        document.write('<param name="FlashVars" value="bcastr_file=' + files + '&bcastr_link=' + links + '&bcastr_title=' + texts + '">');
+                        document.write('<embed src="http://wanba.baidu.com/tab.swf" wmode="opaque" FlashVars="bcastr_file=' + files + '&bcastr_link=' + links + '&bcastr_title=' + texts + '& menu="false" quality="high" width="' + swf_width + '" height="' + swf_height + '" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />');
+                        document.write('</object>');
+                    </script>
+                </div>
+            </div>
+            <div class="inner_container">
+                <div class="aside">
+                    <div class="sub_links">
+                        <a class="client_download" href="javascript:alert('暂未开放，敬请期待');"></a>
+                        <a class="game_recharge" href="http://pay.baidu.com/reg_order.xhtml?gid=530"></a>
+                        <a class="game_data" href="http://wanba.baidu.com/games/5d/data/"></a>
+                        <a class="forum" href="http://tieba.baidu.com/f?kw=%CE%E8%B6%AF"></a>
+                    </div>
+                    <div class="servers">
+                        <a href="http://wanba.baidu.com/games/5d/select/" class="more"></a>
+                        <ul></ul>
+                    </div>
+                    <div class="celebrity">
+                        <div class="celebrity_info_holder">
+                            <div class="avatar">
+                                <img src="http://wanba.baidu.com/r/image/2013-08-08/45bf5483b36cc19011da284241dcd208.jpg" alt="" />
+                            </div>
+                            <div class="celebrity_info">
+                                <p class="first">
+                                    <label>昵称：</label><span>sunny</span>
+                                </p>
+                                <p>
+                                    <label>大区：</label><span>心随我动</span>
+                                </p>
+                                <p>
+                                    <label>个性宣言：</label><span>人来，人往。。。</span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="social_links">
+                            <a href="http://weibo.com/ilishuang" class="weibo"></a>
+                            <a href="http://sunnylishuang.qzone.qq.com" class="qzone"></a>
+                        </div>
+                    </div>
+                    <div class="cs_panel">
+                        <ul>
+                            <li><a href="http://wanba.baidu.com/cs4/problem.xhtml">游戏安全</a></li>
+                            <li><a href="http://wanba.baidu.com/jiazhang/">家长监护</a></li>
+                            <li><a href="http://wanba.baidu.com/smz/">防沉迷认证</a></li>
+                        </ul>
+                    </div>
+                    <div class="media">
+                        <a href="javascript:;" class="media_select"></a>
+                        <ul class="top_media">
+                            <li>
+                                <a href="http://music.baidu.com/">
+                                    <img src="http://wanba.baidu.com/r/image/2013-08-12/fb2e478e8219eaddfb00cafb3c75eb7b.jpg" alt="" /></a>
+                            </li>
+                            <li>
+                                <a href="http://image.baidu.com/">
+                                    <img src="http://wanba.baidu.com/r/image/2013-08-12/9b6ab307d23089265a252164357d371d.jpg" alt="" /></a>
+                            </li>
+                            <li>
+                                <a href="http://wyyx.hao123.com/">
+                                    <img src="http://wanba.baidu.com/r/image/2013-08-12/1ffa77df93b8678c0bfd2d0016df828f.jpg" alt="" /></a>
+                            </li>
+                            <li>
+                                <a href="http://tieba.baidu.com/">
+                                    <img src="http://wanba.baidu.com/r/image/2013-08-12/fec8ce423f77e2797cfa7b867b62f5f2.jpg" alt="" /></a>
+                            </li>
+                        </ul>
+                        <ul class="media_select_content">
+                            <li>
+                                <a href="http://wyyx.hao123.com/w/TOUCH">Hao123</a>
+                            </li>
+                            <li>
+                                <a href="http://tieba.baidu.com/game/index">贴吧游戏</a>
+                            </li>
+                            <li>
+                                <a href="http://www.07073.com">07073</a>
+                            </li>
+                            <li>
+                                <a href="http://www.265g.com">265G</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="main">
+                    <div class="navigation">
+                        <a href="#" class="latest"></a>
+                        <a href="#" class="board"></a>
+                        <a href="#" class="activity"></a>
+                        <a href="#" class="news"></a>
+                        <a href="http://wanba.baidu.com/games/5d/list/" class="more"></a>
+                    </div>
+                    <div class="content_list">
+<ul class="inner_list latest">
+                        <li>
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-09-11/1381505559.html"><h1>9月12日全区停机维护更新公告</h1></a>
+<h5>2013.09.11 19:20</h5>
+<div class="flat">
+<img src="http://wanba.baidu.com/r/image/2013-09-11/7156e2568074900c86e20ebe29f105fa.jpg" alt="" />
+<div class="peaut">尊敬的玩家： 　　您好，感谢大家一直以来的支持，为了更好的改善游戏体验，我们决定于9月5日07:30对全区进行停服更新。
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-09-11/1381505559.html" class="detail"></a>
+</div>
+</div>
+</li>
+<li>
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-09-04/1381561071.html"><h1>9月5日全区停机维护更新公告</h1></a>
+<h5>2013.09.04 18:27</h5>
+<div class="flat">
+<img src="http://wanba.baidu.com/r/image/2013-09-04/d48c8d71f6ab1c058204976a95c46897.jpg" alt="" />
+<div class="peaut">尊敬的玩家：
+　　您好，感谢大家一直以来的支持，为了更好的改善游戏体验，我们决定于9月5日07:30对全区进行停服更新。
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-09-04/1381561071.html" class="detail"></a>
+</div>
+</div>
+</li>
+<li>
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-08-29/1385499966.html"><h1>《舞动》官方QQ交流群 我们与你一同相伴</h1></a>
+<h5>2013.08.29 11:35</h5>
+<div class="flat">
+<img src="http://wanba.baidu.com/r/image/2013-08-29/d24b9b9e3a05112e5f19f54c8d7dec1c.jpg" alt="" />
+<div class="peaut">为了方便广大《舞动》玩家进行交流与问题反馈，现开通《舞动》官方QQ交流群
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-08-29/1385499966.html" class="detail"></a>
+</div>
+</div>
+</li>
+<li>
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-08-29/1383411648.html"><h1>8月30日11：00 我们一起热舞青春吧！</h1></a>
+<h5>2013.08.29 11:16</h5>
+<div class="flat">
+<img src="http://wanba.baidu.com/r/image/2013-08-29/961922968ff42457ce0d0095cbdca34d.jpg" alt="" />
+<div class="peaut">《舞动》是百度首款音乐舞蹈网游，受到了广大玩家的追捧与喜爱，诚挚的感谢大家对《舞动》的支持！
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-08-29/1383411648.html" class="detail"></a>
+</div>
+</div>
+</li>
+<li>
+<a target="_blank" href="http://wanba.baidu.com/games/t/article/2013-08-15/1383200038.html"><h1>引领时尚互动 百度神秘音乐页游大猜想</h1></a>
+<h5>2013.08.12 17:09</h5>
+<div class="flat">
+<img src="http://wanba.baidu.com/r/image/2013-08-15/54525172dbb5df9f8b3e3ed227002ec0.jpg" alt="" />
+<div class="peaut">作为百度首款次世代音乐页游，游戏中采用了大量领先全球的画面、光影、贴图等渲染技术，使游戏整体表现力达到了极致，遥遥领先于同类产品。
+<a target="_blank" href="http://wanba.baidu.com/games/t/article/2013-08-15/1383200038.html" class="detail"></a>
+</div>
+</div>
+</li>
+
+</ul>
+<ul class="inner_list board">
+                        <li>
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-09-11/1381505559.html"><h1>9月12日全区停机维护更新公告</h1></a>
+<h5>2013.09.11 19:20</h5>
+<div class="flat">
+<img src="http://wanba.baidu.com/r/image/2013-09-11/7156e2568074900c86e20ebe29f105fa.jpg" alt="" />
+<div class="peaut">尊敬的玩家： 　　您好，感谢大家一直以来的支持，为了更好的改善游戏体验，我们决定于9月5日07:30对全区进行停服更新。
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-09-11/1381505559.html" class="detail"></a>
+</div>
+</div>
+</li>
+<li>
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-09-04/1381561071.html"><h1>9月5日全区停机维护更新公告</h1></a>
+<h5>2013.09.04 18:27</h5>
+<div class="flat">
+<img src="http://wanba.baidu.com/r/image/2013-09-04/d48c8d71f6ab1c058204976a95c46897.jpg" alt="" />
+<div class="peaut">尊敬的玩家：
+　　您好，感谢大家一直以来的支持，为了更好的改善游戏体验，我们决定于9月5日07:30对全区进行停服更新。
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-09-04/1381561071.html" class="detail"></a>
+</div>
+</div>
+</li>
+<li>
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-08-29/1385499966.html"><h1>《舞动》官方QQ交流群 我们与你一同相伴</h1></a>
+<h5>2013.08.29 11:35</h5>
+<div class="flat">
+<img src="http://wanba.baidu.com/r/image/2013-08-29/d24b9b9e3a05112e5f19f54c8d7dec1c.jpg" alt="" />
+<div class="peaut">为了方便广大《舞动》玩家进行交流与问题反馈，现开通《舞动》官方QQ交流群
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-08-29/1385499966.html" class="detail"></a>
+</div>
+</div>
+</li>
+
+</ul>
+<ul class="inner_list activity">
+                        <li>
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-08-29/1383411648.html"><h1>8月30日11：00 我们一起热舞青春吧！</h1></a>
+<h5>2013.08.29 11:16</h5>
+<div class="flat">
+<img src="http://wanba.baidu.com/r/image/2013-08-29/961922968ff42457ce0d0095cbdca34d.jpg" alt="" />
+<div class="peaut">《舞动》是百度首款音乐舞蹈网游，受到了广大玩家的追捧与喜爱，诚挚的感谢大家对《舞动》的支持！
+<a target="_blank" href="http://wanba.baidu.com/games/5d/article/2013-08-29/1383411648.html" class="detail"></a>
+</div>
+</div>
+</li>
+
+</ul>
+<ul class="inner_list news">
+                        <li>
+<a target="_blank" href="http://wanba.baidu.com/games/t/article/2013-08-15/1383200038.html"><h1>引领时尚互动 百度神秘音乐页游大猜想</h1></a>
+<h5>2013.08.12 17:09</h5>
+<div class="flat">
+<img src="http://wanba.baidu.com/r/image/2013-08-15/54525172dbb5df9f8b3e3ed227002ec0.jpg" alt="" />
+<div class="peaut">作为百度首款次世代音乐页游，游戏中采用了大量领先全球的画面、光影、贴图等渲染技术，使游戏整体表现力达到了极致，遥遥领先于同类产品。
+<a target="_blank" href="http://wanba.baidu.com/games/t/article/2013-08-15/1383200038.html" class="detail"></a>
+</div>
+</div>
+</li>
+
+</ul>
+                    </div>
+                    <a href="http://wanba.baidu.com/games/5d/list/" class="tolist"></a>
+
+                    <div class="pictures">
+                        <div class="navigation">
+                            <a href="" class="video"></a>
+                            <a href="#" class="snapshot"></a>
+                        </div>
+                        <div class="pictures_holder video">
+                            <a href="http://v.youku.com/v_show/id_XNTk0MTI5NDMy.html">
+                                <img src="http://wanba.baidu.com/r/image/2013-08-29/91ef2cd570c108a4d922cf1de790a05f.png" alt="#" /></a>
+                            <a href="http://v.youku.com/v_show/id_XNTk0MTI5NDMy.html">
+                                <img src="http://wanba.baidu.com/r/image/2013-08-29/d5c99961c5043eb53a680dc4699d5f3a.png" alt="#" /></a>
+                            <a href="http://v.youku.com/v_show/id_XNTk0MTI5NDMy.html">
+                                <img src="http://wanba.baidu.com/r/image/2013-08-29/e88f15bc91965b21d05bf040be13ca04.png" alt="#" /></a>
+                            <a href="http://v.baidu.com/v?word=%CE%E8%B6%AF&ct=301989888&rn=20&pn=0&db=0&s=0&fbl=800" class="more"></a>
+                        </div>
+                        <div class="pictures_holder snapshot">
+                            <a href="http://wanba.baidu.com/r/image/2013-08-29/6649e445020844eded7574fcf0aa5c87.png">
+                                <img src="http://wanba.baidu.com/r/image/2013-08-29/6649e445020844eded7574fcf0aa5c87.png" alt="" /></a>
+                            <a href="http://wanba.baidu.com/r/image/2013-08-29/cad2fd4a26b65ffb38e5c678e6bb8d92.png">
+                                <img src="http://wanba.baidu.com/r/image/2013-08-29/cad2fd4a26b65ffb38e5c678e6bb8d92.png" alt="" /></a>
+                            <a href="http://wanba.baidu.com/r/image/2013-08-29/5eef32afb217382c22f1d298ddabd4e3.png">
+                                <img src="http://wanba.baidu.com/r/image/2013-08-29/5eef32afb217382c22f1d298ddabd4e3.png" alt="" /></a>
+                            <a href="http://image.baidu.com/i?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1377744540241_R&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%E8%88%9E%E5%8A%A8" class="more"></a>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

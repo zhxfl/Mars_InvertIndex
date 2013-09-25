@@ -1,0 +1,223 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>百度音乐播放器_百度音乐-听到极致</title>
+<meta content="百度音乐，最好的音乐播放器，免费的音乐播放器，百度音乐官网，百度音乐官方下载，百度手机音乐播放器，手机音乐播放器，无损音乐播放器，千千静听播放器，千千静听正式更名为百度音乐，百度音乐盒，百度音乐-听到极致" name="keywords"/>
+<meta content="百度音乐，百度音乐PC客户端，音乐播放器，千千静听，百度手机音乐播放器，手机音乐播放器，千千静听正式更名为百度音乐" name="description"/>
+<link href="/pc/resources/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="/pc/resources/css/main/main.css" rel="stylesheet" type="text/css"/>
+<link href="/pc/resources/css/main/index.css" rel="stylesheet" type="text/css"/>
+<link href="/pc/resources/plugins/tip/css/tip.css" rel="stylesheet" type="text/css"/>
+<link href="/pc/resources/plugins/apk/css/apkGuide.css" rel="stylesheet" type="text/css"/>
+<!--[if IE 6]><link href="/pc/resources/plugins/apk/css/apkGuide_ie6.css" rel="stylesheet" type="text/css"/><![endif]-->
+<script src="/pc/resources/js/jquery.js" type="text/javascript"></script>
+<script src="/pc/resources/js/main/index.js" type="text/javascript"></script>
+<script src="/pc/resources/plugins/tip/js/tip_2.js" language="javascript" type="text/javascript"></script>
+<script src="/pc/resources/js/music_ctrl_src.js" language="javascript" type="text/javascript"></script>
+<!--[if IE 6]><script src='/pc/resources/plugins/png/DD_belatedPNG.js' type='text/javascript'></script><![endif]-->
+<style>
+html, body { height:100%; width:100%; }
+#ttHead ul li.visited em { border-color:#19c3fc #36a4f1; }
+#ttSwitch .main #ttSwitch_btn { left:0px; top:0px; width:420px; height:431px; background:none; }
+#ttSwitch .main #ttSwitch_btn a.a_1 { width:219px; height:58px; margin-left:109px; margin-top:272px; }
+#ttSwitch .main #ttSwitch_content .content { width:1060px; height:431px; background:url(/pc/resources/images/temp/banner_820_1.jpg) no-repeat; }
+</style>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="http://music.baidu.com/cms/app/static/css/appHeader.css"/>
+<script type="text/javascript" src="http://music.baidu.com/cms/app/static/js/appHeader.js"></script>
+<style>
+body { min-width:980px; _width:expression(this.offsetWidth < 980 ? "980px" : this.offsetWidth-0 + "px");}
+#header { position:relative; font-family:"Microsoft YaHei"; font-size:14px; }
+#header .sub-nav-wrapper { position:absolute; width:100%; }
+</style>
+<div id="ttHead">
+  <div class="main">
+    <span class="text">千千静听正式<b>更名为百度音乐！</b></span>
+    <ul>
+                  <li class="visited"><a href="javascript:;">首页</a>
+            <em></em></li>
+                  <li><a href="/pc/index-pc.html" target="_self">软件下载</a>
+            <em></em></li>
+                  <li><a href="/pc/skin_____.html" target="_self">精美皮肤</a>
+            <em></em></li>
+                  <li><a href="/pc/lyrics.html" target="_self">歌词上传</a>
+            <em></em></li>
+         </ul>     
+  </div>
+</div>
+<script>
+$(function(){
+	$("#ttHead li").hover(function(){ if(!$(this).hasClass("visited"))$(this).addClass("hover"); },function(){ $(this).removeClass("hover"); });
+	$("#header .nav-item").hover(function(){
+		var subClass = $(this).data('sub');	
+		if (subClass) {
+			$("#ttHead ul").css("visibility","hidden"); 
+		}
+	},function(){
+		var subClass = $(this).data('sub');	
+		if (subClass) { 
+			$("#ttHead ul").css("visibility","visible"); 
+		}
+	});
+	$("#header .sub-item").hover(function(){ $("#ttHead ul").css("visibility","hidden"); },function(){ $("#ttHead ul").css("visibility","visible"); });	
+});
+appHeader.create('pc');
+</script>
+<div id="ttSwitch" class="widthDiv">
+  <div class="main">
+    <div id="ttSwitch_btn"><a class="a_1" href="/pc/download/BaiduMusic-12345617.exe" title="立即下载"></a><!--<a class="a_2" href="/pc/spec/download/BaiduMusic-12345617.exe" title="2013体验版"></a>--></div>
+    <div id="ttSwitch_content"> <span class="content"></span></div>
+  </div>
+</div>
+<!-- 投票下载 -->
+<div class="widthDiv">
+  <div class="main">
+    <div id="vote">
+      <div class="ttTitle small"><span class="ft">希望百度音乐电脑版增加哪些功能？</span><span class="count ft">已有<em>4330634</em>人参与投票</span></div>
+      <form id="voteForm">
+        <table>
+          <tr>
+            <td><label for="opt_1"><input id="opt_1" name="opt_1" type="checkbox" value="1" /><span>支持本地音乐收藏到云</span></label></td>
+            <td><label for="opt_2"><input id="opt_2" name="opt_2" type="checkbox" value="1"/><span>下载速度更快</span></label></td>
+          </tr>
+          <tr>
+            <td><label for="opt_3"><input id="opt_3" name="opt_3" type="checkbox" value="1"/><span>开放皮肤制作工具</span></label></td>
+            <td><label for="opt_4"><input id="opt_4" name="opt_4" type="checkbox" value="1"/><span>歌词支持逐字精准</span></label></td>
+          </tr>
+          <tr>
+            <td><label for="opt_5"><input id="opt_5" name="opt_5" type="checkbox" value="1"/><span>导入歌曲到手机更快捷</span></label></td>
+            <td><label for="opt_6"><input id="opt_6" name="opt_6" type="checkbox" value="1"/><span>在线资源更丰富</span></label></td>
+          </tr>
+        </table>
+        <div id="vote_bar"><a href="javascript:vote();" class="vote_btn"></a><a href="javascript:show_vote();" class="vote_count">查看投票</a>
+          <dl>
+            <dt>分享到：</dt>
+            <dd><a href="javascript:;" onclick="voteShare.shareToSina()" class="sinaShare" title="分享到新浪微博"></a></dd>
+            <dd><a href="javascript:;" onclick="voteShare.shareToTqq()" class="tqqShare" title="分享到腾讯微博"></a></dd>
+            <dd><a href="javascript:;" onclick="voteShare.shareToQzone()" class="qzoneShare" title="分享到QQ空间"></a></dd>
+            <dd><a href="javascript:;" onclick="voteShare.shareToRenren()" class="renrenShare" title="分享到人人网"></a></dd>
+            <dd><a href="javascript:;" onclick="voteShare.shareToTieba()" class="tiebaShare" title="分享到百度贴吧"></a></dd>
+            <dd><a href="javascript:;" onclick="voteShare.shareToDouban()" class="doubanShare" title="分享到豆瓣"></a></dd>
+            <dd><a href="javascript:;" onclick="voteShare.shareToQQ()" class="qqShare" title="分享给QQ好友和群"></a></dd>
+          </dl>
+        </div>
+      </form>
+    </div>
+    <div id="tt_download">
+      <div class="ttTitle"><span class="ft">最新下载</span></div>
+      <div class="dl_box"><span class="sp_1 dl_news"><a href="/pc/download/BaiduMusic-12345617.exe" class="text">百度音乐 V8.2.0</a><a href="/pc/download/BaiduMusic-12345617.exe">[简体版]</a></span>
+        <p>·新增我的电台功能</p>
+        <p>·新增均衡器音效智能匹配功能</p>
+        <p>·新增分享功能</p>
+        <div class="ttTitle small"><span class="ft">千千静听经典版本</span></div>
+        <span class="sp_1 dl_news"><a href="/pc/spec/download614/ttpsetup_614-44059078.exe" class="text">在线精彩版v6.1.4</a><a href="/pc/spec/download614/ttpsetup_614-44059078.exe">[简体版]</a><a href="/pc/spec/download614/ttpsetup_614cht-57039028.exe">[繁体版]</a></span></div>
+    </div>
+  </div>
+</div>
+<div style="clear:both;"></div>
+<!-- 投票下载 -->
+<div class="main">
+  <!-- 千千推荐 -->
+  <div id="recommend" class="indexBox">
+    <div class="ttTitle w"><span class="ft">热门榜单</span></div>
+    
+        <div id="new-list" class="recommend_box">
+      <div class="indexBanner"><span class="ft">新歌榜</span><a href="javascript:;" class="sendPhone" onclick="checkApk('new-list')"><i></i>发送到手机</a></div>
+      <table class="recommend_table indexTable">
+        <tr class="all">
+          <th><input type="checkbox" class="selectAll"/></th>
+          <td>全选</td>
+          <td colspan="2" class="allFct"><a href="javascript:;" class="play"><span>播放</span></i></a><a href="javascript:;" class="add"><span>添加</span></a><a href="javascript:;" class="download"><span>下载</span></a>
+            <!--<a href="javascript:;" class="download"><span>下载</span></a>--></td>
+        </tr>
+      </table>
+      <div class="pageDiv"><a href="javascript:;" class="first visited">1</a><a href="javascript:;">2</a><a href="javascript:;">3</a><a href="javascript:;">4</a><a href="javascript:;"><b>5</b></a></div>
+    </div>
+        <div class="recommend_line"></div>
+        <script>
+    init_list("new-list",'0');
+  </script>
+        <div id="hot-list" class="recommend_box">
+      <div class="indexBanner"><span class="ft">热歌榜</span><a href="javascript:;" class="sendPhone" onclick="checkApk('hot-list')"><i></i>发送到手机</a></div>
+      <table class="recommend_table indexTable">
+        <tr class="all">
+          <th><input type="checkbox" class="selectAll"/></th>
+          <td>全选</td>
+          <td colspan="2" class="allFct"><a href="javascript:;" class="play"><span>播放</span></i></a><a href="javascript:;" class="add"><span>添加</span></a><a href="javascript:;" class="download"><span>下载</span></a>
+            <!--<a href="javascript:;" class="download"><span>下载</span></a>--></td>
+        </tr>
+      </table>
+      <div class="pageDiv"><a href="javascript:;" class="first visited">1</a><a href="javascript:;">2</a><a href="javascript:;">3</a><a href="javascript:;">4</a><a href="javascript:;"><b>5</b></a></div>
+    </div>
+        <div class="recommend_line"></div>
+        <script>
+    init_list("hot-list",'1');
+  </script>
+        <div id="speed-list" class="recommend_box">
+      <div class="indexBanner"><span class="ft">新歌速递</span><a href="javascript:;" class="sendPhone" onclick="checkApk('speed-list')"><i></i>发送到手机</a></div>
+      <table class="recommend_table indexTable">
+        <tr class="all">
+          <th><input type="checkbox" class="selectAll"/></th>
+          <td>全选</td>
+          <td colspan="2" class="allFct"><a href="javascript:;" class="play"><span>播放</span></i></a><a href="javascript:;" class="add"><span>添加</span></a><a href="javascript:;" class="download"><span>下载</span></a>
+            <!--<a href="javascript:;" class="download"><span>下载</span></a>--></td>
+        </tr>
+      </table>
+      <div class="pageDiv"><a href="javascript:;" class="first visited">1</a><a href="javascript:;">2</a><a href="javascript:;">3</a><a href="javascript:;">4</a><a href="javascript:;"><b>5</b></a></div>
+    </div>
+        <script>
+    init_list("speed-list",'2');
+  </script>
+     </div>
+  <!-- 千千推荐 -->
+</div>
+<div style="clear:both;"></div>
+<!-- -->
+<div style="clear:both;"></div>
+<div id="ttFooter" class="main"><i class="logo"></i>
+  <ul>
+    <li><a href="http://tousu.baidu.com/music/add" target="_blank">意见反馈</a><b>|</b></li>
+    <li><a href="http://music.baidu.com/doc/help" target="_blank">帮助中心</a><b>|</b></li>
+    <li><a href="http://music.baidu.com/doc/contact" target="_blank">歌曲入库</a><b>|</b></li>
+    <li><a href="http://y.baidu.com/" target="_blank">原创音乐人</a></li>
+  </ul>
+  <div class="text"><span>@2013 baidu</span><a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a><span>文网文[2010]197号</span></div>
+  <div class="btn"><a href="http://music.baidu.com/pc/" target="_blank" class="pc"></a><a href="http://music.baidu.com/app/android" target="_blank" class="phone"></a><a href="http://e.weibo.com/musicbaidu" target="_blank" class="weibo"></a></div>
+</div>
+<!-- foot -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F07fbb1340f1aabe7ffd70a40dc683391' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script src="/pc/resources/plugins/apk/js/apk_v1.js" language="javascript" type="text/javascript"></script>
+<script>
+$(function(){
+	var musicGuide = getCookies("musicGuide");
+	if(musicGuide && musicGuide == 1){
+	}else{
+		var html = '<div id="musicGuid" class="shaw"><div class="content"><a href="javascript:musicGuidClose();" class="close"></a><a href="javascript:musicGuidClose();" class="btn"></a></div></div>';
+		$("body").append($(html));
+		$("#musicGuid").css("margin-top","0");
+	}
+	
+	var apkGuide = getCookies("apkGuide");  
+	if(apkGuide && apkGuide == 1){
+		var apkGuideId = getCookies("apkGuideId");
+		pluginInit();
+		setupGuide(apkGuideId);
+		setCookie("apkGuide", 2, 24 * 60 * 60 * 1000);
+	}else{
+		//清空apk cookies
+		setCookie("apkGuide", 0, 24 * 60 * 60 * 1000);
+	}
+	setCookie("apkGuideId", "", 24 * 60 * 60 * 1000);
+	
+	/*-- log --*/
+	//$.ClickMonkey({ v : "ttplayer-web-index" }, true);
+});
+</script>
+</body>
+</html>  

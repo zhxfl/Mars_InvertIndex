@@ -1,0 +1,824 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">体育</span> <span class="f14">分类下的开放分类共有150个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34668">奥运会</a>(9)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34586">田径运动</a>(16)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34587">球类运动</a>(18)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34588">水上项目</a>(10)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34630">户外运动</a>(4)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34589">极限运动</a>(9)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34590">体育组织</a>(12)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34591">体育周边</a>(6)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34622">冰雪运动</a>(7)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34623">棋牌运动</a>(6)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34624">电子竞技</a>(6)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34625">室内运动</a>(5)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34626">健美健身</a>(5)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34627">体操</a>(4)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34628">赛事</a>(7)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34629">射击</a>(6)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34631">武术</a>(7)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34632">对抗运动</a>(6)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34633">运动会</a>(7)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34668" id="34668"></a>
+<div class="dirtit">奥运会</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%D4%CB%BB%F0%BE%E6%CA%D6"target="_blank">奥运火炬手</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%D4%CB%CA%F5%D3%EF"target="_blank">奥运术语</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%D4%CB%BB%E1%BC%AA%CF%E9%CE%EF"target="_blank">奥运会吉祥物</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%D4%CB%BB%E1%BB%E1%BB%D5"target="_blank">奥运会会徽</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AC%BC%BE%B0%C2%D4%CB%BB%E1"target="_blank">冬季奥运会</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%D4%CB%BB%E1%B3%A1%B9%DD"target="_blank">奥运会场馆</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%D4%CB%BB%E1%CF%EE%C4%BF"target="_blank">奥运会项目</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%D4%CB%B3%A1%B9%DD"target="_blank">奥运场馆</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%D4%CB%CA%A5%BB%F0"target="_blank">奥运圣火</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34586" id="34586"></a>
+<div class="dirtit">田径运动</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%EF%BE%B6"target="_blank">田径</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%F8%B8%DF"target="_blank">跳高</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%F8%D4%B6"target="_blank">跳远</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%CC%C5%DC"target="_blank">短跑</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%A4%C5%DC"target="_blank">长跑</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%BA%D7%DF"target="_blank">竞走</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%EA%C7%B9"target="_blank">标枪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%FA%B1%FD"target="_blank">铁饼</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%B4%C7%F2"target="_blank">链球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%A6%C7%F2"target="_blank">铅球</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%ED%C0%AD%CB%C9"target="_blank">马拉松</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%FD%BC%B6%CC%F8%D4%B6"target="_blank">三级跳远</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%AE%CF%EE%C8%AB%C4%DC"target="_blank">十项全能</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%D6%B4%FA%CE%E5%CF%EE"target="_blank">现代五项</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%FA%C8%CB%C8%FD%CF%EE"target="_blank">铁人三项</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%DF%CF%EE%C8%AB%C4%DC"target="_blank">七项全能</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34587" id="34587"></a>
+<div class="dirtit">球类运动</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%E3%C7%F2"target="_blank">足球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%BA%C7%F2"target="_blank">篮球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%C5%C7%F2"target="_blank">排球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C7%F2"target="_blank">网球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%F4%C7%F2"target="_blank">棒球</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%A8%C7%F2"target="_blank">台球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%F9%C7%F2"target="_blank">冰球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%ED%C7%F2"target="_blank">马球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%DA%C7%F2"target="_blank">壁球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%C5%C7%F2"target="_blank">门球</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%DD%C7%F2"target="_blank">垒球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%D9%C7%F2"target="_blank">藤球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%E9%CF%E9%AD%C7%F2"target="_blank">橄榄球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%B9%C5%D2%C7%F2"target="_blank">乒乓球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%F0%C3%AB%C7%F2"target="_blank">羽毛球</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%DF%B6%FB%B7%F2"target="_blank">高尔夫</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%FA%B9%F7%C7%F2"target="_blank">曲棍球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%B3%CC%B2%C5%C5%C7%F2"target="_blank">沙滩排球</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34588" id="34588"></a>
+<div class="dirtit">水上项目</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%CE%D3%BE"target="_blank">游泳</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%F8%CB%AE"target="_blank">跳水</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%B1%CB%AE"target="_blank">潜水</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%FC%CD%A7"target="_blank">赛艇</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%AB%B4%AC"target="_blank">帆船</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%AB%B0%E5"target="_blank">帆板</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%AF%C1%F7"target="_blank">漂流</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%AE%C7%F2"target="_blank">水球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%A4%BB%AE%CD%A7"target="_blank">皮划艇</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%A8%D1%F9%D3%CE%D3%BE"target="_blank">花样游泳</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34630" id="34630"></a>
+<div class="dirtit">户外运动</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%D4%D0%D0%B3%B5"target="_blank">自行车</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%AB%C2%B7%D7%D4%D0%D0%B3%B5%C8%FC"target="_blank">公路自行车赛</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%ED%CA%F5"target="_blank">马术</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%ED%CA%F5%B1%C8%C8%FC"target="_blank">马术比赛</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34589" id="34589"></a>
+<div class="dirtit">极限运动</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%AC%B0%E5"target="_blank">滑板</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%D6%BB%AC"target="_blank">轮滑</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%C7%C9%BD"target="_blank">登山</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%AC%CB%AE"target="_blank">滑水</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%CA%D1%D2"target="_blank">攀岩</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%C4%BC%AB"target="_blank">蹦极</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%E5%C0%CB"target="_blank">冲浪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%A1%C2%D6%B3%B5"target="_blank">小轮车</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%A6%CD%D0%CD%A7"target="_blank">摩托艇</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34590" id="34590"></a>
+<div class="dirtit">体育组织</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=nba"target="_blank">nba</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%B3%AC"target="_blank">中超</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%A2%B3%AC"target="_blank">英超</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%BC%D7"target="_blank">西甲</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%E2%BC%D7"target="_blank">意甲</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%C2%BC%D7"target="_blank">德甲</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%C7%D4%CB%BB%E1"target="_blank">亚运会</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AC%B0%C2%BB%E1"target="_blank">冬奥会</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%D0%B0%C2%BB%E1"target="_blank">残奥会</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%CE%AF%BB%E1"target="_blank">奥委会</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%E3%C7%F2%B6%D3"target="_blank">足球队</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%E3%C7%F2%BE%E3%C0%D6%B2%BF"target="_blank">足球俱乐部</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34591" id="34591"></a>
+<div class="dirtit">体育周边</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%F2%C0%E0"target="_blank">球类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%A7%CD%E2"target="_blank">户外</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%E5%D3%FD%B3%A1%B9%DD"target="_blank">体育场馆</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%E5%D3%FD%D3%C3%C6%B7"target="_blank">体育用品</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%E5%D3%FD%C6%F7%D0%B5"target="_blank">体育器械</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%CB%B6%AF%B7%FE%CA%CE"target="_blank">运动服饰</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34622" id="34622"></a>
+<div class="dirtit">冰雪运动</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%AC%D1%A9"target="_blank">滑雪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%BD%D2%B0%BB%AC%D1%A9"target="_blank">越野滑雪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%F9%D1%A9%D4%CB%B6%AF"target="_blank">冰雪运动</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%DF%C9%BD%BB%AC%D1%A9"target="_blank">高山滑雪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%F9%D1%A9%CF%EE%C4%BF"target="_blank">冰雪项目</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%A8%D1%F9%BB%AC%B1%F9"target="_blank">花样滑冰</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%F9%C9%CF%D4%CB%B6%AF"target="_blank">冰上运动</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34623" id="34623"></a>
+<div class="dirtit">棋牌运动</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F2%D6%C7%C5%C6"target="_blank">万智牌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%A7%C6%E5"target="_blank">围棋</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%F3%C6%E5"target="_blank">象棋</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%E5%C5%C6"target="_blank">棋牌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%D0%B9%FA%CF%F3%C6%E5"target="_blank">中国象棋</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%FA%BC%CA%CF%F3%C6%E5"target="_blank">国际象棋</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34624" id="34624"></a>
+<div class="dirtit">电子竞技</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%A7%CA%DE%D5%F9%B0%D4"target="_blank">魔兽争霸</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%A7%CA%DE%D5%F9%B0%D43"target="_blank">魔兽争霸3</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C7%BC%CA%D5%F9%B0%D4"target="_blank">星际争霸</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%C7%BC%CA%D5%F9%B0%D42"target="_blank">星际争霸2</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%B4%BF%D6%BE%AB%D3%A2"target="_blank">反恐精英</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%D9%D3%FE%D1%AB%D5%C2"target="_blank">荣誉勋章</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34625" id="34625"></a>
+<div class="dirtit">室内运动</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%A3%C1%E4%C7%F2"target="_blank">保龄球</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D2%C4%DA%CC%E5%D3%FD"target="_blank">室内体育</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D2%C4%DA%D4%CB%B6%AF"target="_blank">室内运动</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D2%C4%DA%D4%CB%B6%AF%CF%EE%C4%BF"target="_blank">室内运动项目</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%A8%B0%CD%B5%CF"target="_blank">卡巴迪</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34626" id="34626"></a>
+<div class="dirtit">健美健身</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%AB%BB%F7%BD%A1%C3%C0%B2%D9"target="_blank">搏击健美操</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%A1%C9%ED"target="_blank">健身</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%A1%C9%ED%C7%F2%B2%D9"target="_blank">健身球操</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%A1%C3%C0"target="_blank">健美</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%A1%C9%ED%BD%A1%C3%C0"target="_blank">健身健美</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34627" id="34627"></a>
+<div class="dirtit">体操</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%E5%B2%D9"target="_blank">体操</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%D5%CA%F5%CC%E5%B2%D9"target="_blank">艺术体操</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%A1%C3%C0%B2%D9"target="_blank">健美操</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%A1%C9%ED%B2%D9"target="_blank">健身操</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34628" id="34628"></a>
+<div class="dirtit">赛事</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%FA%BC%D2%B6%A5%BC%B6%D7%E3%C7%F2%C1%AA%C8%FC"target="_blank">国家顶级足球联赛</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%B0%E0%D1%C0%D7%E3%C7%F2%BC%D7%BC%B6%C1%AA%C8%FC"target="_blank">西班牙足球甲级联赛</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%C0%BD%E7%B1%AD"target="_blank">世界杯</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%B7%D6%DE%B1%AD"target="_blank">欧洲杯</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%C0%D6%DE%B1%AD"target="_blank">美洲杯</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%C7%D6%DE%B1%AD"target="_blank">亚洲杯</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%B7%D6%DE%B9%DA%BE%FC%B1%AD"target="_blank">欧洲冠军杯</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34629" id="34629"></a>
+<div class="dirtit">射击</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%C9%B0%D0%C5%D7%C9%E4"target="_blank">飞靶抛射</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%C9%B0%D0%C9%E4%BB%F7"target="_blank">飞靶射击</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%E4%BB%F7"target="_blank">射击</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%E4%BB%F7%D4%CB%B6%AF"target="_blank">射击运动</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%E4%BB%F7%D7%CB%CA%C6"target="_blank">射击姿势</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%E4%BC%FD"target="_blank">射箭</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34631" id="34631"></a>
+<div class="dirtit">武术</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%AD%CA%F5"target="_blank">拳术</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%AB%BC%AB%C8%AD"target="_blank">太极拳</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%DA%BC%D2%C8%AD"target="_blank">内家拳</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%CE%D2%E2%C8%AD"target="_blank">形意拳</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%CD%BC%D2%C8%AD"target="_blank">客家拳</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%E4%CA%BD%CC%AB%BC%AB%C8%AD"target="_blank">武式太极拳</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%BD%B4%BA%C8%AD"target="_blank">咏春拳</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34632" id="34632"></a>
+<div class="dirtit">对抗运动</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%AD%BB%F7"target="_blank">拳击</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%F5%CC%C8%AD%B5%C0"target="_blank">跆拳道</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%C0%B9%FA%C8%AD%BB%F7"target="_blank">美国拳击</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%F7%BD%A3"target="_blank">击剑</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%A4%F5%D3"target="_blank">摔跤</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D6%B0%D2%B5%CB%A4%F5%D3"target="_blank">职业摔跤</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34633" id="34633"></a>
+<div class="dirtit">运动会</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%CB%B6%AF%BB%E1"target="_blank">运动会</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%C2%C1%D6%C6%A5%BF%CB%D4%CB%B6%AF%BB%E1"target="_blank">奥林匹克运动会</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AB%D1%C7%D4%CB%B6%AF%BB%E1"target="_blank">东亚运动会</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D1%C7%D6%DE%D4%CB%B6%AF%BB%E1"target="_blank">亚洲运动会</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%D0%BC%B2%C8%CB%D4%CB%B6%AF%BB%E1"target="_blank">残疾人运动会</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%F3%D1%A7%C9%FA%D4%CB%B6%AF%BB%E1"target="_blank">大学生运动会</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AC%BC%BE%B0%C2%C1%D6%C6%A5%BF%CB%D4%CB%B6%AF%BB%E1"target="_blank">冬季奥林匹克运动会</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--03924386550289874954092423-->
+<script> var _trace_page_logid = 0392438655; </script>

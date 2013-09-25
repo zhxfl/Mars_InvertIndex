@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>百度音乐，听到极致</title>
+    <meta content="百度音乐手机版、百度音乐手机android版、百度音乐手机iphone版、百度音乐手机客户端" name="description"/>
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="/cms/app/static/js/html5.js"></script>
+    <![endif]-->
+    
+        <link rel="stylesheet" type="text/css" href="/cms/app/static/css/main.css?20130809"/>
+        <link rel="stylesheet" type="text/css" href="/cms/app/static/css/appHeader.css??20130823"/>
+        <link rel="stylesheet" type="text/css" href="/cms/app/static/css/animation.css?20130809"/>
+    
+    <link rel="stylesheet" type="text/css" href="/cms/app/static/css/android.css?20130823"/>
+    <!--[if lt ie 7]>
+    <link rel="stylesheet" type="text/css" href="/cms/app/static/css/android_ie6.css?20130823"/>
+    <![endif]-->
+
+</head>
+
+<body>
+
+
+<div id="ioERnm-tip-overlay"></div>
+<div id="ioERnm-tip">
+    <div class="close" style="position: absolute;right: 0px;">
+        <a  target="_blank" style="" href="#" class="ebtn">
+        </a>
+    </div>
+
+    <div class="btns" style="">
+        <a  target="_blank" style="" href="http://music.baidu.com/cms/mobile/static/apk/Baidu_Music.apk" class="ebtn a">
+        </a>
+        <a  target="_blank" style="" href="http://itunes.apple.com/cn/app/id468623917" class="ebtn b">
+        </a>
+    </div>
+</div>
+<div class="main-body">
+    
+    <section class="intro animate-enter">
+        <article>
+            <div class="animated fadeInLeft">
+                <div class="app-icon"></div>
+                <div class="text">百度音乐 听到极致</div>
+            </div>
+            <div class="pic pic1 animated fadeInRight">
+                <div class="carousel-wrap">
+                    <ul class="carousel">
+                    <li><img src="/cms/app/static/images/carousel/android_carousel01.png" alt=""></li>
+                    <li><img src="/cms/app/static/images/carousel/android_carousel02.png" alt=""></li>
+                    <li><img src="/cms/app/static/images/carousel/android_carousel03.png" alt=""></li>
+                    <li><img src="/cms/app/static/images/carousel/android_carousel04.png" alt=""></li>
+                    <li><img src="/cms/app/static/images/carousel/android_carousel05.png" alt=""></li>
+                </ul>    
+                </div>
+                
+            </div>     
+            <div class="qrcode animated fadeInDown">
+                <img src="/cms/app/static/images/qrcode.png" title="二维码" alt="二维码"/>
+                <p class="qrcode-text">扫描二维码下载</p>
+            </div>
+            <div class="down animated fadeInDown">
+                <a class="download" href="http://music.baidu.com/cms/mobile/static/apk/Baidu_Music.apk" title="下载"></a>
+                <span class="version" id="version">版本：V3.7 更新：2013.6.8</span>
+            </div>
+            <div class="pic scroll-tip"></div>
+        </article>
+    </section>
+    <section class="hq">
+        <article>
+            <div class="text animated fadeInRight delay1s"></div>
+            <div class="pic pic1 animated fadeInUp"></div>
+            <div class="pic pic2 animated flyIn1"></div>
+            <div class="pic pic3 animated flyIn2"></div>
+            <div class="pic pic4 animated flyIn3"></div>
+            <div class="pic pic5 animated flyIn4"></div>
+            <div class="pic pic6 animated flyIn5"></div>
+        </article>
+    </section>
+    <section class="featured_list">
+        <article>
+            <div class="text animated fadeInRight"></div>
+            <div class="pic pic1 animated fadeInLeft"></div>
+            <div class="pic pic2 animated scale originTopLeft delay0d5s"></div>
+        </article>
+    </section>
+    <section class="collect">
+        <article>
+            <div class="text animated fadeInLeft">
+                <div class="text1"></div>
+                <div class="text2"></div>
+            </div>
+            <div class="pic pic1 animated fadeInUp"></div>
+            <div class="pic pic2 animated bounceIn delay1s"></div>
+        </article>
+    </section>
+    <section class="batch">
+        <article>
+            <div class="text animated fadeInDown delay1s">
+                <div class="text1"></div>
+                <div class="text2"></div>
+            </div>
+            <div class="pic pic1 animated fadeInLeft"></div>
+            <div class="pic pic2 animated fadeInLeft delay0d5s"></div>
+            <div class="pic pic3 animated scale originLeft delay1d5s"></div>
+            <div class="pic pic4 animated fadeInUp delay1s"></div>
+        </article>
+    </section>
+    <section class="enhance">
+        <article>
+            <div class="text animated fadeInLeft"></div>
+            <div class="pic animated scaleBig delay1s"></div>
+        </article>
+    </section>
+    <section class="everywhere">
+        <article>
+            <div class="text animated fadeInRight"></div>
+            <div class="pic animated fadeInLeft"></div>
+        </article>
+    </section>
+    <section class="start">
+        <article>
+            <div class="text animated scaleSmall"></div>
+            <div class="qrcode-start animated scaleSmall delay0d5s">
+                <img src="/cms/app/static/images/qrcode.png" title="二维码" alt="二维码"/>
+                <p class="qrcode-text">扫描二维码下载</p>
+            </div>
+        </article>
+    </section>
+
+    <a href="javascript:;" class="go-top"></a>
+</div>
+
+    <script type="text/javascript" src="/cms/app/data.js?1380034738"></script>
+    <script type="text/javascript" src="/cms/app/static/js/jquery-1.10.1.js"></script>
+    <script type="text/javascript" src="/cms/app/static/js/appHeader.js?20130823"></script>
+    <script type="text/javascript" src="/cms/app/static/js/main.js?0715"></script>
+    <script type="text/javascript" src="http://music.baidu.com/cms/mobile/static/ting.logger.js"></script>
+    <script type="text/javascript" src="http://ting.baidu.com/mobile/static/click_monkey.js"></script>
+    <script type="text/javascript">
+        window.appHeader.create("android");
+        window.updateVersion('android');
+        //统计方法
+        var sendLog = function(pos){
+            var opt = {
+                ref : "mo_official",
+                page : "home",
+                pos: pos
+            };
+            ting.logger.log('click',opt);
+        };
+        $('.download').on('click', function() {
+            sendLog('android_down');
+        });
+
+        //banner轮播图
+        var $carousel_lis = $('.carousel li');
+        var $carousel = $('.carousel');
+        var carousel_count = $carousel_lis.length;
+        var li_width = parseInt($carousel_lis.eq(0).css('width'), 10);
+        var curIndex = 0;
+        var originLeft = $carousel.css('marginLeft');
+        var carousel_interval = setInterval(function() {
+            if(curIndex == carousel_count-1 ) {
+                $carousel.css('marginLeft', originLeft);
+                curIndex = 0;
+            } else {
+                $carousel.animate( { 'marginLeft': '-='+li_width } ); 
+                curIndex++;
+            } 
+        }, 2000);
+
+        createClickMonkey("baidumusic-mobile");
+    </script>
+
+</body>
+</html>

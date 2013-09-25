@@ -1,0 +1,728 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=7" /> 
+
+  <title>书剑江湖-贴吧游戏-百度贴吧游戏独代精品武侠游戏大作</title>
+  <meta name="keywords" content="书剑江湖官方网站，百度游戏独代2013武侠巨作,贴吧,武侠巨作，网页游戏大作，网页游戏排行榜,百度游戏,baidu,game,永久免费,下载游戏，进入游戏，武术，江湖，侠客，金庸，豪侠,功夫" />
+  <meta name="description" content="《书剑江湖》是由百度贴吧游戏平台推出的首款经典2.5D武侠力作，游戏首推逍遥武侠全新概念，独创全新游戏模式。将纯正经典的武侠玩法、全开放式剧情奇遇、自由习武、武林正邪阵营PK等多种革新玩法完美结合，真正实现无拘无束的个性江湖世界
+" />
+
+<link rel="SHORTCUT ICON" href="http://www.baidu.com/favicon.ico">
+        <link href="http://wanba.baidu.com/site/v3/css/general.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="http://wanba.baidu.com/site/games/v2/css/index.css" />
+        <!--[if lte IE 9]><script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/js/html5.js"></script><![endif]-->
+        <script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/js/jquery-1.8.2.min.js"></script>
+        <script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/site/games/v2/js/index.js"></script>
+    
+        <script type="text/javascript">
+            var gameId=533;
+            var fid=807;
+            var alias='';
+        </script>
+        <script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/dudai/sj/style/index.js"></script>
+        <script language="javascript">
+function aa(s_id){
+for(i=1;i<6;i++){
+   if(i==s_id){
+    document.getElementById("s"+i).className="block_sj"; //内容的样式
+    document.getElementById("m"+i).className="c_"+i+" c_1"; //头部的样式
+    //document.getElementById("uid_"+i).focus();
+   }
+   else
+   {
+    document.getElementById("s"+i).className="none_sj"; //内容不显示
+    document.getElementById("m"+i).className="c_0"; //
+   }
+}
+}
+</script>
+
+        <script language="javascript">
+function bb(w_id){
+for(i=1;i<5;i++){
+   if(i==w_id){
+    document.getElementById("w"+i).className="block_sj"; //内容的样式
+    document.getElementById("q"+i).className="c_"+i+" c_1"; //头部的样式
+    //document.getElementById("uid_"+i).focus();
+   }
+   else
+   {
+    document.getElementById("w"+i).className="none_sj"; //内容不显示
+    document.getElementById("q"+i).className="c_0"; //
+   }
+}
+}
+</script>
+
+<link rel="stylesheet" type="text/css" href="http://wanba.baidu.com/hdft/css/main.css" />
+<script type="text/javascript" src="http://passport.baidu.com/passApi/js/uni_login_wrapper.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://wanba.baidu.com/hdft/js/behavior.js"></script>
+<style>
+body {
+    margin:0;
+    font: 12px/20px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    height: 100%;
+    width: 100%;
+}
+html {
+    height: 100%;
+    width: 100%;
+}
+iframe {
+    display: block;
+    border: 0;
+}
+section,nav,footer,aside,article{
+    display:block;
+}
+a img {
+    border: none;
+}
+table {
+    border-collapse: collapse;
+}
+p {
+    margin:0;
+}
+p:last-child{
+    margin:0;
+}
+h1 {
+    font: bold 26px/39px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0 0 0.8em;
+    color: #666;
+}
+h2 {
+    font: normal 20px/30px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0 0 0.8em;
+}
+h3 {
+    font: normal 16px/24px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0 0 0.8em;
+}
+h4 {
+    font: bold 14px/21px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0 0 0.8em;
+}
+h5 {
+    font: bold 12px/18px Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0 0 0.8em;
+}
+a {
+    text-decoration: none;
+    color:#0086CF;
+}
+ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+input{
+    margin:0;
+    font-size:inherit;
+}
+textarea{
+    margin:0;
+    font-family:inherit;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    font-size:inherit;
+    border:1px solid #bbb;
+}
+button,select{
+    margin:0;
+    font-family:inherit;
+    font-size:inherit;
+}
+table{
+    width:100%;
+}
+button::-moz-focus-inner, input[type="button"]::-moz-focus-inner, input[type="submit"]::-moz-focus-inner, input[type="reset"]::-moz-focus-inner {   
+    padding: 0;
+    border: 0;
+}
+.hidden{
+    display:none;
+}
+</style>
+
+
+<link href="http://wanba.baidu.com/dudai/sj/style/sjjh.css" rel="stylesheet" type="text/css" />
+<script src="http://wanba.baidu.com/dudai/sj/style/lb.js"></script>
+<script src="http://wanba.baidu.com/dudai/sj/Scripts/swfobject_modified.js"></script>
+
+
+</head>
+
+
+<body style=" background:#eeeceb">
+    <div class="fromTb">
+<div class="header">
+		<div class="logo">
+			<a target="_blank" href="http://tieba.baidu.com">
+				<img title="百度贴吧" alt="百度贴吧" src="http://wanba.baidu.com/hdft/img/logo.png">
+			</a>
+		</div>
+
+		<div class="logout">
+			<a href="http://wanba.baidu.com/logout.xhtml?from=gw_nav_">
+				退出
+			</a>
+		</div>
+		<div class="recent-games" id="recent-games-link-container">
+			<a href="javascript:void(0);" id="recent-games-link" class="recent-games-link">
+					<span>最近玩过游戏</span>
+					<span class="triangle">▼</span>
+			</a>
+			<div class="float" id="float" style="display: none;">
+				<table>
+					<tbody>
+				</tbody></table>
+			</div>
+		</div>
+		<div class="user-name" id="user-name">
+			<span>IDName</span>
+		</div>
+                <div class="not-login">
+                    <a href="javascript:;" class="login">登录</a>
+                    <a href="javascript:;" class="register quick_reg_pass">注册</a>
+                </div>
+<div class="left-link-container">
+			<a class="left-link recharge" target="_blank" href="http://pay.baidu.com/reg_order.xhtml">
+				充值
+			</a>
+			<a class="left-link forService" target="_blank" href="/cs/problem.xhtml">
+				客服
+			</a>
+			<a class="left-link-last" target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&kw=%E8%B4%B4%E5%90%A7%E6%B8%B8%E6%88%8F">
+				贴吧游戏吧
+			</a>
+		</div>
+	</div>
+</div>
+<div class="bj_all">
+
+<div class="box_all">
+
+<div class="header_sj">
+<div class="menu"><object id="FlashID2" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="960" height="140">
+    <param name="movie" value="http://wanba.baidu.com/dudai/sj/style/menu-1.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="opaque" />
+    <param name="swfversion" value="11.0.0.0" />
+    <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+    <param name="expressinstall" value="http://wanba.baidu.com/dudai/sj/Scripts/expressInstall.swf" />
+    <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://wanba.baidu.com/dudai/sj/style/menu-1.swf" width="960" height="140">
+      <!--<![endif]-->
+      <param name="quality" value="high" />
+      <param name="wmode" value="opaque" />
+      <param name="swfversion" value="11.0.0.0" />
+      <param name="expressinstall" value="http://wanba.baidu.com/dudai/sj/Scripts/expressInstall.swf" />
+      <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+      <div>
+        <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+        <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" width="112" height="33" /></a></p>
+      </div>
+      <!--[if !IE]>-->
+    </object>
+    <!--<![endif]-->
+  </object></div>
+<div class="ad">
+<div class="ad_1"><div class="ad_1">
+  <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="743" height="220">
+    <param name="movie" value="http://wanba.baidu.com/dudai/sj/style/ad_1.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="opaque" />
+    <param name="swfversion" value="11.0.0.0" />
+    <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+    <param name="expressinstall" value="http://wanba.baidu.com/dudai/sj/Scripts/expressInstall.swf" />
+    <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://wanba.baidu.com/dudai/sj/style/ad_1.swf" width="743" height="220">
+      <!--<![endif]-->
+      <param name="quality" value="high" />
+      <param name="wmode" value="opaque" />
+      <param name="swfversion" value="11.0.0.0" />
+      <param name="expressinstall" value="http://wanba.baidu.com/dudai/sj/Scripts/expressInstall.swf" />
+      <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+      <div>
+        <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+        <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" width="112" height="33" /></a></p>
+      </div>
+      <!--[if !IE]>-->
+    </object>
+    <!--<![endif]-->
+  </object>
+</div>
+</div>
+</div>
+
+<div class="center">
+
+<div class="left">
+
+<div class="begin"><object id="FlashID3" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="216" height="118">
+    <param name="movie" value="http://wanba.baidu.com/dudai/sj/style/begin.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="opaque" />
+    <param name="swfversion" value="11.0.0.0" />
+    <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+    <param name="expressinstall" value="http://wanba.baidu.com/dudai/sj/Scripts/expressInstall.swf" />
+    <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="http://wanba.baidu.com/dudai/sj/style/begin.swf" width="216" height="118">
+      <!--<![endif]-->
+      <param name="quality" value="high" />
+      <param name="wmode" value="opaque" />
+      <param name="swfversion" value="11.0.0.0" />
+      <param name="expressinstall" value="http://wanba.baidu.com/dudai/sj/Scripts/expressInstall.swf" />
+      <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+      <div>
+        <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+        <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" width="112" height="33" /></a></p>
+      </div>
+      <!--[if !IE]>-->
+    </object>
+    <!--<![endif]-->
+  </object></div>
+
+<div class="left_1">
+<div class="left_1_1_1">
+<p>欢迎您：东南西北先生</p>
+</div>
+<!--left_1_1是未登录状态，left_1_1_1为已登录状态class-->
+
+<div class="left_1_2">
+<a class="left_1_2_1" href="http://pay.baidu.com/reg_order.xhtml?gid=533" target="_blank"></a>
+<a class="left_1_2_2" href="http://wanba.baidu.com/games/sj/card/" target="_blank"></a>
+<a class="left_1_2_3" href="http://wanba.baidu.com/games/sj/zh/" target="_blank"></a>
+</div>
+
+
+</div>
+
+<div class="left_2">
+<div class="left_2_1">
+<a target="_blank" class="left_2_1_1" href="http://wanba.baidu.com/games/sj/article/2013-07-09/1381538961.html"></a>
+<a target="_blank" class="left_2_1_2" href="http://wanba.baidu.com/games/sj/img_index/"></a>
+<a target="_blank" class="left_2_1_3" href="http://wanba.baidu.com/games/sj/article/2013-07-09/1376242170.html"></a>
+</div>
+</div>
+
+<div class="left_3">
+<img src="http://wanba.baidu.com/dudai/sj/images/left_3_03.jpg" width="216" height="245" border="0" usemap="#Map_sj_ts"/>
+<map name="Map_sj_ts" id="Map_sj_ts">
+  <area shape="rect" coords="15,55,200,176" href="http://wanba.baidu.com/games/sj/article/2013-07-08/1374097445.html" target="_blank" />
+  <area shape="rect" coords="17,184,104,205" href="http://wanba.baidu.com/games/sj/article/2013-07-08/1379924342.html" target="_blank" />
+  <area shape="rect" coords="112,185,199,203" href="http://wanba.baidu.com/games/sj/article/2013-07-08/1381826181.html" target="_blank" />
+  <area shape="rect" coords="113,209,197,231" href="http://wanba.baidu.com/games/sj/article/2013-07-08/1379368619.html" target="_blank" />
+  <area shape="rect" coords="18,208,101,229" href="http://wanba.baidu.com/games/sj/article/2013-07-08/1382794599.html" target="_blank" />
+</map>
+</div>
+
+<div class="left_4">
+<ul>
+<li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1943721262&amp;site=qq&amp;menu=yes" target="_blank"><img border="0" src="http://wpa.qq.com/pa?p=1:1943721262:1" alt="点击这里给我发消息" title="点击这里给我发消息"></a></li>
+<li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1943721262&amp;site=qq&amp;menu=yes" target="_blank"><img border="0" src="http://wpa.qq.com/pa?p=1:1943721262:1" alt="点击这里给我发消息" title="点击这里给我发消息"></a></li>
+<li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1943721262&amp;site=qq&amp;menu=yes" target="_blank"><img border="0" src="http://wpa.qq.com/pa?p=1:1943721262:1" alt="点击这里给我发消息" title="点击这里给我发消息"></a></li>
+<li><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1943721262&amp;site=qq&amp;menu=yes" target="_blank"><img border="0" src="http://wpa.qq.com/pa?p=1:1943721262:1" alt="点击这里给我发消息" title="点击这里给我发消息"></a></li>
+</ul>
+
+<a target="_blank" class="left_4_a" href="http://tieba.baidu.com/f?ie=utf-8&kw=%E4%B9%A6%E5%89%91%E6%B1%9F%E6%B9%96OL">进入贴吧</a>
+
+</div>
+</div>
+
+<div class="middle">
+<div class="lb">
+<div class="lb_1" id="zSlider" style="position:relative">
+
+<div class="lb_2" style="position:absolute; left: 371px; top: 290px;">
+
+<ul id="select_btn" class="slide-triggers">
+<li class="current"><a style="cursor:pointer" class="lb_a1"></a></li>
+<li><a style="cursor:pointer" class="lb_a2"></a></li>
+<li><a style="cursor:pointer" class="lb_a3"></a></li>
+
+</ul>
+</div>
+
+ <div id="picshow">
+   <div id="picshow_img">
+
+<li><a href="http://wanba.baidu.com/login_game_by_zone.xhtml?to=enter&id=533&pid=11300600091_888755" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-08-01/1d31727d43427b731aaf9d3e0a8482f6.jpg" width="527" height="329"/></a></li>
+
+<li><a href="http://wanba.baidu.com/games/sj/article/2013-07-09/1376462402.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-07-09/9ccf81431f4fcaa46fa0eb26cd96f874.jpg" width="527" height="329"/></a></li>
+
+<li><a href="http://wanba.baidu.com/games/sj/article/2013-07-09/1373373264.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-07-09/be20452c6622bb821a5fd618d6db9690.jpg" width="527" height="329"/></a></li>
+
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="new">
+<div class="new_menu">
+<ul id="bg">
+<li id="m1"><a class="tab_1" href="http://wanba.baidu.com/games/sj/zh/" target="_blank" onmouseover="aa(1)"></a></li>
+<li id="m2"><a class="tab_2" href="http://wanba.baidu.com/games/sj/hd/" target="_blank" onmouseover="aa(2)"></a></li>
+<li id="m3"><a class="tab_3" href="http://wanba.baidu.com/games/sj/gg/" target="_blank" onmouseover="aa(3)"></a></li>
+<li id="m4"><a class="tab_4" href="http://wanba.baidu.com/games/sj/xw/" target="_blank" onmouseover="aa(4)"></a></li>
+<li id="m5"><a class="tab_5" href="http://wanba.baidu.com/games/sj/zl/" target="_blank" onmouseover="aa(5)"></a></li>
+</ul>
+
+</div>
+
+
+<div class="new_1">
+<div class="new_1_1">
+<h2><a href="http://wanba.baidu.com/games/sj/article/2013-07-29/1378328537.html" target="_blank">
+百度贴吧《书剑江湖》惊现绝世秘籍 </a></h2>
+</div>
+
+<div class="new_1_2">
+<ul id="s1">
+ <li><span class="newsListDate">09-24</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-24/1388065454.html" target="_blank">百度贴吧《书剑江湖》惊现烈火麒麟</a></li> <li><span class="newsListDate">09-24</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-24/1389017738.html" target="_blank">【书剑活动】月末也疯狂，好礼送不停</a></li> <li><span class="newsListDate">09-20</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-20/1383743310.html" target="_blank">《书剑江湖》9月20日11:00新服“贴吧10服”火爆开启</a></li> <li><span class="newsListDate">09-17</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-17/1380717254.html" target="_blank">寻觅小伙伴 百度贴吧《书剑江湖》帮会系统揭秘</a></li> <li><span class="newsListDate">09-17</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-17/1381466072.html" target="_blank">【书剑活动】中秋佳节到，活动乐翻天</a></li> <li><span class="newsListDate">09-14</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-14/1387856180.html" target="_blank">【书剑活动】豪侠相聚，我来助阵</a></li>
+</ul>
+<ul id="s2">
+ <li><span class="newsListDate">09-24</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-24/1389017738.html" target="_blank">【书剑活动】月末也疯狂，好礼送不停</a></li> <li><span class="newsListDate">09-17</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-17/1381466072.html" target="_blank">【书剑活动】中秋佳节到，活动乐翻天</a></li> <li><span class="newsListDate">09-14</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-14/1387856180.html" target="_blank">【书剑活动】豪侠相聚，我来助阵</a></li> <li><span class="newsListDate">09-05</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-05/1383278589.html" target="_blank">【书剑活动】秋意浓浓 好礼重重</a></li> <li><span class="newsListDate">09-02</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-02/1378677929.html" target="_blank">【书剑活动】全新优惠，助阵战力大提升</a></li> <li><span class="newsListDate">08-27</span><a href="http://wanba.baidu.com/games/sj/article/2013-08-27/1380390584.html" target="_blank">【书剑活动】全新优惠，助阵战力大提升</a></li>
+
+</ul>
+<ul id="s3">
+ <li><span class="newsListDate">09-20</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-20/1383743310.html" target="_blank">《书剑江湖》9月20日11:00新服“贴吧10服”火爆开启</a></li> <li><span class="newsListDate">09-14</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-14/1387612221.html" target="_blank">【书剑公告】9月14日版本更新及数据互通公告</a></li> <li><span class="newsListDate">09-13</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-13/1385619769.html" target="_blank">《书剑江湖》9月13日11:00新服“贴吧9服”火爆开启 </a></li> <li><span class="newsListDate">09-13</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-13/1386418457.html" target="_blank">《书剑江湖》9月13日11:00新服“贴吧9服”火爆开启</a></li> <li><span class="newsListDate">09-07</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-07/1379279301.html" target="_blank">《书剑江湖》9月7日11:00新服“贴吧8服”火爆开启</a></li> <li><span class="newsListDate">09-07</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-07/1380727724.html" target="_blank">【书剑江湖】更新延时公告</a></li>
+
+</ul>
+<ul id="s4">
+ <li><span class="newsListDate">09-24</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-24/1388065454.html" target="_blank">百度贴吧《书剑江湖》惊现烈火麒麟</a></li> <li><span class="newsListDate">09-17</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-17/1380717254.html" target="_blank">寻觅小伙伴 百度贴吧《书剑江湖》帮会系统揭秘</a></li> <li><span class="newsListDate">09-10</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-10/1380019402.html" target="_blank">血债血偿 百度贴吧《书剑江湖》副本大揭秘</a></li> <li><span class="newsListDate">09-05</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-05/1379540033.html" target="_blank">百度贴吧《书剑江湖》萝莉御姐袭江湖</a></li> <li><span class="newsListDate">08-28</span><a href="http://wanba.baidu.com/games/sj/article/2013-08-28/1385442814.html" target="_blank">百度贴吧《书剑江湖》武林阵营大血拼</a></li> <li><span class="newsListDate">08-22</span><a href="http://wanba.baidu.com/games/sj/article/2013-08-22/1378999419.html" target="_blank">百度贴吧《书剑江湖》结交豪侠修神功</a></li>
+
+</ul>
+<ul id="s5">
+ <li><span class="newsListDate">07-10</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-10/1377947841.html" target="_blank">【书剑江湖】4大职业介绍</a></li> <li><span class="newsListDate">07-09</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-09/1376242170.html" target="_blank">【书剑资料】VIP特权</a></li> <li><span class="newsListDate">07-09</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-09/1381538961.html" target="_blank">【书剑资料】武学境界</a></li> <li><span class="newsListDate">07-08</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1375201215.html" target="_blank">【书剑资料】江湖晋升宝典</a></li> <li><span class="newsListDate">07-08</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1374097445.html" target="_blank">【书剑资料】探秘阴阳</a></li> <li><span class="newsListDate">07-08</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1379368619.html" target="_blank">【书剑资料】经脉精修</a></li>
+
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="wl">
+<div class="wl_1"><div class="more_sj"><a href="http://wanba.baidu.com/games/sj/zl/" target="_blank"></a></div></div>
+<div class="wl_2">
+<ul>
+
+<li><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1373274713.html" target="_blank">游戏介绍</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1377853753.html" target="_blank">创建角色</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1376229504.html" target="_blank">刀圣职业</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1383138545.html" target="_blank">棍宗职业</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1382477748.html" target="_blank">剑侠职业</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1380036017.html" target="_blank">枪王职业</a> | 
+<br />
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1382401792.html" target="_blank">阵营系统</a> |
+ <a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1373723172.html" target="_blank">交易系统</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1377531021.html" target="_blank">帮会系统</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1382281311.html" target="_blank">任务系统</a> | 
+</li>
+
+<li style="margin-top:10px">
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1381046244.html" target="_blank">基本操作</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1373674478.html" target="_blank">地图查看</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1379368619.html" target="_blank">经脉系统</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1377231825.html" target="_blank">自动寻路</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1382606865.html" target="_blank">挂机设置</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1376447542.html" target="_blank">界面功能</a> | 
+<br />
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1380064978.html" target="_blank">便捷商城</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1379924342.html" target="_blank">温泉嬉水</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1381826181.html" target="_blank">惊艳坐骑</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1377174300.html" target="_blank">宝物系统</a> | 
+</li>
+
+<li style="margin-top:10px">
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1383096962.html" target="_blank">组队系统</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1375006323.html" target="_blank">20级副本</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1379037808.html" target="_blank">30级副本</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1382166221.html" target="_blank">40级副本</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1381674956.html" target="_blank">50级副本</a> | 
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1373576461.html" target="_blank">55级副本</a> | 
+<br />
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1382880662.html" target="_blank">60级副本</a> |
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1381455435.html" target="_blank">70级副本</a> | 
+<a href="#" target="_blank"> </a>  
+<a href="#" target="_blank"> </a>  
+</li>
+
+</ul>
+</div>
+</div>
+
+<div class="mt">
+<div class="mt_1"><div class="more_sj"><a href="http://wanba.baidu.com/games/sj/gl/" target="_blank"></a></div></div>
+<div class="mt_2">
+
+<div class="mt_2_1">
+<dl><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1375201215.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-07-09/8507c8c0deaa27e0b4ea2741a1e4e655.jpg" width="140" height="101"/></a></dl>
+</div>
+
+<div class="mt_2_2">
+<ul>
+ <li><span class="newsListDate">09-04</span><a href="http://wanba.baidu.com/games/sj/article/2013-09-04/1386243858.html" target="_blank">轻松清除缓存 畅游《书剑江湖...</a></li> <li><span class="newsListDate">07-08</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1383096962.html" target="_blank">【书剑攻略】组队系统</a></li> <li><span class="newsListDate">07-08</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1381674956.html" target="_blank">【副本攻略】50级副本</a></li> <li><span class="newsListDate">07-08</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1382166221.html" target="_blank">【副本攻略】40级副本</a></li> <li><span class="newsListDate">07-08</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1379037808.html" target="_blank">【副本攻略】30级副本</a></li> <li><span class="newsListDate">07-08</span><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1375006323.html" target="_blank">【副本攻略】20级副本</a></li>
+
+</ul>
+</div>
+
+</div>
+</div>
+
+</div>
+
+<div class="right">
+<div class="right_1"></div>
+<div class="kf">
+<div class="kf_1"><a href="http://wanba.baidu.com/games/sj/select/" target="_blank"></a></div>
+<div class="kf_2">
+<ul>
+<li><a style="color:#b40000" href="#" target="_blank"></a></li>
+<li><a href="#" target="_blank"></a></li>
+<li><a href="#" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+
+<div class="tieba">
+<div class="tieba_1"><div class="more_sj" style="margin-top:22px"><a href="http://tieba.baidu.com/f?kw=%E4%B9%A6%E5%89%91%E6%B1%9F%E6%B9%96OL&ie=utf-8&fr=wwwt" target="_blank"></a></div></div>
+<div class="tieba_2">
+<ul>
+<p>喜爱探秘副本的你，一定不会错过《书剑江湖》武侠意味浓厚的各大副本。从此驰骋江湖！&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tieba.baidu.com/p/2444140459" target="_blank">详细>></a></p>
+</ul>
+</div>
+
+<div class="tieba_3">
+<ul>
+<p>每个人都梦想有一只属于自己的专属坐骑，而在江湖上，也有各式神兽，与其相伴行走江湖。&nbsp;&nbsp;&nbsp;<a href="http://tieba.baidu.com/p/2444156111" target="_blank">详细>></a></p>
+</ul>
+</div>
+
+</div>
+
+<div class="zy">
+<div class="zy_1">
+<ul>
+<li id="w1"><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1383138545.html" target="_blank"><img src="http://wanba.baidu.com/dudai/sj/images/zy_1_14.jpg" width="217" height="152"/></a></li>
+
+<li id="w2"><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1376229504.html" target="_blank"><img src="http://wanba.baidu.com/dudai/sj/images/zy_2_14.jpg" width="217" height="152"/></a></li>
+
+<li id="w3"><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1382477748.html" target="_blank"><img src="http://wanba.baidu.com/dudai/sj/images/zy_3_14.jpg" width="217" height="152"/></a></li>
+
+<li id="w4"><a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1380036017.html" target="_blank"><img src="http://wanba.baidu.com/dudai/sj/images/zy_4_14.jpg" width="217" height="152"/></a></li>
+</ul>
+</div>
+
+<div class="zy_2">
+<ul id="bg">
+
+<li id="q1"><a class="zy_tab_1" href="http://wanba.baidu.com/games/sj/article/2013-07-08/1383138545.html" target="_blank" onmouseover="bb(1)"></a></li>
+<li id="q2"><a class="zy_tab_2" href="http://wanba.baidu.com/games/sj/article/2013-07-08/1376229504.html" target="_blank" onmouseover="bb(2)"></a></li>
+<li id="q3"><a class="zy_tab_3" href="http://wanba.baidu.com/games/sj/article/2013-07-08/1382477748.html" target="_blank" onmouseover="bb(3)"></a></li>
+<li id="q4"><a class="zy_tab_4" href="http://wanba.baidu.com/games/sj/article/2013-07-08/1380036017.html" target="_blank" onmouseover="bb(4)"></a></li>
+
+</ul>
+</div>
+</div>
+<div class="fh">
+<ul>
+<li>
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-08/1377174300.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-07-09/33e00ac62d433a2eda61312dd33a1bfc.jpg" width="140" height="41"/></a>
+</li>
+<li>
+<a href="http://wanba.baidu.com/games/sj/article/2013-07-09/1381538961.html" target="_blank"><img src="http://wanba.baidu.com/r/image/2013-07-09/77f495d3e8b74e8dc4eecce2382c4251.jpg" width="140" height="41"/></a>
+</li>
+</ul>
+</div>
+
+</div>
+
+
+
+
+</div>
+
+<div class="hz">
+<div class="hz_1">
+<marquee direction="left" onmouseout="this.start()" onmouseover="this.stop()">
+<a href="http://www.caiyun.com/webgame/shujianjianghu/" target="_blank">
+<img width="88" height="31" src="http://youxi.baidu.com/r/image/2013-06-20/301ac38b53aadad6a308b88be4bcef0d.jpg">
+</a>
+
+<a href="http://wan.tgbus.com/sjjh/" target="_blank">
+<img width="88" height="31" src="http://youxi.baidu.com/dudai/yx_medias/images/%E7%94%B5%E7%8E%A9%E5%B7%B4%E5%A3%AB.jpg">
+</a>
+
+<a href="http://ku.webgame.com.cn/sjjh" target="_blank">
+<img width="88" height="31" src="http://youxi.baidu.com/dudai/yx_medias/images/webgame.jpg">
+</a>
+
+<a target="_blank" href="http://web.ali213.net/webgame/sjjh/"><img title="" alt="" src="http://wanba.baidu.com/dudai/sj/images/%E6%B8%B8%E4%BE%A0.jpg"></a>
+
+
+<a target="_blank" href="http://zhao.265g.com/sjjh/"><img title="" alt="" src="http://youxi.baidu.com/r/image/2012-12-11/f0995fbeec296171c56b60046ba26b88.jpg"></a>
+<a href="http://www.93tyy.com/gamelist/2652.html" target="_blank">
+<img width="88" height="31" src="http://wanba.baidu.com/dudai/sj/images/淘页游.jpg">
+</a>
+
+<a href="http://www.9k9k.com/webgame/692.html" target="_blank">
+<img width="88" height="31" src="http://wanba.baidu.com/dudai/sj/images/9k9k.jpg">
+</a>
+
+<a href="http://web.131.com/games/sjjh/" target="_blank">
+<img width="88" height="31" src="http://wanba.baidu.com/dudai/sj/images/131.jpg">
+</a>
+
+<a href="http://game.pcgames.com.cn/item/12723.html" target="_blank">
+<img width="88" height="31" src="http://wanba.baidu.com/dudai/sj/images/%E5%A4%AA%E5%B9%B3%E6%B4%8B.jpg">
+</a>
+
+<a href="http://www.969g.com/webgame/sjjh/" target="_blank">
+<img width="88" height="31" src="http://wanba.baidu.com/dudai/sj/images/969g.jpg">
+</a>
+
+<a href="http://www.40407.com/sjjh/" target="_blank">
+<img width="88" height="31" src="http://youxi.baidu.com/dudai/yx_medias/images/40407.jpg">
+</a>
+
+<a href="http://www.521g.com/youxi/2493.html" target="_blank">
+<img width="88" height="31" src="http://wanba.baidu.com/dudai/sj/images/521.jpg">
+</a>
+
+<a href="http://www.kaifu.com/gameinfo-shujianjianghu.html" target="_blank">
+<img width="88" height="31" src="http://youxi.baidu.com/dudai/yx_medias/images/%E5%BC%80%E6%9C%8D%E7%BD%91.jpg">
+</a>
+
+<a href="http://www.cwan.com/webgame/sjjh/" target="_blank">
+<img width="88" height="31" src="http://youxi.baidu.com/dudai/yx_medias/images/cwan_10.jpg">
+</a>
+<a href="http://www.9u.com/webgame/shujianjianghu/" target="_blank">
+<img width="88" height="31" src="http://wanba.baidu.com/dudai/sj/images/%E4%B9%9D%E6%B8%B8%E7%BD%91.jpg">
+</a>
+
+<a href="http://game.yeyou.com/info-51275.html" target="_blank">
+<img width="88" height="31" src="http://youxi.baidu.com/dudai/yx_medias/images/页游网.jpg">
+</a>
+
+
+<a href="http://www.eeyy.com/webgame/sjjh/" target="_blank">
+<img width="88" height="31" src="http://youxi.baidu.com/dudai/yx_medias/images/%E4%B8%80%E6%B8%B8%E7%BD%91.jpg">
+</a>
+
+<a href="http://www.07073.com/sjjh/" target="_blank">
+<img width="88" height="31" src="http://youxi.baidu.com/dudai/yx_medias/images/07073.jpg">
+</a>
+
+
+
+</marquee>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="fromTb">
+<div class="footer">
+		<div>
+			健康游戏忠告：抵制不良游戏，拒绝盗版游戏，注意自我保护，谨防受骗上当，适度游戏益脑，沉迷游戏伤身，合理安排时间，享受健康生活
+		</div>
+		<div class="footer-bottom">
+			<span>©2013 Baidu</span>
+			<a class="link" target="_blank" href="http://wanba.baidu.com/jiazhang/">
+				家长监护
+			</a>
+			<a class="link" target="_blank" href="http://wanba.baidu.com/smz/">
+				实名认证
+			</a>
+			<a class="link" target="_blank" href="http://home.baidu.com/about/about.html">
+				关于百度
+			</a>
+			<a class="link" target="_blank" href="http://www.baidu.com/duty/">
+				使用百度前说明
+			</a>
+			<span>
+				客服电话：（010）58652922  客服邮箱 game-tbkf@baidu.com
+			</span>
+		</div>
+	</div>
+</div>
+
+<script>
+// Cookie plugin
+	jQuery.cookie = function(name, value, options) {
+		if (typeof value != 'undefined') {
+			// name and value given, set cookie
+			options = options || {};
+			if (value === null) {
+				value = '';
+				options.expires = -1;
+			}
+			var expires = '';
+			if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+				var date;
+				if (typeof options.expires == 'number') {
+					date = new Date();
+					date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
+				} else {
+					date = options.expires;
+				}
+				expires = '; expires=' + date.toUTCString();
+				// use expires attribute, max-age is not supported by IE
+			}
+			// CAUTION: Needed to parenthesize options.path and options.domain
+			// in the following expressions, otherwise they evaluate to undefined
+			// in the packed version for some reason...
+			var path = options.path ? '; path=' + (options.path) : '';
+			var domain = options.domain ? '; domain=' + (options.domain) : '';
+			var secure = options.secure ? '; secure' : '';
+			document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+			return true;
+		} else {
+			// only name given, get cookie
+			var cookieValue = null;
+			if (document.cookie && document.cookie != '') {
+				var cookies = document.cookie.split(';');
+				for (var i = 0; i < cookies.length; i++) {
+					var cookie = jQuery.trim(cookies[i]);
+					// Does this cookie string begin with the name we want?
+					if (cookie.substring(0, name.length + 1) == (name + '=')) {
+						cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+						break;
+					}
+				}
+			}
+			return cookieValue;
+		}
+	};
+</script>
+<style>
+.rowVerify{
+    display:none;
+}
+section.login .inner .regArea p {
+padding:0px;
+margin:0px;
+}
+</style>
+<script type="text/javascript" src="http://wanba.baidu.com/yxpm/user_conduct.jsp"></script>
+<script type="text/javascript">
+swfobject.registerObject("FlashID");
+swfobject.registerObject("FlashID2");
+swfobject.registerObject("FlashID3");
+</script>
+</body>
+</html>

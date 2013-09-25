@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>项目共建-百度百科合作平台</title>
+<link href="css/hezuo.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/nav.js"></script>
+<script type="text/javascript" src="js/ajax.js"></script>
+</head>
+
+<body>
+<div id="box">
+	<div id="head">
+		<div class="left">
+			<a href="http://baike.baidu.com/" target="_blank">百度百科</a><span>合作平台</span>
+		</div>
+		<div id="usrbar">
+			<iframe src="http://baike.baidu.com/list-php/dispose/title.php" allowtransparency="true"  frameborder="0"  height="22" width="100%" scrolling="no" target="_parent" style="overflow:hidden"></iframe>
+		</div>
+	</div>
+	<ul id="nav">
+		<li style="width:90px;"><span><a href="index.html">首页</a></span></li>
+		<li>
+			<span class="select"><a href="javascript:;">合作方式</a></span>
+			<div id="select">
+				<a href="qwbj.html">权威编辑</a>
+				<a href="xmgj.html">项目共建</a>
+				<a href="zyhz.html">资源合作</a>
+				<a href="api.html">API输出</a>
+				<a href="hdhz.html" class="nobg">活动合作</a>
+			</div>
+		</li>
+		<li><span><a href="anli.html">合作案例</a></span></li>
+		<li><span><a href="problem.html">常见问题</a></span></li>
+		<li><span><a href="lxwm.html">联系我们</a></span></li>
+	</ul>
+	<div id="banner"><img src="images/banner_05.jpg" alt="" /></div>
+	<div id="wrap">
+		<div class="wLeft">
+			<dl class="jianjie">
+				<dt>简介</dt>
+				<dd>
+					合作方与百度百科联手共建特色项目，通过创新的合作形式，更好地传播知识、发挥双方优势、互利双赢，共同服务追求知识的用户。
+					<div style="text-align:center;line-height:30px;">
+						<a  target="_blank" href="http://baike.baidu.com/museum/"><img src="images/page1.jpg"></a>
+						项目案例：百科数字博物馆 <a style="color:#1379C2" target="_blank" href="http://baike.baidu.com/museum/">http://baike.baidu.com/museum/</a>
+					</div>
+				</dd>
+			</dl>
+			<h2>合作方式说明</h2>
+			<dl class="shuoming">
+				<dt><strong>合作方提供</strong></dt>
+				<dd>
+					<p>合作方拥有的专业资源（具体需求根据具体项目商议评估而定）</p>
+				</dd>
+			</dl>
+			<dl class="shuoming">
+				<dt><strong>百度百科提供</strong></dt>
+				<dd>
+					<p>独立的项目展示页面，更好地诠释合作项目及合作方形象</p>
+					<p>百科相关词条的引入和展示（具体展现方式根据具体项目而定）</p>
+				</dd>
+			</dl>
+			<h2>合作流程介绍</h2>
+			<div class="num">
+				<dl>
+					<dt>注册官方账号</dt>
+					<dd>合作方需要在合作开始前注册能代表合作方身份的百度官方账号</dd>
+				</dl>
+				<dl class="mar">
+					<dt>提交合作申请</dt>
+					<dd>合作方点击页面右侧的“如何申请合作”按钮，按具体要求准备所需资料并提交。</dd>
+				</dl>
+				<dl>
+					<dt>等待评估反馈</dt>
+					<dd>百科工作人员将在15个工作日内将评估结果通过合作方登记的联系邮箱予以反馈。</dd>
+				</dl>
+			</div>
+		</div>
+		<div class="wRight">
+			<div class="data">
+				<h3>数据统计</h3>
+				<p>已开展合作：<strong id="orgCount"></strong> 家</p>
+				<a href="hzsq.html" target="_blank" id="how">如何申请</a>
+			</div>
+
+			<div class="anli">
+				<a href="anli.html" target="_blank">更多>></a><h3>合作案例</h3>
+			</div>
+			<ul>
+				<li><a href="64.html" target="_blank"><img src="images/img_64.gif" alt="" /></a><a href="64.html" target="_blank">中国国家博物馆</a></li>
+				<li><a href="76.html" target="_blank"><img src="images/img_201.jpg" alt="" /></a><a href="76.html" target="_blank">中国古动物博物馆</a></li>
+				<li><a href="77.html" target="_blank"><img src="images/img_202.jpg" alt="" /></a><a href="77.html" target="_blank">中国地质博物馆</a></li>
+				<li><a href="62.html" target="_blank"><img src="images/img_63.gif" alt="" /></a><a href="62.html" target="_blank">北京天文馆</a></li>
+				<li><a href="78.html" target="_blank"><img src="images/img_204.jpg" alt="" /></a><a href="78.html" target="_blank">湖南省博物馆</a></li>
+				<li><a href="79.html" target="_blank"><img src="images/img_205.jpg" alt="" /></a><a href="79.html" target="_blank">陕西历史博物馆</a></li>
+			</ul>
+
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div id="footer">
+	&copy;<span id="baikeNewYear">2012</span>	Baidu <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a> <a href="http://www.baidu.com/search/baike_help.html" target="_blank">百科协议</a>
+</div>
+<script>document.write('<script src="http://img.baidu.com/img/baike/baikeCMS.js?t='+parseInt(new Date()/864e5)+'"><\/scr' + 'ipt>');</script>
+<script type="text/javascript" src="http://img.baidu.com/js/tangram-1.3.4.js"></script>
+<script type="text/javascript" src="js/popup.js"></script>
+<script type="text/javascript" src="js/userLogin.js"></script>
+
+<script type="text/javascript" src="js/inc_nslog.js"></script>
+<script type="text/javascript">
+	nslog(location.href, 10107, { name: "baike_open", page:'xmgj'});
+	document.getElementById('how').onclick=function()
+	{
+		nslog(location.href, 10107, { name: "baike_open", page:'xmgj', btn:'xmgj_shen'});
+	};
+</script>
+</body>
+</html>
+<!--13680348760874983946010819--><!--04561496630643507210092423-->
+<script> var _trace_page_logid = 0456149663; </script>

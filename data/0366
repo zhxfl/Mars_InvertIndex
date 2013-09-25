@@ -1,0 +1,2000 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--published at 2013-09-24 23:08:39 in #24 by [20121001]-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>东方财富网：中国财经第一门户，提供专业的财经、股票、行情、证券、基金、理财、银行、保险、信托、期货、黄金、股吧、博客等各类财经资讯及数据</title>
+<meta name="keywords" content="股票,财经,证券,金融,港股,行情,基金,债券,期货,外汇,保险,银行,博客,股吧,财迷,论坛,数据,stock,quote,news,fund,bank,blog,data,bbs" />
+<meta name="description" content="东方财富网，中国访问量最大影响力最大的互联网财经媒体，提供7*24小时财经资讯及全球金融市场报价，汇聚全方位的综合财经新闻和金融市场资讯，覆盖股票、财经、证券、金融、美股、港股、行情、基金、债券、期货、外汇、保险、信托、黄金、理财、商业、银行、博客、股吧、财迷、论坛等财经综合信息" />
+<meta name="verify-v1" content="4OotIqOe2/hY8CTV9J3OPXM1Xhz8P7vD/FJVXHO7xMo=" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Language" content="zh-CN" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta http-equiv="refresh" content="1200" />
+<meta name="baidu-site-verification" content="zyr8IXTbh1yML3RW" />
+<meta name="sogou_site_verification" content="e52eJYylA9"/>
+<meta property="qc:admins" content="134507044665134576516375" />
+<link rel="shortcut icon" type="image/x-icon" href="http://g1.dfcfw.com/g1/special/favicon_shortcut.ico" />
+<link rel="apple-touch-icon" href="http://g1.dfcfw.com/g1/special/Apple_ico.png" />
+<style type="text/css">
+/*Reset*/
+body,div,ul,ol,dl,li,h1,h2,h3,h4,h5,form,input,button { margin:0; padding:0;}
+img { border: 0;}
+h1,h2,h3,h4,h5 { font-size:100%; font-weight:normal;}
+input,button { font-family:inherit; font-size:inherit; font-style:inherit; font-weight:inherit;}
+body { background-color:#FFF; font-size:12px; font-family:"宋体"; padding-top:38px;}
+ul { list-style:none;}
+:focus { outline:0;}
+a { color:#039; text-decoration:underline;}
+a:hover { color:#ff4901 !important;}
+.red { color:#e30000;}
+a .red, a.red, .red a {color:#ff4901;}
+
+.black,.black a { color:#000;}
+.green,.green a { color:#007130;}
+.lightblue,.lightblue a { color:#2860FF;}
+.gray { color:#bfbfbf;}
+.gray a { color:#3f3f3f; text-decoration:none;}
+.gray a:hover { text-decoration:underline;}
+
+/*容器*/
+.wrap { width:950px; margin:0 auto; clear:both;}
+.mt0 { margin-top:0 !important;}
+.mt7 { margin-top:7px;}
+.mt8 { margin-top:8px;}
+.mt10 { margin-top:10px;}
+.spacer8 { clear:both; height:8px; overflow:hidden;}
+.hidden { display:none;}
+
+/*背景&元素*/
+/*body { background:url(images/index.png) no-repeat 50% 0;}*/
+.topNav ul,
+.searchBar button,
+.quoteLinks { background:url(http://g1.dfcfw.com/g1/201305/20130524100549.png) repeat-x;}
+
+.logoIco,
+.stockNav .flink,.cft-link,
+.fl-bx,
+.linkArea dt a,
+.nlist li,
+.fundlink a,.fund-kaihu,.fundbuy-link,
+.rlist cite,
+.titBar .btn-refresh,
+.down-menu .category,.userinfo a.usernick,
+.imgList-dot span,
+.footer-msg,.footer-icp,.footer-police,.footer-zx110,.footer-shjubao { background:url(http://g1.dfcfw.com/g1/201306/20130621150230.png) no-repeat;}
+
+
+/*盒子*/
+.layout168,.layout600,.layout250,.layout340,.layout690 { float:left;}
+.layout168,.layout600 { margin-left:7px;}
+.layout340,.layout690 { margin-left:10px;}
+.layout168.nml,.layout340.nml { margin-left:0;}
+.layout168 { width:168px;}
+.layout600 { width:600px;}
+.layout250 { width:250px;}
+.layout340 { width:340px;}
+.layout690 { width:690px;}
+
+.lyad{font-size:0;background-color:#FFF;}
+.h60{height:60px; overflow:hidden;}
+.h90{height:90px; overflow:hidden;}
+.h160{height:160px; overflow:hidden;}
+.g235{height:235px; overflow:hidden;}
+
+.titBar { height:29px; border-top:2px solid #ff4901; border-bottom:1px solid #ffdacc; background-color:#f3f3f3;}
+.titBar h4 { color:#3f3f3f; float:left; font-size:14px; margin-left:10px; font-weight:bold; margin-top:6px; display:inline; height:18px; line-height:18px;}
+.titBar h4 a { color:#3f3f3f; text-decoration:none;}
+.titBar h4 a:hover { text-decoration:underline;}
+.layout250 .titBar { border-top:2px solid #595959; border-bottom:1px solid #d4d4d4;}
+.titBar.blue { border-top-color:#3a5e95; border-bottom-color:#d3dcea;}
+
+.titBar .more { padding:0 6px 0 0; color:#bfbfbf; float:right;}
+.titBar .btn-refresh{ margin:9px 6px 0 0; padding-left:16px; color:#535353; float:right; background-position:-124px -104px;}
+.titBar .lcy,.titBar .rcy { height:29px; overflow:hidden; margin-left:10px; padding-right:0;}
+.titBar .lcy { float:left;}
+.titBar .rcy { float:right;}
+.titBar div.txt { float:right; padding-top:8px; padding-left:10px;}
+
+/*内容区域*/
+.content { clear:both; border:1px solid #efefef; border-top:0;}
+.nlist { clear:both; color:#a0a0a0; font-size:14px; padding:8px 8px 8px 4px;}
+.nlist li { background-position:-202px -318px; height:24px; line-height:24px; overflow:hidden; text-indent:16px;}
+/*.nlist li.video { background-position:-620px -92px; text-indent:8px;}
+.nlist h3 { font-size:18px; height:24px; line-height:24px; padding:4px 0 2px;}
+.nlist p { margin:0 0 1px; padding:0; text-align:center; height:24px; line-height:24px; font-size:12px; }
+.nlist p a { color:#6b6b6b;}
+.nlist p a:hover { color:#c00;}*/
+.nlist cite { float:right; font-style:normal; font-size:12px; color:#7f7f7f;}
+
+.nlist.pb6 { padding-bottom:6px;}
+
+
+.layout250 .content,.layout690 .tb-ggyb { border-color:#d4d4d4;}
+.layout250 .nlist { font-size:12px; padding:6px 8px 6px 4px;}
+.layout250 .nlist li { font-size:12px; background-position:-202px -319px; height:22px; line-height:22px;}
+.layout250 .nlist a { color:#535353;}
+
+.ilist { clear:both; font-size:14px; padding:10px 8px 0 4px; overflow:hidden; height:66px;}
+.ilist ul { float:left; height:66px;}
+.ilist li { height:24px; line-height:24px; overflow:hidden; text-indent:10px;}
+.ilist .img { float:left; margin-right:8px;}
+/*.ilist .img img { border:1px solid #fff;}*/
+
+.twBull.ilist { padding:8px 8px 5px 4px;/* height:89px;*/}
+.twBull.ilist ul { height:auto;}
+/*头条*/
+h1,h3 { font-size:20px; font-family:'黑体','宋体'; text-align:center;}
+h1 a,h3 a { margin:0;}
+.bulllink h1, .bulllink h3{ margin-bottom:1px; height:21px; line-height:21px; }
+.headlines {padding:4px 5px 0; color:#039;}
+.headlines li { float:none; display:block; height:24px; line-height:24px; text-align:center; color:#888;}
+.headlines h1 { padding:10px 0 4px;}
+.headlines h3 { padding:8px 0 4px;}
+/*.headlines li a {margin-right:3px;}*/
+.headlines .tbull{ text-align:center; margin-top:1px; padding:4px 0;height:22px;line-height:22px;border-top:1px solid #ededed;}
+.headlines .tbull a { margin:0 3px;}
+
+.scl-news { height:29px; line-height:30px;border-top:1px solid #ededed; overflow:hidden;}
+.scl-news span { float:left;width:264px;}
+.scl-news .name { width:60px; text-align:center; color:#393939; background-color:#ededed; margin-right:6px; display:inline;}
+.scl-news .name a { display:block;}
+.scl-news cite { color:#999; font-style:normal;}
+
+/*图文布告*/
+.twBull { height:96px; overflow:hidden; /*margin-bottom:4px;*/}
+.twBull .img { float:left; width:111px; height:90px; line-height:24px; font-size:12px; text-align:center; background-color:#3f3f3f; color:#fff; overflow:hidden; margin:2px 2px 0 5px; text-decoration:none;}
+.twBull .img:hover { text-decoration:underline; color:#fff !important;}
+/*.twBull.blue .img { background-color:#35588d;}*/
+
+.tw250 { padding:5px; padding:5px 0 4px 4px;}
+.tw250 .img { margin-right:5px; float:left;}
+.tw250 ul { font-size:12px;}
+.tw250 li { text-indent:16px;}
+.tw250 .title { float:left; font-weight:bold; margin:5px 0 0 4px;}
+.tw250 .info { float:left; width:154px; line-height:22px; margin:5px 0 0 4px; overflow:hidden; }
+.tw-dashed { border-bottom:1px dashed #c9c9c9; margin-bottom:4px; padding-bottom:8px;}
+.tw-dashed .title { margin-top:0;}
+
+/*标签模型*/
+.tabCon { clear:both; }
+/*标签区域*/
+.tabCon .tabs { height:30px; background-color:#f3f3f3; border:1px solid #ffdacc; border-left:none; border-right:none; position:relative;}
+.tabCon .tabs ul { height:32px; overflow:hidden; float:left; position:absolute; top:-1px; z-index:999;}
+.tabCon .tabs li { float:left; height:30px; border:1px solid #ffdacc; overflow:hidden;}
+.tabCon .tabs .more { float:right;}
+.more .titSear { margin:5px 4px 0 0;}
+.more .titSear input { width:92px;}
+.more .titSear .btnn { float:left; background-color:#959595; margin-left:0; border:none; padding:2px 0;}
+.more .titSear .btnn button { background-color:#959595; color:#fff;}
+
+/*.more .orange {}
+.more .orange .btnn { background-color:#ff4901;}
+.more .orange .btnn button { background-color:#ff4901;}*/
+/*三门*/
+.tabCon .triple ul { padding-left:1px !important; padding-left:2px;}
+.tabCon .triple li { margin-left:-1px; position:relative; z-index:0}
+
+.tabCon .tabs h4 { float:left; width:88px; height:32px; overflow:hidden; text-align:center;}
+.tabCon .tabs li.at{ border-top:2px solid; border-color:#ff4901; background-color:#fff; z-index:2;}
+.tabCon .tabs li.at h4 { background-color:#fff;}
+.tabCon .tabs h4 a { height:32px; font:bold 14px/32px '宋体'; display:block; color:#3f3f3f; text-decoration:none;}
+.tabCon .tabs h4 a:hover{ text-decoration:underline;}
+
+.layout250 .tabCon .tabs { border-color:#d4d4d4;}
+.layout250 .tabCon .tabs li{ border-color:#d4d4d4;}
+.layout250 .tabCon .tabs li.at{ border-color:#595959;}
+.tabCon .ul-w123 li h4 { width:123px;}
+
+.tabCon .tabs h4.w82 { width:82px; background:none; }
+.tabCon .tabs h4.w82 a { margin-left:0;}
+
+
+/*热门*/
+.hot-list-box { font-size:12px; margin:43px 0 1px 4px; position: relative;}
+.hot-list-box dl { margin:0;}
+.hot-list-box dt { padding:1px 2px;}
+.hot-list-box dt span { height:20px; line-height:20px; display:inline-block; width:58px;}
+
+.hot-list-box ul.tabs { height:26px; border:none; border-bottom:1px solid #d3dcea; background:none; width:340px; position:absolute; top:-35px; left:-10px; margin-left:1px; }
+.hot-list-box ul.tabs li { height:26px; width:92px; display:inline-block; position: relative; border:none !important; background:none; text-indent:0; overflow:visible; font-weight:bold;}
+.hot-list-box ul.tabs li a { height:24px; line-height:24px; width:90px; display:block; position:absolute; background-color:#f3f3f3; text-align:center; border:1px solid #d3dcea; border-bottom:none; padding-top:1px; overflow:hidden; color:#3f3f3f; text-decoration:none;}
+.hot-list-box ul.tabs li a:hover { text-decoration:underline;}
+.hot-list-box ul.tabs li.at a { height:25px; border-top:2px solid; border-color:#3a5e95; background-color:#fff; padding-top:0;}
+.hot-list-box .txtbull li { height:22px; line-height:22px; background-position: -206px -318px; text-indent: 12px;}
+/*衍生热门*/
+.hot-list-box-out { margin:0; padding-top:26px; width:100%; }
+.hot-list-box-out ul.tabs { width:689px; top:0; left:0; padding-left:0; margin-left:1px;}
+.hot-list-box-out ul.tabs li { margin-left:-1px; z-index:0; float:left;}
+.hot-list-box-out ul.tabs li.at { z-index:1;}
+
+.header { margin-top: 5px;}
+/*LOGO*/
+.logoArea { float:left; width:175px;}
+.logoIco { float:left; width:175px; height:78px; overflow:hidden; /*text-indent:-999px;*/}
+/*导航区域*/
+.topNav { float:left; width:775px; height:78px; overflow:hidden; background:#FFF;}
+/*导航菜单*/
+.topNav ul { padding:0 1px 0 0; margin:0 3px 0 4px; background-position:right 10px; background-repeat:no-repeat; float:left; height:78px; }
+.topNav ul.mu101 { margin-left:2px;}
+.topNav ul.mu104 { background:none; margin-right:0; padding-right:0;}
+.topNav li { /*height:28px;*/ overflow:hidden; height: 16px; margin: 7px 0 12px; line-height:14px; }
+.topNav .mu101 li { width:206px;}
+.topNav .mu103 li { width:172px;}
+.topNav .mu102 li,.topNav .mu104 li { width:184px;}
+.topNav li a { margin:0 8px 0 2px; color:#000; display:inline-block; text-decoration:none; }
+.topNav li a:hover { text-decoration:underline; }
+/*.topNav li span { display:inline-block; border-left:1px solid #d6d6d6; padding-left:7px;}*/
+.topNav li i { font-style:normal;}
+.topNav li .emphasize { color:#c00;}
+
+.toplinks { clear:both; display:inline-block; width:950px; background-color:#f3f3f3; color:#3f3f3f; margin-top:9px; height:28px; text-align:center;}
+.toplinks a,.toplinks span { display:inline-block; color:#3f3f3f; margin:7px 6px 0; line-height:16px;}
+
+.bulllinks { height:20px; padding:6px 0 4px; overflow:hidden; line-height:20px; text-align:center;}
+.bulllinks a { margin:0 7px; display:inline-block; color:#3f3f3f;}
+.toplinks a,.bulllinks a { text-decoration:none;}
+.toplinks a:hover,.bulllinks a:hover { text-decoration:underline;}
+
+/*行情中心*/
+.stockNav { border:1px solid #4f75af; border-top:none; height:92px; position:relative;}
+.stockNav a { text-decoration:none;}
+.stockNav a:hover { text-decoration:underline;}
+.stockNav .flink { float:left; display:inline-block; font-weight:bold; height:29px; border-right:1px solid #b5b5b5; padding:0 4px 0 20px; margin-left:4px; width:56px;}
+.stockNav .flink a {color:#5a5a5a; display:inline-block; margin-top:8px; line-height:14px;/* line-height:17px;*/}
+.quoteLinks .flink a {color:#FFF; margin-top:11px;}
+.dataLinks .flink a {color:#ff4901;}
+
+.quoteLinks,.globalLinks,.dataLinks { height:29px;width:948px;}
+.quoteLinks { background-position:0 -77px; height:33px; }
+.globalLinks,.dataLinks { overflow:hidden;}
+.globalLinks { border-bottom:1px solid #4f75af;}
+
+.quoteLinks .flink { background-position:-200px 8px; height:33px; }
+.globalLinks .flink{ background-position:-200px -26px; }
+.dataLinks .flink{ background-position:-200px -56px; }
+
+.quoteLinks .dhMenu { color:#a0a0a0; float:left; padding:0; margin-left:5px; margin-top: 11px; line-height:14px;}
+.quoteLinks .dhMenu a { color:#fff; margin:0 3px 0; height:16px; /* line-height:17px; overflow:hidden; display:inline-block;*/}
+
+.searchBar { float:left; margin:7px 0 0 8px; display:inline;}
+.searchBar input { float:left; -webkit-border-radius:0; -webkit-appearance:none; float:left; font-size:12px; border:1px solid #fdfff9; height:16px; line-height:16px; width:135px; color:#666; background-color:#fff; padding:2px 0 0 2px;}
+.searchBar button{ float:left; margin:0 0 0 5px; width:51px; height:20px; line-height:21px; overflow:hidden; border:0; font-size:12px; color:#3f3f3f; vertical-align:middle; cursor: pointer; background-position:0 -112px;}
+
+.globalStocks { float:left; width:725px; margin:8px 8px 0; overflow:hidden; height:16px; line-height:14px; /*line-height:21px;*/ }
+.globalStocks a { text-decoration:none;}
+.cft-link { float:right; width:98px; height:30px; line-height:31px; padding-left:24px; background-position:-200px -95px; overflow:hidden;}
+
+.dataLinks .bulllinks { float:left; padding:0 0 0 2px; margin-top:8px; height:16px; line-height:14px;/* line-height:17px;*/ }
+.dataLinks .bulllinks a { margin:0 4px 0 5px; color:#039;}
+
+/*焦点图*/
+.actives { width:248px; height:161px; position:relative;border:1px solid #ccc;}
+.actives ul { list-style:none;}
+.actives li { float:left; width:248px; height:161px;z-index:0;position:absolute;}
+.actives li a {display:block;color:#FFF !important;text-decoration:none;}
+.actives li a:hover {color:#FFF !important;text-decoration:underline;}
+.actives li i { position:absolute; font:18px "黑体"; height:28px; line-height:28px; overflow:hidden; width:100%; color:#FFF; z-index:199; bottom:19px; left:0;text-indent:8px;}
+.actives li i.ibg { background-color:#000; filter:alpha(opacity=50); -moz-opacity:0.5; opacity:0.5; z-index:98; height:28px; overflow:hidden; width:100%; bottom:19px; left:0;  }
+.actives ol { position:absolute; bottom:0; right:0; z-index:99; float:left;}
+.actives ol span {float:left; font-family:Verdana; margin-left:1px; height:18px; line-height:18px; width:20px; background:#000; -webkit-text-size-adjust: none;}
+.actives ol span.at { background:#FF0000;}
+.actives ol a { color:#FFF !important; float:left; text-align:center; text-decoration:none; font-size:10px; width:100%; display:block;}
+.actives ol a:hover { text-decoration:none; background:#FF0000;}
+
+/*基金推广*/
+.fund-login{ padding:1px; border:1px solid #d4d4d4;}
+.fl-title { background-color:#fff8cc; height:24px; line-height:24px; color:#343434; text-align:center;}
+.fl-title a { display:block; color:#343434; }
+.fl-bx { width:231px; height:74px; background-position:0 -394px; margin:10px auto;}
+.fl-bx-link { overflow:hidden;}
+.fl-bx-link a { float:left; width:114px; height:42px; text-indent:-999px;}
+.fl-bx-kh { margin-left:3px;}
+.fl-bx-link .fl-bx-bt { clear:both; margin-top:12px; width:231px; height:20px;}
+.fl-link { width:232px; margin:0 auto;}
+.fl-link div { height:25px; line-height:25px; text-align:center; color:#979797;}
+.fl-link a { color:#535353;}
+.fl-link .red a { color: #ff4901;}
+.fl-link .fl-link-bb {border-top: 1px dashed #d4d4d4; height:24px; line-height:18px; padding-top:6px;}
+.fl-link .fl-link-bb .txt{ width:134px;}
+.fl-link .fl-link-bb .btnn {padding:0; border-color:#d84600;}
+.fl-link .fl-link-bb .btnn button { background-color:#ee7e14; color:#fff; font-weight:bold; height:18px; line-height:19px; width:86px;}
+
+/*行情中心*/
+.stockCenter { padding-top:1px;}
+.sc-tabs { position:relative; width:250px; border-bottom:1px solid #7e7e7e; height:23px; }
+.sc-tabs dl { position:absolute; width:100%; height:24px; top:0; left:0; padding-left:1px !important; padding-left:2px;z-index:0;}
+.sc-tabs dl dt { float:left; height:22px; line-height:24px; overflow:hidden; background-color:#eee; border:1px solid #bdbdbd; border-bottom:0; text-align:center; background-position:0 -39px; margin-left:-1px; cursor:pointer; position:relative; z-index:1;}
+.sc-tabs dl dt.at { height:22px; line-height:22px; background:none; background-color:#FFF; border-top:2px solid; border-color:#7e7e7e; z-index:2; }
+.sc-tabs dl dt a { display:block; text-decoration:none; color:#000; width:40px;}
+.sc-tabs dl dt.at a { color:#3f3f3f; font-weight:bold; width:43px;}
+
+.sc-cont { border:1px solid #7e7e7e; border-top:0; background-color:#fff; position:relative;}
+/*.sc-cont-tabs dt.at,.sc-cont-tabs dt.at span,*/
+.sc-cont-tabs { height:21px; padding:5px 5px 0;}
+.sc-cont-tabs dt,.sc-cont-tabs dd{ float:left;}
+.sc-cont-tabs dd { margin:0 3px; color:#cbcbcb; line-height:19px;}
+.sc-cont-tabs dt span { float:left; height:21px; line-height:18px; overflow:hidden;}
+.sc-cont-tabs dt a { display:inline-block; height:17px; overflow:hidden; padding:0 3px; text-decoration:none; color:#3f3f3f; }
+.sc-cont-tabs dt a:hover { color:#ff4901; }
+.sc-cont-tabs dt.at span { background:url(http://g1.dfcfw.com/g1/201305/20130524100633.png) no-repeat center 17px;}
+.sc-cont-tabs dt.at span a { background-color:#3a5e95; color:#fff; font-weight:bold;}
+.sc-cont-tabs dt.at span a:hover { color:#fff !important;}
+
+.sc-cont-img { height:125px; overflow:hidden; background:url(http://g1.dfcfw.com/g1/201209/20120927171246.gif) 50% 50% no-repeat;}/*Loading*/
+.sc-cont-img .piclink { float:left; margin-left:1px; width:215px; overflow:hidden; }
+.sc-cont-img img { margin-left:-6px;}
+.sc-cont-imglink { position:absolute; float:left; width:34px; height:104px; overflow:hidden; margin:16px 0 0; border-top:1px solid #bdbdbd; left:210px; top:30px; z-index:101;}
+.sc-cont-imglink li { border:1px solid #bdbdbd; border-top:0; padding:1px; text-align:center; color:#404040; background-color:#eee;}
+.sc-cont-imglink li a { display:block; height:14px; line-height:14px; padding:3px 0 2px; background-position: 0 -36px; color:#333; text-decoration:none; overflow:hidden;}
+.sc-cont-imglink li a:hover { color:#c00;}
+/*搜索框*/
+input.txt {-webkit-border-radius:0;-webkit-appearance:none; background-color:#fff; padding:1px 0 1px 4px; border:1px solid #a4a4a4; font-size:12px; height:16px; line-height:18px; overflow:hidden; float:left; width:105px; color:#868686}
+.btnn { float:left; border:1px solid #bdbdbd; background-color:#fff; padding:1px; margin-left:4px;}
+.btnn button { float:left; height:16px; line-height:17px; overflow:hidden; border:none; width:50px; vertical-align:middle; background-color:#eee; cursor:pointer; color:#3f3f3f; font-size:12px;}
+
+.sc-search { clear:both; height:20px; padding:5px 6px; border:1px solid #d4d4d4; border-top:none;}
+.sc-search cite { float:left; line-height:12px; padding-top:5px; font-style:normal; color:#3f3f3f;}
+.sc-search .txt { width:86px;}
+.sc-search .btnn { margin-left:2px;}
+.sc-search button { width:42px;}
+
+.sc-search-zjlx { width:236px;}
+.sc-search-zjlx form { width:160px; z-index:1000;}
+.sc-search-zjlx .btnn { margin-left:4px;}
+.sc-search-zjlx .txt { width:114px; }
+.sc-search-zjlx button { width:32px;}
+
+
+/*不对称-资金流向*/
+.sc-tabs-bdc dl dt { width:auto !important;}
+.sc-tabs-bdc dl dt a,.sc-tabs-bdc dl dt.at a { width:38px;}
+.sc-tabs-bdc dl dt a.w60 { width:60px;}
+.sc-tabs-bdc dl dt a.w45 { width:47px;}
+.sc-tabs-bdc dl dt a.w30 { width:30px;}
+.sc-cont-img.p1020 { padding:0 0 1px;}
+.sc-cont-img.p1020 .sc-cont-imglink { top:8px;}
+
+
+/*行情&数据&必读*/
+.linkArea { border:1px solid #d4d4d4; height:155px; overflow:hidden;}
+.linkArea dt,.linkArea dd { float:left; height:51px; margin:0; overflow:hidden; border-bottom:1px solid #d4d4d4;}
+.linkArea dt { clear:left; width:48px;}
+.linkArea dd { width:200px; height:43px; padding:8px 0 0; }
+.linkArea a { color:#535353; text-decoration:none;}
+.linkArea a:hover { text-decoration:underline;}
+.linkArea dt a { display:inline-block; width:40px; height:17px; line-height:17px; padding-top:22px; text-align:center; margin:5px 4px 0;}
+.linkArea dt.quote a{ background-position:-188px -138px;}
+.linkArea dt.data a{ background-position:-188px -58px;}
+.linkArea dt.bidu a{ background-position:-188px -176px;}
+
+.linkArea dd span { float:left; width:64px; height:17px; line-height:17px; text-indent:8px; margin:1px 0; }
+/*财富通产品*/
+.softList { height:112px; border-top:none;}
+.softList dt,.softList dd { height:56px;}
+/*.softList dd span { width:auto; display:inline-block;}*/
+.softList dd { height:44px; padding:10px 0 2px; }
+.softList dt a { margin:7px 4px 0;}
+.softList dt.soft-pc a{ background-position:-188px -216px;}
+.softList dt.soft-mobile a{ background-position:-188px -258px;}
+
+.softList dd li { height:19px; line-height:19px; text-indent:7px; }
+
+
+/*基金净值&基金估值*/
+.fundimg { height:123px; display:block; overflow:hidden;}
+.so-fund { height:20px; padding-top:5px; padding-left:10px;}
+.fundlink { clear:both; height:48px; overflow:hidden; text-align:center; padding:6px 7px;}
+.fundlink a { background-position:0 -320px; background-color:#eee; border:1px solid #c9c9c9; color:#3f3f3f; display:inline-block; width:64px; height:20px; line-height:20px !important; line-height:22px; overflow:hidden; margin:2px 2px; padding-left:8px; text-decoration:none;}
+.fund-hot { border-top:1px solid #d4d4d4; padding:6px 4px 4px 8px;}
+.fund-hot .title { height:21px; line-height:21px; padding:0 4px 4px 0;}
+.fund-hot .title span { font-weight:bold; color:#6b6b6b; float:left;}
+.fund-hot .title span a { color:#6b6b6b; text-decoration:none;}
+.fund-hot .title span a:hover { color:#CF0000; text-decoration:underline;}
+.fund-hot .fund-kaihu,.fund-hot .fundbuy-link { float:left; overflow:hidden;}
+.fund-hot .title .fund-kaihu { margin-left:8px; height:21px; width:99px; color:#fff; background-color:#3a5e95; background-position:2px -100px; text-indent:22px;}
+.fund-hot .title .fund-kaihu:hover { color:#fff !important; text-decoration:none;}
+.fund-hot ul { height:66px; padding:3px 0; clear:both;}
+.fund-hot li { color:#333; height:20px; line-height:20px; padding:1px 0; overflow:hidden; clear:both;}
+.fund-hot li a {color:#3c3c3c;}
+.fund-hot li .fundbuy-link { float:right; height:18px; width:33px; border:1px solid #c9c9c9; background-color:#eee; background-position:4px -140px; padding-left:24px;text-decoration:none;}
+.fund-hot li .fundbuy-link:hover { text-decoration:none;}
+.more-link { float:right;}
+
+/*数据表格*/
+.utable { padding:0; height:auto; overflow:hidden; background-color:#fff;}
+.utable ul { clear:both; height:21px; line-height:22px; overflow:hidden; color:#333; border-bottom:1px solid #d4d4d4;}
+.utable li { float:left; text-align:center; height:21px; line-height:22px; border-right:1px solid #d4d4d4; width:60px;}
+.utable .head { background-position:0 -36px;}
+.utable .head li { padding-right:1px; border-right:none; font-weight:normal !important;}
+
+.utable .sinfo { width:70px;}
+.utable .linfo { width:65px;}
+.utable .zd { width:55px;font-family: Arial; font-weight: bold;}
+.utable li.zdf,.utable li.gs,.utable li.date,.utable li.fxl,.utable li.present { width:60px; border-right:none; padding-right:0;}
+.utable li.zdf,.utable li.fxl,.utable li.present,.utable li.zlsj,.utable li.price {font-family: Arial; font-weight: bold;}
+
+.utable .info { width:45px;}
+.utable li.date { width:80px;}
+
+.utable li.company { width:102px; font-family:Arial;}
+.utable li.fxl { width:84px;}
+.tb-xgsg ul,.tb-xgsg li { height:22px; line-height:23px;}
+.utable .ssrq {width: 79px;border-right: none;}
+
+.tb-moreLink { height:21px; line-height:22px; text-align:right; padding-right:8px; overflow:hidden;}
+.tb-moreLink.h23 { height:23px; line-height:24px;}
+
+.col3 li { width:80px;}
+.col3 li.present { width:80px;}
+.tb-xgsg ul,.tb-xgsg li { height:22px; line-height:23px;}
+.tb-xgsg .ssrq {width: 79px;border-right: none;}
+
+.layout250 .utable li a,.layout250 .tb-moreLink a{ color:#3c3c3c;}
+
+/*调查*/
+.vote-box { height:178px; background:#fff !important;}
+/*tab*/
+.vote-box .vote-tabs { height:25px; border-bottom:1px solid #545454; position:relative;}
+.vote-box .vote-tabs ul { position:absolute; top:3px; padding-left:29px;z-index:0;}
+.vote-box .vote-tabs li { position:relative; float:left; border:1px solid #b8b8b8; border-bottom:0; padding:1px; background-color:#eee; margin-left:-1px; z-index:1; cursor:pointer;}
+.vote-box .vote-tabs li.at { height:20px; border-top:2px solid; border-color:#545454; padding-bottom:0; z-index:2; overflow:hidden;}
+.vote-box .vote-tabs li a { display:inline-block; padding:0 10px; height:19px; line-height:19px; background-position:0 -39px; color:#3f3f3f; text-decoration:none;}
+.vote-box .vote-tabs li.at a { height:22px; background:#fff; font-weight:bold;}
+
+.vote-cont { height:140px; padding:6px; overflow:hidden;}
+.vote-cont dt,.vote-cont dd { float:left; margin:0; height:140px;}
+.vote-cont dt { width:150px; margin-right:4px;}
+.vote-cont dd { width:70px; border-left:1px solid #d4d4d4; padding-left:10px;}
+.vote-cont dd form { margin-top:10px;}
+.vote-cont img,.vote-cont cite,.vote-cont cite span,.vote-cont cite b { float:left; overflow:hidden;}
+.vote-cont dt cite { font-style:normal; padding-top:16px;}
+.vote-cont dt span { color:#3f3f3f; height:14px; margin:0 2px 0 0;}
+.vote-cont dt b { width:8px; height:8px; background-color:#b9b9b9; margin:2px 2px 0;}
+.vote-cont .v-gray { background-color:#b9b9b9; }
+.vote-cont .v-red { background-color:#ff0b00; }
+.vote-cont .v-green { background-color:#0d7600; }
+.vote-cont .mon b { margin-left:12px;}
+.vote-cont dd label { float:left; clear:both; padding:2px 0 0 5px; margin-bottom:4px; height:18px; width:66px; overflow:hidden; color:#3f3f3f;}
+.vote-cont dd input { vertical-align:middle; width:13px; overflow:hidden; margin-right:5px; margin-top:-2px;}
+.vote-cont dd .btnn { margin-top:5px;}
+.vote-cont dd button { width:56px;}
+
+.vote-pct { padding:0 7px; margin-top:20px; height:94px; overflow:visible; position:relative;}
+.vote-pct dt { height:84px; width:100%; height:100%; float:left; display:inline; width:38px; margin:0 20px; text-align:center; position:relative;}
+.vote-pct dt span { float:left; width:100%; height:1px; margin:0; position:absolute; bottom:0; left:0;}
+.vote-pct dt code,.vote-pct dt cite { position:absolute; padding:0; margin:0; width:38px; left:0;}
+.vote-pct dt code { top:-14px;}
+.vote-pct dt cite { top:96px; height:28px; bottom:0;}
+
+/*个股研报*/
+.tb-ggyb ul { border-top:1px solid #d4d4d4; border-bottom:none;}
+.tb-ggyb ul.head { border:none;}
+.tb-ggyb li.end { border-right:none; padding-right:0;}
+.tb-ggyb li.time, .tb-ggyb li.code { width:50px;}
+.tb-ggyb li.name,.tb-ggyb li.info { width:64px;}
+.tb-ggyb li.report { width:200px; text-align:left; padding-left:6px; font-family:Arial;}
+.tb-ggyb ul.head li.report { text-align:center;}
+.tb-ggyb li.price { width:61px;}
+
+/*机构、名家一览列表类*/
+.rlist { height:78px; overflow:hidden; border:1px solid #ededed;}
+.rlist cite { float:left; width:33px; color:#3f3f3f; font-style:normal; font-size:14px; font-weight:bold; text-align:center; background-position:21px -170px;}
+.rlist cite a { color:#3f3f3f; text-decoration:none;}
+.rlist cite a:hover { text-decoration:underline;}
+.rlist cite b { float:left; width:24px; line-height:15px; height:68px; border-right:1px solid #3a5e95; padding:10px 0 0 4px; overflow:hidden;}
+.rlist ul { float:left; margin-left:8px; padding-top:5px; height:66px; width:295px; overflow:hidden;}
+.rlist li { height:22px; float:left; width:100%; clear:both; overflow:hidden;}
+.rlist li a { float:left; line-height:17px; margin:0 5px;}
+
+/*财富生活*/
+.tw332 { width:340px; height:188px; padding:0; float:left; clear:none; overflow:hidden;}
+.tw332 .img { background-color:#3f3f3f; width:111px; height:90px; float:left; font-size:12px; text-align:center; line-height:24px; color:#fff; overflow:hidden; margin:2px 2px 0 5px; text-decoration:none;}
+.tw332 .img:hover { color:#fff !important; text-decoration:underline;}
+.tw332 .tw332-below { width:336px; /*margin-top:4px;*/ clear:both;}
+.l-dashed { border-left:1px dashed #c9c9c9; padding-left:5px; width:330px;}
+.h235 { height:194px; padding-right:0; overflow:hidden; padding-bottom:0;}
+
+.tipform { position:relative; float:left; z-index:998;}
+
+/*浮动头*/
+html,html body { _background-image:url(about:blank); _background-attachment:fixed;}
+.top-nav-wrap { height:30px; background-color:#f7f7f7; border-top:2px solid #ff4901; border-bottom:1px solid #dfdfdf; position:fixed !important; position:absolute; left:0; top:0; _top:expression(eval(document.documentElement.scrollTop)); z-index:99999; width:100%;}
+/*.top-nav-wrap .wrap { position:relative;}*/
+.tw-nav { width:544px; height:30px; float:left;}
+.top-nav-wrap a,
+.top-nav-wrap .down-menu { float:left; }
+
+.top-nav-wrap a { height:16px; padding:7px 10px; line-height:16px; background-color:none; color:#000; text-decoration:none;}
+.top-nav-wrap a:hover { background-color:#eaeaea; text-decoration:none;}
+
+.down-menu { position:relative; width:100px; }
+.down-menu.wz0 { width:auto; }
+.down-menu.wz2 { width:64px; }
+.down-menu.wz3 { width:70px; }
+.down-menu.wz4 { width:82px; }
+.down-menu .category { background-position:right -355px; padding:7px 0; display:block; float:none; text-align:center; text-indent:-8px;}
+
+.down-menu ul,.down-menu .loginBox { clear:both; background:#b3d0e4; padding-bottom:1px; width:100%; position:absolute; left:0; -moz-box-shadow: 3px 3px 3px rgba(0, 0, 0, .1); -webkit-box-shadow: 3px 3px 3px rgba(0, 0, 0, .1); box-shadow: 3px 3px 3px rgba(0, 0, 0, .1); display:none;}
+.down-menu ul li a { background:#fff; margin:1px; margin-top:0; padding:6px 0; display:block; text-align:center; float:none; }
+.down-menu ul li { width:100%; }
+
+/*登陆*/
+.down-menu .loginBox { width:540px; height:200px; padding-bottom:0; border:1px solid #b3d0e4; margin-left:-258px; background-color:#fff;}
+.down-menu .loginBox li { float:left; height:200px;}
+.down-menu .loginBox .regArea { background-color:#f5fafe; font-size:14px; width:232px;}
+.regArea span { text-align:center; display:block; margin-top:36px;}
+.regArea .fivereg,.regArea .nowreg { display:block; text-align:center; height:34px; line-height:34px; width:160px; font-weight:bold; padding:0; margin:22px auto 0; cursor:pointer;}
+.regArea .fivereg,.regArea .fivereg:hover { color:#fff !important; background-color:#3a5e95;}
+.regArea .nowreg,.regArea .nowreg:hover { color:#3f3f3f !important; background-color:#dcdcdc;}
+.regArea .label { display:block; width:160px; height:34px; line-height:34px; margin:0 auto; position:relative;}
+.regArea input { float:left; width:65px; height:16px; padding:8px 0 8px 4px; line-height:17px; border:1px solid #818181;-webkit-border-radius: 0;-webkit-appearance: none; background-color: #fff;}
+.regArea .label label { display:block; position:absolute; top:9px; left:4px; margin:0; padding:0; height:16px; line-height:17px; cursor:text; text-align:left; color:#959595;}
+
+
+.down-menu .loginBox .loginArea { font-size:14px; width:308px; position:relative;}
+.top-nav-wrap .loginArea_close { margin:0; padding:5px;font-family: SimSun;position: absolute;right:0;top:0;overflow: hidden;font-size: 18px;font-weight: 700;text-decoration: none;color: #666;}
+.loginArea span { text-align:center; display:block; margin-top:25px; font-size:12px;}
+.loginArea .loginTip { margin:4px 0; color:#c00; height:16px; line-height:17px; overflow:hidden;}
+.loginArea .label { display:block; width:246px; height:30px; line-height:30px; margin:0 auto 16px; position:relative;}
+.loginArea .label cite { float:left; width:60px; font-style:normal;}
+.loginArea .label .input_tips { display:block; position:absolute; top:7px; left:65px; margin:0; padding:0; height:16px; line-height:17px; cursor:text; text-align:left; color:#959595;}
+.loginArea .label .input_tips_hide { display:none;}
+.loginArea input { float:left; width:176px; height:16px; padding:6px 0 6px 4px; line-height:17px; border:1px solid #818181;-webkit-border-radius: 0;-webkit-appearance: none; background-color: #fff;}
+.loginArea button { clear:both; float:left; border:none; padding:0; margin:0; width:90px; height:30px; line-height:30px; background-color:#ff4901; color:#fff; font-weight:bold; font-size:14px;}
+.loginArea .btn-label { padding-left:91px; width:186px; float:left; }
+.loginArea .btn-label a { color:#039; font-size:12px; line-height:17px; display:inline-block; padding:0; margin-top:8px;}
+.loginArea .btn-label a:hover { background:none !important;}
+
+.userinfo { /*padding:7px 0; margin-right:12px;*/ color:#ff4901; height:30px; line-height:17px; width:174px; }
+.userinfo a { margin:0; padding:0; float:none; color:#ff4901; /*margin-left:6px;*/ text-indent:0 !important; display:inline-block !important; padding: 7px 4px; }
+.userinfo cite { display:inline-block; padding:7px 0; font-style:normal;}
+.userinfo a.usernick { padding-right:16px; background-position: right -355px;}
+.userinfo .user-menu { position:relative; display:inline-block;}
+.userinfo .user-menu-list { position:absolute; top:30px; left:0; border: 1px solid #b3d0e4;}
+.userinfo .user-menu-list div { background-color: #FFF; padding:14px; color:#000; width: 120px; text-align:left;}
+.user-menu-list dt,.user-menu-list dd { float:left; margin:0; height:16px; line-height:16px; margin:2px 0; width:60px; overflow:hidden;}
+.user-menu-list dt { clear:both;}
+
+.user-menu-list .resetuinfo { display:block; text-align:center; height:30px; line-height:30px; width:120px; font-weight:bold; padding:0; margin-top:8px; background-color:#3a5e95; clear:both; color:#fff;}
+.user-menu-list .resetuinfo:hover { color:#fff !important; background-color:#3a5e95;}
+
+.down-menu.show ul, .down-menu.show .loginBox { display:block;}
+.down-menu.show .category { background-color:#eaeaea;}
+
+.tw-login { float:right; width:406px; text-align:right;}
+.tw-login .down-menu,.tw-login .sitemap { float:right;}
+
+/*尾部*/
+.footer { text-align:center; line-height:18px; border-top:1px solid #999;}
+.footer a { color:#3d3d3d;}
+.footer a:hover { color:#c00;}
+.footer p { margin:8px 0 0; color:#3d3d3d;}
+.footer .contact { height:30px; line-height:30px; padding:0;}
+.footer .contact a { margin:0 4px;}
+.footer-msg,.footer-icp { padding:2px 0; overflow:hidden; }
+.footer-police,.footer-zx110,.footer-shjubao {display:inline-block; overflow:hidden;}
+.footer-msg { background-position:0 -480px; padding-left:32px;}
+.footer-icp { background-position:-110px -480px; padding-left:22px; /*height:18px;*/}
+.footer-police,.footer-zx110,.footer-shjubao { width:110px; height:40px; margin:0 4px;}
+.footer-police { background-position:0 -512px;}
+.footer-zx110 { background-position:-112px -512px;}
+.footer-shjubao { background-position:0 -560px;}
+
+/*图片列表*/
+.imgList { overflow:hidden; height:60px; padding-top:6px; }
+.imgList ul { width:100%; float:none; height:auto; }
+.imgList li { float:left; background:none; text-indent:0; height:60px; width:60px; display:inline-block !important; display:inline; text-align:center; zoom:1; }
+
+.l285 { float:left; width:285px; height:78px; padding-top:0; }
+.l285 ul { margin-left:4px; width:285px; padding-top:0;}
+.l285 li { clear:none; line-height:24px; width:55px; margin:12px 0 6px;}
+.l285 li a { line-height:24px; float:none; display:block; margin:0;}
+.imgList-dot { float:left; width:20px;}
+.imgList-dot span { display:block; width:20px; height:20px; cursor:pointer;}
+.imgList-dot .dotON { background-position:0 -360px; }
+.imgList-dot .dotOFF { background-position:-20px -360px; }
+
+#rmbk_box,#djbk_box { width:300px; float:left;}
+#hot_blog_conts div { overflow:hidden;}
+#scroll_rmbk,#scroll_djbk { margin-left:2px;}
+#scroll_jgyl,#scroll_mjyl { height:60px; margin-left:-5px; padding:9px 0;}
+
+@media screen and (max-device-width: 320px) and (max-device-width: 480px){
+	body{-webkit-text-size-adjust:none;}
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2){
+	body{-webkit-text-size-adjust:none;}
+}
+
+
+/*baokuang class*/
+.baokuang{height:800px;width:100%;background:url(http://g1.dfcfw.com/g1/201306/20130624150259.jpg) repeat-x 0 0 #FFF;}
+.baokuang .bkImg,.baokuang .bkImg .cImgDiv {background:url(http://g1.dfcfw.com/g1/201307/20130702171221.jpg) no-repeat center top;}
+.baokuang .bkImg {width:100%; height:800px;margin:0 auto;}
+.baokuang .bkImg .cImgDiv{width:950px; height:60px; margin:0 auto; position:relative;}
+.baokuang .bkImg .clickMap { display:block; height:60px; width:100%; text-indent:-100em; overflow:hidden;}
+.baokuang .bkImg .close{/*background:url(http://g1.dfcfw.com/g1/201304/20130403100825.png) no-repeat;*/width:44px; height:18px;cursor:pointer; position:absolute; right:-20px; top:4px; text-indent:-100em; overflow:hidden;}
+.pageCont { background:#FFF; height:0; overflow:hidden; margin-top:-740px;}
+/*.wrap { background:#FFF;}*/
+</style>
+<base target="_blank" />
+</head>
+<body>
+<div class="top-nav-wrap">
+    <div class="wrap" id="fixMenuBar">
+        <div class="tw-nav">
+		    <a href="javascript:;" id="sethome_top" hidefocus="true" target="_self" class="sethome">设为首页</a>
+		    <a href="javascript:;" id="addfavor_top" hidefocus="true" target="_self" class="addfavor">加入收藏</a>
+		    <div class="down-menu wz4">
+		        <a href="javascript:;" target="_self" class="category">我的菜单</a>
+		        <ul>
+			        <li><a href="http://quote.eastmoney.com/favor/">我的自选股</a></li>
+			        <li><a href="http://fund.eastmoney.com/favor/">我的基金</a></li>
+			        <li><a href="http://guba.eastmoney.com/i/">我的股吧</a></li>
+			        <li><a href="http://blog.eastmoney.com/">我的博客</a></li>
+		        </ul>
+	        </div>
+		    <a href="http://js5.eastmoney.com/tg.aspx?ID=431">手机版</a>
+	        <div class="down-menu wz4">
+		        <a href="https://trade.1234567.com.cn/Login" class="category">基金交易</a>
+		        <ul>
+			        <li><a href="https://trade.1234567.com.cn/MyAssets/Default">我的资产</a></li>
+			        <li><a href="https://trade.1234567.com.cn/xjb/index">活期宝</a></li>
+			        <li><a href="https://trade.1234567.com.cn/dqb/default">定期宝</a></li>
+			        <li><a href="https://trade.1234567.com.cn/FundtradePage/default2">买基金</a></li>
+			        <li><a href="https://trade.1234567.com.cn/login?direct_url=/FundtradePage/redemption">卖基金</a></li>
+			        <li><a href="https://trade.1234567.com.cn/Investment/default">基金定投</a></li>
+			        <li><a href="https://trade.1234567.com.cn/reg/">免费开户</a></li>
+		        </ul>
+	        </div>
+	        <div class="down-menu">
+		        <a href="http://js5.eastmoney.com/tg.aspx?ID=435" class="category">东方财富通</a>
+		        <ul>
+			        <li><a href="http://js5.eastmoney.com/tg.aspx?ID=435">电脑版</a></li>
+			        <li><a href="http://js5.eastmoney.com/tg.aspx?ID=436">手机版</a></li>
+			        <li><a href="http://js5.eastmoney.com/tg.aspx?ID=438">iPad版</a></li>
+			        <li><a href="http://cp.eastmoney.com/20130724_tg.htm">高端版</a></li>
+			        <li><a href="http://product.eastmoney.com/terminal/caifu.html">财富密码</a></li>
+			        <li><a href="http://dongfangcaifu.com.cn/touzidashi.html">投资大师</a></li>
+			        <li><a href="http://js5.eastmoney.com/tg.aspx?ID=500">level-2极速版</a></li>
+			        <li><a href="http://dongfangcaifu.com.cn/l2jcv2/index.html">level-2决策版</a></li>
+		        </ul>
+	        </div>
+		    	<a href="http://js5.eastmoney.com/tg.aspx?ID=789">Choice资讯</a>
+        </div>
+        <div class="tw-login">
+	        <a href="http://www.eastmoney.com/sitemap.html" class="sitemap">网站导航</a>
+	        <div class="down-menu">
+		        <a href="http://fund.eastmoney.com/" class="category">天天基金网</a>
+		        <ul>
+		          <li><a href="https://trade.1234567.com.cn/login">基金交易</a></li>
+		          <li><a href="http://huoqibao.1234567.com.cn/">活期宝</a></li>
+			        <li><a href="http://fund.eastmoney.com/favor.html">自选基金</a></li>
+			        <li><a href="http://fund.eastmoney.com/fund.html">基金净值</a></li>
+			        <li><a href="http://fund.eastmoney.com/fundguzhi.html">基金估值</a></li>
+			        <li><a href="http://fund.eastmoney.com/data/fundranking.html">基金排行</a></li>
+			        <li><a href="http://fund.eastmoney.com/data/fundrating.html">基金评级</a></li>
+			        <li><a href="http://fund.eastmoney.com/dingtou/">基金定投</a></li>
+			        <li><a href="http://fund.eastmoney.com/tradeindex.html">基金超市</a></li>
+							<li><a href="http://fund.eastmoney.com/data/funddaogou.html">基金导购</a></li>
+		        </ul>
+	        </div>
+	        <div class="down-menu wz2">
+		        <a href="http://guba.eastmoney.com/" class="category">股吧</a>
+		        <ul>
+			        <li><a href="http://iguba.eastmoney.com/">我的股吧</a></li>
+			        <li><a href="http://guba.eastmoney.com/remenba.aspx?type=2">热门主题</a></li>
+			        <li><a href="http://guba.eastmoney.com/remenba.aspx?type=1">热门个股</a></li>
+		        </ul>
+	        </div>
+            <div class="down-menu wz2" id="loginMenu">
+	        </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="wrap lyad h60">
+    <textarea class="lyadArea hidden">
+    <iframe width="950" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=140&op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=964&op=1" ></iframe>
+    </textarea>
+</div>
+<div class="wrap header">
+    <div class="logoArea">
+	    <a href="http://www.eastmoney.com" class="logoIco" target="_self"><img src="http://g1.dfcfw.com/g1/img2011/logo_comm.gif" alt="东方财富网——中国财经第一门户" width="175" height="78" border="0" />财经第一门户</a>
+	</div>    
+	<div class="topNav">
+		<ul class="mu101"><li><a href="http://finance.eastmoney.com/" ><strong>财经</strong></a><a href="http://finance.eastmoney.com/yaowen.html" >要闻</a><a href="http://finance.eastmoney.com/pinglun.html" >评论</a><a href="http://finance.eastmoney.com/news/cgnjj.html" >国内</a><a href="http://finance.eastmoney.com/news/cgjjj.html" >国际</a><a href="http://topic.eastmoney.com/" >专题</a></li><li><a href="http://stock.eastmoney.com/" ><strong>股票</strong></a><a href="http://quote.eastmoney.com/" >行情</a><a href="http://stock.eastmoney.com/bidu.html" >必读</a><a href="http://stock.eastmoney.com/zhuli.html" >主力</a><a href="http://data.eastmoney.com/" ><i class="red">数据</i></a><a href="http://stock.eastmoney.com/gzqh.html" >期指</a></li><li><a href="http://stock.eastmoney.com/global.html" ><strong>全球</strong></a><a href="http://stock.eastmoney.com/america.html" >美股</a><a href="http://hk.eastmoney.com/" >港股</a><a href="http://forex.eastmoney.com/" >外汇</a><a href="http://futures.eastmoney.com/" >期货</a><a href="http://gold.eastmoney.com/" >黄金</a></li></ul><ul class="mu102"><li><a href="http://www.1234567.com.cn/" ><i class="red"><strong>基金</i></strong></a><a href="http://fund.eastmoney.com/fund.html" >净值</a><a href="http://fund.eastmoney.com/fundguzhi.html" >估值</a><a href="http://fund.eastmoney.com/data/fundranking.html" >排行</a><a href=" http://huoqibao.1234567.com.cn/" ><i class="red">活期宝</i></a></li><li><a href="http://stock.eastmoney.com/shichang.html" ><strong>市场</strong></a><a href="http://stock.eastmoney.com/news/cgszb.html" >直播</a><a href="http://stock.eastmoney.com/news/cdpfx.html" >大盘</a><a href="http://stock.eastmoney.com/news/csccl.html" >策略</a><a href="http://stock.eastmoney.com/news/cchjy.html" >晨　会</a></li><li><a href="http://stock.eastmoney.com/newstock.html" ><strong>新股</strong></a><a href="http://stock.eastmoney.com/zairongzi.html" >融资</a><a href="http://stock.eastmoney.com/bgu.html" >B 股</a><a href="http://stock.eastmoney.com/sanban.html" >三板</a><a href="http://stock.eastmoney.com/chuangyeban.html" >创业板</a></li></ul><ul class="mu103"><li><a href="http://money.eastmoney.com/" ><strong>理财</strong></a><a href="http://bank.eastmoney.com/" >银行</a><a href="http://bond.eastmoney.com/" >债券</a><a href="http://insurance.eastmoney.com/" >保险</a><a href="http://trust.eastmoney.com/" >信托</a></li><li><a href="http://stock.eastmoney.com/gegu.html" ><strong>个股</strong></a><a href="http://finance.eastmoney.com/company.html" >公司</a><a href="http://stock.eastmoney.com/news/cggdj.html" >点睛</a><a href="http://stock.eastmoney.com/news/cgspj.html" >评级</a><a href="http://data.eastmoney.com/notice/" >公告</a></li><li><a href="http://biz.eastmoney.com/" ><strong>商业</strong></a><a href="http://enterprise.eastmoney.com/" >创业</a><a href="http://finance.eastmoney.com/news/ccjxw.html" >产经</a><a href="http://renwu.eastmoney.com/" >人物</a><a href="http://media.eastmoney.com/" >媒体</a></li></ul><ul class="mu104"><li><a href="http://guba.eastmoney.com/" ><i class="red"><strong>股吧</i></strong></a><a href="http://fund2.eastmoney.com/" >基金吧</a><a href="http://blog.eastmoney.com/" >博客</a><a href="http://t.eastmoney.com/" >财迷</a><a href="http://bbs.eastmoney.com/" >论坛</a></li><li><a href="http://stock.eastmoney.com/report.html" ><strong>研报</strong></a><a href="http://stock.eastmoney.com/hangye.html" >行　业</a><a href="http://jigou.eastmoney.com/" >机构</a><a href="http://mingjia.eastmoney.com/" >名家</a><a href="http://stock.eastmoney.com/xuexiao.html" >学校</a></li><li><a href="http://video.eastmoney.com/" ><strong>视频</strong></a><a href="http://qiche.eastmoney.com/" >汽　车</a><a href="http://edu.eastmoney.com/" >培训</a><a href="http://life.eastmoney.com/" >生活</a><a href="http://so.eastmoney.com/" >搜索</a></li></ul>
+	</div>
+	<div class="toplinks">
+	    <a href="http://js1.eastmoney.com/tg.aspx?ID=639" >股市播报</a><a href="http://js1.eastmoney.com/tg.aspx?ID=643" >全球直播</a><a href="http://js1.eastmoney.com/tg.aspx?ID=1878" >股市日历</a><a href="http://js1.eastmoney.com/tg.aspx?ID=644" >财经日历</a><a href="http://js1.eastmoney.com/tg.aspx?ID=648" >经济数据</a><a href="http://js1.eastmoney.com/tg.aspx?ID=625" >拆借利率</a><a href="http://js1.eastmoney.com/tg.aspx?ID=647" >公告大全</a><a href="http://js1.eastmoney.com/tg.aspx?ID=691" >基金净值</a>|<span>东方财富通系列：</span><a href="http://js1.eastmoney.com/tg.aspx?ID=1800" >电脑版</a><a href="http://js1.eastmoney.com/tg.aspx?ID=1801" >手机版</a><a href="http://js1.eastmoney.com/tg.aspx?ID=1802" >ipad版</a><a href="http://js5.eastmoney.com/tg.aspx?ID=468" >L2极速版</a><a href="http://js5.eastmoney.com/tg.aspx?ID=349" >L2决策版</a><a href="http://js5.eastmoney.com/tg.aspx?ID=369" >投资大师</a>
+	</div>
+	<div class="spacer8"></div>
+</div>
+<div class="wrap h90">
+	<div class="layout168 nml lyad">
+        <textarea class="lyadArea hidden">
+	    <iframe width="168" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&amp;c=401&amp;op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=954&op=1"></iframe>
+        </textarea>
+	</div>
+	<div class="layout600 lyad">
+        <textarea class="lyadArea hidden">
+	    <iframe width="600" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&amp;c=400&amp;op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=965&op=1"></iframe>
+        </textarea>
+	</div>
+	<div class="layout168 lyad">
+        <textarea class="lyadArea hidden">
+	    <iframe width="168" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&amp;c=402&amp;op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=955&op=1"></iframe>
+        </textarea>
+	</div>
+</div>
+<div class="wrap">
+	<div class="bulllinks">
+	    <a href="http://js5.eastmoney.com/tg.aspx?ID=625 " >专业投资用Choice资讯</a><a href="http://js5.eastmoney.com/tg.aspx?ID=748" >长假前三类股适合布局</a><a href="http://emhd2.eastmoney.com/chinapower/tianjin/" >专家详解融资之渴</a><a href="http://same.eastmoney.com/c?z=eastmoney&amp;la=0&amp;si=1&amp;ci=316&amp;cg=1&amp;c=745&amp;or=2413&amp;l=10409&amp;bg=10409&amp;b=11586&amp;u=http://emhd.eastmoney.com/zhuanti/dongwu/index.html" >2013金融改革高端论坛</a><a href="http://same.eastmoney.com/c?z=eastmoney&amp;la=0&amp;si=1&amp;ci=416&amp;cg=1&amp;c=745&amp;or=2437&amp;l=10364&amp;bg=10364&amp;b=11532&amp;u=http://topic.eastmoney.com/syqgq/" >宋城股份开园大招募</a><a href="http://js1.eastmoney.com/tg.aspx?ID=2010" >2013模拟炒股大赛</a><a href="http://topic.eastmoney.com/2013dws/" >2013夏季达沃斯论坛</a><a href="http://js1.eastmoney.com/tg.aspx?ID=697" >路演中心</a>
+	</div>
+	<div class="stockNav">
+		<div class="quoteLinks">
+			<span class="flink"><a href="http://quote.eastmoney.com/center/" target="_blank">行情中心</a></span>
+			<div class="dhMenu">
+				<a href="http://js1.eastmoney.com/tg.aspx?ID=654">指数</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=655">期指</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=656">个股</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=657" class="red">板块</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=658">排行</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=660">新股</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=661">基金</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=663">港股</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=665">美股</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=666">期货</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=667">外汇</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=668">黄金</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=669" class="red hot">自选股</a>|<a href="http://js1.eastmoney.com/tg.aspx?ID=670">自选基金</a>
+			</div>
+			<div class="searchBar">
+			    <form action="" method="get" target="_blank" class="tipform">
+				    <input id="hqBar_txt" type="text" size="17" value="输代码、名称或简拼" />
+				    <button type="button" id="hqBar_btn1">查行情</button>
+				    <button type="button" id="hqBar_btn2" class="red">进股吧</button>
+				    <button type="button" id="hqBar_btn3">搜资讯</button>
+				</form>
+            </div>
+		</div>
+		<div class="globalLinks">
+			<span class="flink"><a href="http://quote.eastmoney.com/center/global.html#global_3" target="_blank">全球股市</a></span>
+	        <div class="globalStocks" id="globalData">
+	            <a href="http://stock.eastmoney.com/globalindex/INDU.html" target="_blank">道琼斯</a> 15417.44 <span class="red">↑16.06 ↑0.10%</span>&nbsp;&nbsp;<a href="http://stock.eastmoney.com/globalindex/CCMP.html" target="_blank">纳斯达克</a> 3778.81 <span class="red">↑13.52 ↑0.36%</span>&nbsp;&nbsp;<a href="http://stock.eastmoney.com/globalindex/NKY.html" target="_blank">日经指数</a> 14732.61 <span class="green">↓-9.81 ↓-0.07%</span>&nbsp;&nbsp;<a href="http://quote.eastmoney.com/hk/zs110000.html" target="_blank">香港恒指</a> 23179.04 <span class="green">↓-192.5 ↓-0.82%</span>&nbsp;&nbsp;<a href="http://stock.eastmoney.com/globalindex/DAX.html" target="_blank">德DAX</a> 8656.89 <span class="red">↑21.6 ↑0.25%</span>&nbsp;&nbsp;<a href="http://stock.eastmoney.com/globalindex/CAC.html" target="_blank">法CAC</a> 4196.13 <span class="red">↑24.05 ↑0.58%</span>&nbsp;&nbsp;<a href="http://stock.eastmoney.com/globalindex/ATX.html" target="_blank">奥ATX</a> 2504.43 <span class="red">↑14.18 ↑0.57%</span>&nbsp;&nbsp;
+	        </div>
+	        <div>
+        		<textarea class="lyadArea hidden">
+	        	<iframe width="122" height="28" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=1018&op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=1023&op=1"></iframe>
+	        	</textarea>
+	        </div>
+	        
+		</div>
+		<div class="dataLinks">
+			<span class="flink"><a href="http://data.eastmoney.com/center/" target="_blank">数据中心</a></span>
+			<div class="bulllinks">
+			    <a href="http://js1.eastmoney.com/tg.aspx?ID=542" >新股申购</a><a href="http://js1.eastmoney.com/tg.aspx?ID=612" >资金流向</a><a href="http://js1.eastmoney.com/tg.aspx?ID=613" >主力排名</a><a href="http://js1.eastmoney.com/tg.aspx?ID=634" >板块资金</a><a href="http://js1.eastmoney.com/tg.aspx?ID=638" >个股研报</a><a href="http://js1.eastmoney.com/tg.aspx?ID=519" >行业研报</a><a href="http://js1.eastmoney.com/tg.aspx?ID=570" >中报大全</a><a href="http://js1.eastmoney.com/tg.aspx?ID=1921" >机构持仓</a><a href="http://js1.eastmoney.com/tg.aspx?ID=624" >融资融券</a><a href="http://js1.eastmoney.com/tg.aspx?ID=626" >龙虎榜单</a><a href="http://js1.eastmoney.com/tg.aspx?ID=714" >高管持股</a><a href="http://js1.eastmoney.com/tg.aspx?ID=627" >限售解禁</a><a href="http://js1.eastmoney.com/tg.aspx?ID=632" >千股千评</a><a href="http://js1.eastmoney.com/tg.aspx?ID=629" >大宗交易</a><a href="http://js1.eastmoney.com/tg.aspx?ID=633" >期指持仓</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="wrap mt8 h60">
+	<textarea  class="lyadArea hidden">
+	<iframe width="950" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=874&op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=990&op=1"></iframe>
+	</textarea>
+</div>
+<div class="wrap mt8">
+	<div class="layout250">
+		<div class="actives" id="fp1">
+		    <ul><li><i><a href="http://js1.eastmoney.com/tg.aspx?ID=2145" hidefocus="true"></a></i><a href="http://js1.eastmoney.com/tg.aspx?ID=2145" hidefocus="true"><img src="http://z1.dfcfw.com/2013/9/23/20130923142704603767338.jpg" width="248" height="161" border="0" alt="" /></a></li><li><i><a href="http://js1.eastmoney.com/tg.aspx?ID=2009" hidefocus="true"></a></i><a href="http://js1.eastmoney.com/tg.aspx?ID=2009" hidefocus="true"><img src="http://z1.dfcfw.com/2013/9/24/2013092415363636996865.jpg" width="248" height="161" border="0" alt="" /></a></li><li><i><a href="http://js5.eastmoney.com/tg.aspx?ID=663" hidefocus="true"></a></i><a href="http://js5.eastmoney.com/tg.aspx?ID=663" hidefocus="true"><img src="http://z1.dfcfw.com/2013/9/23/201309231618461220622035.jpg" width="248" height="161" border="0" alt="" /></a></li></ul>
+		</div>
+	    <div class="fund-login mt8">
+	        <div class="fl-title"><a href="http://fund.eastmoney.com/" hidefocus="true">东方财富网旗下天天基金交易平台</a></div>
+	        <div class="fl-bx">
+	            <div class="fl-bx-link"><a href="https://trade.1234567.com.cn/Login" class="fl-bx-jy">交易登陆</a><a href="https://trade.1234567.com.cn/reg/step1" class="fl-bx-kh">免费开户</a><a href="http://fundact.eastmoney.com/ttjj2013/" class="fl-bx-bt">省钱、专业、便捷、安全</a></div>
+	        </div>
+	        <div class="fl-link">
+	            <div class="fl-link-bb">
+	            <form action="https://trade.1234567.com.cn/xjb/recharge" onsubmit="if(isNaN(this.m.value)){this.m.value='';this.m.focus();}" target="_blank" method="get">
+	            	<input type="text" name="m" class="txt" value="请输入充值金额" onfocus="if(this.value=='请输入充值金额')this.value=''" onblur="if(this.value=='')this.value='请输入充值金额'" autocomplete="off" />
+	            	<span class="btnn"><button type="submit" id="xjbcz">活期宝充值</button></span>
+	            </form>
+	            </div>
+	            <div><span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=1962" >超1年定存 7&#215;24小时取现</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1963" >点此开通活期宝</a></span></div>
+	        </div>
+	    </div>
+		<div class="tabCon mt8">
+		    <div class="titBar">
+		        <h4><a href="http://quote.eastmoney.com/center/">行情中心</a></h4>
+				<div class="more">
+					<a class="btn-refresh" href="javascript:void(0);" target="_self" id="refbtn_stock">刷新</a>
+				</div>
+		    </div>
+			<div class="stockCenter">
+				<div class="sc-tabs">
+					<dl id="stockTabs">
+						<dt class="at" id="CSI"><a>沪深</a></dt>
+						<dt id="HK"><a>香港</a></dt>
+						<dt id="OCCIDENT"><a>欧美</a></dt>
+						<dt id="FUND"><a>基金</a></dt>
+						<dt id="FUTURES"><a>期货</a></dt>
+						<dt id="FOREX"><a>外汇</a></dt>
+					</dl>
+				</div>
+				<div class="sc-cont" id="stockContent">
+					<dl class="sc-cont-tabs">
+						<dt class="at"><span><a href="http://quote.eastmoney.com/zs000001.html">沪A</a></span></dt>
+						<dd>|</dd>
+						<dt><span><a href="http://quote.eastmoney.com/zs399001.html">深A</a></span></dt>
+						<dd>|</dd>
+						<dt><span><a href="http://quote.eastmoney.com/zs000003.html">沪B</a></span></dt>
+						<dd>|</dd>
+						<dt><span><a href="http://quote.eastmoney.com/zs399003.html">深B</a></span></dt>
+						<dd>|</dd>
+						<dt><span><a href="http://quote.eastmoney.com/zs000300.html">300</a></span></dt>
+						<dd>|</dd>
+						<dt><span><a href="http://quote.eastmoney.com/zs399006.html">创业板</a></span></dt>
+					</dl>
+					<div class="sc-cont-img">
+						<a href="http://quote.eastmoney.com/zs000001.html" class="piclink" hidefocus="true">
+							<img src="http://hqpiczs.dfcfw.com/EM_Quote2010PictureProducter/Picture/0000011RsIndex.png?rt=134804441" alt="" width="220" height="123" border="0" />
+						</a>
+						<ul class="sc-cont-imglink">
+							<li><a href="http://quote.eastmoney.com/center/list.html#10">涨幅</a></li>
+							<li><a href="http://quote.eastmoney.com/center/list.html#10?sortType=H&amp;sortRule=-1">量比</a></li>
+							<li><a href="http://quote.eastmoney.com/center/list.html#10?sortType=J&amp;sortRule=-1">换手</a></li>
+							<li><a href="http://quote.eastmoney.com/center/list.html#10?sortType=I&amp;sortRule=-1">市盈</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="sc-search">
+				    <form action="" method="get" target="_blank" class="tipform">
+					<input type="text" class="txt" id="hqzx_txt" value="输代码或简称" />
+					<span class="btnn"><button type="button" id="hqzx_btn1">查行情</button></span>
+					<span class="btnn"><button type="button" id="hqzx_btn2">进股吧</button></span>
+					<span class="btnn"><button type="button" id="hqzx_btn3">资金流</button></span>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="linkArea mt8">
+		    
+			<dl>
+				<dt class="quote"><a href="http://quote.eastmoney.com/center/">行情</a></dt>
+				<dd><span><a href="http://js1.eastmoney.com/tg.aspx?ID=705" >领涨个股</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=706" >领涨行业</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=710" >全球股市</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=707" >资金流入</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=708" >大盘资金</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=709" >板块资金</a></span></dd>
+				<dt class="data"><a href="http://data.eastmoney.com/center/">数据</a></dt>
+				<dd><span><a href="http://js1.eastmoney.com/tg.aspx?ID=711" >新股申购</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=723" >千股千评</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=718" >中报大全</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=719" >期指持仓</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=721" >高管持股</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=722" >融资融券</a></span></dd>
+				<dt class="bidu"><a href="http://stock.eastmoney.com/bidu.html">必读</a></dt>
+				<dd><span><a href="http://js1.eastmoney.com/tg.aspx?ID=724" >实时解盘</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=726" >龙虎榜单</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=727" >交易提示</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=729" >公告大全</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=730" >停牌信息</a></span><span><a href="http://js1.eastmoney.com/tg.aspx?ID=732" >报刊头条</a></span></dd>
+			</dl>
+		</div>
+	    <div class="tabCon mt8">
+		    <div class="titBar">
+		        <h4><a href="http://www.caifutong.com.cn/">东方财富产品</a></h4>
+		    </div>
+		    <div class="linkArea softList">
+			    <dl>
+				    <dt class="soft-pc"><a href="http://www.caifutong.com.cn/">PC</a></dt>
+				    <dd><ul><li><a href="http://js5.eastmoney.com/tg.aspx?ID=440" >东方财富通免费版</a>&nbsp;<a href="http://js5.eastmoney.com/tg.aspx?ID=499" >Level-2极速版</a></li><li><a href="http://js5.eastmoney.com/tg.aspx?ID=369" >投资大师</a>&nbsp;<a href="http://js5.eastmoney.com/tg.aspx?ID=349" >Level-2决策版</a></li></ul></dd>
+	                
+				    <dt class="soft-mobile"><a href="http://www.caifutong.com.cn/newphone/">移动</a></dt>
+				    <dd><ul><li><a href="http://js5.eastmoney.com/tg.aspx?ID=442" >东方财富通iPhone版</a>&nbsp;<a href="http://js5.eastmoney.com/tg.aspx?ID=441" >Android版</a></li><li><a href="http://fundact.eastmoney.com/app/default.html?page=iphone" >天天基金网iPhone版</a>&nbsp;<a href="http://fundact.eastmoney.com/app/default.html?page=andriod" >Android版</a></li></ul></dd>
+	                
+			    </dl>
+		    </div>
+        </div>
+		<div class="mt8 h160">
+		    <textarea class="lyadArea hidden">
+		    <iframe width="250" height="160" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=888&op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=966&op=1"></iframe>
+		    </textarea>
+		</div>
+	</div>
+	<div class="layout340">
+	    <div class="tabCon">
+	        <div class="titBar">
+	            <h4><a href="http://finance.eastmoney.com/news/cdfsd.html">东方视点</a></h4>
+			    <div class="more lcy">
+			        <textarea class="lyadArea hidden">
+			        <iframe width="190" height="29" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=1014&op=1" ></iframe>
+		            </textarea>
+			    </div>
+				<div class="more txt gray"><a href="http://topic.eastmoney.com">焦点专题</a></div>
+	        </div>
+			<div class="content">
+				<div class="bulllink headlines">
+				    <h1><a href="http://finance.eastmoney.com/news/1366,20130924325099831.html" >金融股拖累大盘</a>&nbsp;<a href="http://finance.eastmoney.com/news/1366,20130924325072672.html" >央行放水维稳</a></h1><ul><li><a href="http://finance.eastmoney.com/news/1406,20130924325121352.html" >周三走势决定九月如何收官</a>&nbsp;|&nbsp;<a href="http://finance.eastmoney.com/news/1353,20130924325108696.html" >极具成长空间 8股钱景喜人</a></li><li><a href="http://finance.eastmoney.com/news/1353,20130924324984847.html" >13股可闭眼买入</a>&nbsp;|&nbsp;<a href="http://finance.eastmoney.com/news/1406,20130924325131787.html" >机构看好 6股绝对低估</a>&nbsp;|&nbsp;<a href="http://finance.eastmoney.com/news/1353,20130924324989488.html" >逢低做多20股</a></li></ul><h3><span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=1896" >活期宝7日年化收益为活期11-19倍</a></span></h3><ul><li><a href="http://js1.eastmoney.com/tg.aspx?ID=2104" >收益超5%！活期宝胜定存</a>&nbsp;|&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=2039" >管理银行卡闲钱 取款实时到账</a></li><li><span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=2148" >享国庆长假收益 活期宝限购倒计时</a></span>&nbsp;|&nbsp;<a href="http://fund.eastmoney.com/news/1594,20130821316895061.html" >新型理财工具定期宝</a></li></ul>
+					<div class="tbull">
+					    <a href="http://js5.eastmoney.com/tg.aspx?ID=4" >明日最具爆发潜力股</a><a href="http://js5.eastmoney.com/tg.aspx?ID=6" >大盘要井喷？</a><a href="http://js5.eastmoney.com/tg.aspx?ID=5" >最及时发现异动概念股</a>
+					</div>
+				</div>
+				<div class="scl-news">
+					<span class="name"><a href="http://roll.eastmoney.com/">最新播报</a></span>
+					<span id="snlist"><a href="http://finance.eastmoney.com/news/1354,20130924325184139.html" target="_blank">双汇在美收购案获史密斯菲尔德股东批准</a> <cite>23:04</cite> <a href="http://biz.eastmoney.com/news/1670,20130924325184218.html" target="_blank">主题对话二：协作创新：解密生态系统的构建</a> <cite>23:03</cite> <a href="http://finance.eastmoney.com/news/1355,20130924325183549.html" target="_blank">专家：以房养老本质是金融产品 老年人可自愿选择</a> <cite>22:52</cite> <a href="http://finance.eastmoney.com/news/1353,20130924325183368.html" target="_blank">ETF成融券做空主攻对象</a> <cite>22:47</cite> <a href="http://finance.eastmoney.com/news/1354,20130924325183232.html" target="_blank">华谊兄弟跌逾7%</a> <cite>22:46</cite> <a href="http://finance.eastmoney.com/news/1374,20130924325183129.html" target="_blank">沪深300指数围绕5日均线震荡</a> <cite>22:45</cite> <a href="http://biz.eastmoney.com/news/1670,20130924325183432.html" target="_blank">宋华：在不确定环境下衰败的四个原因</a> <cite>22:43</cite> <a href="http://biz.eastmoney.com/news/1670,20130924325182639.html" target="_blank">龙伟：互联网本身是一个创新行业</a> <cite>22:40</cite> <a href="http://finance.eastmoney.com/news/1354,20130924325182591.html" target="_blank">湘鄂情武汉买地扩张遭欺诈6千万 业绩雪上加霜</a> <cite>22:40</cite> <a href="http://biz.eastmoney.com/news/1670,20130924325182473.html" target="_blank">樊治铭：创新是对自己的再发展</a> <cite>22:34</cite> <a href="http://stock.eastmoney.com/news/1391,20130924325181513.html" target="_blank">沪市上市公司公告(9月25日)</a> <cite>22:31</cite> <a href="http://stock.eastmoney.com/news/1391,20130924325181472.html" target="_blank">深市上市公司公告(9月25日)</a> <cite>22:28</cite> <a href="http://stock.eastmoney.com/news/1406,20130924325181333.html" target="_blank">美国9月谘商会消费者信心指数降至5月以来最低</a> <cite>22:27</cite> <a href="http://finance.eastmoney.com/news/1345,20130924325182330.html" target="_blank">广东东莞调整住房契税标准 外籍置业者同受惠</a> <cite>22:26</cite> <a href="http://biz.eastmoney.com/news/1670,20130924325181633.html" target="_blank">朱健文：创新的成功在于平衡公司短期和长远效益</a> <cite>22:24</cite> <a href="http://finance.eastmoney.com/news/1351,20130924325180026.html" target="_blank">穆迪：未能上调债务上限后果比政府关闭还严重</a> <cite>22:18</cite> <a href="http://gold.eastmoney.com/news/1569,20130924325179962.html" target="_blank">黄金价格一路下滑 再次游走千三边缘</a> <cite>22:16</cite> <a href="http://stock.eastmoney.com/news/1406,20130924325179868.html" target="_blank">美国9月消费者信心指数为79.7 低于预期</a> <cite>22:15</cite> <a href="http://finance.eastmoney.com/news/1345,20130924325178424.html" target="_blank">双汇收购案获史密斯菲尔德股东通过</a> <cite>22:04</cite> <a href="http://stock.eastmoney.com/news/1406,20130924325176996.html" target="_blank">美股涨跌互现 市场等待消费者信心指数</a> <cite>21:57</cite> </span>
+				</div>
+			</div>
+	    </div>
+		<div class="tabCon mt8">
+			<div class="tabs">
+				<ul id="gsjd_lc">
+					<li class="at"><h4><a href="http://stock.eastmoney.com/">沪深股市</a></h4></li>
+					<li><h4><a href="http://money.eastmoney.com/">理财</a></h4></li>
+				</ul>
+				<div class="more">
+				    <div class="titSear">
+				        <form action="" method="get" target="_blank" class="tipform" onsubmit="return false">
+				            <input type="text" value="输入代码或名称" class="txt" id="hslc_txt" />
+	            	        <span class="btnn"><button type="button" id="hslc_btn1">进股吧</button></span>
+	            	    </form>
+				    </div>
+				</div>
+			</div>
+			<div class="content nlist" id="gsjd_lc_conts">
+			    <div>
+			        <ul><li><a href="http://stock.eastmoney.com/news/1406,20130924325079997.html" ><strong>揭秘股指V型反转面纱</strong></a>&nbsp;<a href="http://stock.eastmoney.com/news/1405,20130924325073218.html" ><strong>节前紧抓两大投资主线</strong></a></li><li><a href="http://stock.eastmoney.com/news/1406,20130924325041823.html" >土地流转概念飙升</a>&nbsp;<a href="http://stock.eastmoney.com/news/1406,20130924325068520.html" >5只创业板股暴增 涨幅不足10%</a></li><li><span class="red"><a href="http://stock.eastmoney.com/news/1408,20130924325104624.html" >自贸行情进“第二季”(附股)</a></span>&nbsp;<a href="http://stock.eastmoney.com/news/1406,20130924324845570.html" >主力巨资围猎10股</a></li><li><a href="http://stock.eastmoney.com/news/1408,20130924325079879.html" >11股受益城市电子商务</a>&nbsp;<a href="http://stock.eastmoney.com/news/1406,20130924325077435.html" >“土豪金”断货 概念爆发</a></li><li><span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=2009" >[模拟炒股大赛]</a></span>&nbsp;<span class="red"><a href="http://stock.eastmoney.com/news/1716,20130924325074535.html" >选手买华策影视 赚50%</a></span>&nbsp;<span class="lightblue"><a href="http://moni.eastmoney.com/?b=1" >我要参赛</a></span></li><li><a href="http://stock.eastmoney.com/news/1405,20130924325091388.html" ><strong>异动股点评 四牛与四熊</strong></a>&nbsp;<a href="http://stock.eastmoney.com/news/1406,20130924325077335.html" ><strong>周三机构看好10金股</strong></a></li><li><a href="http://stock.eastmoney.com/news/1405,20130924324908498.html" >4只阿里概念股挑战微信</a>&nbsp;<a href="http://stock.eastmoney.com/news/1406,20130924324942670.html" >机构看好 1只股将涨150%</a></li><li><a href="http://stock.eastmoney.com/news/1406,20130924324875810.html" >多股受益万达500亿东方影都</a>&nbsp;<a href="http://stock.eastmoney.com/news/1406,20130924324886531.html" >钛白粉价格上调(股)</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=342" >行业</a>&nbsp;|&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=343" >医药板块5股强者恒强</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=344" >买入评级</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=345" >盈利预测</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=355" >龙虎榜</a>&nbsp;|&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=356" >异动股详情</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=361" >机构龙虎榜</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=360" >敢死队营业部</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=346" >资金流</a>&nbsp;|&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=354" >大盘资金流</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=353" >资金潜入板块</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=348" >净流入前50</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=1727" >基金</a>&nbsp;|&nbsp;<span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=1727" >短期理财及货币基金收益大幅走高</a></span>&nbsp;<span class="lightblue"><a href="http://fund.eastmoney.com/trade/#hb" >热销榜</a></span></li><li><a href="http://js5.eastmoney.com/tg.aspx?ID=132" >8.13全国首推“上海自贸”</a>&nbsp;<a href="http://finance.eastmoney.com/news/1365,20130918324081047.html" >三季报业绩预告评析</a></li></ul>
+			    </div>
+			    <div style="display:none;">
+			        <div class="twBull">
+			            <a href="http://money.eastmoney.com/news/1282,20130924324853049.html" title="各国学费一览" class="img"><img width="111" height="67" alt="" src="http://z1.dfcfw.com/2013/9/24/201309240902571338378187.jpg" /><br />各国学费一览</a><ul><li><a href="http://money.eastmoney.com/news/1282,20130924324867895.html" ><strong>央行发行5元纪念币遭抢购</strong></a></li><li><a href="http://money.eastmoney.com/news/1282,20130924324850240.html" >专家称过去任何时间买房都赚</a></li><li><a href="http://money.eastmoney.com/news/1282,20130924324845758.html" >揭被扣的“海娜号”奢华内部</a></li><li><a href="http://money.eastmoney.com/news/1282,20130924324919840.html" >和田玉是温州人炒高？</a>&nbsp;<a href="http://guba.eastmoney.com/topic,ysp.html" >收藏吧</a></li></ul>
+			        </div>
+			        <div class="dotsplit"></div>
+			        <ul><li><a href="http://money.eastmoney.com/" >理财</a>&nbsp;|&nbsp;<span class="red"><a href="http://money.eastmoney.com/news/1282,20130924324861080.html" >盘点中国“女承父业”的亿万千金(组图)</a></span></li><li><a href="http://money.eastmoney.com/news/1282,20130924324905322.html" >总结中国百姓财富流失的6大路径：买股票居首</a></li><li><a href="http://bank.eastmoney.com/" >银行</a>&nbsp;|&nbsp;<a href="http://bank.eastmoney.com/news/1174,20130924324872625.html" >揽存压力蔓延 银行员工办房贷也要求额度</a></li><li><a href="http://bank.eastmoney.com/news/1174,20130924324886426.html" >银行中长期存款利率上浮到顶 10万存3年多1275元</a></li><li><a href="http://insurance.eastmoney.com/" >保险</a>&nbsp;|&nbsp;<a href="http://insurance.eastmoney.com/news/1214,20130924324867930.html" >长假出游如何购险 出境游要选全面型产品</a></li><li><a href="http://insurance.eastmoney.com/news/1214,20130924324866497.html" >上海自贸区或向外资险企开放 保险业格局或生变</a></li><li><a href="http://trust.eastmoney.com/" >信托</a>&nbsp;|&nbsp;<a href="http://trust.eastmoney.com/news/1656,20130924324939154.html" >竞争倒逼压缩报酬率 中期信托收益率上升</a></li><li><a href="http://qiche.eastmoney.com/" >汽车</a>&nbsp;|&nbsp;<a href="http://cheba.eastmoney.com/news,35,1338481.html" >2014款沃尔沃V40上市 售23.99-32.59万</a></li><li><span class="lightblue"><a href="http://data.eastmoney.com/money/calc/CurrentDeposit.html" >存款计算器</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/money/calc/CalcGRDK.html" >房贷计算器</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/money/calc/CalcTQHD.html" >提前还贷计算器</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/money/calc/TaxPersonal.html" >个税单</a></span></li></ul>
+			    </div>
+			</div>
+		</div>
+	    <div class="tabCon mt8">
+	        <div class="titBar">
+	            <h4><a href="http://stock.eastmoney.com/global.html">全球市场</a></h4>
+	            <div class="more txt gray"><a href="http://stock.eastmoney.com/globalroll.html">7*24小时全球财经直播</a></div>
+	        </div>
+			<div class="content nlist">
+		        <ul><li><a href="http://stock.eastmoney.com/news/1345,20130924325178424.html" ><strong>双汇47亿收购案获史密斯菲尔德股东大会通过</strong></a></li><li><a href="http://stock.eastmoney.com/america.html" >美股</a>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1436,20130924324825412.html" >美联储QE走向 10月底将见分晓</a>&nbsp;<span class="red"><a href="http://stock.eastmoney.com/globalroll.html" >全球直播</a></span></li><li><a href="http://hk.eastmoney.com/" >港股</a>&nbsp;|&nbsp;<a href="http://hk.eastmoney.com/news/1532,20130924324829728.html" >内资银行股AH比价逆转</a>&nbsp;<a href="http://hk.eastmoney.com/news/1536,20130924324905088.html" >24日金股</a>&nbsp;<span class="lightblue"><a href="http://quote.eastmoney.com/center/list.html#ah_1" >AH比价</a></span></li><li><span class="red"><a href="http://gold.eastmoney.com/" >黄金</a></span>&nbsp;|&nbsp;<a href="http://gold.eastmoney.com/news/1570,20130924325093931.html" >金价爆发前夕 或重温历史惨痛一刻</a>&nbsp;<span class="lightblue"><a href="http://quote.eastmoney.com/center/gold.html#_7" >报价</a></span></li><li><a href="http://futures.eastmoney.com/" >期货</a>&nbsp;|&nbsp;<a href="http://futures.eastmoney.com/news/1520,20130924325083363.html" >11月菜粕涨停 豆粕涨幅最大</a>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/futures/sh/data.html" >期货龙虎榜</a></span></li><li><a href="http://forex.eastmoney.com/" >外汇</a>&nbsp;|&nbsp;<a href="http://forex.eastmoney.com/news/1129,20130924325074885.html" >澳元底部形成</a>&nbsp;<a href="http://forex.eastmoney.com/news/1129,20130924324830874.html" >人民币年内升值2.26%</a>&nbsp;<span class="lightblue"><a href="http://quote.eastmoney.com/center/forexlist.html#3_6" >牌价</a></span></li></ul>
+			</div>
+	    </div>
+		<div class="tabCon mt8">
+			<div class="titBar">
+				<h4><a href="http://video.eastmoney.com/">视频</a></h4>
+				<div class="more txt gray"><a href="http://video.eastmoney.com/caizhi/">财智人生</a> | <a href="http://video.eastmoney.com/channel/channel_7_1.html">理财宝典</a> | <a href="http://video.eastmoney.com/channel/channel_2_1.html">公司解码</a></div>
+			</div>
+			<div class="content ilist twBull">
+                <a href="http://video.eastmoney.com/caizhi/" title="商业地产吸金大法" class="img"><img width="111" height="67" alt="" src="http://z1.dfcfw.com/2013/5/24/20130524092749135299145.jpg" /><br />商业地产吸金大法</a><ul><li><a href="http://video.eastmoney.com/gsbb/play_7845.html" >可介入成长股</a>&nbsp;<a href="http://video.eastmoney.com/news/1602,20130924324997780.html" >房产税将扩围</a></li><li><a href="http://video.eastmoney.com/news/1609,20130916323590697.html" >春秋航空王正华的“春秋梦”</a></li><li><a href="http://video.eastmoney.com/guandian/" >周林：国富？民富？全民造梦</a></li><li><a href="http://video.eastmoney.com/news/1609,20130916323557424.html" >黄金技术面跌破中期上行趋势</a></li></ul>
+			</div>
+		</div>
+    </div>
+	<div class="layout340">
+	    <div class="tabCon">
+	        <div class="titBar">
+	            <h4><a href="http://finance.eastmoney.com/news/ccjdd.html">财经导读</a></h4>
+			    <div class="more rcy">
+			        <textarea class="lyadArea hidden">
+			        <iframe width="250" height="29" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=1020&op=1" ></iframe>
+		            </textarea>
+			    </div>
+	        </div>
+			<div class="content nlist">
+		        <ul><li><a href="http://finance.eastmoney.com/news/1344,20130924325136512.html" ><strong>上海自贸区9月29日挂牌</strong></a>&nbsp;<a href="http://finance.eastmoney.com/news/1344,20130924325052347.html" ><strong>放开利率</strong></a>&nbsp;<a href="http://finance.eastmoney.com/news/1345,20130924325072741.html" ><strong>12股涨停</strong></a></li><li><a href="http://topic.eastmoney.com/myyh/" >9月5家民营银行名称获准</a>&nbsp;<a href="http://finance.eastmoney.com/news/1345,20130924325138353.html" >18家民企逐鹿 花落谁家</a></li><li><a href="http://finance.eastmoney.com/news/1353,20130924324822368.html" >30个“金钗”出炉</a>&nbsp;<a href="http://finance.eastmoney.com/news/1353,20130924325117816.html" >10股高增长可期待</a>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/bbsj/201309/yjyg.html" >三季报预告</a></span></li><li><a href="http://stock.eastmoney.com/news/1406,20130924325176996.html" >美股涨跌互现 市场等待消费者信心指数</a>&nbsp;<span class="lightblue"><a href="http://stock.eastmoney.com/globalroll.html" >全球直播</a></span></li><li><a href="http://finance.eastmoney.com/news/1345,20130924324839812.html" >地下钱庄内幕起底：80后庄主被称为地下央行行长</a></li><li><a href="http://finance.eastmoney.com/news/1365,20130924325044910.html" ><strong>巴菲特股票50年涨2万倍 A股神话23年涨267倍</strong></a></li><li><a href="http://finance.eastmoney.com/news/1345,20130924324840084.html" >温州敛财新招:全国招炒股高手 投资者拿不到密码</a></li><li><a href="http://finance.eastmoney.com/news/1344,20130924325104387.html" >上市公司重要公告快递</a>&nbsp;<a href="http://finance.eastmoney.com/news/1344,20130924325140059.html" >利好消息一览</a>&nbsp;<span class="red"><a href="http://data.eastmoney.com/notice/" >最新公告</a></span></li><li><a href="http://finance.eastmoney.com/news/1345,20130924325153237.html" >晚间影响市场的政策消息速递</a>&nbsp;<a href="http://finance.eastmoney.com/news/1344,20130924325157262.html" >重要行业新闻汇总</a></li><li><a href="http://finance.eastmoney.com/news/1365,20130924325096716.html" >媒体:我们身边有李嘉诚隐藏帝国 几座大楼算什么</a></li></ul><ul><li><a href="http://finance.eastmoney.com/news/1355,20130924324828316.html" ><strong>油品升级加价标准出台</strong></a>&nbsp;<a href="http://finance.eastmoney.com/news/1372,20130924324878948.html" ><strong>图解投资机会</strong></a>&nbsp;<a href="http://finance.eastmoney.com/news/1406,20130924324874262.html" ><strong>受益股</strong></a></li><li><a href="http://finance.eastmoney.com/news/1344,20130924325065517.html" >传肖刚启动证监会内部大部制改革 多个部门合并</a></li><li><span class="red"><a href="http://finance.eastmoney.com/news/1345,20130924325013074.html" >丁书苗被控非法所得30亿全认罪 出庭时目光涣散</a></span></li><li><a href="http://finance.eastmoney.com/news/1344,20130924324969068.html" >光伏学院仅3名毕业生入本行 企业穷得厕所都没纸</a></li><li><a href="http://finance.eastmoney.com/news/1345,20130924324841578.html" >国企巨贪张新华侵吞2.4亿国资 8年前1亿贱卖土地</a></li></ul><ul><li><a href="http://js5.eastmoney.com/tg.aspx?ID=9" ><strong>机构看好选股器:今日20股涨停!低价最后1天</strong></a></li></ul>
+		        
+			</div>
+	    </div>
+	    <div class="tabCon mt8">
+	        <div class="titBar">
+	            <h4><a href="http://finance.eastmoney.com/company.html">公司聚焦</a></h4>
+				<div class="more">
+				    <div class="titSear">
+				        <form action="" method="get" target="_blank" class="tipform" onsubmit="return false">
+				            <input type="text" value="输入代码或名称" class="txt" id="gsjj_txt" />
+	            	        <span class="btnn"><button type="button" id="gsjj_btn1">进股吧</button></span>
+	            	    </form>
+				    </div>
+				</div>
+	        </div>
+		    <div class="content nlist">
+	            <ul><li><a href="http://finance.eastmoney.com/news/1345,20130924325123387.html" ><strong>揭秘涨停板:民营银行受追捧 自贸区概念井喷</strong></a></li><li><a href="http://finance.eastmoney.com/news/1345,20130924325176542.html" >10月传媒龙头公司将迎来复牌潮 重点关注4大金股</a></li><li><span class="red"><a href="http://finance.eastmoney.com/news/1345,20130924325182591.html" >湘鄂情武汉买地扩张遭欺诈6千万元 业绩雪上加霜</a></span></li><li><a href="http://finance.eastmoney.com/news/1345,20130924325043430.html" >外高桥16交易日涨幅逾300% 炒作还能延续多久</a>&nbsp;<span class="lightblue"><a href="http://guba.eastmoney.com/list,600648.html" >评</a></span></li><li><a href="http://finance.eastmoney.com/news/1354,20130924325151226.html" >民生银行：董事刘永好未出售民生银行A股股票</a>&nbsp;<span class="lightblue"><a href="http://guba.eastmoney.com/list,600016.html" >评</a></span></li><li><a href="http://finance.eastmoney.com/news/1345,20130924325176884.html" >苏宁再度涨停 市值有望重回1000亿</a>&nbsp;<span class="lightblue"><a href="http://guba.eastmoney.com/list,002024.html" >评</a></span>&nbsp;<span class="red"><a href="http://data.eastmoney.com/notice/" >公司公告</a></span></li></ul>
+		    </div>
+	    </div>
+	    <div class="tabCon mt8">
+	        <div class="titBar">
+	            <h4><a href="http://finance.eastmoney.com/pinglun.html">观点评论</a></h4>
+	        </div>
+			<div class="content nlist">
+		        <ul><li><a href="http://finance.eastmoney.com/news/1370,20130924325080480.html" ><strong>谢国忠:中国影子银行正引发全球金融担忧</strong></a>&nbsp;<a href="http://guba.eastmoney.com/news,cjpl,88020993.html" ><strong>评</strong></a></li><li><a href="http://finance.eastmoney.com/news/1372,20130924324975496.html" >央视：房价回到几年前暴涨时代</a>&nbsp;<a href="http://finance.eastmoney.com/news/1370,20130924325087150.html" >市场失灵了吗？</a></li><li><a href="http://finance.eastmoney.com/news/1370,20130924324996863.html" >经济学家：企业债台高筑 一场违约将引发雪崩</a>&nbsp;<span class="lightblue"><a href="http://guba.eastmoney.com/news,cjpl,87980267.html" >评</a></span></li><li><a href="http://finance.eastmoney.com/news/1370,20130924324848762.html" >沙黾农：创业板是行情支点 股民别错过中小板</a>&nbsp;<span class="lightblue"><a href="http://guba.eastmoney.com/news,cjpl,87952942.html" >评</a></span></li><li><a href="http://finance.eastmoney.com/news/1370,20130924324826938.html" >叶檀：收入差距大不可怕 放任合法掠夺最可怕</a>&nbsp;<span class="lightblue"><a href="http://guba.eastmoney.com/news,cjpl,87953142.html" >评</a></span></li><li><a href="http://renwu.eastmoney.com/" >人物</a>&nbsp;|&nbsp;<a href="http://renwu.eastmoney.com/Renwu.aspx?r=langxianping" >郎咸平</a>&nbsp;<a href="http://renwu.eastmoney.com/Renwu.aspx?r=yetan" >叶檀</a>&nbsp;<a href="http://renwu.eastmoney.com/Renwu.aspx?r=renzhiqiang" >任志强</a>&nbsp;<a href="http://renwu.eastmoney.com/Renwu.aspx?r=lidaxiao" >李大霄</a>&nbsp;<a href="http://renwu.eastmoney.com/Renwu.aspx?r=xieguozhong" >谢国忠</a>&nbsp;<a href="http://renwu.eastmoney.com/Renwu.aspx?r=shuipi" >水皮</a></li></ul>
+			</div>
+	    </div>
+		<div class="tabCon mt8">
+			<div class="titBar">
+				<h4><a href="http://topic.eastmoney.com/">专题</a></h4>
+			</div>
+			<div class="content ilist twBull">
+                <a href="http://topic.eastmoney.com/szqh2013/" title="聚焦十八届三中全会" class="img"><img width="111" height="67" alt="" src="http://z1.dfcfw.com/2013/9/16/201309161532501441093690.jpg" /><br />聚焦十八届三中全会</a><ul><li><a href="http://topic.eastmoney.com/jjmlcyxhy/" >联储维持QE规模</a>&nbsp;<a href="http://topic.eastmoney.com/myyh/" >民营银行胎动</a></li><li><a href="http://topic.eastmoney.com/hnhzky/" >沙钢扣留海航邮轮</a>&nbsp;<a href="http://topic.eastmoney.com/diwang2013/" >疯狂的地王</a></li><li><a href="http://topic.eastmoney.com/hurun13ch/" >王健林成中国首富</a>&nbsp;<a href="http://topic.eastmoney.com/2013dws/" >达沃斯论坛</a></li><li><a href="http://topic.eastmoney.com/shzmq/" >上海自贸区设立</a>&nbsp;<a href="http://topic.eastmoney.com/iphone5S5C/" >苹果发布新品</a></li></ul>
+			</div>
+		</div>
+    </div>
+	<div class="layout690 mt8">
+	    <textarea class="lyadArea hidden">
+		<iframe width="690" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=225&op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=956&op=1"></iframe>
+	    </textarea>	
+	</div>
+	<div class="spacer8"></div>
+</div>
+<div class="wrap">
+	<div class="layout250">
+		<div class="tabCon">
+			<div class="tabs">
+				<ul id="gszb_rdsm" class="ul-w123">
+					<li class="at"><h4><a href="http://stock.eastmoney.com/news/cgszb.html">股市直播</a></h4></li>
+					<li><h4><a href="http://finance.eastmoney.com/news/crdsm.html">热点扫描</a></h4></li>
+				</ul>
+			</div>
+			<div class="content nlist" id="gszb_rdsm_conts">
+			    <ul><li><cite>22:28</cite><a href="http://stock.eastmoney.com/news/1406,20130924325181472.html" target="_blank">深市上市公司公告(9月25日)</a></li><li><cite>22:27</cite><a href="http://stock.eastmoney.com/news/1406,20130924325181333.html" target="_blank">美国9月谘商会消费者信心指数降至5月以来最低</a></li><li><cite>22:15</cite><a href="http://stock.eastmoney.com/news/1406,20130924325179868.html" target="_blank">美国9月消费者信心指数为79.7 低于预期</a></li><li><cite>21:57</cite><a href="http://stock.eastmoney.com/news/1406,20130924325176996.html" target="_blank">美股涨跌互现 市场等待消费者信心指数</a></li><li><cite>21:47</cite><a href="http://stock.eastmoney.com/news/1406,20130924325176786.html" target="_blank">美国7月FHFA房价指数环比增长1.0% 好于预期</a></li></ul>
+			    <ul style="display:none;"><li><a href="http://finance.eastmoney.com/news/1365,20130924324878712.html" >央行限量发行人民币5元硬币被抢空</a></li><li><a href="http://finance.eastmoney.com/news/1365,20130924324874368.html" >国家级贫困县借征地违法建造别墅群</a></li><li><a href="http://finance.eastmoney.com/news/1365,20130924324848498.html" >杭州60多户家庭为住新房排队两天求拆</a></li><li><a href="http://finance.eastmoney.com/news/1363,20130924324837459.html" >2011年居民灰色收入6.2万亿 占GDP12%</a></li><li><a href="http://finance.eastmoney.com/news/1365,20130924324812470.html" >多美滋“贿赂名单”涉七省市区医护人员</a></li></ul>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+		    <div class="titBar">
+		        <h4><a href="http://stock.eastmoney.com/xuexiao.html">股民学校</a></h4>
+		    </div>
+		    <div class="content nlist">
+				<div class="ilist tw250">
+				    <a href="http://guba.eastmoney.com/list,gmxx.html" title="" class="img"><img width="64" height="64" alt="" src="http://z1.dfcfw.com/2013/5/24/201305241828101906403762.jpg" /></a><ul><li><a href="http://guba.eastmoney.com/news,gmxx,87953012.html" >何指标判断走势最有价值</a></li><li><a href="http://guba.eastmoney.com/news,gmxx,87952477.html" >寻无限涨牛股有最简方法</a></li><li><a href="http://guba.eastmoney.com/news,gmxx,87952411.html" >抄底前要问自己10个问题</a></li></ul>
+				</div>
+				<ul><li><a href="http://guba.eastmoney.com/news,gmxx,87952840.html" >配合重组模式的炒重组股技巧 坐等暴涨</a></li><li><a href="http://guba.eastmoney.com/news,gmxx,87952514.html" >卖出股票有选择 六种情形必须考虑卖股</a></li><li><a href="http://guba.eastmoney.com/news,gmxx,87953048.html" >明行情楚心情 面对亏损应该如何去操作</a></li></ul>
+		    </div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="tabs">
+				<ul id="fund_tabs" class="ul-w123">
+					<li id="fund_gz" class="at"><h4><a href="http://fund.eastmoney.com/fundguzhi.html">基金估值</a></h4></li>
+					<li id="fund_jz"><h4><a href="http://fund.eastmoney.com/fund.html">基金净值</a></h4></li>
+				</ul>
+			</div>
+			<div class="content bg-gray" id="fund_conts">
+				<a href="http://fund.eastmoney.com/fundguzhi.html" class="fundimg"><img src="http://cmsjs.eastmoney.com/data/zsimg/fund_gz_index.png?rt=0.377327555034928" width="248" height="123" alt="" /></a>
+				<div class="so-fund" >
+			        <form action="" method="get" target="_blank" class="tipform">
+					<input type="text" value="输基金代码或简称" class="txt" id="sofund_txt" />
+					<span class="btnn"><button type="button" id="sofund_btn1">查估值</button></span>
+					<span class="btnn"><button type="button" id="sofund_btn2">查净值</button></span>
+					</form>
+				</div>
+				<div class="fundlink">
+					<a href="http://fund.eastmoney.com/fund.html">基金净值</a><a href="http://fund.eastmoney.com/fundguzhi.html">基金估值</a><a href="http://fund.eastmoney.com/XFXJJ_jzrgq12.html">新基金表</a><a href="http://fund.eastmoney.com/favor.html" class="red">我的基金</a><a href="http://fund.eastmoney.com/data/funddaogou.html">基金导购</a><a href="http://fund.eastmoney.com/data/fundcompare.aspx">基金比较</a>
+				</div>
+				<div class="fund-hot">
+				    <div class="title">
+				        <span><a href="http://fund.eastmoney.com/tradeindex.html">热销基金</a></span>
+				        <a href="https://trade.1234567.com.cn/reg/step1.aspx" class="fund-kaihu">10秒免费开户</a>
+				        <a href="http://fund.eastmoney.com/fundhot8.html" class="more-link">更多&gt;&gt;</a>
+				    </div>
+				    <ul><li><a href="https://trade.1234567.com.cn/login?direct_url=/FundtradePage/default2.aspx?fc=630011" class="fundbuy-link">购买</a><a href="http://fund.eastmoney.com/company/company_80053204.html">华商</a> | <a href="http://fund.eastmoney.com/630011.html">华商主题精选股票</a></li><li><a href="https://trade.1234567.com.cn/login?direct_url=/FundtradePage/default2.aspx?fc=540008" class="fundbuy-link">购买</a><a href="http://fund.eastmoney.com/company/company_80067635.html">汇丰晋信</a> | <a href="http://fund.eastmoney.com/540008.html">汇丰晋信低碳先锋</a></li><li><a href="https://trade.1234567.com.cn/login?direct_url=/FundtradePage/default2.aspx?fc=240008" class="fundbuy-link">购买</a><a href="http://fund.eastmoney.com/company/company_80000250.html">华宝兴业</a> | <a href="http://fund.eastmoney.com/240008.html">华宝收益增长</a></li></ul>
+				</div>
+			</div>
+		</div>
+    </div>
+	<div class="layout340">
+		<div class="tabCon">
+			<div class="titBar blue">
+			    <h4><a href="http://guba.eastmoney.com/">股吧</a></h4>
+				<div class="more">
+				    <div class="titSear">
+				        <form action="" method="get" target="_blank" class="tipform" onsubmit="return false">
+				            <input type="text" value="输入代码或名称" class="txt" id="jguba_txt" />
+	            	        <span class="btnn"><button type="button" id="jguba_btn">进股吧</button></span>
+	            	    </form>
+				    </div>
+				</div>
+			</div>
+			<div class="content nlist pb6">
+			    <ul><li><a href="http://guba.eastmoney.com/news,gssz,88022962.html" ><strong>百姓财富流失6大路径</strong></a>&nbsp;<a href="http://guba.eastmoney.com/news,gssz,88024026.html" ><strong>强守2200反击随时展开</strong></a></li><li><a href="http://guba.eastmoney.com/news,gssz,88023832.html" >曝节前股指运行轨迹</a>&nbsp;<a href="http://guba.eastmoney.com/news,gssz,88023694.html" >创业板走出大阳将不可避免</a></li><li><a href="http://guba.eastmoney.com/news,gssz,88023766.html" >此位置可以加仓低吸</a>&nbsp;<span class="red"><a href="http://guba.eastmoney.com/news,gssz,88024215.html" >节能环保行业：布局四季度</a></span></li><li><a href="http://guba.eastmoney.com/news,gssz,88023602.html" >怎么看这根倒垂体吊颈线</a>&nbsp;<a href="http://guba.eastmoney.com/news,gssz,88023238.html" >一大看点将在周三揭晓</a></li><li><span class="red"><a href="http://guba.eastmoney.com/list,hxnc.html" >内参</a></span>&nbsp;|&nbsp;<a href="http://guba.eastmoney.com/news,hxnc,87951455.html" >文化：趋势未结束</a>&nbsp;<a href="http://guba.eastmoney.com/news,hxnc,87951373.html" >商贸：溢价上升</a>&nbsp;<span class="lightblue"><a href="http://stock.eastmoney.com/hangye/hy482.html" >专区</a></span></li><li><a href="http://guba.eastmoney.com/news,hxnc,87951427.html" >机器人产业迎来爆发</a>&nbsp;<a href="http://guba.eastmoney.com/news,hxnc,87951359.html" >医药：从10亿到100亿</a>&nbsp;<span class="lightblue"><a href="http://stock.eastmoney.com/hangye/hy465.html" >专区</a></span></li><li><a href="http://guba.eastmoney.com/list,hxnc.html" >新能源汽车：推广力度激进 补贴门槛提高</a>&nbsp;<span class="lightblue"><a href="http://stock.eastmoney.com/hangye/hy481.html" >专区</a></span></li><li><span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1864" >我的股吧</a></span>&nbsp;<span class="lightblue"><a href="http://iguba.eastmoney.com/jiav.aspx" >加V认证</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1866" >热门话题</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1867" >热门行业吧</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1868" >概念吧</a></span></li></ul>
+				<div class="hot-list-box">
+					<ul class="tabs" id="hot_bar">
+						<li class="at"><a href="http://guba.eastmoney.com/remenba.aspx?type=1">热门个股吧</a></li>
+						<li><a href="http://guba.eastmoney.com/remenba.aspx?type=2">热门主题吧</a></li>
+					</ul>
+					<div id="hot_bar_conts">
+					    <dl><dt>
+<span><a href="http://guba.eastmoney.com/list,002024.html" >苏宁云商</a></span>
+<span><a href="http://guba.eastmoney.com/list,600000.html" >浦发银行</a></span>
+<span><a href="http://guba.eastmoney.com/list,002355.html" >兴民钢圈</a></span>
+<span><a href="http://guba.eastmoney.com/list,300027.html" >华谊兄弟</a></span>
+<span><a href="http://guba.eastmoney.com/list,600648.html" >外高桥</a></span>
+</dt>
+<dt>
+<span><a href="http://guba.eastmoney.com/list,601989.html" >中国重工</a></span>
+<span><a href="http://guba.eastmoney.com/list,600804.html" >鹏博士</a></span>
+<span><a href="http://guba.eastmoney.com/list,000333.html" >美的集团</a></span>
+<span><a href="http://guba.eastmoney.com/list,600018.html" >上港集团</a></span>
+<span><a href="http://guba.eastmoney.com/list,002052.html" >同洲电子</a></span>
+</dt>
+<dt>
+<span><a href="http://guba.eastmoney.com/list,601866.html" >中海集运</a></span>
+<span><a href="http://guba.eastmoney.com/list,600643.html" >爱建股份</a></span>
+<span><a href="http://guba.eastmoney.com/list,000662.html" >索芙特</a></span>
+<span><a href="http://guba.eastmoney.com/list,600784.html" >鲁银投资</a></span>
+<span><a href="http://guba.eastmoney.com/remenba.aspx?type=1" >更多&gt;&gt;</a></span>
+</dt>
+</dl>
+					    <dl style="display:none;"><dt>
+<span><a href="http://guba.eastmoney.com/list,gssz.html" >股市实战</a></span>
+<span><a href="http://guba.eastmoney.com/list,cjpl.html" >财经评论</a></span>
+<span><a href="http://guba.eastmoney.com/list,szzs.html" >上证指数</a></span>
+<span><a href="http://guba.eastmoney.com/list,huangjin.html" >黄金</a></span>
+<span><a href="http://guba.eastmoney.com/list,yuanyou.html" >原油</a></span>
+</dt>
+<dt>
+<span><a href="http://guba.eastmoney.com/list,qqgs.html" >全球股市</a></span>
+<span><a href="http://guba.eastmoney.com/list,gmxx.html" >股民学校</a></span>
+<span><a href="http://guba.eastmoney.com/list,hxnc.html" >核心内参</a></span>
+<span><a href="http://guba.eastmoney.com/list,ysp.html" >艺术品</a></span>
+<span><a href="http://guba.eastmoney.com/list,zq.html" >债券</a></span>
+</dt>
+<dt>
+<span><a href="http://guba.eastmoney.com/list,nmcw.html" >内幕传闻</a></span>
+<span><a href="http://guba.eastmoney.com/list,cyb.html" >创业板</a></span>
+<span><a href="http://guba.eastmoney.com/list,gzqh.html" >股指期货</a></span>
+<span><a href="http://guba.eastmoney.com/list,gzqh2.html" >国债期货</a></span>
+<span><a href="http://guba.eastmoney.com/remenba.aspx?type=2" >更多&gt;&gt;</a></span>
+</dt>
+</dl>
+					</div>
+				</div>
+			</div>
+        </div>
+   		<div class="tabCon mt8">
+			<div class="titBar blue">
+				<h4><a href="http://fund.eastmoney.com/">基金</a></h4>
+			    
+			</div>
+			<div class="content nlist pb6">
+			    <ul><li><a href="http://fund.eastmoney.com/news/1590,20130924324963939.html" ><strong>短期理财及货币基金收益大幅走高</strong></a>&nbsp;<span class="lightblue"><a href="http://fund.eastmoney.com/trade/#hb" ><strong>热销货基</strong></a></span></li><li><a href="http://fund.eastmoney.com/news/1590,20130924324850910.html" >股基今年整体涨幅超一成</a>&nbsp;<a href="http://fund.eastmoney.com/news/1590,20130924324847279.html" >过半货币基金收益超4%</a></li><li><a href="http://fund.eastmoney.com/news/1590,20130924324845134.html" >基金称创业板或再创新高</a>&nbsp;<a href="http://fund.eastmoney.com/news/1593,20130918324092243.html" >蓝筹主题基金尽显锋芒</a></li><li><a href="http://fund.eastmoney.com/news/1590,20130924324847989.html" >基金年末布局消费现端倪</a>&nbsp;<a href="http://fund.eastmoney.com/news/1590,20130924324849273.html" >一批白马基金马失前蹄</a></li><li><a href="http://fund.eastmoney.com/news/1623,20130924324854539.html" >王亚伟选股独到打翻身仗</a>&nbsp;<a href="http://fund.eastmoney.com/news/1590,20130924324849543.html" >基金公司内控骤然加码</a></li><li><a href="http://fund.eastmoney.com/news/1593,20130918324093683.html" >男士必读：私房钱新攻略</a>&nbsp;<a href="http://fund.eastmoney.com/news/1594,20130911322131351.html" >活期宝完胜一年期定存</a></li><li><span class="lightblue"><a href="https://trade.1234567.com.cn/reg/step1.aspx" >免费开户</a></span>&nbsp;<span class="lightblue"><a href="https://trade.1234567.com.cn/Login" >基金交易</a></span>&nbsp;<span class="lightblue"><a href="http://fund.eastmoney.com/data/fundranking.html" >基金排行</a></span>&nbsp;<span class="lightblue"><a href="http://fund.eastmoney.com/topic1.html" >优选基金</a></span>&nbsp;<span class="lightblue"><a href="http://fund.eastmoney.com/trade/#hb" >热销货基</a></span></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=1896" >活期宝收益最高达活期19倍</a>&nbsp;<span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=2022" >新型理财工具定期宝</a></span></li></ul>
+				<div class="hot-list-box">
+					<ul class="tabs" id="fund_cs_yj">
+						<li class="at"><a href="http://fund.eastmoney.com/tradeindex.html">基金超市</a></li>
+						<li><a href="http://fund.eastmoney.com/news/cjjyj.html">基金研究</a></li>
+					</ul>
+					<div class="txtbull" id="fund_cs_yj_conts">
+					    <ul><li><span class="red"><a href="http://fundact.eastmoney.com/260104" >景顺长城内需增长热销</a></span>&nbsp;<a href="http://fundact.eastmoney.com/340007/" >兴全社会责任</a>&nbsp;<a href="http://fund.eastmoney.com/news/1593,20130913322924686.html" >国投瑞银策略精选</a></li><li><a href="http://fundact.eastmoney.com/290005/" >泰信优势增长基金</a>&nbsp;<a href="http://fundact.eastmoney.com/540008_540010/" >汇丰晋信科技先锋热销</a>&nbsp;<a href="http://fundact.eastmoney.com/660001_660012_660015/" >农银行业轮动</a></li><li><a href="http://fundact.eastmoney.com/519679/" >银河主题股票基金热销中</a>&nbsp;<a href="http://fundact.eastmoney.com/398061/" >中海消费主题精选基金</a>&nbsp;<a href="http://fund.eastmoney.com/tradeindex.html" >更多&gt;&gt;</a></li></ul>
+					    <ul style="display:none;"><li><a href="http://fund.eastmoney.com/news/1680,20130917323555190.html" >金融指数基金盘点</a>&nbsp;<span class="red"><a href="http://fund.eastmoney.com/news/1680,20130903319939274.html" >9月份基金推荐</a></span>&nbsp;<a href="http://fund.eastmoney.com/news/1596,20130924325107881.html" >天天基金日报(9/24)</a></li><li><a href="http://fund.eastmoney.com/news/1596,20130917323580025.html" >专题研究：股基业绩延续性分析</a>&nbsp;<a href="http://fund.eastmoney.com/news/1680,20130923324590744.html" >银河行业优选股票基金</a></li><li><a href="http://fund.eastmoney.com/news/1680,20130923324696812.html" >大摩品质生活</a>&nbsp;<a href="http://fund.eastmoney.com/news/1680,20130923324605866.html" >华宝收益增长</a>&nbsp;<a href="http://fund.eastmoney.com/news/1596,20130921324348914.html" >中海蓝筹灵活基金</a>&nbsp;<a href="http://fund.eastmoney.com/news/cdjyb.html" >更多&gt;&gt;</a></li></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+	<div class="layout340">
+		<div class="tabCon">
+			<div class="titBar blue">
+			    <h4><a href="http://blog.eastmoney.com/">博客</a></h4>
+			</div>
+			<div class="content nlist pb6">
+			    <ul><li><a href="http://blog.eastmoney.com/" ><strong>大盘探底回升能否企稳</strong></a>&nbsp;<a href="http://blog.eastmoney.com/cfm163163/blog_111095950.html" ><strong>钱荒再引发季末暴跌</strong></a></li><li><a href="http://blog.eastmoney.com/fyl1970/blog_121176162.html" >节前调整是机会还是陷阱</a>&nbsp;<a href="http://blog.eastmoney.com/sun5688/blog_151402914.html" >怎样看待今光头阴吞阳</a></li><li><a href="http://blog.eastmoney.com/harvey/blog_131147239.html" >如何看待今天大幅振荡</a>&nbsp;<span class="red"><a href="http://blog.eastmoney.com/hzxtfx/blog_131147324.html" >天量资金出逃影响有多大</a></span></li><li><a href="http://blog.eastmoney.com/a156588484/blog_111095873.html" >阴锤线砸出更好短线机会</a>&nbsp;<a href="http://blog.eastmoney.com/hyttlgxfc/blog_131147283.html" >市场有图穷匕见的气氛</a></li><li><a href="http://blog.eastmoney.com/misc/blog_140929615.html" >节前多头营造最大的本钱</a>&nbsp;<a href="http://blog.eastmoney.com/rsdyd1/blog_151402810.html" >周三走势决定九月收官</a></li><li><a href="http://blog.eastmoney.com/aa879399099/blog_111095800.html" >调整是为国庆布局做准备</a>&nbsp;<a href="http://blog.eastmoney.com/guhaicangfeng/blog_121176086.html" >日线已到数据不容有失</a></li><li><a href="http://blog.eastmoney.com/nzg8/blog_151402843.html" >解密今日市场最强热点</a>&nbsp;<a href="http://blog.eastmoney.com/huiyuanstock/blog_131147347.html" >节前震荡把握好题材个股</a></li><li><span class="lightblue"><a href="http://iguba.eastmoney.com/jiav.aspx" >申请加V</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1379" >热门博文</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1844" >24小时点击</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1380" >48小时点击排行</a></span></li></ul>
+				<div class="hot-list-box">
+					<ul class="tabs" id="hot_blog">
+						<li class="at"><a href="http://blog.eastmoney.com/hotbloger.html">热门博客</a></li>
+						<li><a href="http://blog.eastmoney.com/dujia_1.html">独家博客</a></li>
+					</ul>
+					<div id="hot_blog_conts">
+					    <dl><dt>
+<span><a href="http://blog.eastmoney.com/lizhiling" >李志林</a></span>
+<span><a href="http://blog.eastmoney.com/pihaizh12" >皮海洲</a></span>
+<span><a href="http://blog.eastmoney.com/chxly9888" >苏渝</a></span>
+<span><a href="http://blog.eastmoney.com/huangyongyao" >黄永耀</a></span>
+<span><a href="http://blog.eastmoney.com/wb19811004" >彬哥看盘</a></span>
+</dt>
+<dt>
+<span><a href="http://blog.eastmoney.com/neimuxiaoxi" >揭幕者</a></span>
+<span><a href="http://blog.eastmoney.com/cnke2000" >陈晓阳</a></span>
+<span><a href="http://blog.eastmoney.com/pgshyy" >第六感觉</a></span>
+<span><a href="http://blog.eastmoney.com/misc" >图锐</a></span>
+<span><a href="http://blog.eastmoney.com/aaa8aaa168" >黄智华</a></span>
+</dt>
+<dt>
+<span><a href="http://blog.eastmoney.com/maoyushi888" >茅于轼</a></span>
+<span><a href="http://blog.eastmoney.com/dlqhww" >王炜</a></span>
+<span><a href="http://blog.eastmoney.com/jackzdm" >朱大鸣</a></span>
+<span><a href="http://blog.eastmoney.com/bhty001" >淘金客</a></span>
+<span><a href="http://blog.eastmoney.com/hotbloger.html" >更多&gt;&gt;</a></span>
+</dt>
+</dl>
+					    <dl style="display:none;"><dt>
+<span><a href="http://blog.eastmoney.com/2008gxbhxmh" >熊市飞扬</a></span>
+<span><a href="http://blog.eastmoney.com/wjzff123" >夜行神龙</a></span>
+<span><a href="http://blog.eastmoney.com/aini2011" >龍腾四海</a></span>
+<span><a href="http://blog.eastmoney.com/llzzww" >强烈</a></span>
+<span><a href="http://blog.eastmoney.com/dliandw" >或渊</a></span>
+</dt>
+<dt>
+<span><a href="http://blog.eastmoney.com/0356" >何江涛</a></span>
+<span><a href="http://blog.eastmoney.com/weidao888" >唯道</a></span>
+<span><a href="http://blog.eastmoney.com/niu_yuxiong" >麦兴</a></span>
+<span><a href="http://blog.eastmoney.com/hongyeqingfeng" >红叶青枫</a></span>
+<span><a href="http://blog.eastmoney.com/83534977" >中山云</a></span>
+</dt>
+<dt>
+<span><a href="http://blog.eastmoney.com/709561445" >赏月青衫</a></span>
+<span><a href="http://blog.eastmoney.com/gupiao_998" >孤独司马</a></span>
+<span><a href="http://blog.eastmoney.com/yyhgt236" >伯毅</a></span>
+<span><a href="http://blog.eastmoney.com/yuyanbk" >俞岩</a></span>
+<span><a href="http://blog.eastmoney.com/dujia_1.html" >更多&gt;&gt;</a></span>
+</dt>
+</dl>
+					</div>
+				</div>
+			</div>
+        </div>
+   		<div class="tabCon mt8">
+			<div class="titBar blue">
+			    <h4><a href="http://data.eastmoney.com/">数据</a></h4>
+			    
+			</div>
+			<div class="content nlist pb6">
+			    <ul><li><a href="http://stock.eastmoney.com/news/1411,20130924324842432.html" ><strong>资金动向显机构偏好 18亿大单抢筹8只潜力股</strong></a></li><li><a href="http://stock.eastmoney.com/news/1411,20130924325083519.html" >主力资金净流入最多10只股</a>&nbsp;<a href="http://stock.eastmoney.com/news/1411,20130924325084429.html" >资金净流出最多10股</a></li><li><a href="http://stock.eastmoney.com/news/1411,20130924325085459.html" >主力资金净流入最多5板块</a>&nbsp;<a href="http://stock.eastmoney.com/news/1411,20130924325086150.html" >资金净流出最多5板块</a></li><li><a href="http://stock.eastmoney.com/news/1411,20130924325075526.html" >超级买入大单排行前20名</a>&nbsp;<a href="http://stock.eastmoney.com/news/1411,20130924325075333.html" >超级卖出大单排行前20</a></li><li><a href="http://stock.eastmoney.com/news/1411,20130924325076267.html" >24日买盘最强劲20只个股</a>&nbsp;<a href="http://stock.eastmoney.com/news/1411,20130924325075951.html" >卖盘最强劲前20只个股</a></li><li><a href="http://stock.eastmoney.com/news/1411,20130924324845570.html" >创业板演绎“新高秀” 主力巨资围猎10只龙头股</a></li><li><a href="http://stock.eastmoney.com/news/1411,20130924324822417.html" >940份三季报近六成预喜 房企开启“吸金”新浪潮</a></li><li><a href="http://js5.eastmoney.com/tg.aspx?ID=608" ><strong>最全面的金融数据库 最专业的金融分析工具</strong></a></li></ul>
+				<div class="hot-list-box">
+					<ul class="tabs" id="data_gp_jj">
+						<li class="at"><a href="http://data.eastmoney.com/center/stock.html">股票数据</a></li>
+						<li><a href="http://data.eastmoney.com/center/macro.html">经济数据</a></li>
+					</ul>
+					<div id="data_gp_jj_conts">
+					    <dl><dt>
+<span><a href="http://data.eastmoney.com/stock/lhb.html" >龙虎榜单</a></span>
+<span><a href="http://data.eastmoney.com/stock/jgstatisticHistory.html" >机构席位</a></span>
+<span><a href="http://data.eastmoney.com/bkzj/jlr.html" >资金监测</a></span>
+<span><a href="http://data.eastmoney.com/xg/xg/default.html" >新股申购</a></span>
+<span><a href="http://data.eastmoney.com/xg/gh/default.html" >新股上会</a></span>
+</dt>
+<dt>
+<span><a href="http://data.eastmoney.com/stockcomment/" >千股千评</a></span>
+<span><a href="http://data.eastmoney.com/dxf/default.html" >限售解禁</a></span>
+<span><a href="http://data.eastmoney.com/rzrq/sh.html" >融资融券</a></span>
+<span><a href="http://data.eastmoney.com/executive/" >高管持股</a></span>
+<span><a href="http://data.eastmoney.com/IF/Data/Contract.html" >期指持仓</a></span>
+</dt>
+<dt>
+<span><a href="http://data.eastmoney.com/cmjzd/" >股东人数</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/yzgptj.html" >股票账户</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/gpjytj.html" >股票统计</a></span>
+<span><a href="http://data.eastmoney.com/zlsj/201212.html" >主力数据</a></span>
+<span><a href="http://data.eastmoney.com/center/stock.html" >更多&gt;&gt;</a></span>
+</dt>
+</dl>
+					    <dl style="display:none;"><dt>
+<span><a href="http://data.eastmoney.com/cjsj/cpi.html" >CPI</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/ppi.html" >PPI</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/pmi.html" >PMI</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/gdp.html" >GDP</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/yhll.html" >存贷利率</a></span>
+</dt>
+<dt>
+<span><a href="http://data.eastmoney.com/cjsj/xzxd.html" >新增贷款</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/ckzbj.html" >准备金率</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/newhouse.html" >房价指数</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/czsr.html" >财政收入</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/hjwh.html" >外汇储备</a></span>
+</dt>
+<dt>
+<span><a href="http://data.eastmoney.com/cjsj/gdzctz.html" >固定投资</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/hgjck.html" >进出口</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/yhcjll.html" >拆借利率</a></span>
+<span><a href="http://data.eastmoney.com/cjsj/hbgyl.html" >货币供应</a></span>
+<span><a href="http://data.eastmoney.com/center/macro.html" >更多&gt;&gt;</a></span>
+</dt>
+</dl>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div>
+	<div class="spacer8"></div>
+</div>
+<div class="wrap">
+	<div class="layout250 h90">
+	    <textarea class="lyadArea hidden">
+		<iframe width="250" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=6&op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=967&op=1"></iframe>
+	    </textarea>	
+	</div>
+	<div class="layout690 h90">
+	    <textarea class="lyadArea hidden">
+		<iframe width="690" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=226&op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=957&op=1"></iframe>
+	    </textarea>	
+	</div>
+	<div class="spacer8"></div>
+</div>
+<div class="wrap">
+	<div class="layout250">
+		<div class="tabCon">
+			<div class="titBar">
+				<h4><a href="http://data.eastmoney.com/zjlx/">资金流向</a></h4>
+				<div class="more">
+					<a class="btn-refresh" href="javascript:void(0);" target="_self" id="refbtn_zjlx">刷新</a>
+				</div>
+			</div>
+			<div class="stockCenter">
+				<div class="sc-tabs sc-tabs-bdc">
+					<dl id="zjlxTabs">
+						<dt id="CF_CSI" class="at"><a class="w60">沪深两市</a></dt>
+						<dt id="CF_SHA"><a>沪市</a></dt>
+						<dt id="CF_SZA"><a>深市</a></dt>
+						<dt id="CF_CYB"><a class="w45">创业板</a></dt>
+						<dt id="CF_SHB"><a class="w30">沪B</a></dt>
+						<dt id="CF_SZB"><a class="w30">深B</a></dt>
+					</dl>
+				</div>
+				<div class="sc-cont" id="zjlxContent">
+					<div class="sc-cont-img p1020">
+						<a href="http://quote.eastmoney.com/zs000001.html" class="piclink">
+							<img src="http://cmsjs.eastmoney.com/data/zjlximg/zjlx_ls_min.png" alt="" width="220" height="123" />
+						</a>
+						<ul class="sc-cont-imglink">
+							<li><a href="http://quote.eastmoney.com/center/list.html#10">排行</a></li>
+							<li><a href="http://quote.eastmoney.com/center/list.html#10?sortType=H&amp;sortRule=-1">主力</a></li>
+							<li><a href="http://quote.eastmoney.com/center/list.html#10?sortType=J&amp;sortRule=-1">监测</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="sc-search sc-search-zjlx">
+					<cite>个股资金流：</cite>
+					<form action="" method="get" target="_blank" class="tipform" onsubmit="return false">
+					<input type="text" class="txt" id="sozjl_txt" value="输代码或简称" />
+					<span class="btnn"><button type="button" id="sozjl_btn">查询</button></span>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="tabs triple">
+				<ul id="zjl_gg_hy_zl">
+					<li key="ggzjl" class="at"><h4 class="w82"><a href="http://data.eastmoney.com/zjlx/detail.html">个股资金流</a></h4></li>
+					<li key="hyzjl"><h4 class="w82"><a href="http://data.eastmoney.com/bkzj/hy.html">行业资金流</a></h4></li>
+					<li key="zlpm"><h4 class="w82"><a href="http://data.eastmoney.com/zjlx/list.html">主力排名</a></h4></li>
+				</ul>
+			</div>
+			<div class="content" id="zjl_conts">
+				<div class="utable">
+				    <ul class="head">
+                        <li>名称</li>
+                        <li class="linfo">相关链接</li>
+                        <li class="zlsj">主力净流入</li>
+                        <li class="zdf">净占比</li>
+				    </ul>
+				    <div class="qd_content">
+				    <ul><li><a href="http://data.eastmoney.com/zjlx/600018.html">上港集团</a></li><li class="linfo"><a href="http://data.eastmoney.com/zjlx/600018.html">详情</a> <a href="http://guba.eastmoney.com/topic,600018.html">股吧</a></li><li class="zlsj red">5.11亿</li><li class="zdf red">14.31%</li></ul><ul><li><a href="http://data.eastmoney.com/zjlx/600649.html">城投控股</a></li><li class="linfo"><a href="http://data.eastmoney.com/zjlx/600649.html">详情</a> <a href="http://guba.eastmoney.com/topic,600649.html">股吧</a></li><li class="zlsj red">2.49亿</li><li class="zdf red">25.74%</li></ul><ul><li><a href="http://data.eastmoney.com/zjlx/000735.html">罗牛山</a></li><li class="linfo"><a href="http://data.eastmoney.com/zjlx/000735.html">详情</a> <a href="http://guba.eastmoney.com/topic,000735.html">股吧</a></li><li class="zlsj red">1.64亿</li><li class="zdf red">11.73%</li></ul><ul><li><a href="http://data.eastmoney.com/zjlx/600675.html">中华企业</a></li><li class="linfo"><a href="http://data.eastmoney.com/zjlx/600675.html">详情</a> <a href="http://guba.eastmoney.com/topic,600675.html">股吧</a></li><li class="zlsj red">1.59亿</li><li class="zdf red">20.38%</li></ul>
+				    </div>
+				    <div class="tb-moreLink"><a href="http://data.eastmoney.com/zjlx/detail.html">点击查看全部&gt;&gt;</a></div>
+		        </div>		    
+				<div class="utable" style="display:none">
+				    <ul class="head">
+                        <li>板块名称</li>
+                        <li class="linfo">相关链接</li>
+                        <li class="zlsj">主力净流入</li>
+                        <li class="zdf">净占比</li>
+				    </ul>
+				    <div class="qd_content">
+				    <ul><li><a href="http://data.eastmoney.com/bkzj/450.html">港口水运</a></li><li class="linfo"><a href="http://data.eastmoney.com/bkzj/450.html">详情</a> <a href="http://stock.eastmoney.com/hangye/hy450.html">专区</a></li><li class="zlsj red">5.01亿</li><li class="zdf red">7.16%</li></ul><ul><li><a href="http://data.eastmoney.com/bkzj/427.html">公用事业</a></li><li class="linfo"><a href="http://data.eastmoney.com/bkzj/427.html">详情</a> <a href="http://stock.eastmoney.com/hangye/hy427.html">专区</a></li><li class="zlsj red">4.02亿</li><li class="zdf red">8.85%</li></ul><ul><li><a href="http://data.eastmoney.com/bkzj/465.html">医药行业</a></li><li class="linfo"><a href="http://data.eastmoney.com/bkzj/465.html">详情</a> <a href="http://stock.eastmoney.com/hangye/hy465.html">专区</a></li><li class="zlsj red">3.94亿</li><li class="zdf red">2.53%</li></ul><ul><li><a href="http://data.eastmoney.com/bkzj/459.html">电子元件</a></li><li class="linfo"><a href="http://data.eastmoney.com/bkzj/459.html">详情</a> <a href="http://stock.eastmoney.com/hangye/hy459.html">专区</a></li><li class="zlsj red">2.20亿</li><li class="zdf red">1.78%</li></ul>
+				    </div>
+				    <div class="tb-moreLink"><a href="http://data.eastmoney.com/bkzj/hy.html">点击查看全部&gt;&gt;</a></div>
+		        </div>		  
+				<div class="utable" style="display:none">
+				    <ul class="head">
+                        <li>名称</li>
+                        <li class="linfo">相关链接</li>
+                        <li class="zlsj">今日净占比</li>
+                        <li class="zdf">5日净占比</li>
+				    </ul>
+				    <div class="qd_content">
+				    <ul><li><a href="http://data.eastmoney.com/zjlx/600635.html">大众公用</a></li><li class="linfo"><a href="http://data.eastmoney.com/zjlx/600635.html">详情</a> <a href="http://guba.eastmoney.com/topic,600635.html">股吧</a></li><li class="zlsj red">51.89%</li><li class="zdf red">18.02%</li></ul><ul><li><a href="http://data.eastmoney.com/zjlx/000599.html">青岛双星</a></li><li class="linfo"><a href="http://data.eastmoney.com/zjlx/000599.html">详情</a> <a href="http://guba.eastmoney.com/topic,000599.html">股吧</a></li><li class="zlsj red">47.92%</li><li class="zdf red">26.27%</li></ul><ul><li><a href="http://data.eastmoney.com/zjlx/000510.html">金路集团</a></li><li class="linfo"><a href="http://data.eastmoney.com/zjlx/000510.html">详情</a> <a href="http://guba.eastmoney.com/topic,000510.html">股吧</a></li><li class="zlsj red">41.27%</li><li class="zdf red">14.23%</li></ul><ul><li><a href="http://data.eastmoney.com/zjlx/600986.html">科达股份</a></li><li class="linfo"><a href="http://data.eastmoney.com/zjlx/600986.html">详情</a> <a href="http://guba.eastmoney.com/topic,600986.html">股吧</a></li><li class="zlsj red">40.98%</li><li class="zdf red">23.09%</li></ul>
+				    </div>
+					<div class="tb-moreLink"><a href="http://data.eastmoney.com/zjlx/list.html">点击查看全部&gt;&gt;</a></div>
+				</div>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="tabs">
+				<ul id="xg_sg_sh" class="ul-w123">
+					<li class="at"><h4><a href="http://data.eastmoney.com/zrz/dxzf.html">定向增发</a></h4></li>
+					<li><h4><a href="http://data.eastmoney.com/zrz/pg.html">公司配股</a></h4></li>
+				</ul>
+			</div>
+			<div class="content" id="xg_conts">
+				<div class="utable tb-xgsg">
+					<ul class="head">
+<li class="name">股票简称</li>
+<li class="info">相关</li>
+<li class="fxjg">发行价格</li>
+<li class="ssrq">上市日期</li>
+</ul>
+					<ul >
+						<li class="name"><a href="http://quote.eastmoney.com/600255.html">鑫科材料</a></li>
+						<li class="info"><a href="http://data.eastmoney.com/xg/dxzf/detail/600255.html">详细</a></li>
+						<li class="fxjg">5.16</li>
+						<li class="ssrq">09-23</li>
+					</ul>
+					<ul  class="odd">
+						<li class="name"><a href="http://quote.eastmoney.com/300071.html">华谊嘉信</a></li>
+						<li class="info"><a href="http://data.eastmoney.com/xg/dxzf/detail/300071.html">详细</a></li>
+						<li class="fxjg">9.90</li>
+						<li class="ssrq">-</li>
+					</ul>
+					<ul >
+						<li class="name"><a href="http://quote.eastmoney.com/300090.html">盛运股份</a></li>
+						<li class="info"><a href="http://data.eastmoney.com/xg/dxzf/detail/300090.html">详细</a></li>
+						<li class="fxjg">14.51</li>
+						<li class="ssrq">-</li>
+					</ul>
+					<ul  class="odd">
+						<li class="name"><a href="http://quote.eastmoney.com/000693.html">S*ST聚友</a></li>
+						<li class="info"><a href="http://data.eastmoney.com/xg/dxzf/detail/000693.html">详细</a></li>
+						<li class="fxjg">5.39</li>
+						<li class="ssrq">-</li>
+					</ul>
+					<ul >
+						<li class="name"><a href="http://quote.eastmoney.com/300006.html">莱美药业</a></li>
+						<li class="info"><a href="http://data.eastmoney.com/xg/dxzf/detail/300006.html">详细</a></li>
+						<li class="fxjg">21.34</li>
+						<li class="ssrq">-</li>
+					</ul>
+					<ul  class="odd">
+						<li class="name"><a href="http://quote.eastmoney.com/002092.html">中泰化学</a></li>
+						<li class="info"><a href="http://data.eastmoney.com/xg/dxzf/detail/002092.html">详细</a></li>
+						<li class="fxjg">6.78</li>
+						<li class="ssrq">09-17</li>
+					</ul>
+
+					<div class="tb-moreLink h23"><a href="http://data.eastmoney.com/zrz/dxzf.html">点击查看全部&gt;&gt;</a></div>
+				</div>
+				<div class="utable tb-xgsg" style="display:none;">
+					
+<ul class="head">
+<li class="name">股票简称</li>
+<li class="info">相关</li>
+<li class="fxjg">配股比例</li>
+<li class="ssrq">配股价</li>
+</ul>
+					<ul >
+					<li class="name"><a href="http://quote.eastmoney.com/600036.html">招商银行</a></li>
+					<li class="info"><a href="http://data.eastmoney.com/xg/pg/detail/600036.html">详细</a></li>
+					<li class="fxjg">10配1.74</td>
+					<li class="ssrq">9.29</td>
+					</ul>
+					<ul  class="odd">
+					<li class="name"><a href="http://quote.eastmoney.com/600118.html">中国卫星</a></li>
+					<li class="info"><a href="http://data.eastmoney.com/xg/pg/detail/600118.html">详细</a></li>
+					<li class="fxjg">10配3</td>
+					<li class="ssrq">5.45</td>
+					</ul>
+					<ul >
+					<li class="name"><a href="http://quote.eastmoney.com/600436.html">片仔癀</a></li>
+					<li class="info"><a href="http://data.eastmoney.com/xg/pg/detail/600436.html">详细</a></li>
+					<li class="fxjg">10配1.50</td>
+					<li class="ssrq">37.14</td>
+					</ul>
+					<ul  class="odd">
+					<li class="name"><a href="http://quote.eastmoney.com/600458.html">时代新材</a></li>
+					<li class="info"><a href="http://data.eastmoney.com/xg/pg/detail/600458.html">详细</a></li>
+					<li class="fxjg">10配3</td>
+					<li class="ssrq">8.80</td>
+					</ul>
+					<ul >
+					<li class="name"><a href="http://quote.eastmoney.com/600879.html">航天电子</a></li>
+					<li class="info"><a href="http://data.eastmoney.com/xg/pg/detail/600879.html">详细</a></li>
+					<li class="fxjg">10配3</td>
+					<li class="ssrq">6.01</td>
+					</ul>
+					<ul  class="odd">
+					<li class="name"><a href="http://quote.eastmoney.com/600497.html">驰宏锌锗</a></li>
+					<li class="info"><a href="http://data.eastmoney.com/xg/pg/detail/600497.html">详细</a></li>
+					<li class="fxjg">10配3</td>
+					<li class="ssrq">9.98</td>
+					</ul>
+
+				    
+					<div class="tb-moreLink h23"><a href="http://data.eastmoney.com/zrz/pg.html">点击查看全部&gt;&gt;</a></div>
+				</div>
+			</div>
+		</div>
+		<div class="mt8 h160">
+		    <textarea class="lyadArea hidden">
+		    <iframe width="250" height="160" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=682&op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=959&op=1"></iframe>
+		    </textarea>    
+		</div>
+		<div class="tabCon mt8">
+			<div class="titBar">
+				<h4>多空调查</h4>
+			</div>
+			<div class="content vote-box">
+				<div class="vote-tabs">
+					<ul id="vote_tabs">
+						<li class="at"><a>多空</a></li>
+						<li><a>持仓</a></li>
+						<li><a>机构</a></li>
+						<li><a>名家</a></li>
+					</ul>
+				</div>
+				<div id="vote_conts">
+				    <dl class="vote-cont">
+					    <dt>
+						    <img src="http://cmsjs.eastmoney.com/data/voteimg/vote11.png" width="150" height="100" alt="" border="0" />
+						    <cite class="mon">
+							    <b class="v-red"></b><span>上涨</span>
+							    <b></b><span>盘整</span>
+							    <b class="v-green"></b><span>下跌</span>
+						    </cite>
+					    </dt>
+					    <dd>
+						    <form name="vote_duokong" method="post" id="vote_duokong" action="http://vote.eastmoney.com/vote_look1.asp?action=vote" target="_blank">
+							    <label for="vote_sz"><input id="vote_sz" type="radio" name="radio" value="1" class="vote" checked="checked" />上涨</label>
+							    <label for="vote_pz"><input id="vote_pz" type="radio" name="radio" value="2" class="vote" />盘整</label>
+							    <label for="vote_xd"><input id="vote_xd" type="radio" name="radio" value="3" class="vote" />下跌</label>
+							    <span class="btnn"><button type="submit">投  票</button></span>
+							    <span class="btnn"><button type="button" id="lookVote1">查  看</button></span>
+						    </form>
+					    </dd>
+				    </dl>
+				    <dl class="vote-cont" style="display:none;">
+					    <dt>
+						    <img src="http://cmsjs.eastmoney.com/data/voteimg/vote21.png" width="150" height="100" alt="" border="0" />
+						    <cite>
+							    <b class="v-red"></b><span>≥70%</span>
+							    <b></b><span>30%～70%</span>
+							    <b class="v-green"></b><span>≤30%</span>
+						    </cite>
+					    </dt>
+					    <dd>
+						    <form name="vote_duokong" method="post" id="vote_chichang" action="http://vote.eastmoney.com/vote_look2.asp?action=vote" target="_blank">
+							    <label><input type="radio" name="radio" value="1" class="vote" checked="checked" />≥70%</label>
+							    <label><input type="radio" name="radio" value="2" class="vote" />30%～70%</label>
+							    <label><input type="radio" name="radio" value="3" class="vote" />≤30%</label>
+							    <span class="btnn"><button type="submit">投  票</button></span>
+							    <span class="btnn"><button type="button" id="lookVote2">查  看</button></span>
+						    </form>
+					    </dd>
+				    </dl>
+				    <dl class="vote-cont vote-pct" style="display:none;">
+					    <dt><span class="v-red" style="height:100%"><code>34.92%</code></span><cite>22家<br />看多</cite></dt><dt><span class="v-gray" style="height:86%"><code>30.16%</code></span><cite>19家<br />看平</cite></dt><dt><span class="v-green" style="height:100%"><code>34.92%</code></span><cite>22家<br />看空</cite></dt>
+				    </dl>
+				    <dl class="vote-cont vote-pct" style="display:none;">
+					    <dt><span class="v-red" style="height:100%"><code>35.71%</code></span><cite>15家<br />看多</cite></dt><dt><span class="v-gray" style="height:93%"><code>33.33%</code></span><cite>14家<br />看平</cite></dt><dt><span class="v-green" style="height:87%"><code>30.95%</code></span><cite>13家<br />看空</cite></dt>
+				    </dl>
+			    </div>
+			</div>
+		</div>
+	</div>
+	<div class="layout340">
+		<div class="tabCon">
+			<div class="titBar blue">
+				<h4><a href="http://stock.eastmoney.com/shichang.html">市场</a> / <a href="http://stock.eastmoney.com/zhuli.html">主力</a></h4>
+	      <div class="more txt gray"><a href="http://moni.eastmoney.com/">2013东方财富网模拟炒股大赛</a></div>
+			</div>
+			<div class="content nlist">
+			    <ul><li><a href="http://stock.eastmoney.com/news/1406,20130924325079997.html" ><strong>揭秘股指V型反转面纱</strong></a>&nbsp;<a href="http://stock.eastmoney.com/news/1405,20130924325073218.html" ><strong>节前紧抓两大投资主线</strong></a></li><li><a href="http://stock.eastmoney.com/shichang.html" >市场</a>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1407,20130924325089856.html" >沪指尾盘收复5日线 节前反弹有望持续</a></li><li><a href="http://stock.eastmoney.com/news/1407,20130924325088028.html" >一因素决定后市震荡行情</a>&nbsp;<a href="http://stock.eastmoney.com/news/1407,20130924325092635.html" >多空将继续争夺2215点</a></li><li><a href="http://stock.eastmoney.com/news/1407,20130924325100113.html" >反转风光下暗藏“温柔刀”</a>&nbsp;<a href="http://stock.eastmoney.com/news/1407,20130924325085880.html" >资金狙击金改过节</a></li><li><a href="http://stock.eastmoney.com/news/1407,20130924324874054.html" >三大细节定调夹缝周</a>&nbsp;<a href="http://stock.eastmoney.com/news/1407,20130924325121790.html" >震荡市中继续关注题材股</a></li><li><span class="red"><a href="http://stock.eastmoney.com/zhuli.html" >主力</a></span>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1423,20130924324846444.html" >基金抢食消费 近一个月4次调研三全食品</a></li><li><a href="http://stock.eastmoney.com/news/1423,20130924324848592.html" >公私募基金淡定应对QE变脸 无碍四季度投资策略</a></li><li><span class="lightblue"><a href="http://stock.eastmoney.com/globalroll.html" >全球直播</a></span>&nbsp;<span class="lightblue"><a href="http://stock.eastmoney.com/report.html" >研究报告</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/bkzj/jlr.html" >资金监测</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/zjlx/list.html" >主力排名</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/stock/lhb.html" >龙虎榜单</a></span></li></ul><ul><li><a href="http://fundact.eastmoney.com/ttxjb/" >收益超定存 随用随取</a>&nbsp;<span class="red"><a href="http://js5.eastmoney.com/tg.aspx?ID=96" >9月值得参与的三大题材！</a></span></li></ul>
+			</div>
+		</div>
+	</div>
+	<div class="layout340">
+		<div class="tabCon">
+			<div class="titBar blue">
+				<h4><a href="http://stock.eastmoney.com/gegu.html">个股</a> / <a href="http://stock.eastmoney.com/hangye.html">行业</a></h4>
+			</div>
+			<div class="content nlist">
+				<ul><li><a href="http://stock.eastmoney.com/news/1406,20130924325077335.html" ><strong>机构一致看好10金股</strong></a>&nbsp;<a href="http://stock.eastmoney.com/news/1411,20130924324942670.html" ><strong>9月机构最看好个股曝光</strong></a></li><li><a href="http://stock.eastmoney.com/gegu.html" >个股</a>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1418,20130924325034466.html" >金发科技一字涨停 承认申办民营银行</a>&nbsp;<a href="http://quote.eastmoney.com/gotoba.aspx?market=1&amp;code=600143" >评</a></li><li><a href="http://stock.eastmoney.com/news/1418,20130924324977333.html" >潜能恒信4天狂飙逾4成</a>&nbsp;<a href="http://quote.eastmoney.com/gotoba.aspx?market=2&amp;code=300191" >评</a>&nbsp;<a href="http://stock.eastmoney.com/news/1414,20130924324856571.html" >新文化：政策受益</a>&nbsp;<a href="http://quote.eastmoney.com/gotoba.aspx?market=2&amp;code=300336" >评</a></li><li><a href="http://stock.eastmoney.com/news/1478,20130924324863767.html" >伟星新材：买入评级</a>&nbsp;<a href="http://quote.eastmoney.com/gotoba.aspx?market=2&amp;code=002372" >评</a>&nbsp;<a href="http://stock.eastmoney.com/news/1478,20130924324862351.html" >奥飞动漫：增持评级</a>&nbsp;<a href="http://quote.eastmoney.com/gotoba.aspx?market=2&amp;code=002292" >评</a></li><li><span class="red"><a href="http://stock.eastmoney.com/hangye.html" >行业</a></span>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1408,20130924324831910.html" >电商体量进入万亿时代 5龙头享增长红利</a></li><li><a href="http://stock.eastmoney.com/news/1420,20130924325100254.html" >政策扰动加速医药板块分化 5只股强者恒强</a>&nbsp;<span class="lightblue"><a href="http://stock.eastmoney.com/hangye/hy465.html" >专区</a></span></li><li><a href="http://quote.eastmoney.com/center/BKList.html#trade_0_0?sortRule=0" >热门</a>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/hangye/hy447.html" >电子信息</a>&nbsp;<a href="http://stock.eastmoney.com/hangye/hy475.html" >银行</a>&nbsp;<a href="http://stock.eastmoney.com/hangye/hy473.html" >券商信托</a>&nbsp;<a href="http://stock.eastmoney.com/hangye/hy474.html" >保险</a>&nbsp;<a href="http://stock.eastmoney.com/hangye/hy429.html" >交运设备</a></li><li><span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1387" >领涨个股</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1388" >个股研报</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1389" >领涨行业一览</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1390" >行业研报一览</a></span></li></ul><ul><li><a href="http://js5.eastmoney.com/tg.aspx?ID=95" >私募资金流向大揭秘！</a>&nbsp;<span class="blue"><a href="http://js5.eastmoney.com/tg.aspx?ID=13" >首推&quot;上海自贸&quot;金融终端</a></span></li></ul>
+			</div>
+		</div>
+	</div>
+	<div class="layout690 mt8">
+		<div class="hot-list-box hot-list-box-out">
+			<ul class="tabs">
+				<li class="at"><a href="http://data.eastmoney.com/report/">个股研报</a></li>
+				<li><a href="http://data.eastmoney.com/stock/lhb.html">龙虎榜单</a></li>
+				<li><a href="http://data.eastmoney.com/executive/">高管持股</a></li>
+				<li><a href="http://data.eastmoney.com/dzjy/default.html">大宗交易</a></li>
+				<li><a href="http://data.eastmoney.com/rzrq/sh.html">融资融券</a></li>
+				<li><a href="http://data.eastmoney.com/stockcomment/">千股千评</a></li>
+			</ul>
+			<div class="content utable tb-ggyb">
+				
+				<ul class="head">
+					<li class="time">日期</li>
+					<li class="code">代码</li>
+					<li class="name">名称</li>
+					<li class="info">相关</li>
+					<li class="report">研报</li>
+					<li class="grade">评级</li>
+					<li class="name">机构</li>
+					<li class="price">2013预测</li>
+					<li class="price end">2014预测</li>
+				</ul>
+				
+<ul class="odd">
+<li class="time">09-24</li>
+<li class="code"><a href="http://quote.eastmoney.com/002603.html">002603</a></li>
+<li class="name"><a href="http://quote.eastmoney.com/002603.html">以岭药业</a></li>
+<li class="info"><a href="http://data.eastmoney.com/report/002603.html">研报</a> <a href="http://guba.eastmoney.com/topic,002603.html">股吧</a></li>
+<li class="report title"><a href="http://data.eastmoney.com/report/20130924/14277021-5504-f57b-507c-9afe647aa3e7.html">开启高增长通道,布局大健康领域</a></li>
+<li class="grade">增持</li>
+<li class="name"><a href="http://data.eastmoney.com/report/25_0.html">安信证券</a></li>
+<li class="price">0.950</li>
+<li class="price end">1.280</li>
+</ul>
+<ul class="">
+<li class="time">09-24</li>
+<li class="code"><a href="http://quote.eastmoney.com/002331.html">002331</a></li>
+<li class="name"><a href="http://quote.eastmoney.com/002331.html">皖通科技</a></li>
+<li class="info"><a href="http://data.eastmoney.com/report/002331.html">研报</a> <a href="http://guba.eastmoney.com/topic,002331.html">股吧</a></li>
+<li class="report title"><a href="http://data.eastmoney.com/report/20130924/5686c75f-fde8-5d14-3667-65580511b7da.html">业务领域稳步延伸,区域空间有效...</a></li>
+<li class="grade">谨慎推荐</li>
+<li class="name"><a href="http://data.eastmoney.com/report/88_0.html">东北证券</a></li>
+<li class="price">0.690</li>
+<li class="price end">0.830</li>
+</ul>
+<ul class="odd">
+<li class="time">09-24</li>
+<li class="code"><a href="http://quote.eastmoney.com/600016.html">600016</a></li>
+<li class="name"><a href="http://quote.eastmoney.com/600016.html">民生银行</a></li>
+<li class="info"><a href="http://data.eastmoney.com/report/600016.html">研报</a> <a href="http://guba.eastmoney.com/topic,600016.html">股吧</a></li>
+<li class="report title"><a href="http://data.eastmoney.com/report/20130924/bdb4b457-7f94-c694-7dd4-1420d94d2e2f.html">与阿里巴巴合作意在长远</a></li>
+<li class="grade">持有</li>
+<li class="name"><a href="http://data.eastmoney.com/report/67_0.html">中银国际</a></li>
+<li class="price">1.440</li>
+<li class="price end">1.470</li>
+</ul>
+
+			</div>
+		</div>
+	</div>
+	<div class="layout340">
+		<div class="tabCon mt8">
+			<div class="titBar blue">
+				<h4><a href="http://stock.eastmoney.com/newstock.html">新股</a> / <a href="http://stock.eastmoney.com/zairongzi.html">再融资</a></h4>
+			</div>
+			<div class="content nlist">
+				<ul><li><a href="http://stock.eastmoney.com/news/1448,20130924324853118.html" ><strong>传IPO国庆节后重启 80家过会公司将批量发行</strong></a></li><li><a href="http://stock.eastmoney.com/newstock.html" >新股</a>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1448,20130923324541535.html" >IPO改革终极目标 注册制向垃圾股宣战？</a></li><li><a href="http://stock.eastmoney.com/news/1450,20130924324855055.html" >黄湘源：IPO改革涉及大众利益 市场需要知情权</a></li><li><a href="http://stock.eastmoney.com/news/1448,20130924324856774.html" >四季度关键词：三中全会QE和IPO</a>&nbsp;<a href="http://stock.eastmoney.com/news/1450,20130924324851361.html" >优先股解圈钱市</a></li><li><a href="http://stock.eastmoney.com/zairongzi.html" >再融资</a>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1627,20130924324876512.html" >融资工具缺乏 银行业寄望发行优先股</a></li><li><a href="http://stock.eastmoney.com/news/1627,20130924324832437.html" >中环股份抛30亿定增预案</a>&nbsp;<a href="http://stock.eastmoney.com/news/1627,20130924324824070.html" >中色股份定增募资18亿</a></li><li><span class="lightblue"><a href="http://data.eastmoney.com/xg/xg/default.html" >新股申购</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/xg/xg/calendar.html" >发行日历</a></span>&nbsp;<span class="lightblue"><a href="http://quote.eastmoney.com/center/list.html" >新股行情</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/xg/xg/dxsyl.html" >打新收益</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/xg/xg/sbqy.html" >首发申报</a></span></li></ul>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="titBar blue">
+				<h4><a href="http://jigou.eastmoney.com/stock.html">机构观点</a></h4>
+			</div>
+			<div class="content nlist">
+			    <ul><li>[<a href="http://jigou.eastmoney.com/shandongshenguang/index.html" target="_blank">山东神光</a>] <a href="http://stock.eastmoney.com/news/1406,20130924325151538.html" target="_blank">自贸区继续发酵 先进和后进相互呼应</a></li><li>[<a href="http://jigou.eastmoney.com/qiankuntouzi/index.html" target="_blank">钱坤投资</a>] <a href="http://stock.eastmoney.com/news/1406,20130924325121790.html" target="_blank">震荡中继续关注题材股</a></li><li>[<a href="http://jigou.eastmoney.com/dongwuzhengquan/index.html" target="_blank">东吴证券</a>] <a href="http://stock.eastmoney.com/news/1406,20130924325089159.html" target="_blank">节前市场适度乐观 有限参与</a></li><li>[<a href="http://jigou.eastmoney.com/jufengtougu/index.html" target="_blank">巨丰投顾</a>] <a href="http://stock.eastmoney.com/news/1405,20130924325079997.html" target="_blank">揭V型反转面纱 探股指短期秘密</a></li><li>[<a href="http://jigou.eastmoney.com/huaxuntouzi/index.html" target="_blank">华讯投资</a>] <a href="http://stock.eastmoney.com/news/1405,20130924325073218.html" target="_blank">权重股下挫 节前紧抓两大投资主线</a></li><li>[<a href="http://jigou.eastmoney.com/jufengtougu/index.html" target="_blank">巨丰投顾</a>] <a href="http://stock.eastmoney.com/news/1406,20130924325010416.html" target="_blank">A股患上了IPO焦虑症</a></li></ul>
+			</div>
+		</div>
+		<div class="rlist mt8">
+			<cite><a href="http://jigou.eastmoney.com/"><b>机构一览</b></a></cite>
+		    <div class="imgList l285" id="jgyl_box">
+		        <ul><li><a href="http://jigou.eastmoney.com/Stock/shenzuozhiduoying" class="img" title="智多盈"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/201305101407501735284491.jpg" /><br />智多盈</a></li><li><a href="http://jigou.eastmoney.com/Stock/jufengtougu" class="img" title="巨丰投顾"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/201305101412481479956055.jpg" /><br />巨丰投顾</a></li><li><a href="http://jigou.eastmoney.com/Stock/bozhongtouzi" class="img" title="博众投资"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/2/21/201302211336041072324360.jpg" /><br />博众投资</a></li><li><a href="http://jigou.eastmoney.com/Stock/qiankuntouzi" class="img" title="钱坤投资"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/201305101415011040686728.jpg" /><br />钱坤投资</a></li><li><a href="http://jigou.eastmoney.com/Stock/huabaozhengquan" class="img" title="华宝证券"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/20130510141650139490719.jpg" /><br />华宝证券</a></li><li><a href="http://jigou.eastmoney.com/Stock/huaxuntouzi" class="img" title="华讯投资"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/201305101419371184824497.jpg" /><br />华讯投资</a></li><li><a href="http://jigou.eastmoney.com/Stock/kedetouzi" class="img" title="科德投资"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/201305101423381782381952.jpg" /><br />科德投资</a></li><li><a href="http://jigou.eastmoney.com/Stock/zhongxinjiantou" class="img" title="中信建投"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/201305101427331008067085.jpg" /><br />中信建投</a></li><li><a href="http://jigou.eastmoney.com/Stock/jinbailintouzi" class="img" title="金百临"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/20130510143042991135795.jpg" /><br />金百临</a></li><li><a href="http://jigou.eastmoney.com/Stock/guangdazhengquan" class="img" title="光大证券"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/201305101431562010213215.jpg" /><br />光大证券</a></li><li><a href="http://jigou.eastmoney.com/Stock/anxinzhengquan" class="img" title="安信证券"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/201305101434521849652650.jpg" /><br />安信证券</a></li><li><a href="http://jigou.eastmoney.com/Stock/dongfangzhengquan" class="img" title="东方证券"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/20130510143547679204884.jpg" /><br />东方证券</a></li><li><a href="http://jigou.eastmoney.com/Stock/wanlianzhengquan" class="img" title="万联证券"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/201305101436521035437943.jpg" /><br />万联证券</a></li><li><a href="http://jigou.eastmoney.com/Stock/guoyuanzhengquan" class="img" title="国元证券"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/2013051014435117477486.jpg" /><br />国元证券</a></li><li><a href="http://jigou.eastmoney.com/Stock/dongxingzhengquan" class="img" title="东兴证券"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/10/201305101444421022130214.jpg" /><br />东兴证券</a></li></ul>
+		    </div>
+            <span id="scroll_jgyl" class="imgList-dot"></span>
+		</div>
+    </div>
+	<div class="layout340">
+		<div class="tabCon mt8">
+			<div class="titBar blue">
+				<h4><a href="http://stock.eastmoney.com/bgu.html">B股</a> / <a href="http://stock.eastmoney.com/chuangyeban.html">创业板</a> / <a href="http://stock.eastmoney.com/sanban.html">三板</a></h4>
+			</div>
+			<div class="content nlist">
+				<ul><li><a href="http://stock.eastmoney.com/news/1451,20130924325073961.html" ><strong>创业板指全日微幅收涨 金亚科技等6股涨停</strong></a></li><li><a href="http://stock.eastmoney.com/bgu.html" >B股</a>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1432,20130924325076553.html" >沪深B指双双收跌</a>&nbsp;<a href="http://stock.eastmoney.com/news/1434,20130924324877167.html" >鄂尔多斯股东增持B股</a></li><li><span class="lightblue"><a href="http://quote.eastmoney.com/center/list.html#absh_0_4" >沪深AB股比价</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/zjlx/detail.html#shb" >沪市B股资金流</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/zjlx/detail.html#szb" >深市B股资金</a></span>&nbsp;<span class="lightblue"><a href="http://guba.eastmoney.com/topic,bg.html" >B股吧</a></span></li><li><span class="red"><a href="http://stock.eastmoney.com/chuangyeban.html" >创业板</a></span>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1451,20130923324811248.html" >创业板创历史新高 长假前当心钱荒扰市</a></li><li><a href="http://stock.eastmoney.com/news/1456,20130924324914516.html" >创业板首次站上1300点 把握成长股的三大策略</a></li><li><a href="http://stock.eastmoney.com/sanban.html" >三板</a>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1614,20130924324902217.html" >成都锦江区备战新三板</a>&nbsp;<a href="http://stock.eastmoney.com/news/1614,20130924324898191.html" >储备企业数量激增</a></li><li><span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1391" >创业板行情一览</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1392" >创业板资金</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1393" >B股行情</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1394" >三板行情表</a></span></li></ul>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="titBar blue">
+				<h4><a href="http://mingjia.eastmoney.com/stock.html">名家专栏</a></h4>
+			</div>
+			<div class="content nlist">
+			    <ul><li>[<a href="http://mingjia.eastmoney.com/qidapeng/index.html" target="_blank">祁大鹏</a>] <a href="http://stock.eastmoney.com/news/1406,20130924325092635.html" target="_blank">多空继续争夺2215点</a></li><li>[<a href="http://mingjia.eastmoney.com/chenzili2/index.html" target="_blank">陈自力</a>] <a href="http://stock.eastmoney.com/news/1406,20130924325086972.html" target="_blank">“城市基建”可进行中长线战略布局</a></li><li>[<a href="http://mingjia.eastmoney.com/yingjianzhong/index.html" target="_blank">应健中</a>] <a href="http://stock.eastmoney.com/news/1413,20130924324955434.html" target="_blank">股市就是讲故事</a></li><li>[<a href="http://mingjia.eastmoney.com/suyu/index.html" target="_blank">苏　渝</a>] <a href="http://stock.eastmoney.com/news/1413,20130924324945460.html" target="_blank">兴民钢圈大圈套背后有故事</a></li><li>[<a href="http://mingjia.eastmoney.com/shazuonong/index.html" target="_blank">沙黾农</a>] <a href="http://finance.eastmoney.com/news/1370,20130924324848762.html" target="_blank">创业板是行情支点 股民别再错过中小板盛宴</a></li><li>[<a href="http://mingjia.eastmoney.com/chencao/index.html" target="_blank">陈　操</a>] <a href="http://stock.eastmoney.com/news/1413,20130923324770232.html" target="_blank">三中全会之前市场的投资策略</a></li></ul>
+			</div>
+		</div>
+		<div class="rlist mt8">
+			<cite><a href="http://mingjia.eastmoney.com/"><b>名家一览</b></a></cite>
+		    <div class="imgList l285" id="mjyl_box">
+	            <ul><li><a href="http://mingjia.eastmoney.com/Stock/chenwei" class="img" title="陈伟"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/5/24/201305241524101335282868.jpg" /><br />陈伟</a></li><li><a href="http://mingjia.eastmoney.com/Stock/zhanggang" class="img" title="张刚"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/1/30/201301301421011661292665.jpg" /><br />张刚</a></li><li><a href="http://mingjia.eastmoney.com/Stock/qidapeng" class="img" title="祁大鹏"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/1/30/20130130141707158844701.jpg" /><br />祁大鹏</a></li><li><a href="http://mingjia.eastmoney.com/Stock/chenzongbao" class="img" title="陈宗宝"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/2/17/201302171439381832844862.jpg" /><br />陈宗宝</a></li><li><a href="http://mingjia.eastmoney.com/Stock/qinhong" class="img" title="秦洪"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/6/18/201306181015431458037257.jpg" /><br />秦洪</a></li><li><a href="http://mingjia.eastmoney.com/Stock/chenzili2" class="img" title="陈自力"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2010/11/26/20101126094302687770762.jpg" /><br />陈自力</a></li><li><a href="http://mingjia.eastmoney.com/Stock/xiaoyuhang" class="img" title="肖玉航"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/6/18/20130618101351140983229.jpg" /><br />肖玉航</a></li><li><a href="http://mingjia.eastmoney.com/Stock/suyu" class="img" title="苏渝"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/6/18/201306181014551416775994.jpg" /><br />苏渝</a></li><li><a href="http://mingjia.eastmoney.com/Stock/guihaoming" class="img" title="桂浩明"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/6/18/201306181018091792235680.jpg" /><br />桂浩明</a></li><li><a href="http://mingjia.eastmoney.com/Stock/gumingde" class="img" title="顾铭德"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/1/29/20130129195138514530099.jpg" /><br />顾铭德</a></li><li><a href="http://mingjia.eastmoney.com/Stock/panminli" class="img" title="潘敏立"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/6/18/201306181039342110283941.jpg" /><br />潘敏立</a></li><li><a href="http://mingjia.eastmoney.com/Stock/chenjian" class="img" title="陈健"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/6/18/20130618104010895393686.jpg" /><br />陈健</a></li><li><a href="http://mingjia.eastmoney.com/Stock/chenhuiqin" class="img" title="陈慧琴"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/6/18/20130618102110611385888.jpg" /><br />陈慧琴</a></li><li><a href="http://mingjia.eastmoney.com/Stock/yingjianzhong" class="img" title="应健中"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/6/18/20130618101845399050052.jpg" /><br />应健中</a></li><li><a href="http://mingjia.eastmoney.com/Stock/hewannan" class="img" title="贺宛男"><img alt="" width="40" height="40" src="http://z1.dfcfw.com/2013/6/18/201306181016301457165009.jpg" /><br />贺宛男</a></li></ul>
+		    </div>
+            <span id="scroll_mjyl" class="imgList-dot"></span>
+		</div>
+	</div>
+	<div class="layout690 mt8 h90">
+	    <textarea class="lyadArea hidden">
+		<iframe width="690" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=7&op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=958&op=1"></iframe>
+	    </textarea>	
+	</div>
+	<div class="spacer8"></div>
+</div>
+<div class="wrap">
+	<div class="layout250">
+		<div class="tabCon">
+			<div class="tabs">
+				<ul id="tw_sdyd_hy" class="ul-w123">
+					<li class="at"><h4><a href="http://finance.eastmoney.com/news/czsdc.html">深度阅读</a></h4></li>
+					<li><h4><a href="http://topic.eastmoney.com/huiyi.html">会议</a></h4></li>
+				</ul>
+			</div>
+			<div class="content nlist" id="tw_conts">
+				<div>
+					<div class="ilist tw250 tw-dashed">
+						<a href="http://media.eastmoney.com/MagazineView.aspx?mId=209" class="img" title="金融改革迈入深水区"><img alt="中国金融领域问题在很多地方都存在..." width="64" height="64" src="http://z1.dfcfw.com/2013/5/24/201305241818491129252838.jpg" /></a><a href="http://media.eastmoney.com/MagazineView.aspx?mId=209" class="title">金融改革迈入深水区</a><cite class="info">中国金融领域问题在很多地方都存在...<span class="more">[<a href="http://media.eastmoney.com/MagazineView.aspx?mId=209">详细</a>]</span></cite>
+					</div>
+					<ul><li><a href="http://media.eastmoney.com/MagazineView.aspx?mId=216" >中国企业起死回生启示录</a></li><li><a href="http://media.eastmoney.com/MagazinesView.aspx?mId=210#1" >陈欧：复盘危机</a></li><li><a href="http://media.eastmoney.com/MagazinesView.aspx?mId=217#1" >奶业败局</a></li><li><a href="http://media.eastmoney.com/MagazinesView.aspx?mId=218#1" >永远的激情</a></li></ul>
+				</div>
+				<div style="display:none;">
+					<div class="ilist tw250 tw-dashed">
+						<a href="http://topic.eastmoney.com/2013dws/" class="img" title="2013夏季达沃斯论坛"><img alt=" 本次盛典9月11日在大连举行……" width="64" height="64" src="http://z1.dfcfw.com/2013/9/10/201309101116441438462251.jpg" /></a><a href="http://topic.eastmoney.com/2013dws/" class="title">2013夏季达沃斯论坛</a><cite class="info"> 本次盛典9月11日在大连举行……<span class="more">[<a href="http://topic.eastmoney.com/2013dws/">详细</a>]</span></cite>
+					</div>
+					<ul><li><a href="http://topic.eastmoney.com/zhushitouzi/" >指数化投资论坛</a>&nbsp;<a href="http://topic.eastmoney.com/fangxiang/" >券商“金方向”奖评选</a></li><li><a href="http://topic.eastmoney.com/qiquan/" >期权高峰研讨会</a>&nbsp;<a href="http://topic.eastmoney.com/ssgs/" >CCTV上市公司峰会</a></li><li><a href="http://topic.eastmoney.com/yinhang/" >沪银行业人力资源年会</a>&nbsp;<a href="http://topic.eastmoney.com/2013boao/" >博鳌房地产论坛</a></li><li><a href="http://topic.eastmoney.com/shangwu/" >电子商务产业峰会</a>&nbsp;<a href="http://topic.eastmoney.com/shangxueyuan/" >企业商学院院长论坛</a></li></ul>
+				</div>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="tabs">
+				<ul id="futures_gn_gj" class="ul-w123">
+					<li class="at"><h4><a href="http://quote.eastmoney.com/center/list.html#gjqh_5">国际期货</a></h4></li>
+					<li><h4><a href="http://quote.eastmoney.com/center/futurelist.html#11_5_0">国内期货</a></h4></li>
+				</ul>
+			</div>
+			<div class="content utable" id="futures_conts">
+				<div class="col3 tb-xgsg">
+					<ul class="head">
+						<li class="name">品种</li>
+						<li class="price">最新价</li>
+						<li class="present">涨跌幅</li>
+					</ul>
+					
+<ul class="_odd">
+<li class="pz"><a href="http://quote.eastmoney.com/qihuo/DINI.html">美元指数</a></li>
+<li class="price red">80.54</li>
+<li class="present red">0.10%</li>
+</ul>
+<ul class="">
+<li class="pz"><a href="http://quote.eastmoney.com/qihuo/GLNC.html">美黄金</a></li>
+<li class="price green">1316.1</li>
+<li class="present green">-0.82%</li>
+</ul>
+<ul class="_odd">
+<li class="pz"><a href="http://quote.eastmoney.com/gjqh/SLNC.html">白银指数</a></li>
+<li class="price green">21.6</li>
+<li class="present green">-1.37%</li>
+</ul>
+<ul class="">
+<li class="pz"><a href="http://quote.eastmoney.com/qihuo/CONC.html">原油指数</a></li>
+<li class="price green">103.08</li>
+<li class="present green">-0.29%</li>
+</ul>
+<ul class="_odd">
+<li class="pz"><a href="http://quote.eastmoney.com/gjqh/SBCC.html">美豆指数</a></li>
+<li class="price red">1311.2</li>
+<li class="present red">0.80%</li>
+</ul>
+<ul class="">
+<li class="pz"><a href="http://quote.eastmoney.com/gjqh/WHCC.html">美小麦指</a></li>
+<li class="price green">655.2</li>
+<li class="present green">-0.21%</li>
+</ul>
+
+					<div class="tb-moreLink h23"><a href="http://quote.eastmoney.com/center/list.html#gjqh_5">点击查看全部&gt;&gt;</a></div>
+				</div>
+				<div class="col3 tb-xgsg" style="display:none;">
+				    <ul class="head">
+					    <li class="name">品种</li>
+					    <li class="price">最新价</li>
+					    <li class="present">涨跌幅</li>
+				    </ul>
+				    <ul><li class="name"><a href="http://quote.eastmoney.com/qihuo/RB1401.html">螺纹钢01</a></li><li class="price green">3627</li><li class="present green">-0.27%</li></ul><ul><li class="name"><a href="http://quote.eastmoney.com/qihuo/AG1312.html">沪银12</a></li><li class="price green">4370</li><li class="present green">-1.15%</li></ul><ul><li class="name"><a href="http://quote.eastmoney.com/qihuo/CU1312.html">沪期铜12</a></li><li class="price green">51750</li><li class="present green">-0.25%</li></ul><ul><li class="name"><a href="http://quote.eastmoney.com/qihuo/AL1312.html">沪期铝12</a></li><li class="price red">14210</li><li class="present red">0.46%</li></ul><ul><li class="name"><a href="http://quote.eastmoney.com/qihuo/RU1401.html">沪天胶01</a></li><li class="price green">20635</li><li class="present green">-0.51%</li></ul><ul><li class="name"><a href="http://quote.eastmoney.com/qihuo/AU1312.html">沪黄金12</a></li><li class="price green">262.50</li><li class="present green">-0.68%</li></ul>
+				    <div class="tb-moreLink h23"><a href="http://quote.eastmoney.com/center/futurelist.html#11_5_0">点击查看全部&gt;&gt;</a></div>
+				</div>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="tabs">
+				<ul id="gng_ah" class="ul-w123">
+					<li class="at"><h4 class="d5"><a href="http://quote.eastmoney.com/center/list.html#28CHINAINTERNET_2">中国概念股</a></h4></li>
+					<li><h4><a href="http://quote.eastmoney.com/center/list.html#ah_1">AH股比价</a></h4></li>
+				</ul>
+			</div>
+			<div class="content utable" id="gng_ah_conts">
+				<div class="col3 tb-xgsg">
+					<ul class="head">
+						<li class="name">名称</li>
+						<li class="price">最新价(美元)</li>
+						<li class="present">涨跌幅</li>
+					</ul>
+					
+<ul class="odd">
+<li class="pz"><a href="http://quote.eastmoney.com/us/BIDU.html">百度</a></li>
+<li class="price red">153.47</li>
+<li class="present red">2.82%</li>
+</ul>
+<ul class="">
+<li class="pz"><a href="http://quote.eastmoney.com/us/SINA.html">新浪</a></li>
+<li class="price red">80.13</li>
+<li class="present red">0.39%</li>
+</ul>
+<ul class="odd">
+<li class="pz"><a href="http://quote.eastmoney.com/us/SOHU.html">搜狐</a></li>
+<li class="price red">73.09</li>
+<li class="present red">1.26%</li>
+</ul>
+<ul class="">
+<li class="pz"><a href="http://quote.eastmoney.com/us/NTES.html">网易</a></li>
+<li class="price green">71.64</li>
+<li class="present green">-1.55%</li>
+</ul>
+<ul class="odd">
+<li class="pz"><a href="http://quote.eastmoney.com/us/QIHU.html">奇虎360</a></li>
+<li class="price green">86.78</li>
+<li class="present green">-0.42%</li>
+</ul>
+<ul class="">
+<li class="pz"><a href="http://quote.eastmoney.com/us/YOKU.html">优酷</a></li>
+<li class="price green">27.00</li>
+<li class="present green">-0.04%</li>
+</ul>
+
+					<div class="tb-moreLink h23"><a href="http://quote.eastmoney.com/center/list.html#28CHINAINTERNET_2">点击查看全部&gt;&gt;</a></div>
+				</div>
+				<div class="ahgu tb-xgsg" style="display:none;">
+					<ul class="head">
+						<li class="name">股票名称</li>
+						<li class="price">A股(RMB)</li>
+						<li class="price">H股(HKD)</li>
+						<li class="zdf">比价</li>
+					</ul>
+					<ul><li class="name"><a href="http://quote.eastmoney.com/hk/01186.html">中国铁建</a></li><li class="price green">5.00</li><li class="price green">8.320</li><li class="zdf">1.32</li></ul><ul><li class="name"><a href="http://quote.eastmoney.com/hk/00914.html">安徽海螺水泥股份</a></li><li class="price red">16.00</li><li class="price green">26.150</li><li class="zdf">1.30</li></ul><ul><li class="name"><a href="http://quote.eastmoney.com/hk/00347.html">鞍钢股份</a></li><li class="price green">3.14</li><li class="price green">5.070</li><li class="zdf">1.28</li></ul><ul><li class="name"><a href="http://quote.eastmoney.com/hk/02318.html">中国平安</a></li><li class="price green">36.91</li><li class="price green">59.550</li><li class="zdf">1.28</li></ul><ul><li class="name"><a href="http://quote.eastmoney.com/hk/02601.html">中国太保</a></li><li class="price green">17.96</li><li class="price green">29.100</li><li class="zdf">1.28</li></ul><ul><li class="name"><a href="http://quote.eastmoney.com/hk/00177.html">江苏宁沪高速公路</a></li><li class="price green">5.55</li><li class="price green">8.910</li><li class="zdf">1.27</li></ul>
+					<div class="tb-moreLink h23"><a href="http://quote.eastmoney.com/center/list.html#ah_1">点击查看全部&gt;&gt;</a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="layout340">
+		<div class="tabCon">
+			<div class="titBar">
+				<h4><a href="http://finance.eastmoney.com/news/chgjj.html">宏观经济</a> / <a href="http://finance.eastmoney.com/news/ccjxw.html">产经</a></h4>
+			</div>
+			<div class="content nlist">
+			    <ul><li><a href="http://finance.eastmoney.com/news/1344,20130924325052347.html" ><strong>沪自贸区将放开存贷利率 外资行享国民待遇</strong></a></li><li><a href="http://finance.eastmoney.com/news/chgjj.html" >宏观</a>&nbsp;|&nbsp;<a href="http://finance.eastmoney.com/news/1344,20130924324837510.html" >城镇化融资方案初现端倪 高层频提市政债</a></li><li><a href="http://finance.eastmoney.com/news/1344,20130924325030642.html" >资金利率整体跳涨 大行也借钱</a>&nbsp;<a href="http://finance.eastmoney.com/news/1585,20130924324982744.html" >央行880亿逆回购</a></li><li><a href="http://finance.eastmoney.com/news/ccjxw.html" >产经</a>&nbsp;|&nbsp;<a href="http://finance.eastmoney.com/news/1345,20130924324828316.html" >汽柴油明确升级加价 油企承担30%成本</a></li><li><a href="http://finance.eastmoney.com/news/1345,20130924324819159.html" >京津冀大气污染防治：不再审批钢铁水泥新增项目</a></li><li><a href="http://js1.eastmoney.com/tg.aspx?ID=1416" >行业</a>&nbsp;|&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=1417" >银行</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=1418" >房地产</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=1419" >钢铁</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=1420" >煤炭</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=1421" >汽车</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=1422" >化工</a>&nbsp;<a href="http://js1.eastmoney.com/tg.aspx?ID=1423" >有色</a></li><li><span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=644" >财经日历</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1365" >经济数据：</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/cjsj/gdp.html" >GDP</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1366" >CPI</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1367" >PPI</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/cjsj/pmi.html" >PMI</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1368" >新增信贷</a></span></li></ul>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="titBar">
+				<h4><a href="http://futures.eastmoney.com/">期货</a> / <a href="http://xianhuo.eastmoney.com/">现货</a> / <a href="http://stock.eastmoney.com/gzqh.html">股指期货</a></h4>
+			</div>
+			<div class="content nlist">
+			    <ul><li><a href="http://futures.eastmoney.com/news/1520,20130924325083363.html" ><strong>近约菜粕涨停 菜籽无人问津</strong></a>&nbsp;<a href="http://futures.eastmoney.com/news/1512,20130924325124255.html" ><strong>关注伊朗核谈判</strong></a></li><li><a href="http://futures.eastmoney.com/" >期货</a>&nbsp;|&nbsp;<span class="red"><a href="http://topic.eastmoney.com/DLM/" >中国期市迎“航母” 动力煤期货周四上市</a></span></li><li><a href="http://futures.eastmoney.com/news/1512,20130924324812632.html" >钢铁业减产如闻“狼来了”</a>&nbsp;<a href="http://futures.eastmoney.com/news/1512,20130924324850529.html" >焦炭需求在缓慢回升</a></li><li><a href="http://futures.eastmoney.com/news/1723,20130924324843239.html" >银行参与获批渐近 国债期货扩容究竟能掀几重浪</a></li><li><a href="http://stock.eastmoney.com/gzqh.html" >期指</a>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1463,20130924325088322.html" >周二期指合约全线下跌 主力合约跌1.19%</a></li><li><a href="http://xianhuo.eastmoney.com/" >现货</a>&nbsp;|&nbsp;<a href="http://futures.eastmoney.com/news/1518,20130924324854945.html" >产能扩张 玻璃高贴水格局将有望得到改善</a></li><li><span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1369" >期货行情</a></span>&nbsp;<span class="red"><a href="http://quote.eastmoney.com/center/list.html#13_5_3" >国债期货行情</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1371" >期指行情</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1372" >期指龙虎榜单</a></span></li></ul>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="titBar">
+				<h4><a href="http://hk.eastmoney.com/">港股</a> / <a href="http://stock.eastmoney.com/america.html">美股</a> / <a href="http://stock.eastmoney.com/global.html">全球</a></h4>
+			</div>
+			<div class="content nlist">
+			    <ul><li><a href="http://hk.eastmoney.com/news/1532,20130924324876626.html" ><strong>刘永好买民生银行H股卖A股 两月套利8200万</strong></a></li><li><a href="http://hk.eastmoney.com/" >港股</a>&nbsp;<span>|</span>&nbsp;<a href="http://hk.eastmoney.com/news/1532,20130924324816595.html" >食品药监局调查汇源等使用腐烂瞎果榨汁</a></li><li><a href="http://hk.eastmoney.com/news/1532,20130924324862448.html" >华人置业主席否认洗黑钱</a>&nbsp;<a href="http://hk.eastmoney.com/news/1532,20130924324835349.html" >意马国际5亿贱卖喜羊羊</a></li><li><span class="red"><a href="http://stock.eastmoney.com/america.html" >美股</a></span>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1436,20130924324821352.html" >巨量资金流入美股 堪比互联网泡沫时期</a></li><li><a href="http://stock.eastmoney.com/news/1436,20130924324818351.html" >罗杰斯：目前有三大投资良机 想和太太去安哥拉</a></li><li><a href="http://stock.eastmoney.com/global.html" >全球</a>&nbsp;|&nbsp;<a href="http://stock.eastmoney.com/news/1436,20130924324823487.html" >美国信贷泡沫回归：规模较07年大增97%</a></li><li><span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1373" >港股行情</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1374" >AH股比价表</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1375" >美股行情</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1376" >中国概念股行情</a></span></li></ul>
+			</div>
+		</div>
+	</div>
+	<div class="layout340">
+		<div class="tabCon">
+			<div class="titBar">
+				<h4><a href="http://finance.eastmoney.com/company.html">公司</a> / <a href="http://biz.eastmoney.com/">商业</a> / <a href="http://enterprise.eastmoney.com/">创业</a></h4>
+			</div>
+			<div class="content nlist">
+			    <ul><li><a href="http://finance.eastmoney.com/news/1345,20130924324827132.html" ><strong>工信部否认组建乳企 国资背景领衔行业重组</strong></a></li><li><span class="red"><a href="http://finance.eastmoney.com/company.html" >公司</a></span>&nbsp;|&nbsp;<a href="http://finance.eastmoney.com/news/1354,20130924324820088.html" >好想你关停600家专卖店 占专卖店总数3成</a></li><li><a href="http://finance.eastmoney.com/news/1353,20130924324820698.html" >传安信证券高善文程定华或同期离职</a>&nbsp;<a href="http://finance.eastmoney.com/news/1585,20130924324971061.html" >高善文否认</a></li><li><a href="http://biz.eastmoney.com/" >商业</a>&nbsp;|&nbsp;<a href="http://biz.eastmoney.com/news/1671,20130924324814825.html" >格力进入董明珠时代 一年后的变与不变</a></li><li><a href="http://finance.eastmoney.com/news/1354,20130924324815138.html" >中鼎国际的成长与烦恼 首家“走出去”煤炭企业</a></li><li><a href="http://enterprise.eastmoney.com/" >创业</a>&nbsp;|&nbsp;<a href="http://biz.eastmoney.com/news/1674,20130923324518735.html" >家族企业二代掌门：创利能力远低一代</a></li><li><span class="lightblue"><a href="http://enterprise.eastmoney.com/news/cctyj.html" >创投研究</a></span>&nbsp;<span class="lightblue"><a href="http://biz.eastmoney.com/news/crwz.html" >创业人物</a></span>&nbsp;<span class="lightblue"><a href="http://enterprise.eastmoney.com/venture/touzi.html" >投资事件</a></span>&nbsp;<span class="lightblue"><a href="http://enterprise.eastmoney.com/venture/binggou.html" >并购机构</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1395" >商业观察</a></span></li></ul>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="titBar">
+				<h4><a href="http://forex.eastmoney.com/">外汇</a> / <a href="http://gold.eastmoney.com/">黄金</a> / <a href="http://trust.eastmoney.com/">信托</a></h4>
+			</div>
+			<div class="content nlist">
+			    <ul><li><a href="http://gold.eastmoney.com/news/1569,20130924324890962.html" ><strong>印度黄金价格飙升</strong></a>&nbsp;<a href="http://gold.eastmoney.com/news/1570,20130924325086832.html" ><strong>金价有望整理后重回升势</strong></a></li><li><span class="red"><a href="http://forex.eastmoney.com/" >外汇</a></span>&nbsp;|&nbsp;<a href="http://forex.eastmoney.com/news/1129,20130924325169544.html" >三大央行相互较劲 宽松仍为市场主旋律</a></li><li><a href="http://forex.eastmoney.com/news/1129,20130924324828536.html" >欧元升值害苦欧洲跨国巨头</a>&nbsp;<a href="http://forex.eastmoney.com/news/1129,20130924324957070.html" >美元有望继续升值</a></li><li><a href="http://gold.eastmoney.com/" >黄金</a>&nbsp;|&nbsp;<a href="http://gold.eastmoney.com/news/1569,20130924324858665.html" >散户总结假日悲催境遇：每逢佳节空欢喜</a></li><li><a href="http://gold.eastmoney.com/news/1570,20130924324850894.html" >巴克莱：金价将涨至1482</a>&nbsp;<a href="http://gold.eastmoney.com/news/1721,20130924324854171.html" >德银：白银回报率最高</a></li><li><a href="http://trust.eastmoney.com/" >信托</a>&nbsp;|&nbsp;<a href="http://trust.eastmoney.com/news/1656,20130924324939154.html" >竞争倒逼压缩报酬率 中期信托收益率上升</a></li><li><span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1400" >外汇牌价一览表</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1401" >黄金报价</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1399" >实物黄金</a></span>&nbsp;<span class="lightblue"><a href="http://js1.eastmoney.com/tg.aspx?ID=1402" >信托产品</a></span></li></ul>
+			</div>
+		</div>
+		<div class="tabCon mt8">
+			<div class="titBar">
+				<h4><a href="http://bank.eastmoney.com/">银行</a> / <a href="http://insurance.eastmoney.com/">保险</a> / <a href="http://bond.eastmoney.com/">债券</a></h4>
+			</div>
+			<div class="content nlist">
+			    <ul><li><a href="http://bond.eastmoney.com/news/1325,20130924324837510.html" ><strong>城镇化融资方案初现端倪：高层频提市政债券</strong></a></li><li><a href="http://bank.eastmoney.com/" >银行</a>&nbsp;|&nbsp;<a href="http://bank.eastmoney.com/news/1174,20130924324872625.html" >揽存压力蔓延 银行员工办房贷也要求额度</a></li><li><a href="http://bank.eastmoney.com/news/1174,20130924324886426.html" >银行中长期存款利率上浮到顶 10万存3年多1275元</a></li><li><a href="http://insurance.eastmoney.com/" >保险</a>&nbsp;|&nbsp;<a href="http://insurance.eastmoney.com/news/1214,20130924324867930.html" >长假出游如何购险 出境游要选全面型产品</a></li><li><a href="http://insurance.eastmoney.com/news/1214,20130924324866497.html" >上海自贸区或向外资险企开放 保险业格局或生变</a></li><li><a href="http://bond.eastmoney.com/" >债券</a>&nbsp;|&nbsp;<a href="http://bond.eastmoney.com/news/1325,20130924324846389.html" >四季度信用债券投资策略：花相似 人不同</a></li><li><span class="lightblue"><a href="http://data.eastmoney.com/money/financial.html" >银行产品</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/money/insurance.html" >保险产品</a></span>&nbsp;<span class="lightblue"><a href="http://data.eastmoney.com/cjsj/yhcjll.html" >拆借利率</a></span>&nbsp;<span class="lightblue"><a href="http://quote.eastmoney.com/center/bond.html" >债券行情</a></span>&nbsp;<span class="lightblue"><a href="http://bond.eastmoney.com/data/newbond.html" >新发债券</a></span></li></ul>
+			</div>
+		</div>
+	</div>
+	<div class="spacer8"></div>
+</div>
+<div class="wrap">
+	<div class="layout250 g235">
+	    <textarea class="lyadArea hidden">
+	    <iframe width="250" height="235" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=887&op=1" isrc="http://same.eastmoney.com/s?z=eastmoney&c=960&op=1"></iframe>
+	    </textarea>
+	</div>
+	<div class="layout690">
+		<div class="tabCon">
+			<div class="titBar blue">
+				<h4><a href="http://life.eastmoney.com/">财富生活</a></h4>
+			</div>
+			<div class="content nlist h235">
+				<div class="tw332">
+				    <a href="http://life.eastmoney.com/news/11001,2013092414464975.html" title="全球十大幸福国度" class="img"><img width="111" height="67" alt="" src="http://z1.dfcfw.com/2013/9/24/20130924094312922970633.jpg" /><br />全球十大幸福国度</a><ul><li><span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=1495" >实拍蒙古国街头百姓的真实生活</a></span></li><li><a href="http://life.eastmoney.com/news/11001,2013092414464459.html" >国色天香 惊艳的世界级大美女</a></li><li><a href="http://life.eastmoney.com/news/11001,2013092414464513.html" >珍贵！毛泽东与周恩来罕见合影</a></li><li><a href="http://life.eastmoney.com/news/11001,2013092414464326.html" >揭娱乐圈女星与土豪的混乱情史</a></li></ul>
+					<ul class="tw332-below"><li><a href="http://life.eastmoney.com/news/11001,2013092414467663.html" >为艺术献身的女明星！赤裸上镜也需要勇气(组图)</a></li><li><span class="red"><a href="http://life.eastmoney.com/news/11001,2013092414466256.html" >你绝对没见过的 看看刘晓庆当年有多美！(组图)</a></span></li><li><a href="http://life.eastmoney.com/news/11001,2013092414467599.html" >世上最可怕九个居住地 环境肮脏被称“死亡谷”</a></li><li><a href="http://life.eastmoney.com/news/11001,2013092414468279.html" >带你走进欲望之都芭提雅 亲身体验泰国人妖文化</a></li></ul>
+				</div>
+				<div class="tw332 l-dashed">
+				    <a href="http://life.eastmoney.com/news/11001,2013092414464877.html" title="盘点中国亿万千金" class="img"><img width="111" height="67" alt="" src="http://z1.dfcfw.com/2013/9/24/20130924093556334981972.jpg" /><br />盘点中国亿万千金</a><ul><li><a href="http://life.eastmoney.com/news/11001,2013092414464637.html" >盘点赌王何鸿燊身边的那些美女</a></li><li><a href="http://life.eastmoney.com/news/11001,2013092414464788.html" >越南美女新娘是间谍？不可不防</a></li><li><a href="http://life.eastmoney.com/news/11001,2013092414465561.html" >揭那些全球男人死都想干的工作</a></li><li><a href="http://life.eastmoney.com/news/11001,2013092414467413.html" >蘑菇大蒜 揭8种癌症的免死金牌</a></li></ul>
+					<ul class="tw332-below"><li><span class="red"><a href="http://life.eastmoney.com/news/11001,2013092414466599.html" >揭秘央视美女主播文清离职内幕：对着话筒说烦了</a></span></li><li><a href="http://cheba.eastmoney.com/news,36,1338491.html" >白皙娇俏长腿美眉 让人情迷的银色精灵！(组图)</a></li><li><a href="http://life.eastmoney.com/news/11004,2013092414470120.html" >萧亚轩遭软禁</a>&nbsp;<a href="http://life.eastmoney.com/news/11002,2013092414476644.html" >洗衣机绞死幼女</a>&nbsp;<a href="http://life.eastmoney.com/news/11004,2013092414476939.html" >欧阳夏丹自曝恋情</a></li><li><span class="lightblue"><a href="http://life.eastmoney.com/news/paihangbang.html?t=2" >[热门]</a></span>&nbsp;<span class="lightblue"><a href="http://zhaiba.eastmoney.com/news/paihangbang.html?t=1" >48小时点击榜</a></span>&nbsp;<span class="lightblue"><a href="http://zhaiba.eastmoney.com/news/paihangbang.html?t=2" >72小时点击榜</a></span>&nbsp;<span class="lightblue"><a href="http://life.eastmoney.com/news/paihangbang.html?t=3" >一周点击榜</a></span></li></ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="spacer8"></div>
+</div>
+<div class="wrap h90">
+	<textarea  class="lyadArea hidden">
+	<iframe width="950" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="js/uma.html" ></iframe>
+	</textarea>
+</div>
+<div class="footer wrap mt8">
+	<p><a href="javascript:;" target="_self" id="sethome_bot">将东方财富网设为上网首页吗？</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:;" target="_self" id="addfavor_bot">将东方财富网添加到收藏夹吗？</a></p>
+	<p class="contact">
+		<a href="http://corp.eastmoney.com/aboutus/" target="_blank">关于我们</a>
+		<a href="http://corp.eastmoney.com/Lianxi_guanggao.asp" target="_blank">广告服务</a>
+		<a href="http://corp.eastmoney.com/contactus.html" target="_blank">联系我们</a>
+		<a href="http://corp.eastmoney.com/zhaopin/zhaopin_1.asp" target="_blank">诚聘英才</a>
+		<a href="http://corp.eastmoney.com/lianxi_mianze.asp" target="_blank">免责声明</a>
+		<a href="http://corp.eastmoney.com/Lianxi_falvshengming.asp" target="_blank">法律声明</a>
+		<a href="http://corp.eastmoney.com/Lianxi_zhengao.asp" target="_blank">征稿启事</a>
+		<a href="http://www.eastmoney.com/sitemap.html" target="_blank">网站地图</a>
+		<a href="http://www.zx110.org/cxs/index.html" target="_blank">放心搜</a>
+		<a href="http://corp.eastmoney.com/media.asp" target="_blank">友情链接</a>
+	</p>
+	<p>值班热线：021-54509988-2345；021-24099099 <a href="http://corp.eastmoney.com/Lianxi_liuyan.asp" target="_blank" class="footer-msg">意见与建议</a></p>
+	<p>互联网药品信息服务资格证书：(沪)-非经营性-2009-0019&nbsp;&nbsp;信息网络传播视听节目许可证：0908328号&nbsp;&nbsp;证券投资咨询资质：上海东方财富证券研究所&nbsp;&nbsp;编号：ZX0064</p>
+	<p><span class="footer-icp">沪ICP证：沪B2-20070217</span>&nbsp;&nbsp;版权所有：东方财富网</p>
+	<p>
+		<a href="http://sh.cyberpolice.cn/" class="footer-police" title="上海网警网络110"></a>
+		<a href="http://www.zx110.org/" class="footer-zx110" title="网络社会征信网"></a>
+		<a href="http://www.shjbzx.cn/" class="footer-shjubao" title="上海违法和违规信息举报中心"></a>
+	</p>
+</div>
+<script type="text/javascript">
+try{document.execCommand("BackgroundImageCache",!1,!0)}catch(e){}typeof $=="undefined"&&($=function(e){return document.getElementById(e)}),typeof $C=="undefined"&&($C=function(e){return document.createElement(e)}),Function.prototype.Bind=function(){var e=this,t=arguments[0],n=new Array;for(var r=1;r<arguments.length;r++)n.push(arguments[r]);return function(){return e.apply(t,n)}},function(e){function u(){if(c)return;try{t.documentElement.doScroll("left")}catch(e){setTimeout(u,1);return}h()}function a(){if(c)return;if(t.readyState=="loaded"||t.readyState=="complete"){h();return}setTimeout(a,1);return}var t=document,n="1.0",r={},i=0,s=0;if(t.addEventListener){var o=navigator.userAgent.match(/AppleWebKit\/(\d+)/);o&&o[1]<525?a():t.addEventListener("DOMContentLoaded",function(){t.removeEventListener("DOMContentLoaded",arguments.callee,!1),h()},!1)}else t.attachEvent("onreadystatechange",function(){t.readyState==="complete"&&(t.detachEvent("onreadystatechange",arguments.callee),h())}),window==top&&u();var f=t.write,l,c=!1,h=function(){c=!0},p=function(e){if(l.childNodes.length>0)return;if(l.innerHTML!="")while(l.childNodes.length)l.parentNode.insertBefore(l.childNodes[0],l);l.innerHTML=e;while(l.childNodes.length)l.parentNode.insertBefore(l.childNodes[0],l)},d=function(){if(lazyData.loadJs.caller)return;s++,!c&&t.attachEvent&&u();var e="_js_pos_"+s;if(!c)try{t.write('<div style="display:none" id="'+e+'"></div>'),r=t.getElementById(e)}catch(n){var r=t.createElement("div");r.id=e,r.style.display="none",t.body.insertBefore(r,t.body.firstChild)}else{var r=t.createElement("div");r.id=e,r.style.display="none",t.body.appendChild(r)}return r},v=function(e,n,r){var i=t.createElement("script");i.type="text/javascript",r&&(i.charset=r),i[document.all?"onreadystatechange":"onload"]=function(){if(!this.readyState||this.readyState=="loaded"||this.readyState=="complete")n&&n(),i.onreadystatechange=i.onload=null,i.parentNode.removeChild(i)},i.src=e;var s=t.getElementsByTagName("head")[0];s.appendChild(i)},m=function(e,n){this.name=e,this.url=n,this.callback=[],this.status="init",this.onload=function(){this.status="ok";var e=[];for(var n=0;n<this.callback.length;n++)if(typeof this.callback[n]=="function")try{this.callback[n].posNode&&(l=this.callback[n].posNode,t.write=p),this.callback[n](),this.callback[n].posNode&&(t.write=f,this.callback[n].posNode.parentNode.removeChild(this.callback[n].posNode))}catch(r){e.push(r)}this.callback=[];if(e.length!=0)throw e[0]}};e.lazyData={},e.lazyData.version=n,e.lazyData.loadJs&&(r=e.lazyData.loadJs.getData(),i=r.length),e.lazyData.loadJs=function(e){var t=e.url||"",n=e.name||"",s=e.callback||"",o=e.charset||"",u=e.lazyload||!1;if(n){r[n]?r[n].status=="waiting"&&t&&(r[n].status="init"):(t?r[n]=new m(n,t):(r[n]=new m(n),r[n].status="waiting"),i++),e.status&&(r[n].status=e.status);if(r[n].status=="loading"||r[n].status=="waiting"){typeof s=="function"&&(s.posNode=d(),r[n].callback.push(s));return}if(r[n].status=="ok"){typeof s=="function"&&s();return}}else{if(!t)return;for(var a in r)if(r[a].url==t){n=a;break}n||(n="_js_noname"+i,r[n]=new m(n,t),i++);if(r[n].status=="loading"){typeof s=="function"&&(s.posNode=d(),r[n].callback.push(s));return}if(r[n].status=="ok"){typeof s=="function"&&s();return}}typeof s=="function"&&(s.posNode=d(),r[n].callback.push(s));if(u){var f=function(){if(c){v(t,function(){r[n].onload()},o);return}setTimeout(f,1);return};f()}else v(t,function(){r[n].onload()},o);r[n].status="loading"},e.lazyData.loadJs.getData=function(){return r};var g=[],y={},b=0,w=0,E=function(e){this.areaname=e,this.callback=[],this.status="init",this.onload=function(){this.status="ok";var e=[];for(var n=0;n<this.callback.length;n++)if(typeof this.callback[n]=="function")try{this.callback[n].posNode&&(l=this.callback[n].posNode,t.write=p),this.callback[n](),this.callback[n].posNode&&(t.write=f,this.callback[n].posNode.parentNode.removeChild(this.callback[n].posNode))}catch(r){e.push(r)}this.callback=[];if(e.length!=0)throw e[0]}},S=function(e,t){g=document.getElementsByTagName("textarea");var n=new RegExp(e,"ig"),r=!1,i=[];for(var s=0;s<g.length;++s)n.lastIndex=0,r=n.test(g[s].className),r&&(i.push(g[s].parentNode),i[i.length-1].val=g[s].value);for(var s=0;s<i.length;++s){var o=i[s].val;/(iPhone|iPad|iPod)/i.test(navigator.userAgent)&&/isrc\=/i.test(o)&&(o=o.replace("src","psrc").replace("isrc","src")),new function(e,t){setTimeout(function(){e.innerHTML=t},1)}(i[s],o)}t&&t()};e.lazyData.loadArea&&(y=e.lazyData.loadArea.getData(),b=y.length),e.lazyData.loadArea=function(e){var t=e.areaname||"",n=e.callback||"",r=e.lazyload||!1;if(t){y[t]?y[t].status=="waiting"&&t&&(y[t].status="init"):(y[t]=new E(t),b++),e.status&&(y[t].status=e.status);if(y[t].status=="loading"||y[t].status=="waiting"){typeof n=="function"&&y[t].callback.push(n);return}if(y[t].status=="ok"){typeof n=="function"&&n();return}}else{if(!t)return;for(var i in y)if(y[i].areas==areas){t=i;break}t||(t="_area_noname"+b,y[t]=new E(t),b++);if(y[t].status=="loading"){typeof n=="function"&&(n.posNode=d(),y[t].callback.push(n));return}if(y[t].status=="ok"){typeof n=="function"&&n();return}}typeof n=="function"&&(n.posNode=d(),y[t].callback.push(n));if(r){var s=function(){if(c){S(t,function(){y[t].onload()});return}setTimeout(s,1);return};s()}else S(t,function(){y[t].onload()});y[t].status="loading"}}(this);
+
+function initFixMenuBar(){
+	var supportsTouches = ("createTouch" in document),
+	startEvent = supportsTouches ? "click" : "mouseover",
+	endEvent = supportsTouches ? "NELL" : "mouseout";
+	var _menuL = [], _nM = null, _preM = null;
+	var e=document.getElementById("fixMenuBar");
+	if(e){
+		var t=e.childNodes,n=null;
+		for(var r in t)
+			if(t[r].nodeType==1){
+				n=t[r].childNodes;
+					for(var i in n)
+						n[i].nodeType==1&&n[i].className.indexOf("down-menu")>=0&&(
+							_menuL.push(n[i]),
+							n[i]["on"+startEvent]=function(ev){
+								_preM = _nM;
+								_nM = this;
+								this.className.indexOf("show")<0&&(this.className+=" show");
+							},
+							n[i]["on"+endEvent]=function(){
+								this.className.indexOf("show")>=0&&(this.className=this.className.replace(" show",""))
+							}
+						)
+			}
+		if(supportsTouches){
+			document.body.ontouchstart=function(ev){
+				var _sE = ev.srcElement;
+				setTimeout(function(){
+					if(!(_sE.parentNode == _nM || _sE.parentNode.parentNode == _nM) && _sE.parentNode.parentNode.id != "loginFrm")_nM.className=_nM.className.replace(" show","");
+					if(!(_sE.parentNode == _preM || _sE.parentNode.parentNode == _preM) && _sE.parentNode.parentNode.id != "loginFrm")_preM.className=_preM.className.replace(" show","");
+				},500);
+			}
+		}
+	}
+}
+initFixMenuBar();
+</script>
+<script type="text/javascript">
+var _IFCode = "IF1310";var _TFCode = "TF1312";
+lazyData.loadJs({name:"mainjs",url:'js/main2014.js?r=v019',callback:function(){initClick();intScrolls();},lazyload:true});
+lazyData.loadJs({name:"commjs",url:'js/comm2014.js?r=v093',callback:function(){intTabs();intSuggests();gszbTab.showTab(1, null);},lazyload:true});
+lazyData.loadArea({areaname:'lyadArea', callback:function(){},lazyload:true});
+</script>
+<script type="text/javascript" src="http://same.eastmoney.com/s?z=eastmoney&c=228"></script>
+<script type="text/javascript" src="http://same.eastmoney.com/s?z=eastmoney&c=229"></script>
+<script type="text/javascript" src="http://same.eastmoney.com/s?z=eastmoney&c=230"></script>
+<script type="text/javascript" src="http://same.eastmoney.com/s?z=eastmoney&c=696" ></script>
+<script type="text/javascript">
+var fixedSoftPic = "http://g1.dfcfw.com/g1/201303/20130325171401.png";
+var fixedSoftLink = "http://js5.eastmoney.com/tg.aspx?ID=390";
+var fixedSoftWidth = 116;
+var fixedSoftHeight = 147;
+</script>
+<script type="text/javascript" src="http://cmsjs.eastmoney.com/js/fixedSoft_v6.js"></script>
+<script type="text/javascript">_cpyno="c1"</script>
+<script type="text/javascript" src="http://js4.eastmoney.com/counter.js?c=t"></script>
+</body>
+</html>

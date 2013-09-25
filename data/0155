@@ -1,0 +1,1013 @@
+<!DOCTYPE html><html>
+<head>
+<meta charset="gbk"/>
+<meta content="百科商城。百科商城是科友们进行财富消费的平台。在这里，你可以消费编辑词条所获得的财富积分，兑换编辑特权、精彩形象、精美实物礼品等缤纷大礼。更多精彩兑换陆续上线中！" name="description"/>
+		<!--[if gte IE 9 ]>
+		<meta name="application-name" content="百科商城" />
+		<meta name="msapplication-tooltip" content="百科商城" />
+		<meta name="msapplication-task" content="name=百度百科;action-uri=http://baike.baidu.com/;icon-uri=http://baike.baidu.com/favicon.ico" />
+		<meta name="msapplication-task" content="name=用户中心;action-uri=http://baike.baidu.com/uc/home/;icon-uri=http://baike.baidu.com/favicon.ico" />
+		<meta name="msapplication-navbutton-color" content="#0000ff" />
+		<![endif]-->
+		
+<link href="http://baike.baidu.com/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://img.baidu.com/img/baike/wap/iphone4_logo.png" rel="apple-touch-icon"/>
+<link href="http://baike.bdimg.com/static/common/css/user-base.css?@=vj0oal&amp;t=20120315125647" rel="stylesheet" type="text/css"/><link href="http://baike.bdimg.com/static/usercenter/css/release/bk.shop.css?@=17onrch" rel="stylesheet" type="text/css"/>
+<script src="http://baike.bdimg.com/static/common/js/user-base.js?@=2dyv14v&amp;t=20120315125647" type="text/javascript"></script><title>百科商城</title>
+<script src="http://baike.bdimg.com/static/usercenter/js/release/bk.shop.js?@=5hwy4n" type="text/javascript"></script>
+</head>
+<body id="bkshop">
+<header class="page-header">
+<div id="userbar"></div>
+<div class="search fix">
+<div class="clearfix" id="search">
+<div id="logo">
+<a title="到百科首页" href="/" class="nslog:1008"><img width="137" height="46" src="http://img.baidu.com/img/baike/logo-baike.png" /></a>
+</div>
+<div id="search-content">
+<p class="nv nslog-area" data-nslog-type="1009">
+<a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://music.baidu.com/?fr=bk">音乐</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><a href="http://map.baidu.com/?fr=bk">地图</a><strong>百科</strong><a href="http://wenku.baidu.com/?fr=bk">文库</a>
+</p>
+<form action="/search/word?" id="f1" method="get" name="f1" target="_self">
+<span class="s_ipt_wr"><span><input class="s_ipt" id="word" maxlength="100" name="word" tabindex="1" value=""/></span></span><span class="s_btn_wr" style="margin-right:6px"><span><input class="s_btn nslog:1010" onclick="this.form.pic.value=1" onmousedown="this.className=&#34;s_btn s_btn_h&#34;" onmouseout="this.className=&#34;s_btn&#34;" tabindex="2" type="submit" value="进入词条"/></span></span><span class="s_btn_wr"><span><input class="s_btn nslog:1011" onclick="this.form.pic.value=2" onmousedown="this.className=&#34;s_btn s_btn_h&#34;" onmouseout="this.className=&#34;s_btn&#34;" tabindex="3" type="submit" value="搜索词条"/></span></span>
+<input id="sw1" name="pic" type="hidden" value="1"/>
+<input name="sug" type="hidden" value="1"/>
+<input id="search-enc" name="enc" type="hidden" value="gbk"/>
+</form>
+</div>
+<div id="help">
+<a class="c-help nslog:1012" href="http://www.baidu.com/search/baike_help.html" target="_blank">帮助</a>
+</div>
+<script type="text/javascript">baidu.event.on("word","focus",function(){var _=arguments.callee;baidu.sio.callByBrowser("http://baike.bdimg.com/static/common/js/sug.js",function(){baidu.event.un("word","focus",_);});});if(baidu.platform.isIpad){baidu.sio.callByBrowser("http://baike.bdimg.com/static/common/js/common/search_ipad.js");}</script>
+</div></div>
+<nav class="shop-nav">
+<ul class="nav f14 clearfix">    
+            <li class="home"><a href="/" data-tj="home">首页</a></li>
+                <li><a href="/ziran/">自然</a></li>
+                 <li><a href="/wenhua/">文化</a></li>
+                 <li><a href="/dili/">地理</a></li>
+                 <li><a href="/lishi/">历史</a></li>
+                 <li><a href="/shenghuo/">生活</a></li>
+                 <li><a href="/shehui/">社会</a></li>
+                 <li><a href="/yishu/">艺术</a></li>
+                 <li><a href="/renwu/">人物</a></li>
+                 <li><a href="/jingji/">经济</a></li>
+                 <li><a href="/keji/">科技</a></li>
+                 <li><a href="/tiyu/">体育</a></li>
+    
+			<li>		<a href="http://baike.baidu.com/museum/ " target="_blank" onclick="nslog(location.href,3020);" data-tj="szbwg">数字博物馆</a></li>
+				<li>		<a href="http://baike.baidu.com/cms/s/core/index.html" target="_blank" onclick="nslog(location.href,3021);">核心用户</a></li>
+		            <li class="cur-long last-u"><span>百科商城</span></li>
+    </ul>
+<ul id="category_ipad" style="display:none;"></ul>
+
+<style type="text/css" compress>
+#path ul.nav li,ul.nav li{position:relative;}
+.lemma-main-content table.table-view a:hover {
+	text-decoration:underline;
+}
+
+.nav{overflow:visible;position:relative;}
+div.nav-channel-hot{
+ background:url("http://img.baidu.com/img/baike/icons/hot.png") no-repeat scroll 0 0 transparent;
+_background:none;
+_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img.baidu.com/img/baike/icons/hot.png");
+ height:15px;
+ position:absolute;
+ width: 24px;
+ top: -7px;
+ right:7px
+}
+
+.nav li{margin-right:21px !important;}
+
+
+/*for ipad*/
+.ipad  .nav li{color: #fff;font-size: 18px;}
+.ipad #path .nav li{height: 40px;line-height: 40px;}
+.ipad  .nav{height: 40px;line-height: 40px;margin: 0;text-align: center;background: #2158a6;font-size: 18px;}
+.ipad  .nav > div{display: none !important;}
+.ipad  .nav > li{width: 168px;border-right: 1px solid #1c4a8c;border-left: 1px solid #1b5bb5;}
+.ipad  .nav li.cur,.ipad  .nav li.cur-long{width: 172px;background: #184787;border-left-color: #184787;}
+.ipad  .nav li.cur span,.ipad  .nav li span,.ipad  .nav li.cur-long span{background: none;width: auto;height: auto;padding: 0;margin: 0;border: 0;left:0;right:0;font-weight: bold;}
+.ipad  .nav li a,.ipad  .nav .last-u a{color: #fff;padding: 0 10px;width: auto;height: auto;border: 0;font-weight: normal !important;background: none !important;}
+.ipad  .nav li a:hover,.ipad  .nav .last-u a:hover{margin: 0;padding: 0;background: none;left:0;right:0;}
+.ipad  .nav li ul{position: absolute;}
+.ipad  .nav li span .arr{display: inline-block;vertical-align: middle;width: 9px;height: 5px;background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAFCAYAAACXU8ZrAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADBJREFUeNpi3HP64X8GAoDJ2USOEZ8CkDwTjIFLAdgkdAGs/P///6NgkBvRxQACDAC9VSJC4OCHnwAAAABJRU5ErkJggg==) center center no-repeat;-webkit-transition:all 0.3s;}
+.ipad  .nav .on span .arr{-webkit-transform:rotate(180deg);}
+
+.ipad #category_ipad{height: 0;overflow: hidden;text-align: center;background: #d8e0eb;font-size: 16px;-webkit-transition:all 0.2s;}
+.ipad #category_ipad:after{content:'\20';display:block;height:0;clear:both;visibility: hidden;}
+.ipad #category_ipad li{float: none;font-weight: normal;display: inline-block;margin: 7px 16px !important;height: 24px;line-height: 24px;border: 1px solid #d8e0eb;}
+.ipad #category_ipad li a{padding: 3px 12px;color: #333;display: inline;border: 0;}
+.ipad #category_ipad li a:hover{text-decoration: none;background: none;}
+.ipad #category_ipad .cur{background: #bec9d4;border-color: #a6b5c5;color: #333;}
+
+/*临时for 图片 商城*/
+.ipad .page-header{position: relative;width: 1024px;}
+.ipad #header{margin-top: 0;}
+
+/*ipad竖屏*/
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+.ipad #category_ipad li{margin: 7px 6px !important;}
+.ipad  .nav > li,.ipad  .nav li.cur,.ipad  .nav li.cur-long{width: 126px;}
+
+.ipad #daily-content .history_img{display: none;}/*临时*/
+.ipad #path-more-act{display: none;}/*ipad竖屏词条页导航不出现更多*/
+}
+
+</style>
+
+<script type="text/javascript" >  
+
+	baidu.dom.ready( function(){
+		baidu.array.each(baidu.dom.query("ul.nav a"),function(a){baidu.on(a,"mousedown",function(){this.className='a-mousedown';});baidu.on(a,"mouseout",function(){this.className='';})});
+		baidu.page.loadJsFile("http://hm.baidu.com/h.js?55b574651fcae74b0a9f1cf9c8d7c93a");
+		//baidu.page.loadCssFile("http://hm.baidu.com/h.js?55b574651fcae74b0a9f1cf9c8d7c93a");
+			});
+
+
+	nslog(location.href, 5101,{referrer:encodeURIComponent(document.referrer)});
+
+
+
+
+
+//如果是ipad 并且 非强制传统版
+if (navigator.userAgent.indexOf('iPad')>=0 && !window.isForce2pc) {
+	document.documentElement.className+=' ipad';
+	var viewport = document.createElement('meta');
+	viewport.name='viewport';
+	viewport.content='width=device-width';
+	document.getElementsByTagName('head')[0].appendChild(viewport);
+	var nav=document.querySelectorAll('.nav li');
+	var cate = document.getElementById('category_ipad');
+	var li_cate=document.createElement('li');
+	cate.style.display='block';
+	li_cate.innerHTML='<span>分类频道 <b class="arr"></b></span>'
+	document.querySelector('.nav').insertBefore(li_cate,nav[1]);
+	for (var i=1; i<12; i++) {
+		cate.appendChild(nav[i]);
+		if (nav[i].className.indexOf('cur') >=0) {
+			li_cate.className+='on cur';
+			cate.style.height='40px';
+
+		}
+	}
+
+	li_cate.ontouchend=function () {
+		if (this.className.indexOf('on')>=0) {
+			this.className=this.className.replace(/on/gi,'')
+			cate.style.height='0px'
+		}else {//展开
+						nslogcms(location.href, 5825);
+			this.className+=' on';
+			cate.style.height='40px'
+		}
+		return false;
+	}
+	var li_navs = document.querySelectorAll('.nav li a');
+	for (var i=0; i<li_navs.length; i++) {
+		li_navs[i].addEventListener('click',function () {
+			var logId = this.getAttribute ('data-tj');
+			switch (logId) {
+				case 'home':
+					nslogcms(this.href,5824);
+					break;
+				case 'tupian':
+										nslogcms(this.href,5826);
+					break;
+				case 'szbwg':
+										nslogcms(this.href,5827);
+					break;
+				case 'bksc':
+										nslogcms(this.href,5828);
+					break;
+			}
+		},false);
+	}
+	
+
+}
+
+</script>
+</nav>
+</header>
+<article class="shop-wrap fix">
+<section>
+		<!--轮播-->
+<!--[if IE]>
+<style>
+.animate-ads .ctr,.animate-ads .cir{background:transparent;position:relative;}
+</style>
+<script>(function(){document.namespaces.add("v","urn:schemas-microsoft-com:vml");var a=document.createStyleSheet();a.addRule("v\\:roundrect","behavior:url(#default#VML);display:inline-block;");a.addRule("v\\:fill","behavior:url(#default#VML);display:inline-block;")})();
+</script>
+<![endif]-->
+<div class="animate-ads">
+	<div class="animate-content">
+		<div class="animate-inner">
+			<ol class="list" id="animateList">
+				<li><a href="http://baike.baidu.com/cms/s/event/plantswar/index.html" target="_blank" title="" onclick="nslog(window.location, 3606, {t1:0})"><img src="http://baike.baidu.com/cms/s/event/plantswar/724-208.jpg" /></a></li>				<li><a href="http://baike.baidu.com/mall/item?id=784" target="_blank" title="" onclick="nslog(window.location, 3606, {t1:1})"><img src="http://baike.baidu.com/cms/s/mall/gift/724x208.jpg" /></a></li>				<li><a href="http://hi.baidu.com/baikeguanfang/item/ce45d8c16e12ad09c610b252" target="_blank" title="" onclick="nslog(window.location, 3606, {t1:2})"><img src="http://baike.baidu.com/cms/s/images/0903/724x208.png" /></a></li>				<li><a href="http://hi.baidu.com/baikeguanfang/item/dfbb6a72bab4b3376e29f694" target="_blank" title="" onclick="nslog(window.location, 3606, {t1:3})"><img src="http://baike.baidu.com/cms/s/images/0722/724x208.png" /></a></li>				<li><a href="http://baike.baidu.com/cms/s/bkqc/index.html" target="_blank" title="" onclick="nslog(window.location, 3606, {t1:4})"><img src="http://baike.baidu.com/cms/s/bkqc/724X208c.jpg" /></a></li>			</ol>
+		</div>
+		<div class="ctrs fix">
+			<a href="javascript:;" class="left ctr" id="animateUp" hidefocus="true">&lt;
+			<!--[if IE]>
+			<v:roundrect class="v-ctr" arcsize="10px" stroked="t" strokecolor="#cdcfcf"><v:fill type=solid color="#fff" opacity="70%"/></v:roundrect>
+			<![endif]-->
+			</a>
+			<ol class="circle-des" id="animate-index">				<li class="cir"><!--[if IE]><v:roundrect class="v-cir" arcsize="5px" stroked="t" fillcolor="#fff" strokecolor="#fff"/><![endif]--></li>				<li class="cir"><!--[if IE]><v:roundrect class="v-cir" arcsize="5px" stroked="t" fillcolor="#fff" strokecolor="#fff"/><![endif]--></li>				<li class="cir"><!--[if IE]><v:roundrect class="v-cir" arcsize="5px" stroked="t" fillcolor="#fff" strokecolor="#fff"/><![endif]--></li>				<li class="cir"><!--[if IE]><v:roundrect class="v-cir" arcsize="5px" stroked="t" fillcolor="#fff" strokecolor="#fff"/><![endif]--></li>				<li class="cir"><!--[if IE]><v:roundrect class="v-cir" arcsize="5px" stroked="t" fillcolor="#fff" strokecolor="#fff"/><![endif]--></li>			</ol>
+			<a href="javascript:;" class="right ctr" id="animateDown" hidefocus="true">&gt;
+			<!--[if IE]>
+			<v:roundrect class="v-ctr" arcsize="10px" stroked="t" strokecolor="#cdcfcf"><v:fill type=solid color="#fff" opacity="70%"/></v:roundrect>
+			<![endif]-->
+			</a>
+		</div>
+	</div>
+	<!--[if IE]>
+		<div style="display:none;">
+			<v:roundrect/>
+		</div>
+	<![endif]-->
+</div>	<dl class="category recommend">
+<dt><h2 class="title">
+<a class="icon-link" hidefocus="true" style="cursor:default"><img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/recommend.png?@=1102cba"/></a>精彩推荐</h2>
+</dt>
+<dd>
+<ul class="fix">
+<li onclick="nslog(window.location,3607,{t1:1})">
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=370" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/jundao03.jpg"/></a>
+<a class="decorator is-recom" href="/mall/item?id=370" target="_blank"></a>
+</div>
+<div><a href="/mall/item?id=370" target="_blank" title="百度瑞士军刀">百度瑞士军刀</a></div>
+<div>
+<img class="icon" src="/static/usercenter/images/shop/integral.png"/>
+<span class="score">6000</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=370" target="_blank">查看</a><a class="purchase" href="/mall/item?id=370#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li onclick="nslog(window.location,3607,{t1:2})">
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=5" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/show/mall_5_03.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=5" target="_blank" title="商城纪念形象（男）">商城纪念形象（男）</a></div>
+<div>
+<img class="icon" src="/static/usercenter/images/shop/integral.png"/>
+<span class="score">20</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=5" target="_blank">查看</a><a class="purchase" href="/mall/item?id=5#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li onclick="nslog(window.location,3607,{t1:2})">
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=3" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/privilege/card03.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=3" target="_blank" title="名片编辑令（即将下架）">名片编辑令（即将下架）</a></div>
+<div>
+<img class="icon" src="/static/usercenter/images/shop/integral.png"/>
+<span class="score">10</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=3" target="_blank">查看</a><a class="purchase" href="/mall/item?id=3#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li onclick="nslog(window.location,3607,{t1:2})">
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=7" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/badge/mallboy03.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=7" target="_blank" title="商城纪念徽章（男）">商城纪念徽章（男）</a></div>
+<div>
+<img class="icon" src="/static/usercenter/images/shop/integral.png"/>
+<span class="score">20</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=7" target="_blank">查看</a><a class="purchase" href="/mall/item?id=7#exchange" target="_blank">兑换</a>
+</div>
+</li>
+</ul>
+</dd>
+</dl><dl class="category mall">
+<dt><h2 class="title"><a class="more" href="/mall/zone?zoneId=1" id="mallLink" target="_blank">更多</a>
+<a class="icon-link" hidefocus="true" href="http://baike.bdimg.com/static/usercenter/images/shop/centermall.png" target="_blank"><img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/centermall.png?@=143zxhc"/></a>中心卖场</h2></dt>
+<dd>
+<div class="tab-wrap">
+<ul class="ctl fix mallControl">
+<li class="on">
+<h3>
+<img src="http://img.baidu.com/img/baike/usercenter/shop/privilege.png"/>特权道具<i></i>
+</h3>
+</li>
+<li>
+<h3>
+<img src="http://img.baidu.com/img/baike/usercenter/shop/virtual.png"/>虚拟专区<i></i>
+</h3>
+</li>
+<li>
+<h3>
+<img src="http://img.baidu.com/img/baike/usercenter/shop/real.png"/>实物礼品<i></i>
+</h3>
+</li>
+</ul>
+<div class="mallContent">
+<ul class="commodities fix" onclick="nslog(window.location,3608,{t1:1})" style="display:block">
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=2" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/privilege/doubletimes02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=2" target="_blank" title="版本双倍经验卡">版本双倍经验卡</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">20</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=2" target="_blank">查看</a><a class="purchase" href="/mall/item?id=2#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=1" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/privilege/doublehours02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=1" target="_blank" title="12小时双倍经验卡">12小时双倍经验卡</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">100</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=1" target="_blank">查看</a><a class="purchase" href="/mall/item?id=1#exchange" target="_blank">兑换</a>
+</div>
+</li>
+</ul>
+<ul class="commodities fix" onclick="nslog(window.location,3608,{t1:2})" style="display:none">
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=8" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/badge/mallgirl02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=8" target="_blank" title="商城纪念徽章（女）">商城纪念徽章（女...</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">20</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=8" target="_blank">查看</a><a class="purchase" href="/mall/item?id=8#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=7" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/badge/mallboy02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=7" target="_blank" title="商城纪念徽章（男）">商城纪念徽章（男...</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">20</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=7" target="_blank">查看</a><a class="purchase" href="/mall/item?id=7#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=6" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/show/mall_6_02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=6" target="_blank" title="商城纪念形象（女）">商城纪念形象（女...</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">20</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=6" target="_blank">查看</a><a class="purchase" href="/mall/item?id=6#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=5" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/show/mall_5_02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=5" target="_blank" title="商城纪念形象（男）">商城纪念形象（男...</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">20</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=5" target="_blank">查看</a><a class="purchase" href="/mall/item?id=5#exchange" target="_blank">兑换</a>
+</div>
+</li>
+</ul>
+<ul class="commodities fix" onclick="nslog(window.location,3608,{t1:3})" style="display:none">
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=733" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/BDMPJ02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=733" target="_blank" title="百度名片夹">百度名片夹</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">500</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=733" target="_blank">查看</a><a class="purchase" href="/mall/item?id=733#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=726" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/jysj02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=726" target="_blank" title="简易书架">简易书架</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">4000</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=726" target="_blank">查看</a><a class="purchase" href="/mall/item?id=726#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=501" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/baiban02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=501" target="_blank" title="百度小白板">百度小白板</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">800</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=501" target="_blank">查看</a><a class="purchase" href="/mall/item?id=501#exchange" target="_blank">兑换</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</dd>
+</dl><dl class="category area">
+<dt><h2 class="title"><a class="more" href="/mall/zone?zoneId=5" target="_blank">更多</a><a class="icon-link" hidefocus="true" href="/mall/zone?zoneId=5" target="_blank"><img class="icon" src="http://img.baidu.com/img/baike/encourage/user-priority-boy.gif"/></a>核心用户专区</h2></dt>
+<dd>
+<ul class="fix">
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=784" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/108x108.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=784" target="_blank" title="百度文库会员（15天）">百度文库会员（15...</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">150</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=784" target="_blank">查看</a><a class="purchase" href="/mall/item?id=784#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=783" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/108x108.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=783" target="_blank" title="百度文库会员（7天）">百度文库会员（7...</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">100</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=783" target="_blank">查看</a><a class="purchase" href="/mall/item?id=783#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=782" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/music02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=782" target="_blank" title="百度音乐VIP会员_核心用户">百度音乐VIP会员_...</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">50</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=782" target="_blank">查看</a><a class="purchase" href="/mall/item?id=782#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=781" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/baikeimg02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=781" target="_blank" title="百科新形象徽章">百科新形象徽章</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">100</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=781" target="_blank">查看</a><a class="purchase" href="/mall/item?id=781#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=730" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/BDMPJ02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=730" target="_blank" title="百度名片夹">百度名片夹</a></div>
+<div>
+<img class="icon" src="http://baike.bdimg.com/static/usercenter/images/shop/integral.png?@=10ws3xu"/><span class="score">300</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=730" target="_blank">查看</a><a class="purchase" href="/mall/item?id=730#exchange" target="_blank">兑换</a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<dl class="category area">
+<dt><h2 class="title"><a class="more" href="/mall/zone?zoneId=15" target="_blank">更多</a><a class="icon-link" hidefocus="true" href="/mall/zone?zoneId=15" target="_blank"><img class="icon" src="http://baike.baidu.com/cms/s/mall/admin.gif"/></a>分类管理员兑换专区</h2></dt>
+<dd>
+<ul class="fix">
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=756" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/baikeimg02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=756" target="_blank" title="百科新形象徽章">百科新形象徽章</a></div>
+<div>
+积分<span class="score">10</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=756" target="_blank">查看</a><a class="purchase" href="/mall/item?id=756#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=755" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/bst2.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=755" target="_blank" title="百科冷知识明信片">百科冷知识明信片</a></div>
+<div>
+积分<span class="score">50</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=755" target="_blank">查看</a><a class="purchase" href="/mall/item?id=755#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=754" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/image/xianweijing108+108.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=754" target="_blank" title="学生便携式显微镜套装">学生便携式显微镜...</a></div>
+<div>
+积分<span class="score">300</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=754" target="_blank">查看</a><a class="purchase" href="/mall/item?id=754#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=753" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/music02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=753" target="_blank" title="百度音乐VIP会员_分类管理员">百度音乐VIP会员_...</a></div>
+<div>
+积分<span class="score">100</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=753" target="_blank">查看</a><a class="purchase" href="/mall/item?id=753#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=752" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/wangyuanjing02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=752" target="_blank" title="天文望远镜">天文望远镜</a></div>
+<div>
+积分<span class="score">1500</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=752" target="_blank">查看</a><a class="purchase" href="/mall/item?id=752#exchange" target="_blank">兑换</a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<dl class="category area">
+<dt><h2 class="title"><a class="more" href="/mall/zone?zoneId=17" target="_blank">更多</a><a class="icon-link" hidefocus="true" href="/mall/zone?zoneId=17" target="_blank"><img class="icon" src="http://baike.baidu.com/cms/s/mall/kedouicon02.gif"/></a>蝌蚪团兑换专区</h2></dt>
+<dd>
+<ul class="fix">
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=780" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/bst2.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=780" target="_blank" title="百科冷知识明信片">百科冷知识明信片</a></div>
+<div>
+积分<span class="score">50</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=780" target="_blank">查看</a><a class="purchase" href="/mall/item?id=780#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=779" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/baikeimg02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=779" target="_blank" title="百科新形象徽章">百科新形象徽章</a></div>
+<div>
+积分<span class="score">10</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=779" target="_blank">查看</a><a class="purchase" href="/mall/item?id=779#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=778" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/image/xianweijing108+108.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=778" target="_blank" title="学生便携式显微镜套装">学生便携式显微镜...</a></div>
+<div>
+积分<span class="score">270</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=778" target="_blank">查看</a><a class="purchase" href="/mall/item?id=778#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=777" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/music02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=777" target="_blank" title="百度音乐VIP会员_蝌蚪团">百度音乐VIP会员_...</a></div>
+<div>
+积分<span class="score">100</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=777" target="_blank">查看</a><a class="purchase" href="/mall/item?id=777#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=776" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/TPLINK02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=776" target="_blank" title="TP-LINK TL-WR703N 150M无线迷你型3G路由器">TP-LINK TL-WR703...</a></div>
+<div>
+积分<span class="score">300</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=776" target="_blank">查看</a><a class="purchase" href="/mall/item?id=776#exchange" target="_blank">兑换</a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<dl class="category area">
+<dt><h2 class="title"><a class="more" href="/mall/zone?zoneId=20" target="_blank">更多</a><a class="icon-link" hidefocus="true" href="/mall/zone?zoneId=20" target="_blank"><img class="icon" src="http://baike.baidu.com/cms/s/mall/zsxf.gif"/></a>知识先锋兑换专区</h2></dt>
+<dd>
+<ul class="fix">
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=793" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/image/littlebear108+108.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=793" target="_blank" title="小熊(Bear)ZDQ-201 煮蛋器">小熊(Bear)ZDQ-20...</a></div>
+<div>
+积分<span class="score">200</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=793" target="_blank">查看</a><a class="purchase" href="/mall/item?id=793#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=792" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/maoshan02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=792" target="_blank" title="百科蝌蚪团帽衫（白色）">百科蝌蚪团帽衫（...</a></div>
+<div>
+积分<span class="score">180</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=792" target="_blank">查看</a><a class="purchase" href="/mall/item?id=792#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=791" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/jundao02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=791" target="_blank" title="百度瑞士军刀">百度瑞士军刀</a></div>
+<div>
+积分<span class="score">280</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=791" target="_blank">查看</a><a class="purchase" href="/mall/item?id=791#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=790" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/wangyuanjing02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=790" target="_blank" title="天文望远镜">天文望远镜</a></div>
+<div>
+积分<span class="score">450</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=790" target="_blank">查看</a><a class="purchase" href="/mall/item?id=790#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=789" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/image/xianweijing108+108.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=789" target="_blank" title="便携式显微镜套装">便携式显微镜套装</a></div>
+<div>
+积分<span class="score">400</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=789" target="_blank">查看</a><a class="purchase" href="/mall/item?id=789#exchange" target="_blank">兑换</a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<dl class="category area">
+<dt><h2 class="title"><a class="more" href="/mall/zone?zoneId=26" target="_blank">更多</a><a class="icon-link" hidefocus="true" href="/mall/zone?zoneId=26" target="_blank"><img class="icon" src="http://baike.baidu.com/cms/s/mall/iconbkqc32.jpg"/></a>百科编修院专区</h2></dt>
+<dd>
+<ul class="fix">
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=769" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/bst2.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=769" target="_blank" title="百科冷知识明信片">百科冷知识明信片</a></div>
+<div>
+积分<span class="score">50</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=769" target="_blank">查看</a><a class="purchase" href="/mall/item?id=769#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=768" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/baikeimg02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=768" target="_blank" title="百科新形象徽章">百科新形象徽章</a></div>
+<div>
+积分<span class="score">10</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=768" target="_blank">查看</a><a class="purchase" href="/mall/item?id=768#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=767" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/campus/luojiM18502.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=767" target="_blank" title="罗技M185 无线鼠标">罗技M185 无线鼠...</a></div>
+<div>
+积分<span class="score">180</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=767" target="_blank">查看</a><a class="purchase" href="/mall/item?id=767#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=766" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/jysj02.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=766" target="_blank" title="简易书架">简易书架</a></div>
+<div>
+积分<span class="score">270</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=766" target="_blank">查看</a><a class="purchase" href="/mall/item?id=766#exchange" target="_blank">兑换</a>
+</div>
+</li>
+<li>
+<div class="commodity-wrap">
+<div class="commodity">
+<a href="/mall/item?id=765" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/image/xianweijing108+108.jpg"/></a>
+</div>
+<div><a href="/mall/item?id=765" target="_blank" title="学生便携式显微镜套装">学生便携式显微镜...</a></div>
+<div>
+积分<span class="score">300</span></div>
+</div>
+<div>
+<a class="exam" href="/mall/item?id=765" target="_blank">查看</a><a class="purchase" href="/mall/item?id=765#exchange" target="_blank">兑换</a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+			<!--我要赚取积分-->
+<dl class="category guide-sug">
+	<dt><h2 class="title">
+		<a class="icon-link" target="_blank" href="http://www.baidu.com" name="getScore" hidefocus="true"><img src="http://img.baidu.com/img/baike/usercenter/shop/centermall.png" class="icon" /></a>我要赚取积分</h2></dt>
+	<dd>
+		<!--内容-->
+		<ul class="fix nslog-area" data-nslog-type="3609">			<li>
+				<div class="commodity-wrap">
+					<div>
+						<div class="commodity">
+							<a href="http://baike.baidu.com/uc/task#1" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/index/grow.jpg" /></a>
+						</div>
+						<div class="commodity-name">百科成长任务</div>
+					</div>
+				</div>
+				<div>学习中赚到大量财富值</div>
+			</li>			<li>
+				<div class="commodity-wrap">
+					<div>
+						<div class="commodity">
+							<a href="http://baike.baidu.com/cms/s/usertask/daily/mfts/index.html" target="_blank"><img src="http://baike.baidu.com/cms/s/usertask/daily/mfts/dailymfts128.jpg" /></a>
+						</div>
+						<div class="commodity-name">百科日常任务</div>
+					</div>
+				</div>
+				<div>点亮日历，获取财富值</div>
+			</li></ul>
+	</dd>
+</dl>		
+</section>
+<aside>
+<div class="user-note">
+<div class="user-box">
+<div class="nologin user-content">
+<h4>Hi，亲爱的科友：</h4>
+<div class="split">百科商城火热开张，快来挑选兑换吧！<br/>登录后可以：
+<ul class="ucan">
+<li>查看积分情况和兑换情况</li>
+<li>进行兑换操作</li>
+</ul>
+</div>
+<p>
+<a class="start-login nslog:88" href="https://passport.baidu.com/?login&amp;tpl=wk" onclick="userlogin();return false">我要登录</a>
+</p>
+</div>
+</div>
+</div><dl class="hot-exange side-box">
+<dt><h3 class="title">近期热门兑换</h3></dt>
+<dd>
+<ul>
+<li class="item strong">
+<div class="item-content fix" onclick="nslog(window.location,3610,{t1:1})">
+<div class="seq s1">1</div>
+<div class="commodity">
+<a href="/mall/item?id=370" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/gift/jundao01.jpg"/></a>
+</div>
+<div class="info">
+<ul>
+<li><a href="/mall/item?id=370" target="_blank">百度瑞士军刀</a></li>
+<li>
+<img class="icon" src="/static/usercenter/images/shop/integral.png"/>
+<span class="score">6000</span></li>
+<li>已有<span class="score">5</span>人兑换</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="item strong">
+<div class="item-content fix" onclick="nslog(window.location,3610,{t1:2})">
+<div class="seq s2">2</div>
+<div class="commodity">
+<a href="/mall/item?id=371" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/bag01.jpg"/></a>
+</div>
+<div class="info">
+<ul>
+<li><a href="/mall/item?id=371" target="_blank">百度双肩包</a></li>
+<li>
+<img class="icon" src="/static/usercenter/images/shop/integral.png"/>
+<span class="score">3000</span></li>
+<li>已有<span class="score">36</span>人兑换</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="item strong">
+<div class="item-content fix" onclick="nslog(window.location,3610,{t1:3})">
+<div class="seq s3">3</div>
+<div class="commodity">
+<a href="/mall/item?id=2" target="_blank"><img src="http://baike.baidu.com/cms/s/mall/privilege/doubletimes01.jpg"/></a>
+</div>
+<div class="info">
+<ul>
+<li><a href="/mall/item?id=2" target="_blank">版本双倍经验卡</a></li>
+<li>
+<img class="icon" src="/static/usercenter/images/shop/integral.png"/>
+<span class="score">20</span></li>
+<li>已有<span class="score">77856</span>人兑换</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="item">
+<div class="item-content fix flat" onclick="nslog(window.location,3610,{t1:4})">
+<div class="seq s4">4</div>
+<div class="info">
+<div class="fl"><a href="/mall/item?id=5" target="_blank">商城纪念形象（男）</a></div>
+<div class="fr"><img class="icon" src="/static/usercenter/images/shop/integral.png"/><span class="score">20</span></div>
+</div>
+</div>
+</li>
+<li class="item">
+<div class="item-content fix flat" onclick="nslog(window.location,3610,{t1:4})">
+<div class="seq s5">5</div>
+<div class="info">
+<div class="fl"><a href="/mall/item?id=3" target="_blank">名片编辑令（即将下架）</a></div>
+<div class="fr"><img class="icon" src="/static/usercenter/images/shop/integral.png"/><span class="score">10</span></div>
+</div>
+</div>
+</li>
+<li class="item">
+<div class="item-content fix flat" onclick="nslog(window.location,3610,{t1:4})">
+<div class="seq s6">6</div>
+<div class="info">
+<div class="fl"><a href="/mall/item?id=7" target="_blank">商城纪念徽章（男）</a></div>
+<div class="fr"><img class="icon" src="/static/usercenter/images/shop/integral.png"/><span class="score">20</span></div>
+</div>
+</div>
+</li>
+</ul>
+</dd>
+</dl><!--商城公告-->
+<dl class="announce side-box">
+	<dt><h3 class="title"><a href="http://tieba.baidu.com/f?kw=%B0%D9%BF%C6%C9%CC%B3%C7" class="more" target="_blank">更多</a>商城公告</h3></dt>
+	<dd>
+		<ul><li><a href="http://baike.baidu.com/campus/" target="_blank">百科校园团队新学期热力招新！</a></li></ul>
+	</dd>
+</dl><dl class="going-exange side-box">
+<dt><h3 class="title">兑换进行时</h3></dt>
+<dd>
+<div id="slideBox" style="height:150px;overflow:hidden;">
+<ul id="slide1">
+<li>
+<a class="" href="http://www.baidu.com/p/ethan1282?from=wk" target="_blank">ethan1282</a>兑换了<span class="score">版本双倍经验卡</span>
+</li>
+<li>
+<a class="" href="http://www.baidu.com/p/c6g?from=wk" target="_blank">c6g</a>兑换了<span class="score">小熊(Bear)ZDQ-201 煮蛋器</span>
+</li>
+<li>
+<a class="" href="http://www.baidu.com/p/戚家人?from=wk" target="_blank">戚家人</a>兑换了<span class="score">版本双倍经验卡</span>
+</li>
+<li>
+<a class="" href="http://www.baidu.com/p/风雪冰天123?from=wk" target="_blank">风雪冰天123</a>兑换了<span class="score">版本双倍经验卡</span>
+</li>
+<li>
+<a class="" href="http://www.baidu.com/p/ccvva66?from=wk" target="_blank">ccvva66</a>兑换了<span class="score">版本双倍经验卡</span>
+</li>
+<li>
+<a class="" href="http://www.baidu.com/p/九份de咖啡店?from=wk" target="_blank">九份de咖啡店</a>兑换了<span class="score">小熊(Bear)ZDQ-201 煮蛋器</span>
+</li>
+<li>
+<a class="" href="http://www.baidu.com/p/成成先生m?from=wk" target="_blank">成成先生m</a>兑换了<span class="score">版本双倍经验卡</span>
+</li>
+<li>
+<a class="" href="http://www.baidu.com/p/囍从东来?from=wk" target="_blank">囍从东来</a>兑换了<span class="score">小熊(Bear)ZDQ-201 煮蛋器</span>
+</li>
+<li>
+<a class="" href="http://www.baidu.com/p/ccvva66?from=wk" target="_blank">ccvva66</a>兑换了<span class="score">版本双倍经验卡</span>
+</li>
+<li>
+<a class="" href="http://www.baidu.com/p/rria60?from=wk" target="_blank">rria60</a>兑换了<span class="score">版本双倍经验卡</span>
+</li>
+</ul>
+<ul id="slide2"></ul>
+</div>
+</dd>
+</dl>
+<script type="text/javascript">baidu.dom.ready(function(){var _=10;if(_>5){marquee(document.getElementById("slideBox"),document.getElementById("slide1"),document.getElementById("slide2"),30,20,2000);}});</script>
+<!--广告-->
+<ol class="ads">
+ 
+<li>
+    <a href="http://baike.baidu.com/mall/item?id=784" target="_blank">
+	<img src="http://baike.baidu.com/cms/s/mall/gift/240x130.jpg" title="百度文库VIP 核心用户尊享" alt="百度文库VIP 核心用户尊享" />
+    </a>
+</li>
+ 
+<li>
+    <a href="http://baike.baidu.com/mall/item?id=782" target="_blank">
+	<img src="http://baike.baidu.com/cms/s/mall/gift/music240.jpg" title="百度音乐VIP 核心用户尊享" alt="百度音乐VIP 核心用户尊享" />
+    </a>
+</li>
+ 
+<li>
+    <a href="http://baike.baidu.com/cms/s/bkqc/index.html" target="_blank">
+	<img src="http://baike.baidu.com/cms/s/bkqc/240-130.jpg" title="百科编修院招募" alt="百科编修院招募" />
+    </a>
+</li>
+</ol>
+</aside>
+</article>
+<footer class="foot">
+<p><img src="http://img.baidu.com/img/baike/ico_bz.gif"/>&#160;&#160;如想投诉，请到<a href="http://tousu.baidu.com/baike" target="_blank">百度百科投诉中心</a>；如想提出意见、建议，请到<a href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%B0%D9%BF%C6" target="_blank">百度百科吧</a>；想要了解您在百度百科的权利与义务，请查看<a href="http://www.baidu.com/search/baike_help.html#百科协议" target="_blank">权利声明</a>。</p>
+<p>&#169;<script>document.write((new Date).getFullYear());</script> Baidu <a href="http://www.baidu.com/duty/">使用百度前必读</a> <a href="http://www.baidu.com/search/baike_help.html#百科协议">百科协议</a></p>
+</footer>
+<script>/*<![CDATA[*/baidu.dom.ready(function(){var H=[1,2,3],G=baidu.g("mallLink"),D=baidu.q("mallControl",document.body,"ul")[0],A=baidu.q("mallContent",document.body,"div")[0],F=new bk.usercenter.switchTab({switcherID:D,contentID:A,indexChanged:function(_){G.href="/mall/zone?zoneId="+H[_];G.onclick=function(){nslog(window.location,3608,{type:_+1});};},playDuration:30000});F.startPlay();if(baidu.browser.ie<=6){baidu.each(baidu.dom.children(D),function(_){baidu.on(_,"mouseover",function(){if(this.className!="on"){this.style.cursor="pointer";}});});}var E=bk.usercenter.slide.create({duration:300,playDuration:3000,prev:"animateDown",next:"animateUp",container:"animateList",autoPlay:true,cycle:true,overStop:true,step:724,moveSwitchers:baidu.dom.query(".circle-des .cir")}),_=0,C=baidu.dom.children("animate-index");function B(_,D,A){C[_].className=D;var B=baidu.dom.first(C[_]);if(B){B.fillColor=A;B.strokeColor=A;}}E.addEventListener("onIndexChange",function(C){var A=C.index;if(_!=A){B(_,"cir","#ffffff");}B(A,"cir active","#e42424");_=A;});E.init();bkuc.event.on(document,"visibilitychange",function(){var _=document.hidden||document.webkitHidden||document.msHidden;if(_){F.stopPlay();E.stop();}else{F.startPlay();E.play();}});});if(baidu.browser.ie==6){(function initIE6Tip(){var _=document.createElement("div");_.id="TopTip";_.innerHTML='<DIV style="BORDER-RIGHT: #ffc973 1px solid; BORDER-TOP: #ffc973 1px solid; FONT-SIZE: 12px; Z-INDEX: 1000; LEFT: 50%; MARGIN: 0px 0px 0px -300px; BORDER-LEFT: #ffc973 1px solid; WIDTH: 600px; COLOR: rgb(102,102,102); PADDING-TOP: 2px; BORDER-BOTTOM: #ffc973 1px solid; FONT-FAMILY: \u5b8b\u4f53; POSITION: absolute; TOP: 0px; HEIGHT: 22px; BACKGROUND-COLOR: rgb(255,255,227); TEXT-ALIGN: center"><DIV class="tip_text" style="DISPLAY: inline; MARGIN-LEFT: auto; WIDTH: 620px; MARGIN-RIGHT: auto; HEIGHT: 25px"><SPAN class="tip_icon" style="VERTICAL-ALIGN: middle"><IMG style="WIDTH: 16px; HEIGHT: 16px" src="/static/lemma/css/img/tipForIE6/jingtan.png"/></SPAN>&nbsp;\u4e3a\u4e86\u66f4\u6d41\u7545\u7684\u6d4f\u89c8\u548c\u7f16\u8f91\u767e\u79d1\u8bcd\u6761\uff0c\u5efa\u8bae\u60a8\u5347\u7ea7\u5230\u66f4\u9ad8\u7248\u672c\u7684IE\u6d4f\u89c8\u5668<SPAN class="sug_browser">&nbsp;<A id="ontoie8" href="###" target="_blank"><IMG style="VERTICAL-ALIGN: middle; WIDTH: 18px; HEIGHT: 18px" src="/static/lemma/css/img/tipForIE6/ie8.png" />\u70b9\u51fb\u4e0b\u8f7d</A></SPAN>&nbsp;&nbsp;<SPAN id="close_ie6tip" title="\u5173\u95ed" style="BORDER-RIGHT: #e1cd85 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #e1cd85 1px solid; DISPLAY: inline-block; PADDING-LEFT: 0px; BACKGROUND: url(/static/lemma/css/img/tipForIE6/close_btn.png); PADDING-BOTTOM: 0px; MARGIN-LEFT: 5px; BORDER-LEFT: #e1cd85 1px solid; WIDTH: 12px; CURSOR: pointer; LINE-HEIGHT: 12px; PADDING-TOP: 0px; BORDER-BOTTOM: #e1cd85 1px solid; HEIGHT: 12px">&nbsp;</SPAN></DIV></DIV>';document.body.insertBefore(_,document.body.firstChild);baidu.on("close_ie6tip","click",function(_){baidu.dom.remove("TopTip");});baidu.on("ontoie8","click",function(_){baidu.event.stop(_);window.open("http://soft.baidu.com/pc/a_30276.html?fr=baike");nslog(window.location,5911);});nslog(window.location,5910);})();}/*]]>*/</script>
+<script src="http://hm.baidu.com/h.js?55b574651fcae74b0a9f1cf9c8d7c93a" type="text/javascript"></script>
+</body>
+</html><!--02876990790979313674092423-->
+<script> var _trace_page_logid = 0287699079; </script>

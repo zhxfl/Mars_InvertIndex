@@ -1,0 +1,659 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>小知识，大用途—LBS开放平台助力国家地震台网普及地震安全知识</title>
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <div class="header-wrap">
+    <div class="header">
+      <a href="javascript:void(0);" class="logo"></a>
+      <a href="http://www.ceic.ac.cn/" target="_blank" class="dzt-logo"></a>
+      <div class="weibo-wrap">        
+        <a href="http://weibo.com/baidudituapi" target="_blank" class="lbs-weibo"></a>
+        <a href="http://weibo.com/ceic" target="_blank" class="dzt-weibo"></a>        
+      </div>
+      <span>联合发起</span>
+    </div>
+  </div>
+  <div class="main-area">
+    <div class="main-mid">
+      <a href="javascript:void(0);" class="dz-icon icon1"></a>
+      <a href="javascript:void(0);" class="dz-icon icon2"></a>
+      <a href="javascript:void(0);" class="dz-icon icon3"></a>
+      <a href="javascript:void(0);" class="dz-icon icon4"></a>
+      <a href="javascript:void(0);" class="dz-icon icon5"></a>
+      <a href="javascript:void(0);" class="dz-icon icon6"></a>
+      <a href="javascript:void(0);" class="dz-icon icon7"></a>
+      <a href="javascript:void(0);" class="dz-icon icon8"></a>
+      <a href="javascript:void(0);" class="dz-icon icon9"></a>
+      <a href="javascript:void(0);" class="dz-icon icon10"></a>
+      <a href="javascript:void(0);" class="dz-icon icon11"></a>
+      <a href="javascript:void(0);" class="dz-icon icon12"></a>
+      <a href="javascript:void(0);" class="dz-icon icon13"></a>
+      <a href="javascript:void(0);" class="dz-icon icon14"></a>
+      <a href="javascript:void(0);" class="dz-icon icon15"></a>
+      <a href="javascript:void(0);" class="dz-icon icon16"></a>
+      <a href="javascript:void(0);" class="dz-icon icon17"></a>
+      <a href="javascript:void(0);" class="dz-icon icon18"></a>
+      
+
+
+      <ul class="info-wrap">
+        <li class="info li1">       
+          <div class="top-wrap">            
+            <a href="" class="btn" target="_blank">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>地震灾害预防</h1>
+              <p>地震灾害预防是人类发挥自身主观能动性，自觉地采取预防措施，积极主动地避免或最大限度地减轻地震灾害造成的人员伤亡和财产损失。</p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>新疆于田县</h1>
+              <p>震中纬度：<span class="num">35.6</span></p>
+              <p>震中经度：<span class="num">81.6</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">33</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">7.3</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2008-3-21  6:33:02</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li2">       
+          <div class="top-wrap">            
+            <a href="http://service.weibo.com/share/share.php?appkey=962772401&amp;url=http://localhost:3000/&amp;%20title=地震台网公益&amp;source=111&amp;sourceUrl=222&amp;%20content=utf-8&amp;" class="btn" target="_blank">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>如果你家是自建房？</h1>
+              <p><span>1.</span><span class="p-span">尽量选择地势平坦、开阔，土层密实、均匀或稳定基岩等有利的地段建房</span></p>
+              <p><span>2.</span><span class="p-span">场地选择要恰当；地基要做牢做稳；房屋布局要合理；墙体要有足够的强度和稳定性,定时检查房屋隐患</span></p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>西藏改则县</h1>
+              <p>震中纬度：<span class="num">32.5</span></p>
+              <p>震中经度：<span class="num">85.2</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">33</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">6.9</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2008-01-09 16:26:47</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li3">       
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>定时检查房屋隐患</h1>
+              <p><span>1.</span><span class="p-span">房屋的建造质量好不好？是否年久失修？有没有不利抗震的地方？不利抗震的房屋要加固，不宜加固的危房要拆除。</span></p>
+              <p><span>2.</span><span class="p-span">房屋抗震加固措施包括增强结构强度、提高材料延性等</span></p>              
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>青海省玉树县</h1>
+              <p>震中纬度：<span class="num">33.1</span></p>
+              <p>震中经度：<span class="num">96.7</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">14</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">7.1</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2010-04-14 07:49:40</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li4">       
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>合理放置家具物品</h1>
+              <p><span>1.</span><span class="p-span">固定墙上的悬挂物，防止掉下来伤人。</span></p>
+              <p><span>2.</span><span class="p-span">笨重家具等物品，摆放做到"重在下轻在上"。</span></p>
+              <p><span>3.</span><span class="p-span">易燃易爆和有毒物品存放在安全地方。</span></p>
+              <p><span>4.</span><span class="p-span">阳台护栏要清理，花盆、杂物拿下来。</span></p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>四川省雅安市芦山县</h1>
+              <p>震中纬度：<span class="num">30.3</span></p>
+              <p>震中经度：<span class="num">103.0</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">13</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">7.0</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2013-04-20 08:02:46</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li5">       
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>准备好必要的应急物品</h1>
+              <p>平时准备装有水、食品、急救绷带、哨子、手电筒等应急物品的防震应急包，放在容易快速取到的避震安全处。</p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>四川汶川县</h1>
+              <p>震中纬度：<span class="num">31.0</span></p>
+              <p>震中经度：<span class="num">103.4</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">33</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">8.0</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2008-05-12 14:28:04</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li6">       
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>避震方法</h1>
+              <p>平时做好避震应急准备，掌握地震基本常识和防震避震的科学方法，震时就有生存的希望。大多数地震是有感或轻度破坏地震，所以遇到地震时一定要镇静，并就地躲避。</p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>河北省唐山市</h1>
+              <p>震中纬度：<span class="num">39.7</span></p>
+              <p>震中经度：<span class="num">118.5</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">8</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">4.8</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2012-5-28  10:22:52</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li7">       
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>避震要点，震时是跑还是躲?</h1>
+              <p><span>1.</span><span class="p-span">避震应选择室内结实、能掩护身体的物体下。</span></p>
+              <p><span>2.</span><span class="p-span">易于形成三角空间的地方。</span></p>
+              <p><span>3.</span><span class="p-span">开间小、有支撑的地方。</span></p>
+              <p><span>4.</span><span class="p-span">室外开阔、安全的地方。</span></p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>黑龙江省绥化市安达市</h1>
+              <p>震中纬度：<span class="num">46.8</span></p>
+              <p>震中经度：<span class="num">125.3</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">7</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">4.5</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2009-05-10 22:47:41</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li8">       
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>进行防震演练</h1>
+              <p><span>1.</span><span class="p-span">平时找好紧急避险的地方，如：卫生间、坚固的桌子下面，进行“10秒钟”紧急避险练习。</span></p>
+              <p><span>2.</span><span class="p-span">平时找好安全、畅通的线路进行“1分钟”紧急撤离与疏散练习。</span></p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>云南省姚安县</h1>
+              <p>震中纬度：<span class="num">25.6</span></p>
+              <p>震中经度：<span class="num">101.1</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">10</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">6.0</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2009-07-09 19:19:13</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li9">       
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>躲避地震时身体应采取的姿势</h1>
+              <p><span>1.</span><span class="p-span">蹲下或坐下，尽量蜷曲身体，降低身体重心。</span></p>
+              <p><span>2.</span><span class="p-span">抓住桌腿等牢固的物体。</span></p>
+              <p><span>3.</span><span class="p-span">用双手或衣物等保护头颈、眼睛，掩住口鼻。</span></p>          
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>甘肃省定西市岷县</h1>
+              <p>震中纬度：<span class="num">34.5</span></p>
+              <p>震中经度：<span class="num">104.2</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">20</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">6.6</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2013-07-22 07:45:55</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>       
+        <li class="info li10">        
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>地震发生时的避震措施</h1>
+              <p><span>1.</span><span class="p-span">尽量保护头部，如有可能，可以冲出房屋外到空旷的地带。如果来不及，就在坚固家具下暂时躲避，再伺机快速转移到户外安全处。</span></p>
+              <p><span>2.</span><span class="p-span">室内较安全的避震地点：坚固的桌下或床边；低矮、坚固的家具边；开间小、有支撑物的房间，如卫生间、厨房、储藏室等。</span></p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>陕西宁强县</h1>
+              <p>震中纬度：<span class="num">32.8</span></p>
+              <p>震中经度：<span class="num">105.6</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">33</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">5.7</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2008-05-27 16:37:53</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li11">        
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>震时要注意</h1>
+              <p><span>1.</span><span class="p-span">迅速关闭电源、火源。</span></p>
+              <p><span>2.</span><span class="p-span">千万不要滞留在床上。</span></p>
+              <p><span>3.</span><span class="p-span">千万不能跳楼。</span></p>
+              <p><span>4.</span><span class="p-span">不要到阳台上去,不要躲到外墙边或床边。</span></p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>重庆市荣昌县</h1>
+              <p>震中纬度：<span class="num">29.4</span></p>
+              <p>震中经度：<span class="num">105.5</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">7</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">4.7</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2010-09-10 21:21:46</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li12">        
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>在学校怎样避震？</h1>
+              <p><span>1.</span><span class="p-span">正在学校上课时，要在教师指挥下迅速抱头，躲在各自的课桌下；或有组织地迅速撤离教室，到安全的地方。</span></p>
+              <p><span>2.</span><span class="p-span">在操场或室外时，可原地蹲下，双手保护头部。注意避开高大建筑物或危险物。</span></p>             
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>广西平果县</h1>
+              <p>震中纬度：<span class="num">23.8</span></p>
+              <p>震中经度：<span class="num">107.4</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">7</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">4.5</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2013-02-20 03:21:15</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li13">        
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>在公共场所怎样避震？</h1>
+              <p><span>1.</span><span class="p-span">听从警察或现场工作人员的指挥，不要慌乱，不要拥向出口。</span></p>
+              <p><span>2.</span><span class="p-span">选择结实的柜台、商品或柱子边、内墙角等处就地蹲下，用手或其他东西护住头部。</span></p>
+              <p><span>3.</span><span class="p-span">在影剧院等，就地蹲下。注意避开吊灯、电扇等悬挂物。</span></p>
+              
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>湖北竹山县</h1>
+              <p>震中纬度：<span class="num">32.6</span></p>
+              <p>震中经度：<span class="num">110.1</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">10</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">4.2</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2008-03-24 23:24:41</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li14">        
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>在野外怎样避震？</h1>
+              <p><span>1.</span><span class="p-span">避开山边的危险环境：避开陡峭的山坡、山崖、陡崖，以防山崩、地裂、滚石、滑坡、泥石流等。</span></p>
+              <p><span>2.</span><span class="p-span">遇到山崩、滑坡，要向垂直于滚石可能运动的方向跑，切忌顺着滚石方向往山下跑。</span></p>             
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>广东省河源市东源县</h1>
+              <p>震中纬度：<span class="num">23.9</span></p>
+              <p>震中经度：<span class="num">114.5</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">11</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">4.8</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2013-2-22  11:34:12</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li15">        
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>如何应对次生灾害？</h1>
+              <p><span>1.</span><span class="p-span">煤气泄漏时：千万不要使用明火，震后设法转移。</span></p>
+              <p><span>2.</span><span class="p-span">遇到火灾时：地震停止后要逆风匍匐逃离火场，向安全地方转移。</span></p>
+              <p><span>3.</span><span class="p-span">毒气泄漏时：遇到化工厂着火，毒气泄漏，要尽量绕到上风向。</span></p>
+              
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>辽宁省辽阳市灯塔市</h1>
+              <p>震中纬度：<span class="num">41.5</span></p>
+              <p>震中经度：<span class="num">123.2</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">7</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">5.1</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2013-01-23 12:18:16</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li16">        
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>自救互救</h1>
+              <p>震后减少人员伤亡最及时、最有效的方法，抢救的时间越早，生存的希望就越大。灾后群众及时自救互救行动，在抢救人员生命中发挥了不可替代的作用。</p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>江苏省扬州市高邮市</h1>
+              <p>震中纬度：<span class="num">33.0</span></p>
+              <p>震中经度：<span class="num">119.6</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">5</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">4.9</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2012-07-20 20:11:50</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li17">        
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>自救措施</h1>
+              <p><span>1.</span><span class="p-span">设法避开身体上方不结实的倒塌物、悬挂物等。</span></p>
+              <p><span>2.</span><span class="p-span">设法用砖石等进行支撑，以防余震时再次被埋压。</span></p>
+              <p><span>3.</span><span class="p-span">不要盲目大声呼救，保持体力，可用敲击声等办法求救。</span></p>
+              
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>福建省莆田市仙游县</h1>
+              <p>震中纬度：<span class="num">25.6</span></p>
+              <p>震中经度：<span class="num">118.8</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">10</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">4.8</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2013-09-04 06:23:26</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+        <li class="info li18">        
+          <div class="top-wrap">            
+            <a href="javascript:void(0);" class="btn">参加</a>
+          </div>
+          <div class="mid-wrap">
+            <div class="mid-left">
+              <h1><i class="dot"></i>地震发生后</h1>
+              <p>立即启动地震应急方案，进行人员救护和生活安置，及时地开展灾区卫生防疫工作。同时，要尽快采取一些简易的方法缓解心理压力，恢复日常心态。</p>
+            </div>
+            <div class="mid-right"></div>
+          </div>
+          <div class="foot-wrap">
+            <div class="foot-left">
+              <p class="history">历史发生过</p>
+              <h1><i class="map"></i>台湾高雄</h1>
+              <p>震中纬度：<span class="num">22.9</span></p>
+              <p>震中经度：<span class="num">120.6</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深度：<span class="num">6</span></p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;震级：<span class="num">6.7</span></p>
+            </div>
+            <div class="foot-right">
+              <p class="history time">发震时刻：2010-03-04 08:18:50</p>
+              <a href="javascript:void(0);"  target="_blank" class="jttu"></a>
+            </div>
+          </div>  
+        </li>
+
+      </ul>
+
+
+    </div>
+    <div class="des">
+      <div class="rule-head"></div>
+      <div class="rule">
+        <h1 class="rule-time"></h1>
+        <p class="p-time">9月23日-9月29日</p>
+        <div class="rule-cont">
+          <h2></h2>
+          <p>
+            <i class="first"></i>
+            关注@百度LBS开放平台和@中国地震台网速报 官方微博。
+          </p>
+          <p><i class="sec"></i>在地图上寻找“防震避震常识”小卡片，点击参与分享。</p>
+          <p><i class="third"></i>参与并分享本次活动，有机会参与幸运抽奖，机会多多!</p>
+        </div>
+        <h2 class="rule-prize"></h2>
+        <div class="rule-cont">
+          <p>
+          <i class="first"></i>
+          活动结束后两周内公布获奖名单，包括大奖三名，幸运奖二十名。
+          </p>
+          <p><i class="sec"></i>获奖者请私信联系@百度LBS开放平台。</p>
+        </div>
+      </div>
+
+      <div class="prize-head"></div>
+      <div class="prize">
+        <h1></h1>
+        <div class="prize1"></div>
+        <div class="prize2"></div>
+      </div>
+      <div class="follow-head"></div>
+      <div class="follow">
+        <h1></h1>
+        <div class="weibo-list">
+          <a class="item1" href="http://e.weibo.com/ceic" target="_blank">中国地震台网速报</a>
+          <a href="http://e.weibo.com/u/2682532533" target="_blank">云南省地震局</a>
+          <a href="http://e.weibo.com/sxsdzj" target="_blank">陕西省地震局</a>
+          <a class="item4" href="http://e.weibo.com/nmea" target="_blank">内蒙古自治区地震局</a>
+          <a class="item5" href="http://e.weibo.com/bjsdzj" target="_blank">北京市地震局</a>
+          <a class="item5" href="http://e.weibo.com/shsdzj" target="_blank">上海市地震局</a>
+          <a class="last" href="http://e.weibo.com/u/3757535074" target="_blank">山西地震资讯</a>
+          <a class="item1" href="http://e.weibo.com/zggjjyd" target="_blank">中国国际救援队</a>
+          <a class="item6" href="http://e.weibo.com/2304878677/app_2940394574" target="_blank">福建省地震局</a>
+          <a class="item6" href="http://e.weibo.com/gdsdzj" target="_blank">南粤防震减灾</a>
+          <a class="item7" href="http://e.weibo.com/xjdzj" target="_blank">新疆地震局</a>
+          <a class="item8" href="http://e.weibo.com/u/3023784145" target="_blank">地震出版社专业图书</a>
+          <a href="http://e.weibo.com/gx12322" target="_blank">广西防震减灾</a>
+          <a class="last" href="http://e.weibo.com/u/3084769675" target="_blank">河北省地震局</a>
+        </div>        
+      </div>
+
+      <div class="more-head"></div>
+    </div>
+  </div>
+    <script type="text/javascript">
+      var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+      document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F548aa2fed08d28de00e33ea729f42df5' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+  </body>
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script>
+(function(){
+  var $icon = $(".dz-icon");
+  var $info = $(".info");
+  
+  $icon.hover(function(){
+    var index = $(this).index();
+    
+    
+    setTimeout(function(){$info.eq(index).addClass("current");},30);
+
+  },function(){
+    var index = $(this).index();    
+    var timeId = setTimeout(function(){$info.eq(index).removeClass("current");},30);
+
+    $info.hover(function(){
+      clearTimeout(timeId);
+    },function(){
+      $(this).removeClass("current");
+    });
+  });
+
+  function stat(params){
+    var statImg = new Image();
+    statImg.src = "http://api.map.baidu.com/images/blank.gif?product=dz&" + params;
+  }
+
+  $(".logo").click(function(e){
+    //http://developer.baidu.com/map/
+    e.preventDefault();
+    var url = "http://developer.baidu.com/map/";
+    window.open(url,"_blank");
+    stat("action=logo");
+  })
+
+  //参与点击
+  $(".btn").click(function(e){
+    e.preventDefault();
+    var url = "http://service.weibo.com/share/share.php?&url=http%3A%2F%2Fdeveloper.baidu.com%2Fmap%2Fnews%2Fgy%2F&title=%23%E5%B0%8F%E7%9F%A5%E8%AF%86%EF%BC%8C%E5%A4%A7%E7%94%A8%E9%80%94%23%E6%88%91%E5%88%9A%E5%8F%82%E5%8A%A0%E4%BA%86%40%E7%99%BE%E5%BA%A6LBS%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%20%E6%90%BA%E6%89%8B%40%E4%B8%AD%E5%9B%BD%E5%9C%B0%E9%9C%87%E5%8F%B0%E7%BD%91%E9%80%9F%E6%8A%A5%20%E4%B8%BE%E8%A1%8C%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%9C%B0%E9%9C%87%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E6%9C%89%E5%A5%96%E6%B4%BB%E5%8A%A8%EF%BC%8C%E5%B0%8F%E4%BC%99%E4%BC%B4%E4%BB%AC%EF%BC%8C%E8%BF%98%E7%AD%89%E4%BB%80%E4%B9%88%E5%91%A2%EF%BC%9F%E8%B5%B6%E5%BF%AB%E6%9D%A5%E5%8F%82%E5%8A%A0%E5%90%A7%EF%BC%81%E6%8A%BD%E5%A5%96%E5%9C%B0%E5%9D%80%EF%BC%9A&source=&sourceUrl=http%3A%2F%2Fdeveloper.baidu.com%2Fmap%2Fnews%2Fgy%2F&content=%E9%A1%B5%E9%9D%A2%E7%BC%96%E7%A0%81gb2312|utf-8%E9%BB%98%E8%AE%A4gb2312&pic=http%3A%2F%2Fapi.map.baidu.com%2Flbsapi%2Fcloud%2Fnews%2Fgy%2Fimage%2Fweibo.jpg";
+    window.open(url,"_blank");
+    stat("action=weibobtn");
+  })
+
+  //静态图
+  $(".jttu").click(function(e){
+    e.preventDefault(); 
+    var url = "http://developer.baidu.com/map/staticimg.htm";
+    window.open(url,"_blank");
+    stat("action=jtt");
+  })
+
+})();
+</script>
+
+</html>

@@ -1,0 +1,518 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <title>百度百科_按开放分类浏览      </title>
+<link type="text/css" href="http://baike.bdimg.com/css/font.css" rel="stylesheet" />
+<style type="text/css">
+.dot{font-size:17px;margin-right:6px;font-weight:600}
+.dirtit{margin-bottom:5px;padding-left:5px;font-size:14px;font-weight:bold}
+.dirline{margin-top:10px;line-height:15px;border-top:1px solid #E0E0E0}
+.t1,.b1{padding:5px 10px 3px 10px;font-size:14px;border:1px solid #a4b1ca;}
+.t1{border-bottom:none;background-color:#d8dfec;font-weight:bold;}
+.sml{font-size:12px;line-height:18px;word-break:break-all;white-space:normal;}
+.dh{padding-bottom:5px;}
+</style>
+<script type="text/javascript" src="http://baike.bdimg.com/static/common/js/list.js?t=20120319144423"></script>
+<script language="javascript">
+function size(){
+        document.getElementById("jc").style.height="auto";
+}
+</script>
+</head>
+<body onload="document.f1.word.focus();">
+<link rel="stylesheet" href="http://baike.bdimg.com/static/common/css/common/userbar.css?t=20111230" />
+<!--涓嶈鍒犻櫎鏈〉涓湁begin寮�澶寸瓑鐩稿叧娉ㄩ噴锛屽悗鏋滃緢涓ラ噸-->
+
+
+<!---->
+<div id="userbar">
+</div>    
+<form name="f1" method="get" target="_self" action="/search/word">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="htb"><tr valign="middle">
+<td valign="top" style="padding-left:8px;width:137px;"><div><a href="/"><img border="0" src="http://img.baidu.com/img/baike/logo-baike.gif" width="137" height="46" alt="到百科首页"></a></div></td>
+
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+<td width="100%" valign="top">
+<div class="ChTit"><a href="http://news.baidu.com/?fr=bk">新闻</a><a href="http://www.baidu.com/?fr=bks0000">网页</a><a href="http://tieba.baidu.com/?fr=bk">贴吧</a><a href="http://zhidao.baidu.com/?fr=bk">知道</a><a href="http://mp3.baidu.com/?fr=bk">MP3</a><a href="http://image.baidu.com/?fr=bk">图片</a><a href="http://video.baidu.com/?fr=bk">视频</a><span class="fB">百科</span><a href="http://wenku.baidu.com/?fr=bk">文库</a></div>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" nowrap="nowrap"><input id="kw" name="word" value="" maxlength="400" class="i" size="42" tabindex="1"/></td><td nowrap="nowrap" style="padding-left:3px;vertical-align:top"><input type="submit" value="进入词条" class="bds" onClick="document.f1.pic.value='1'" tabindex="2" /><input type="submit" value="搜索词条" class="bds" onClick="document.f1.pic.value='2'" tabindex="3" /><a target="_blank" href="http://www.baidu.com/search/baike_help.html">帮助</a></td></tr></table>
+</td>
+</tr></table>
+<input type="hidden" name="pic" value="1" id="sw1">
+</form>
+<div class="dh sml" style="margin-left:8px;"><a href="/">百度百科</a> &gt;&nbsp;按开放分类浏览</div>
+<div class="t1">按开放分类浏览</div>
+<div id="content" style="padding-left:10px">
+<fieldset style="padding:10px;border:1px solid #BDCFF7">
+<legend style="color:#000"><span class="Tit" style="line-height:40px">生活</span> <span class="f14">分类下的开放分类共有105个（共1页）</span></legend>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34581">饮食</a>(21)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34582">游戏</a>(16)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34583">休闲</a>(20)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34561">娱乐</a>(3)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34584">时尚</a>(15)</td>
+ 
+ 
+</tr>
+
+<tr> 
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34667">服饰</a>(7)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34585">交通</a>(9)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34635">旅游</a>(7)</td>
+
+<td width="20%" height="24" nowrap class="f14"><font class="dot">&#8226;</font> <a href="#34636">居家</a>(7)</td>
+ 
+
+<td width="20%" height="24" nowrap class="f14"></td>
+ 
+</tr>
+
+
+</table>
+</fieldset>
+
+<br>
+
+<a name="34581" id="34581"></a>
+<div class="dirtit">饮食</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%EB%E2%BF"target="_blank">烹饪</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%E6%B2%CB"target="_blank">湘菜</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%A8%B2%CB"target="_blank">川菜</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%E3%B2%CB"target="_blank">浙菜</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%D5%B2%CB"target="_blank">苏菜</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F6%B2%CB"target="_blank">闽菜</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%B3%B2%CB"target="_blank">鲁菜</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%D5%B2%CB"target="_blank">徽菜</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%C1%B2%CB"target="_blank">粤菜</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%B2%CD"target="_blank">西餐</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%B5%E3"target="_blank">西点</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%A1%B3%D4"target="_blank">小吃</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%A9%C9%C5"target="_blank">药膳</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C0%CF%D7%D6%BA%C5"target="_blank">老字号</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%BD%B7%BF%B2%CB"target="_blank">私房菜</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%FA%BA%BA%C8%AB%CF%AF"target="_blank">满汉全席</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%CB%C6%D7"target="_blank">菜谱</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%C0%CA%B3"target="_blank">美食</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%FB%CA%B3"target="_blank">饮食</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%B3%C6%D7"target="_blank">食谱</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%B3%C6%B7"target="_blank">食品</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34582" id="34582"></a>
+<div class="dirtit">游戏</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%F8%C2%E7%D3%CE%CF%B7"target="_blank">网络游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%A5%BB%FA%D3%CE%CF%B7"target="_blank">单机游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%DD%CF%D0%D3%CE%CF%B7"target="_blank">休闲游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%D7%D3%BE%BA%BC%BC"target="_blank">电子竞技</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%CA%D3%D3%CE%CF%B7"target="_blank">电视游戏</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D6%BB%FA%D3%CE%CF%B7"target="_blank">手机游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%E6%D6%C7%D3%CE%CF%B7"target="_blank">益智游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%F1%B6%B7%D3%CE%CF%B7"target="_blank">格斗游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C8%FC%B3%B5%D3%CE%CF%B7"target="_blank">赛车游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%E4%BB%F7%D3%CE%CF%B7"target="_blank">射击游戏</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D5%BD%C2%D4%D3%CE%CF%B7"target="_blank">战略游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=RPG%D3%CE%CF%B7"target="_blank">RPG游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%C0%C3%E6%D3%CE%CF%B7"target="_blank">桌面游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%CE%CF%B7"target="_blank">游戏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BA%EC%C9%AB%BE%AF%BD%E4"target="_blank">红色警戒</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%CE%CF%B7%CD%F5%BF%A8"target="_blank">游戏王卡</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34583" id="34583"></a>
+<div class="dirtit">休闲</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%C3%D3%CE"target="_blank">旅游</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%BD%CF%D5"target="_blank">探险</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%E8%D2%D5"target="_blank">茶艺</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%E5%BB%A8"target="_blank">插花</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%BA%CE%EF"target="_blank">购物</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D4%CB%B6%AF"target="_blank">运动</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CB%DC%C9%ED"target="_blank">塑身</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B0%AE%C7%E9"target="_blank">爱情</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C7%E9%B8%D0"target="_blank">情感</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%A4%D7%F7"target="_blank">工作</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%E9%D2%F6"target="_blank">婚姻</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D2%B0%CD%E2%C9%FA%B4%E6"target="_blank">野外生存</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%F7%BA%FE%CA%AE%BE%B0"target="_blank">西湖十景</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%E9%C0%D6"target="_blank">娱乐</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B8%E8%C7%FA"target="_blank">歌曲</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%E7%C7%E9%C6%AC"target="_blank">剧情片</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%B0%C6%AC"target="_blank">影片</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%AA%C6%AC"target="_blank">唱片</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D5%B2%D8"target="_blank">收藏</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%CE%CF%B7%CD%F5"target="_blank">游戏王</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34561" id="34561"></a>
+<div class="dirtit">娱乐</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D3%B0%CA%D3"target="_blank">影视</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B6%AF%C2%FE"target="_blank">动漫</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%F7%D0%D0%B8%E8%C7%FA"target="_blank">流行歌曲</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34584" id="34584"></a>
+<div class="dirtit">时尚</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%F7%D0%D0"target="_blank">流行</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C1%ED%C0%E0"target="_blank">另类</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CD%BF%D1%BB"target="_blank">涂鸦</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C4%A3%CC%D8"target="_blank">模特</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B2%E8%B5%C0"target="_blank">茶道</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CE%C6%C9%ED"target="_blank">纹身</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D6%BB%E6"target="_blank">手绘</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B1%A9%D7%DF"target="_blank">暴走</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%D4%C5%C4"target="_blank">自拍</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%B7%C5%C6"target="_blank">品牌</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C5%DD%B0%C9"target="_blank">泡吧</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C9%DD%B3%DE%C6%B7"target="_blank">奢侈品</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%D0%CE%AA%D2%D5%CA%F5"target="_blank">行为艺术</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%B1%C9%D0"target="_blank">时尚</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%C0%C8%DD"target="_blank">美容</a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34667" id="34667"></a>
+<div class="dirtit">服饰</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%FE%D7%B0%C3%E6%C1%CF"target="_blank">服装面料</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%FE%D7%B0%C6%B7%C5%C6"target="_blank">服装品牌</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%FE%D7%B0%C9%E8%BC%C6"target="_blank">服装设计</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%F1%D7%E5%B7%FE%CA%CE"target="_blank">民族服饰</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%D7%CA%CE"target="_blank">首饰</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%CE%C6%B7"target="_blank">饰品</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D0%AC"target="_blank">鞋</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34585" id="34585"></a>
+<div class="dirtit">交通</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C6%FB%B3%B5"target="_blank">汽车</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BB%F0%B3%B5"target="_blank">火车</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%CD%BB%FA"target="_blank">客机</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%D8%CC%FA"target="_blank">地铁</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B3%B5%D5%BE"target="_blank">车站</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%FB%BD%D6"target="_blank">名街</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B4%C5%D0%FC%B8%A1"target="_blank">磁悬浮</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BD%BB%CD%A8%B5%D8%CD%BC"target="_blank">交通地图</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CC%FA%C2%B7"target="_blank">铁路</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34635" id="34635"></a>
+<div class="dirtit">旅游</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BE%B0%B5%E3"target="_blank">景点</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%BF%D3%D1"target="_blank">驴友</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C2%C3%D3%CE%D7%B0%B1%B8"target="_blank">旅游装备</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%C3%FB%CA%A4%B9%C5%BC%A3"target="_blank">名胜古迹</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B7%E7%BE%B0%C3%FB%CA%A4"target="_blank">风景名胜</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B9%FA%BC%D2%BC%B6%B7%E7%BE%B0%C3%FB%CA%A4%C7%F8"target="_blank">国家级风景名胜区</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CA%C0%BD%E7%D2%C5%B2%FA"target="_blank">世界遗产</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+<a name="34636" id="34636"></a>
+<div class="dirtit">居家</div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%D7%B0%D0%DE"target="_blank">装修</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%CA%D3"target="_blank">电视</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%CF%B4%D2%C2%BB%FA"target="_blank">洗衣机</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BF%D5%B5%F7"target="_blank">空调</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%B7%E7%C9%C8"target="_blank">电风扇</a></td>
+
+</tr>
+
+<tr>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%B5%E7%C6%F7"target="_blank">电器</a></td>
+
+<td width="20%" class="f14"><a href="/taglist?tag=%BC%D2%BE%DF"target="_blank">家具</a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+<td width="20%" class="f14"><a href=""target="_blank"></a></td>
+
+</tr>
+
+</table>
+<div class="f14" align="right"><a name="fn"  href="#" >返回页首</a></div>
+<div class="dirline">&nbsp;</div>
+
+
+
+</div>
+
+<br clear="all" />
+<div id="ft"><span class="cr">&copy;<script>document.write((new Date()).getFullYear());</script> Baidu&nbsp;</span><a target="_blank" href="http://www.baidu.com/search/baike_help.html#百科协议">版权声明</a></div>
+</body>
+</html><!--03633228480643507210092423-->
+<script> var _trace_page_logid = 0363322848; </script>

@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+    
+    
+    <title>百度音乐人_百度音乐</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <meta name="keywords" content="百度音乐人, 原创音乐, 独立音乐, 音乐人, 音乐社区, 百度音乐">
+    <meta name="description" content="百度音乐人社区是由百度音乐打造的原创音乐平台，致力于为独立音乐人提供发布原创音乐、与乐迷分享交流的音乐社区">
+    <link rel="shortcut icon" href="/static/common/img/favicon.ico"/> 
+    <link rel="stylesheet" href="http://mu4.bdstatic.com/static/common/c/Tg9g6oPk.css">
+
+    
+<link rel="stylesheet" href="http://mu4.bdstatic.com/static/common/c/t8hKy2ss.css">
+
+
+    <script src="//mu4.bdstatic.com/static/common/j/ewQxFMXs.js"></script>
+    <script>
+                                    _m.user = null;
+            </script>
+    <!--[if lt IE 7]>
+    <script src="/static/common/js/lib/jquery/jquery.belatedPNG.js"></script>
+    <script>
+        try { document.execCommand('BackgroundImageCache', false, true); } catch (e) {};
+    </script>
+    <![endif]-->
+</head>
+<body class="two-col home-index" >
+<div id="wrap">
+    
+            <header id="header" class="sns-header" monkey="artistsns-head" alog-alias ="artistsns-head">
+    <hgroup>
+        <a class="logo" href="/">百度音乐人</a>
+        <nav class="nav">
+            <ul>
+                <li><a href="/"  class="active">首页</a></li>
+                <li><a href="/musician" >音乐人</a></li>
+            </ul>
+        </nav>
+        <section id="user-bar" class="user-info">
+                    <a class="login need-login" href="#">登录</a><span class="spacing">|</span><a class="signup" target="_blank" href="#">注册</a>
+                </section>
+    </hgroup>
+</header>
+    
+
+    
+        <section id="banner" class="sns-banner " monkey="artistsns-banner" alog-alias ="artistsns-banner">
+            
+<div class="center-wrap"><div class="cover"></div></div>
+
+        </section>
+    
+
+    
+    <section id="content" class="sns-content" monkey="artistsns-content" alog-alias ="artistsns-content">
+        <article class="main">
+                    <div class="mod hot-artists" >
+    <div class="hd">
+<h2>热门音乐人</h2>
+<span class="more"><a href="/musician/#all/hot">更多&nbsp;&gt;&gt;</a></span>
+</div>
+    <div class="bd">
+<ul class="list">
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;100542&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/artist/100542">
+            <img alt="好妹妹乐队" src="http://c.hiphotos.baidu.com/ting/s%3D90/sign=98c670ebb812c8fcb0f3facdfd036175/6f061d950a7b020891b93d2a63d9f2d3562cc88d.jpg">
+        </a>
+        <span class="name">
+            <a title="好妹妹乐队" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;100542&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/artist/100542">
+            好妹妹乐队
+        </a>
+        </span>
+        <span class="style" title="民谣/乡村">
+            民谣/乡村
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;101951&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/zhangchu">
+            <img alt="张楚" src="http://h.hiphotos.baidu.com/ting/s%3D90/sign=ef3fa87264380cd7e21eaeeda044c162/71cf3bc79f3df8dc8e41d853cc11728b461028f7.jpg">
+        </a>
+        <span class="name">
+            <a title="张楚" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;101951&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/zhangchu">
+            张楚
+        </a>
+        </span>
+        <span class="style" title="摇滚">
+            摇滚
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102682&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/loveuta">
+            <img alt="Uta悬铃木" src="http://b.hiphotos.baidu.com/ting/s%3D90/sign=00b05a0f324e251fe6f7e8f8a7861334/377adab44aed2e73ca507e198501a18b87d6fa4e.jpg">
+        </a>
+        <span class="name">
+            <a title="Uta悬铃木" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102682&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/loveuta">
+            Uta悬铃木
+        </a>
+        </span>
+        <span class="style" title="流行">
+            流行
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;101386&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/weinahu">
+            <img alt="胡维纳" src="http://b.hiphotos.baidu.com/ting/s%3D90/sign=4c183a949358d109c0e3a5b2d0580557/b219ebc4b74543a9136aa3261f178a82b80114e2.jpg">
+        </a>
+        <span class="name">
+            <a title="胡维纳" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;101386&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/weinahu">
+            胡维纳
+        </a>
+        </span>
+        <span class="style" title="流行">
+            流行
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102277&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/zhouwang">
+            <img alt="纣王" src="http://f.hiphotos.baidu.com/ting/s%3D90/sign=6b414e4aca1349547a1ee464544e0ac4/79f0f736afc379313fcb70e2eac4b74542a9115d.jpg">
+        </a>
+        <span class="name">
+            <a title="纣王" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102277&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/zhouwang">
+            纣王
+        </a>
+        </span>
+        <span class="style" title="民谣/乡村">
+            民谣/乡村
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102153&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/gaoguangdongfei">
+            <img alt="老高与阿飞" src="http://a.hiphotos.baidu.com/ting/s%3D90/sign=6dbf05faad51f3dec7b2b56495ee39db/0e2442a7d933c89521ea554bd31373f08202006e.jpg">
+        </a>
+        <span class="name">
+            <a title="老高与阿飞" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102153&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/gaoguangdongfei">
+            老高与阿飞
+        </a>
+        </span>
+        <span class="style" title="流行">
+            流行
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102533&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/huishengyuetuan">
+            <img alt="回声乐团" src="http://b.hiphotos.baidu.com/ting/s%3D90/sign=e0e85822df54564ee165e839b2de07e8/78310a55b319ebc41ef912a88026cffc1e171679.jpg">
+        </a>
+        <span class="name">
+            <a title="回声乐团" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102533&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/huishengyuetuan">
+            回声乐团
+        </a>
+        </span>
+        <span class="style" title="世界音乐/新世纪">
+            世界音乐/新世纪
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102358&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/a313838959">
+            <img alt="周以陌" src="http://g.hiphotos.baidu.com/ting/s%3D90/sign=23ee0ab721a446237acaa9629a22eff4/f2deb48f8c5494eebed37fd42cf5e0fe98257e0d.jpg">
+        </a>
+        <span class="name">
+            <a title="周以陌" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102358&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/a313838959">
+            周以陌
+        </a>
+        </span>
+        <span class="style" title="流行">
+            流行
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102301&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/angela_nina">
+            <img alt="张婧洋" src="http://f.hiphotos.baidu.com/ting/s%3D90/sign=bf5d91fd4b90f60300b090473b12a58a/b7003af33a87e95000f5eea011385343faf2b41f.jpg">
+        </a>
+        <span class="name">
+            <a title="张婧洋" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102301&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/angela_nina">
+            张婧洋
+        </a>
+        </span>
+        <span class="style" title="民谣/乡村">
+            民谣/乡村
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;100907&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/artist/100907">
+            <img alt="赵雷" src="http://c.hiphotos.baidu.com/ting/s%3D90/sign=71fde828aa64034f0bcdce06aec355fb/eaf81a4c510fd9f9ed2c739c242dd42a2834a40f.jpg">
+        </a>
+        <span class="name">
+            <a title="赵雷" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;100907&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/artist/100907">
+            赵雷
+        </a>
+        </span>
+        <span class="style" title="民谣/乡村">
+            民谣/乡村
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;101588&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/yanyue">
+            <img alt="闫月" src="http://f.hiphotos.baidu.com/ting/s%3D90/sign=f2b9c0a6ac345982c18ae9920df4dc77/bba1cd11728b4710dc76a91ec2cec3fdfd032382.jpg">
+        </a>
+        <span class="name">
+            <a title="闫月" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;101588&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/yanyue">
+            闫月
+        </a>
+        </span>
+        <span class="style" title="流行">
+            流行
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;101881&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/artist/101881">
+            <img alt="唱作人邢磊" src="http://d.hiphotos.baidu.com/ting/s%3D90/sign=7ed60232e61190ef05fb9edfcc1b2082/962bd40735fae6cd806a79be0eb30f2443a70f17.jpg">
+        </a>
+        <span class="name">
+            <a title="唱作人邢磊" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;101881&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/artist/101881">
+            唱作人邢磊
+        </a>
+        </span>
+        <span class="style" title="民谣/乡村">
+            民谣/乡村
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;100731&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/thepisces">
+            <img alt="乐团双鱼座" src="http://f.hiphotos.baidu.com/ting/s%3D90/sign=541ffe02c2cec3fd8f3eab75d7887fba/0b7b02087bf40ad18fd4c42d562c11dfa8eccec8.jpg">
+        </a>
+        <span class="name">
+            <a title="乐团双鱼座" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;100731&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/thepisces">
+            乐团双鱼座
+        </a>
+        </span>
+        <span class="style" title="摇滚">
+            摇滚
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;100906&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/artist/100906">
+            <img alt="赵照" src="http://f.hiphotos.baidu.com/ting/s%3D90/sign=d3976b3e3b87e9504617ff6c1138cc11/4034970a304e251ff05d8005a686c9177e3e53a0.jpg">
+        </a>
+        <span class="name">
+            <a title="赵照" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;100906&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/artist/100906">
+            赵照
+        </a>
+        </span>
+        <span class="style" title="民谣/乡村">
+            民谣/乡村
+        </span>
+    </li>
+    <li>
+        <a class="avatar-large log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102130&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' target="_blank" href="/haoyun">
+            <img alt="郝云" src="http://f.hiphotos.baidu.com/ting/s%3D90/sign=8dcc1fd2bd315c60479567ef8cb10f54/a50f4bfbfbedab646e7dfe07f636afc378311eed.jpg">
+        </a>
+        <span class="name">
+            <a title="郝云" class="log-send log-send-recomm" data-log='{&quot;artist_id&quot;:&quot;102130&quot;,&quot;module&quot;:&quot;hot_artist&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'  target="_blank" href="/haoyun">
+            郝云
+        </a>
+        </span>
+        <span class="style" title="流行">
+            流行
+        </span>
+    </li>
+</ul>
+</div>
+</div>
+                <div class="mod hot-songs" >
+    <div class="hd">
+<h2>流行单曲</h2>
+</div>
+    <div class="bd">
+<ul>
+                    <li class="sid-11466 first" data-id="11466" data-log='{&quot;artist_id&quot;:&quot;100542&quot;,&quot;sid&quot;:&quot;11466&quot;,&quot;module&quot;:&quot;hot_song&quot;}'>
+            <span class="order">1</span>
+        <span class="avatar"><a class="log-send-recomm" href="/artist/100542" target="_blank" data-log='{&quot;artist_id&quot;:&quot;100542&quot;,&quot;sid&quot;:&quot;11466&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'><img alt="好妹妹乐队" src="http://c.hiphotos.baidu.com/ting/s%3D90/sign=98c670ebb812c8fcb0f3facdfd036175/6f061d950a7b020891b93d2a63d9f2d3562cc88d.jpg"></a> </span>
+        <span class="title" title="周一的清晨还在下雨">周一的清晨还在下雨</span>
+        <span class="artist" title="好妹妹乐队"><a class="log-send-recomm" href="/artist/100542" target="_blank" data-log='{&quot;artist_id&quot;:&quot;100542&quot;,&quot;sid&quot;:&quot;11466&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' "_blank">好妹妹乐队</a></span>
+        <span class="status"><i></i></span>
+    </li>
+                    <li class="sid-18539 second" data-id="18539" data-log='{&quot;artist_id&quot;:&quot;101386&quot;,&quot;sid&quot;:&quot;18539&quot;,&quot;module&quot;:&quot;hot_song&quot;}'>
+            <span class="order">2</span>
+        <span class="avatar"><a class="log-send-recomm" href="/weinahu" target="_blank" data-log='{&quot;artist_id&quot;:&quot;101386&quot;,&quot;sid&quot;:&quot;18539&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'><img alt="胡维纳" src="http://b.hiphotos.baidu.com/ting/s%3D90/sign=4c183a949358d109c0e3a5b2d0580557/b219ebc4b74543a9136aa3261f178a82b80114e2.jpg"></a> </span>
+        <span class="title" title="玫瑰堡垒DEMO">玫瑰堡垒DEMO</span>
+        <span class="artist" title="胡维纳"><a class="log-send-recomm" href="/weinahu" target="_blank" data-log='{&quot;artist_id&quot;:&quot;101386&quot;,&quot;sid&quot;:&quot;18539&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' "_blank">胡维纳</a></span>
+        <span class="status"><i></i></span>
+    </li>
+                    <li class="sid-18635 third" data-id="18635" data-log='{&quot;artist_id&quot;:&quot;101951&quot;,&quot;sid&quot;:&quot;18635&quot;,&quot;module&quot;:&quot;hot_song&quot;}'>
+            <span class="order">3</span>
+        <span class="avatar"><a class="log-send-recomm" href="/zhangchu" target="_blank" data-log='{&quot;artist_id&quot;:&quot;101951&quot;,&quot;sid&quot;:&quot;18635&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'><img alt="张楚" src="http://h.hiphotos.baidu.com/ting/s%3D90/sign=ef3fa87264380cd7e21eaeeda044c162/71cf3bc79f3df8dc8e41d853cc11728b461028f7.jpg"></a> </span>
+        <span class="title" title="孤独的人是可耻的">孤独的人是可耻的</span>
+        <span class="artist" title="张楚"><a class="log-send-recomm" href="/zhangchu" target="_blank" data-log='{&quot;artist_id&quot;:&quot;101951&quot;,&quot;sid&quot;:&quot;18635&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' "_blank">张楚</a></span>
+        <span class="status"><i></i></span>
+    </li>
+                    <li class="sid-17883" data-id="17883" data-log='{&quot;artist_id&quot;:&quot;102153&quot;,&quot;sid&quot;:&quot;17883&quot;,&quot;module&quot;:&quot;hot_song&quot;}'>
+            <span class="order">4</span>
+        <span class="avatar"><a class="log-send-recomm" href="/gaoguangdongfei" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102153&quot;,&quot;sid&quot;:&quot;17883&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'><img alt="高光&amp;董飞" src="http://a.hiphotos.baidu.com/ting/s%3D90/sign=6dbf05faad51f3dec7b2b56495ee39db/0e2442a7d933c89521ea554bd31373f08202006e.jpg"></a> </span>
+        <span class="title" title="老高阿飞在北漂">老高阿飞在北漂</span>
+        <span class="artist" title="老高与阿飞"><a class="log-send-recomm" href="/gaoguangdongfei" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102153&quot;,&quot;sid&quot;:&quot;17883&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' "_blank">老高与阿飞</a></span>
+        <span class="status"><i></i></span>
+    </li>
+                    <li class="sid-18645" data-id="18645" data-log='{&quot;artist_id&quot;:&quot;102358&quot;,&quot;sid&quot;:&quot;18645&quot;,&quot;module&quot;:&quot;hot_song&quot;}'>
+            <span class="order">5</span>
+        <span class="avatar"><a class="log-send-recomm" href="/a313838959" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102358&quot;,&quot;sid&quot;:&quot;18645&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'><img alt="周以陌" src="http://g.hiphotos.baidu.com/ting/s%3D90/sign=23ee0ab721a446237acaa9629a22eff4/f2deb48f8c5494eebed37fd42cf5e0fe98257e0d.jpg"></a> </span>
+        <span class="title" title="黑猫派">黑猫派</span>
+        <span class="artist" title="周以陌"><a class="log-send-recomm" href="/a313838959" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102358&quot;,&quot;sid&quot;:&quot;18645&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' "_blank">周以陌</a></span>
+        <span class="status"><i></i></span>
+    </li>
+                    <li class="sid-18323" data-id="18323" data-log='{&quot;artist_id&quot;:&quot;102277&quot;,&quot;sid&quot;:&quot;18323&quot;,&quot;module&quot;:&quot;hot_song&quot;}'>
+            <span class="order">6</span>
+        <span class="avatar"><a class="log-send-recomm" href="/zhouwang" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102277&quot;,&quot;sid&quot;:&quot;18323&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'><img alt="纣王" src="http://f.hiphotos.baidu.com/ting/s%3D90/sign=6b414e4aca1349547a1ee464544e0ac4/79f0f736afc379313fcb70e2eac4b74542a9115d.jpg"></a> </span>
+        <span class="title" title="涩">涩</span>
+        <span class="artist" title="纣王"><a class="log-send-recomm" href="/zhouwang" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102277&quot;,&quot;sid&quot;:&quot;18323&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' "_blank">纣王</a></span>
+        <span class="status"><i></i></span>
+    </li>
+                    <li class="sid-19271" data-id="19271" data-log='{&quot;artist_id&quot;:&quot;102533&quot;,&quot;sid&quot;:&quot;19271&quot;,&quot;module&quot;:&quot;hot_song&quot;}'>
+            <span class="order">7</span>
+        <span class="avatar"><a class="log-send-recomm" href="/huishengyuetuan" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102533&quot;,&quot;sid&quot;:&quot;19271&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'><img alt="回声乐团" src="http://b.hiphotos.baidu.com/ting/s%3D90/sign=e0e85822df54564ee165e839b2de07e8/78310a55b319ebc41ef912a88026cffc1e171679.jpg"></a> </span>
+        <span class="title" title="铮铮男儿">铮铮男儿</span>
+        <span class="artist" title="回声乐团"><a class="log-send-recomm" href="/huishengyuetuan" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102533&quot;,&quot;sid&quot;:&quot;19271&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' "_blank">回声乐团</a></span>
+        <span class="status"><i></i></span>
+    </li>
+                    <li class="sid-18409" data-id="18409" data-log='{&quot;artist_id&quot;:&quot;102301&quot;,&quot;sid&quot;:&quot;18409&quot;,&quot;module&quot;:&quot;hot_song&quot;}'>
+            <span class="order">8</span>
+        <span class="avatar"><a class="log-send-recomm" href="/angela_nina" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102301&quot;,&quot;sid&quot;:&quot;18409&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'><img alt="张婧洋" src="http://f.hiphotos.baidu.com/ting/s%3D90/sign=bf5d91fd4b90f60300b090473b12a58a/b7003af33a87e95000f5eea011385343faf2b41f.jpg"></a> </span>
+        <span class="title" title="coffee time">coffee time</span>
+        <span class="artist" title="张婧洋"><a class="log-send-recomm" href="/angela_nina" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102301&quot;,&quot;sid&quot;:&quot;18409&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' "_blank">张婧洋</a></span>
+        <span class="status"><i></i></span>
+    </li>
+                    <li class="sid-18628" data-id="18628" data-log='{&quot;artist_id&quot;:&quot;102130&quot;,&quot;sid&quot;:&quot;18628&quot;,&quot;module&quot;:&quot;hot_song&quot;}'>
+            <span class="order">9</span>
+        <span class="avatar"><a class="log-send-recomm" href="/haoyun" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102130&quot;,&quot;sid&quot;:&quot;18628&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'><img alt="郝云" src="http://f.hiphotos.baidu.com/ting/s%3D90/sign=8dcc1fd2bd315c60479567ef8cb10f54/a50f4bfbfbedab646e7dfe07f636afc378311eed.jpg"></a> </span>
+        <span class="title" title="天马行空">天马行空</span>
+        <span class="artist" title="郝云"><a class="log-send-recomm" href="/haoyun" target="_blank" data-log='{&quot;artist_id&quot;:&quot;102130&quot;,&quot;sid&quot;:&quot;18628&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' "_blank">郝云</a></span>
+        <span class="status"><i></i></span>
+    </li>
+                    <li class="sid-13243" data-id="13243" data-log='{&quot;artist_id&quot;:&quot;100906&quot;,&quot;sid&quot;:&quot;13243&quot;,&quot;module&quot;:&quot;hot_song&quot;}'>
+            <span class="order">10</span>
+        <span class="avatar"><a class="log-send-recomm" href="/artist/100906" target="_blank" data-log='{&quot;artist_id&quot;:&quot;100906&quot;,&quot;sid&quot;:&quot;13243&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}'><img alt="赵照" src="http://f.hiphotos.baidu.com/ting/s%3D90/sign=d3976b3e3b87e9504617ff6c1138cc11/4034970a304e251ff05d8005a686c9177e3e53a0.jpg"></a> </span>
+        <span class="title" title="黑丫山上小葫芦">黑丫山上小葫芦</span>
+        <span class="artist" title="赵照"><a class="log-send-recomm" href="/artist/100906" target="_blank" data-log='{&quot;artist_id&quot;:&quot;100906&quot;,&quot;sid&quot;:&quot;13243&quot;,&quot;module&quot;:&quot;hot_song&quot;}' data-log-recomm='{&quot;action&quot;:&quot;view&quot;}' "_blank">赵照</a></span>
+        <span class="status"><i></i></span>
+    </li>
+</ul>
+</div>
+</div>
+    </article>
+        <aside class="aside">
+    <div id="mod-apply" class="mod mod-apply">
+            <span data-loginopt='{&quot;target&quot;:&quot;\/artist\/register&quot;}' class="apply-artist need-login">申请成为百度音乐人</span>
+    </div>
+    <div class="mod history">
+    <div class="body">
+        <div id="user">
+            <div class="my-info item">
+    <div class="pic avatar">
+        <img src="/static/common/img/core/avatar_default.jpg" alt="">
+    </div>
+    <div class="info">
+        <p class="name">hi, <strong>陌生人</strong></p>
+    </div>
+</div>
+        </div>
+        <div class="song"  id="history-song">
+            <h3>您最近听过</h3>
+            <ul></ul>
+        </div>
+        <div class="artist"  id="history-artist">
+            <h3>您最近访问过</h3>
+            <div class="artist-list">
+                <ul></ul>
+            </div>
+        </div>
+    </div>
+</div>    <div id="da-slot-711187" class="da"></div>
+    <div id="da-slot-759326" class="da"></div>
+</aside>
+    </section>
+
+</div>
+
+    <footer id="footer" class="sns-footer" monkey="artistsns-foot" alog-alias ="artistsns-foot">
+    <hgroup>
+        <a href="/"><img alt="百度音乐人" class="logo" src="http://mu4.bdstatic.com/static/common/i/zL5EBBa1.png"></a>
+        <nav class="nav">
+            <a target="_blank" href="http://qingting.baidu.com/index?pid=29">意见反馈</a>
+        </nav>
+        <section class="about">&copy;Baidu<a target="_blank" href="http://www.baidu.com/duty/">使用百度前必读</a>文网文[2010]197号</section>
+        <section class="connect">
+            <a class="weibo" target="_blank" href="http://e.weibo.com/baidumusician">加关注</a>
+            <a class="weixin" href="javascript:;">加微信好友</a>
+        </section>
+    </hgroup>
+</footer>
+
+<section class="hide">
+<script type="text/javascript">
+    // hunter
+    var pageId = 'artistsns-index';
+    (document.getElementsByTagName('head')[0]||body).appendChild(document.createElement('script')).src='http://img.baidu.com/hunter/yyrsqmonkey.min.js';
+    // baidu-tongji
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffd427e760a8a2b377d501fac1c0d8e6a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</section>
+
+
+<script>
+$(function() {
+    
+require([
+    'page/home/index'
+]);
+
+});
+</script>
+
+</body>
+</html>

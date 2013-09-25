@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="gb2312" />
+	<title>百度影棒 - 电视大屏幕的&quot;看片神器&quot; 你想看的这里都有</title>
+	<script>
+		(function() {
+			if ( navigator.userAgent.match(/iphone|android/i) ) {
+				location.href = 'http://yb.baidu.com/wise.html'+ location.search;
+			}
+		}());
+	</script>
+	<link rel="stylesheet" href="http://list.video.baidu.com/pc_static/yingbang/ybUpgradeEnd.css?v=2" />
+</head>
+<body>
+<div id="ybTopbar"><div id="ybTopbarInner">
+	<a href="http://device.baidu.com/" target="_blank">首页</a>
+	<a href="http://device.baidu.com/wifi" target="_blank" class="link-wifi">小度WiFi</a>
+	<a href="http://device.baidu.com/link" target="_blank" class="link-route">小度路由</a>
+	<a href="index.html" class="current">小度影棒</a>
+</div></div>
+<div id="ybWrap" class="home" static="tn=yingbang">
+	<div id="ybHead">
+		<div id="ybHeadInner" static="tn=yingbang">
+			<a href="index.html" class="link-logo"></a>
+			<div id="queryLinks">
+				<a href="index.html" class="current">概述</a>
+				<a href="detail.html">功能参数</a>
+				<a href="http://hd.zol.com.cn/399/3990416.html" target="_blank">评测</a>
+				<a href="faq.html">常见问题</a>
+				<a href="http://tieba.baidu.com/f?kw=%B0%D9%B6%C8%D3%B0%B0%F4" target="_blank">官方贴吧</a>
+				<a href="http://e.weibo.com/baiduvideo" target="_blank" class="link-weibo">关注我们</a>
+			</div>
+		</div>
+	</div>
+	<div id="ybBanner"><a href="http://item.jd.com/974211.html" target="_blank" class="link-pay" static="stp=pay"></a></div>
+	<div class="yb-intro yb-intro1">
+		<a href="http://www.iqiyi.com/v_19rrhaxi4s.html" target="_blank" class="link-intro1" static="stp=introvideo1"></a>
+		<a href="http://www.iqiyi.com/v_19rrhaxinw.html" target="_blank" class="link-intro2" static="stp=introvideo2"></a>
+		<a href="http://ipd.pps.tv/play_37XCLM.html" target="_blank" class="link-intro3" static="stp=introvideo3"></a>
+	</div>
+	<div class="yb-line1"></div>
+	<div class="yb-intro yb-intro2"></div>
+	<div class="yb-intro yb-intro3"></div>
+	<div class="yb-intro yb-intro4"></div>
+	<div class="yb-intro yb-intro5"></div>
+	<div class="yb-intro yb-intro6"></div>
+	<div class="yb-intro yb-intro7"></div>
+	<div class="yb-line2"></div>
+	<div class="yb-intro yb-intro8"><a href="http://item.jd.com/974211.html" target="_blank" static="stp=pay"></a></div>
+	<div id="ybFoot">
+		<ul id="ybContact">
+			<li><span class="s-label">客服电话</span> 010-5992-1616</li>
+			<li><span class="s-label">QQ交流群</span>   38927031 / 234049666 / 233044087 / 232971469 / 240464716 / 240464890</li>
+			<li><a href="http://qingting.baidu.com/index?pid=4" target="_blank">意见反馈</a></li>
+		</ul>
+		<style type="text/css">
+			#ybContact{
+				padding-top: 20px;
+			}
+			#ybFoot li{
+				display: block;
+				text-align: left;
+				padding: 5px 0;
+			} 
+
+		</style>
+	</div>
+</div>
+<img src="http://nsclick.baidu.com/p.gif?pid=188&tn=yingbang" style="display:none" />
+<script src="http://list.video.baidu.com/pc_static/common/tangram-min.js"></script>
+<script src="http://list.video.baidu.com/pc_static/common/statistics-min.js?version=0923"></script>
+</body>
+</html>

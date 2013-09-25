@@ -1,0 +1,71 @@
+<!doctype html public "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="javascript">
+function getCookie(name){
+	var cookieValue = null;
+    if (document.cookie && document.cookie != '') {
+        var cookies = document.cookie.split(';');
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = cookies[i].replace(/^\s+|\s+$/g,'');
+            // Does this cookie string begin with the name we want?
+            if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                break;
+            }
+        }
+    }
+    return cookieValue;
+}
+
+function init() {
+  var loc = new String(document.URL);
+
+  start_ind = loc.search(/\/\//);
+
+  if (start_ind > -1) {
+    hostname = loc.slice(start_ind + 2);
+    end_ind = hostname.search(/:/);
+    if (end_ind == -1)
+      end_ind = hostname.search(/\//);
+    if (end_ind != -1)
+     hostname = hostname.slice(0,end_ind);
+  }
+  else {
+    hostname = loc;
+  }
+if(hostname=='www.95559.sh.cn'){
+ 	document.location.replace('http://' + hostname + '/BankCommSite/cn/shanghai/index.jsp');
+  return;
+ }
+if(hostname=='www.beijing.bankcomm.com'){
+        document.location.replace('http://' + hostname + '/BankCommSite/cn/beijing/index.jsp');
+  return;
+ }
+if(hostname=='www.ajbocom.com'){
+       document.location.replace('http://' + hostname + '/BankCommSite/cn/anji/index.jsp');
+ return;
+}
+if(hostname=='www.uk.bankcomm.com'){
+       document.location.replace('http://' + hostname + '/BankCommSite/London/en/index.jsp');
+ return;
+}
+	var version = getCookie("version") || "simple";
+
+	if(version == "simple"){
+		document.location.replace('http://' + hostname + '/BankCommSite/cn/default.html');
+		return;
+	} else {
+		document.location.replace('http://' + hostname + '/BankCommSite/cn/index.html');
+		return;
+	}
+
+
+}
+</script>
+<title></title>
+</head>
+<body onLoad="init()">
+</body>
+</html>

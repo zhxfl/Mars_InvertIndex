@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+<head>
+<title>贴吧投诉中心_贴吧      </title>
+<meta charset="gbk" />
+<link rel="shortcut icon" href="http://static.tieba.baidu.com/tb/favicon.ico">
+<link href="http://static.tieba.baidu.com/tb/static-global/style/tb_common.css?v=_20130924174327" rel="stylesheet" media="all" />
+<link href="http://static.tieba.baidu.com/tb/static-global/style/tb_common_lazy.css?v=_20130924174327" rel="stylesheet" media="all" />
+<link href="http://static.tieba.baidu.com/tb/static-global/style/tb_ui.css?v=_20130924174327" rel="stylesheet" media="all" />
+<link href="http://static.tieba.baidu.com/tb/static-common/style/tb_common.css?v=_20130924174327" rel="stylesheet" media="all" />
+<link href="http://static.tieba.baidu.com/tb/style/tousu/common.css?v=_20130924174327" rel="stylesheet"  media="all" />
+<script src="http://static.tieba.baidu.com/static/tb/js/base.js?v=_20130924174327"></script>
+<script src="http://static.tieba.baidu.com/tb/js/Fe.js?v=_20130924174327"></script>
+<script src="http://static.tieba.baidu.com/tb/static-global/lib/tb_lib.js?v=1.0"></script>
+<script src="http://static.tieba.baidu.com/tb/static-global/lib/common_logic_frozen.js?v=_20130924174327"></script>
+<script src="http://static.tieba.baidu.com/tb/static-global/lib/tb_ui.js?v=_20130924174327"></script>
+<script src="http://static.tieba.baidu.com/tb/js/tousu/common.js?v=_20130924174327"></script>
+<style type="text/css">
+.redirect-tip
+{
+	position: relative;
+	display: block;
+	width: 459px;
+	height: 133px;
+	border: 1px solid #d8d8d8;
+	border-radius: 3px;
+	text-align: center;
+	line-height: 133px;
+	 -webkit-box-shadow: inset 1px 0 0 rgba(255, 255, 255, 0.125), inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 1px 0 0 rgba(255, 255, 255, 0.125), inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 1px 0 0 rgba(255, 255, 255, 0.125), inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+	  background-color: #fefefe;
+	  background-image: -moz-linear-gradient(top, #ffffff, #f4f4f4);
+	  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#f4f4f4));
+	  background-image: -webkit-linear-gradient(top, #ffffff, #f4f4f4);
+	  background-image: -o-linear-gradient(top, #ffffff, #f4f4f4);
+	  background-image: linear-gradient(to bottom, #ffffff, #f4f4f4);
+	  background-repeat: repeat-x;
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff4f4f4', GradientType=0);
+	  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false); 
+}
+.redirect-tip p
+{
+	height: 12px;
+	line-height: 12px;
+	text-align: left;
+	display:inline-block;
+	*display: inline;
+	zoom: 1;
+	font-size: 14px;
+}
+.redirect-tip .redirect-arrow
+{
+	line-height: 0;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	font-size: 16px;
+	left: 40px;
+	font-family: simsan;
+	color: #fff;
+	top: 0;
+}
+.redirect-tip .redirect-arrow span
+{
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	position: absolute;
+}
+.redirect-tip .redirect-arrow .arrow-border
+{
+	margin-top: -1px;
+	color: #d8d8d8;
+}
+</style>
+</head>
+<body>
+<!--登录条代码-->
+<div id="local_flash_cnt"></div>
+<script type="text/javascript">
+var PageData = PageData || {};
+var __user = PageData.user = {"is_login":false,"id":0,"ip":51713754,"name":"","portrait":"","sid":"","uip":"218.22.21.3","post_count_all":0,"post_count_solved":0,"post_count_unsolved":0,"no_un":0};
+PageData.user.name_url = "";
+PageData.user.portrait = "";
+</script>
+<div id="head" class="search search_theme_1">
+  <div class="s_nav">
+    <a href="/" class="s_logo" title="到贴吧首页"><img id="tieba_logo" src="http://tb2.bdstatic.com/tb/static-common/img/tieba_logo_117_38.png" width="117" height="38" alt="到贴吧首页" /></a>
+    <div class="s_tab hdtag">
+      <a href="http://news.baidu.com/ns?cl=2&rn=20&tn=news&" param="word" >新闻</a>&#12288;<a href="http://www.baidu.com/s?cl=3&" param="wd" >网页</a>&#12288;<b>贴吧</b>&#12288;<a href="http://zhidao.baidu.com/q?ct=17&pn=0&tn=ikaslist&rn=10&" param="word" >知道</a>&#12288;<a href="http://mp3.baidu.com/m?tn=baidump3&ct=134217728&lm=-1&" param="word" >MP3</a>&#12288;<a href="http://image.baidu.com/i?tn=baiduimage&ct=201326592&lm=-1&cl=2&" param="word" >图片</a>&#12288;<a href="http://video.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=21&" param="word" >视频</a>&#12288;<a href="http://baike.baidu.com/searchword/?&pic=1&fr=tieba&" param="word" >百科</a>&#12288;<a href="http://map.baidu.com/m?fr=map006&" param="word" >地图</a>
+    </div>
+  </div>
+  <div>
+    <form name="f1" id="tb_header_search_form" class="f"  action="/f">
+        <input autocomplete="off" size="42" tabindex="1" id="wd1" name="kw" class="s_ipt i tb_header_search_input" maxlength="100" value="" /><span class="s_btn_wr"><input id="search_submit" type="submit" value="进入贴吧" class="s_btn" onmousedown="this.className='s_btn s_btn_h'" onmouseout="this.className='s_btn'" /></span><span class="s_tools"><a class="j_adv_search" href="#" onclick="return false;">贴吧搜索</a>|<a href="http://tieba.baidu.com/tb/tsgz/index.html" target="_blank">投诉规则</a></span>
+    </form>
+    <p class="switch_radios"  style="display:none;"  >
+        <input id="searchtb" type="radio" name="tb" class="searchtb" /><label for="searchtb">搜贴</label>
+        <input id="authortb" type="radio" name="tb"  class="authortb" /><label for="authortb">搜人</label>
+    	<input id="jointb" type="radio" name="tb" checked="checked" class="jointb"><label for="jointb">进吧</label>
+    </p>
+  </div>
+</div>
+<script type="text/javascript">
+(new CommonSearch.SearchForm()).init('head',{style:2, forumName:''});
+</script><div id="main">
+	<div id="crumbs"><a href="/">百度贴吧</a> &gt; 投诉中心</div>
+	<div class="submain">
+		<div class="complain_tip">举报违规贴功能升级，请您在需要举报的贴子右下角点击“举报”，<a href="/p/1402293900" target="_blank">点击这里</a> 查看举报违规贴详细流程。</div>
+		<div id="process">
+												您好，贴吧投诉的流程是：登录贴吧 <img src="http://static.tieba.baidu.com/tb/img/tousu/arrow.gif"> 填写投诉表单<img src="http://static.tieba.baidu.com/tb/img/tousu/arrow.gif"> 提交投诉并等待处理 <img src="http://static.tieba.baidu.com/tb/img/tousu/arrow.gif"> 查看结果
+					</div>
+		<ul class="tabs sp" id="tabs">
+			<li>解封ID</li>
+			<li>投诉吧主</li>
+			<li>解封IP</li>
+			<li>恢复贴子</li>
+		</ul>
+				<div class="status-tip" id="logintip">
+			<div class="shadow-box">
+				<div class="shadow-inner">您尚未登录，无法发起投诉。请先 <a href="https://passport.baidu.com/?login&tpl=mn" onclick="TbCom.process('User', 'buildLoginFrame');return false;">登录</a> | <a href="https://passport.baidu.com/?reg&tpl=mn" onclick="TbCom.process('User', 'buildRegisterFrame');return false;">注册</a>
+				</div>
+			</div>
+		</div>
+				<div class="tabforum" style="display:none;opacity:0;filter:alpha(opacity=0);z-index:-10;width:0;height:0;">
+			<form method="post" name="form7" id="form7" onsubmit="return CheckData.CheckSubmit(this)" >
+				<table class="cpTb">
+					<tr>
+						<td class="fred" width="12">*</td>
+						<th width="85">投诉贴吧：</th>
+						<td>
+							<input type="text" id="form7_title" size="20" onKeyUp="CutInput(this,62);" maxlength="62" onBlur="CheckInput(this);" name="title" value="">
+							<span id="form7_title_tip" class="errtip"></span>
+						</td>
+					</tr>
+					<tr>
+						<td class="fred" valign="top">*</td>
+						<th valign="top">待解封ID：</th>
+						<td>
+							<p><input type="radio" id="form7_uname1" value="1" onClick="checkRadioInput('form7',this,'uname',PageData.user.name,100)" class="radio" name="uname1"><label for="form7_uname1">解封正在使用的ID</label><span class="fred fb" id="form7_uname1_lay"></span><span class="errtip" id="form7_uname1_tip"></span></p>
+							<p><input type="radio" id="form7_uname2"  value="2" onClick="checkRadioInput('form7',this,'uname',PageData.user.name,100)" class="radio" name="uname1"><label for="form7_uname2">解封其它ID：</label>
+							<input type="text" size="20" id="form7_uname3"  class="readonly" maxlength="14" disabled="disabled"><span id="form7_uname_info" class="tipinfo" >请选择或填写待解封ID</span><span id="form7_uname_tip" class="errtip"></span></p>
+						</td>
+					</tr>
+					<tr>
+						<td class="fred" valign="top">*</td>
+						<th valign="top">解封理由：</th>
+						<td valign="top">
+							<textarea name="content" id="form7_content" cols="70" rows="6"></textarea><span id="form7_content_info" class="tipinfo">您还可以填写<span id="form7_content_tNum" class="fred">50</span>字</span><span id="form7_content_tip" class="errtip"></span>
+					</tr>
+										<tr>
+						<td colspan="2">&nbsp; </td>
+						<td><input type="submit" class="sub" data-checkun="un" value="提交"></td>
+					</tr>
+					<tr>
+						<td colspan="2">&nbsp;</td>
+						<td class="tipinfo">您的投诉信息只有管理员和您自己能看到，其他用户无法获取，请您放心投诉。</td>
+					</tr>
+				</table>
+				<input type="hidden" name="cid" value="7">
+				<input type="hidden" name="uname" id="form7_uname">
+			</form>
+		</div>
+		<div id="forms">
+		<div class="tabforum" id="tabForm7">
+			<div id="redirect-form7" class="redirect-tip"><p>解封ID模块已升级，请您到<a href="/pmc/main" target="_blank">帐号管理中心</a>提交恢复请求</p><div class="redirect-arrow"><span class="arrow-border">◆</span><span class="arrow-content">◆</span></div></div>
+		</div>
+		<div class="tabforum" id="tabForm3">
+			<form method="post" name="form3" id="form3" onSubmit="return CheckData.CheckSubmit(this)" >
+				<table class="cpTb">
+					<tr>
+						<td class="fred" width="12">*</td>
+						<th width="85">投诉贴吧：</th>
+						<td>
+							<input type="text" id="form3_title" size="20" onKeyUp="CutInput(this,62);" maxlength="62" onBlur="CheckInput(this);" name="title" value=""><span id="form3_title_tip" class="errtip"></span>
+						</td>
+					</tr>
+					<tr>
+						<td class="fred">*</td>
+						<th>吧主ID：</th>
+						<td colspan="2">
+							<input type="text" id="form3_uname" onBlur="CheckInput(this);" size="20" onKeyUp="CutInput(this,14);" name="uname" maxlength="14"><span id="form3_uname_info" class="tipinfo">请填写一个ID</span><span id="form3_uname_tip" class="errtip"></span>
+						</td>
+					</tr>
+					<tr>
+						<td class="fred">*</td>
+						<th>投诉类型：</th>
+						<td>
+							<input type="radio" name="type" value="1" id="form3_type1" onclick="checkRadioInput2(this,100)" class="radio"><label for="form3_type1" class="mgr14">长期未登录发言</label>
+							<input type="radio" name="type"  value="2" id="form3_type2" onclick="checkRadioInput2(this,100)" class="radio"><label for="form3_type2" class="mgr14">吧主违规操作</label>
+							<input type="radio" name="type"  value="3" id="form3_type3" onclick="checkRadioInput2(this,100)" class="radio"><label for="form3_type3" class="mgr14">色情、反动</label>
+							<input type="radio" name="type"  value="4" id="form3_type4" onclick="checkRadioInput2(this,100)" class="radio"><label for="form3_type4" class="mgr14">其它</label>
+							<span id="form3_type_tip" class="errtip"></span></td>
+					</tr>
+					<tr>
+						<td class="fred" valign="top">*</td>
+						<th valign="top">投诉理由：</th>
+						<td valign="top">
+							<textarea name="content" id="form3_content" cols="70" rows="6" style="color:#A9A9A9">请充分填写投诉理由，若能附上相关链接，可以辅助工作人员进行判断查证。</textarea><span id="form3_content_info" class="tipinfo">您还可以填写<span id="form3_content_tNum" class="fred">500</span>字</span><span id="form3_content_tip" class="errtip"></span>
+						</td>
+					</tr>
+
+										<tr>
+						<td colspan="2">&nbsp;</td>
+						<td><input type="submit" class="sub" data-checkun="un"  value="提交"></td>
+					</tr>
+					<tr>
+						<td colspan="2">&nbsp;</td>
+						<td class="tipinfo">您的投诉信息只有管理员和您自己能看到，其他用户无法获取，请您放心投诉。</td>
+					</tr>
+				</table>
+				<input type="hidden" name="cid" value="3" >
+			</form>
+		</div>
+		<div class="tabforum" id="tabForm9">
+			<form method="post" name="form9" id="form9" onSubmit="return CheckData.CheckSubmit(this)" >
+				<table class="cpTb">
+					<tr>
+						<td class="fred" width="12">*</td>
+						<th width="85">投诉贴吧：</th>
+						<td>
+							<input type="text" id="form9_title" size="20" onKeyUp="CutInput(this,62);" maxlength="62" onBlur="CheckInput(this);" name="title" value="">
+							<span id="form9_title_tip" class="errtip"></span>
+						</td>
+					</tr>
+					<tr>
+						<td class="fred" valign="top">*</td>
+						<th valign="top">待解封IP<img id="iphelp" src='http://static.tieba.baidu.com/tb/img/tousu/icon4.gif' align="absmiddle" title="什么是IP" style="margin-top:-1px">：</th>
+						<td valign="top">
+							<p><input type="radio" name="ip1" id="form9_ip1" value="1" onClick="checkRadioInput('form9',this,'ip',PageData.user.uip,100)" class="radio"><label for="form9_ip1">解封正在使用的IP</label><span class="fred fb" id="form9_ip1_lay"></span><span class="errtip" id="form9_ip1_tip"></span></p>
+							<p><input type="radio" name="ip1" id="form9_ip2"  value="2" onClick="checkRadioInput('form9',this,'ip',PageData.user.uip,100)" class="radio"><label for="form9_ip2">解封其它IP：</label>
+							<input type="text"  size="20" id="form9_ip3" onkeydown="TsPost.setValue(this,'ip');" onblur="TsPost.setValue(this,'ip');CheckInput(this,'ip');" class="readonly" maxlength="20" disabled="disabled"><span id="form9_ip_info" class="tipinfo" >请选择或填写待解封IP</span><span id="form9_ip_tip" class="errtip"></span></p>
+						</td>
+					</tr>
+
+					<tr>
+						<td class="fred" valign="top">*</td>
+						<th valign="top">解封理由：</th>
+						<td valign="top">
+							<textarea name="content" id="form9_content" cols="70" rows="6"></textarea><span id="form9_content_info" class="tipinfo">您还可以填写<span id="form9_content_tNum" class="fred">50</span>字</span><span id="form9_content_tip" class="errtip"></span>
+						</td>
+					</tr>
+										<tr>
+						<td colspan="2">&nbsp;</td>
+						<td><input type="submit" class="sub"  data-checkun="un"  value="提交"></td>
+					</tr>
+					<tr>
+						<td colspan="2">&nbsp;</td>
+						<td class="tipinfo">您的投诉信息只有管理员和您自己能看到，其他用户无法获取，请您放心投诉。</td>
+					</tr>
+				</table>
+				<input type="hidden" name="cid" value="9" >
+				<input type="hidden" name="ip" id="form9_ip">
+			</form>
+			<div id="iptip" class="hide">
+				<span id="iptip_colse"></span>
+				IP即网络地址，<br>其格式例如：61.1.111.5
+			</div>
+		</div>
+		<div class="tabforum" id="tabForm8">
+			<div id="form8-corner">
+			<div class="fred ts_notice">填写完整将有助于您恢复贴子，选填信息请至少填写三项。</div>
+			<form method="post" name="form8" id="form8" onsubmit="return CheckData.CheckSubmit(this)" >
+				<table class="cpTb">
+					<tr>
+						<td class="fred" width="12">*</td>
+						<th width="85">投诉贴吧：</th>
+						<td>
+							<input type="text" id="form8_title" size="20" onKeyUp="CutInput(this,62);" maxlength="62" onBlur="CheckInput(this);" name="title" value="">
+							<span id="form8_title_tip" class="errtip"></span>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top" class="fred">*</td>
+						<th valign="top">贴子地址：</th>
+						<td valign="top">
+							<div id="form8_opts">
+								<p><input type="text" 
+									id="form8_link1" 
+									onBlur="CheckInput(this,'link');" 
+									value="http://" size="37" maxlength="300" onfocus="this.select()" name="link1">
+									<input type="hidden" size="4"  style="display:none;" onkeydown="CheckData.CheckNum(this)" maxlength="8">
+									<span class="valign-m" style="display:none;">楼</span>
+									<span id="form8_link1_info" class="tipinfo"  style="display:none;">贴子楼层为选填项</span>
+									<span id="form8_link1_tip" class="errtip"  style="display:none;"></span>
+								</p>
+								<p style="display:none;"><input type="hidden" id="form8_link2" onBlur="CheckInput(this,'link');" value="http://" size="37" maxlength="300" onfocus="this.select()"  style="display:none;">
+									<input class="j_post_num" type="hidden" size="4" onkeydown="CheckData.CheckNum(this)"  style="display:none;"
+									disabled="disabled" maxlength="8">
+									<span class="valign-m"  style="display:none;">楼</a><span id="form8_link2_tip" class="errtip"  style="display:none;"></span>
+								</p>
+								<p style="display:none;"><input type="hidden" id="form8_link3" onBlur="CheckInput(this,'link');" value="http://" size="37" maxlength="300" onfocus="this.select()"  style="display:none;">
+									<input class="j_post_num" type="hidden" style="display:none;" 
+									 size="4" onkeydown="CheckData.CheckNum(this)" 
+									disabled="disabled" maxlength="8">
+									<span class="valign-m" style="display:none;">楼</a><span id="form8_link3_tip" class="errtip"  style="display:none;"></span>
+								</p>
+							</div>
+							<span style="display:none;" id="form8_addOpt" ></span>
+							<span class="tipinfo"  style="display:none;">最多可填写12个贴子地址</span>
+						</td>
+					</tr>
+					<tr>
+						<th colspan="2" valign="top">主题或回复内容：</th>
+						<td valign="top" id="forum8_detail_top">
+                            <!--<script>document.write('<textarea name="detail" id="form8_detail"  cols="70" rows="6" style="color:#afafaf">'+CheckData.tip.form8_detail_100+'</textarea>');-->
+						<!--</script>-->
+                            <br><span id="form8_detail_tip" class="errtip"></span></td>
+					</tr>
+					<tr>
+						<th colspan="2">贴子作者：</th>
+						<td><input name="uname" id="form8_uname" type="text" size="20" maxlength="14" onblur="CheckInput(this,'uname');"><span id="form8_uname_tip" class="errtip"></span></td>
+					</tr>
+					<tr>
+						<th colspan="2">发贴时间：</th>
+						<td><input name="postdate" id="form8_postdate" type="text" size="20" maxlength="24"><span class="tipinfo">请填写贴子大致发贴时间</span><span id="form8_postdate_tip" class="errtip"></span></td>
+					</tr>
+					<tr>
+						<td class="fred" valign="top">*</td>
+						<th valign="top">恢复理由：</th>
+						<td valign="top">
+							<textarea name="content" id="form8_content" cols="70" rows="6"></textarea><span id="form8_content_info" class="tipinfo">您还可以填写<span id="form8_content_tNum" class="fred">50</span>字</span><span id="form8_content_tip" class="errtip"></span>
+						</td>
+					</tr>
+										<tr>
+						<td colspan="2">&nbsp;</td>
+						<td><input type="submit" class="sub" data-checkun="un"  value="提交"></td>
+					</tr>
+					<tr>
+						<td colspan="2">&nbsp;</td>
+						<td class="tipinfo">您的投诉信息只有管理员和您自己能看到，其他用户无法获取，请您放心投诉。</td>
+					</tr>
+				</table>
+				<input type="hidden" name="cid" value="8" >
+				<input type="hidden" name="link" id="form8_link">
+			</form>
+		</div>
+		<div id="redirect-form8" class="redirect-tip" style="display:none;float:right;height:180px;width:660px;"><p style="height:auto;padding:20px;line-height:150%;text-align:left;"><span style="margin-bottom:5px;display:block;">尊敬的贴吧用户：</span><span style="margin-bottom:5px;display:block;">恢复贴子模块已升级，为了更快处理您的请求，请您通过<a href="/pmc/main" target="_blank">用户服务中心</a>里的<a href="/pmc/recycle" target="_blank">新版回收站</a>恢复帖子。</span><span style="margin-bottom:5px;display:block;">为他人请求恢复被删贴子——请联系被删贴本人在<a href="/pmc/recycle" target="_blank">新版回收站</a>进行操作。</span><span style="display:block;margin-top:20px;">感谢您的理解，我们会持续改进。</span></p><div class="redirect-arrow"  style="left:auto;right:220px;"><span class="arrow-border">◆</span><span class="arrow-content">◆</span></div></div>
+		</div>
+	</div>
+	</div>
+	<div class="sidebar">
+		<div class="box-ht">
+			<h3 class="box-ht-t">其它服务</h3>
+			<ul class="service">
+				<li><a href="/f?kw=%CC%F9%B0%C9%D2%E2%BC%FB%B7%B4%C0%A1" target="_blank" onmousedown="Stats.sendRequest('st_mod=tousu_add&fr=tb0_tousu&st_type=advise')">意见反馈</a></li>
+				<li><a href="http://passport.baidu.com/?getpass_index" target="_blank" onmousedown="Stats.sendRequest('st_mod=tousu_add&fr=tb0_tousu&st_type=pwd')">密码找回</a></li>
+				<li><a href="/f?kw=%CC%F9%B0%C9%B0%EF%D6%FA" target="_blank" onmousedown="Stats.sendRequest('st_mod=tousu_add&fr=tb0_tousu&st_type=help')">使用问题帮助</a></li>
+				<li><a href="/f?kw=%CC%F9%B0%C9%B7%D6%C0%E0" target="_blank" onmousedown="Stats.sendRequest('st_mod=tousu_add&fr=tb0_tousu&st_type=cata')">贴吧分类咨询</a></li>
+				<li><a href="/f?kw=%CC%F9%B0%C9%BA%CF%B2%A2" target="_blank" onmousedown="Stats.sendRequest('st_mod=tousu_add&fr=tb0_tousu&st_type=reg')">贴吧合并申请</a></li>
+				<li><a href="http://tousu.baidu.com/" target="_blank" onmousedown="Stats.sendRequest('st_mod=tousu_add&fr=tb0_tousu&st_type=other')">百度其它产品投诉</a></li>
+			</ul>
+			<div class="box-ht-b"></div>
+		</div>
+		<div class="box-nt sp">
+			<div class="box-nt-t"></div>
+			<div class="box-nt-m">
+				<p class="notice"><span class="fred">重要提示：</span>凡符合法律规定的投诉请求，百度将依法予以处理，且不收取任何费用。请勿相信不法分子收费删贴的欺诈行为。
+				</p>
+			</div>
+			<div class="box-nt-b"></div>
+		</div>
+		<div class="box-nt sp">
+			<div class="box-nt-t"></div>
+			<div class="box-nt-m">
+				<p class="notice"><span class="fred">贴吧公告：</span>贴吧将对使用色情反动类型的头像、签名档和发布不良内容的用户进行严厉处理。一经发现，我们将给予全站永久封禁并清空所有发言的处罚。
+				</p>
+			</div>
+			<div class="box-nt-b"></div>
+		</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>
+
+<!--验证码输入框(各个分类公用)-->
+<div id="ft">
+  &copy;<script>document.write(new Date().getFullYear());</script> Baidu <a href="http://static.tieba.baidu.com/tb/eula.html" class="c" style="font-family:arial;">贴吧协议</a>
+  &nbsp;<a href="http://static.tieba.baidu.com/tb/zt/declare/" target="_blank">收费删贴警示</a>
+</div>
+<script>
+    $("#forum8_detail_top").append($('<textarea name="detail" id="form8_detail"  cols="70" rows="6" style="color:#afafaf">'+CheckData.tip.form8_detail_100+'</textarea>'));
+</script>
+<script>
+var readonly = 0; //107表示只读，0表示可发贴
+var titleMax = 62; //最长吧名
+var mypop;//弹出层
+var postTitle = "";
+CheckData.titlePass = false;
+PageData["need_captcha"] = 0;
+var int_h = parseInt(location.hash.slice(1)); //tab项初始化
+if(!isNaN(int_h) && int_h>=1 && int_h<=5) SelectTab.curIndex = int_h;
+SelectTab.init(SelectTab.curIndex);
+/*全吧只读设置（应急时使用）*/
+if(readonly == 107)
+{
+	mypop = new Popup({width:370,height:170,isReloadOnClose:false,isShowShadow:true});
+	ctHtml = '<div class=mypop><center>抱歉！您目前不能发起投诉！</center><p>由于系统维护，暂时不能发起任何投诉。由此给您带来的不便我们深表歉意。请您耐心等待系统恢复正常。谢谢！</p></div><div style="text-align:center;"><input type="button" onclick="closePopup2();" value="确定"/></div>';
+	mypop.html(ctHtml,"我要投诉");
+	TsPost.setDisable();
+}
+/*没有登陆，则不能投诉*/
+TsPost.setDisable();//firefox刷新页面时，缓存在输入框的数据影响了输入框是否为空的验证，所以先清空input
+var forms = Fe.G("forms").getElementsByTagName("form");
+for(i=0; i<forms.length; i++){ forms[i].reset();}
+var params = $.tb.getSearch();
+var notThread = !params.content && !params.pid && !params.id;
+if (notThread) {
+	$("#tabs li:eq(3)").click(function () {
+		$("#form8-corner").hide();
+		$("#redirect-form8").show();
+	});
+}
+if (SelectTab.curIndex=='4') {
+	if (!notThread) {
+		$("#form8_link1").val("http://tieba.baidu.com/p/"+params.id+"?pid="+params.pid + "#"+params.pid).attr("disabled","disabled");
+		$("#form8_uname").val(PageData.user.name).attr("disabled","disabled");
+		var tousu_date = new Date(params.time*1000);
+		$("#form8_postdate").val(tousu_date.getFullYear()+"-"+(tousu_date.getMonth()-0+1)+"-"+tousu_date.getDate()+" "+tousu_date.getHours()+":"+tousu_date.getMinutes()+":"+tousu_date.getSeconds());
+		$("#form8_link2,#form8_link3,#form8_detail,.j_post_num,#form8_uname,#form8_postdate").attr("disabled","disabled").attr("style","background-color:#F5F5F5;border:1px solid darkGray");
+	} else {
+		$("#tabs li:eq(3)").click();
+	}
+}
+</script>
+<script type="text/javascript">
+TbCom.defaultLogicInit(PageData.user, 'forum');
+</script>
+</body>
+</html><!--35212093681865302282092422-->
+<script> var _trace_page_logid = 3521209368; </script>                     <!--35212093683692445962092422-->
+<script> var _trace_page_logid = 3521209368; </script>

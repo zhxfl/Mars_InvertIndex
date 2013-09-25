@@ -1,0 +1,759 @@
+<!DOCTYPE html PUBliC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="中国农业银行,农业银行,农行,中国农行,金e顺,金穗卡,金钥匙,金光道,金益农,理财,服务三农,营业机构" />
+<meta name="description" content="中国农业银行，作为一家面向“三农”、城乡联动、融入国际、综合经营的大型商业银行，秉承“大行德广　伴您成长”的服务理念，坚持审慎稳健经营、可持续发展，立足城市和县域两大市场，充分发挥城乡联动优势，实施差异化竞争策略，依托庞大的分支机构、电子化网络和多元化的金融产品，不断朝着为最广大客户群体提供优质金融服务的现代化全能型银行的目标迈进。" />
+<meta name="WT.cg_abc" content="首页" />
+<title>中国农业银行</title>
+<link href="./images/index_V3.css" rel="stylesheet" type="text/css" />
+<script src="./images/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="./images/index_V3.js" type="text/javascript"></script>
+<script>
+ var menuid = 0;
+</script>
+<!--[if IE 6]>
+<script src="./images/TranslucenPng.js"></script>
+<script type="text/javascript">
+	TranslucenPng.fix('.Search');
+    TranslucenPng.fix('#logo');
+    TranslucenPng.fix('.FstMenu ');
+TranslucenPng.fix('#g1 ');
+TranslucenPng.fix('#g2 ');
+TranslucenPng.fix('#g3 ');
+</script><![endif]-->
+</head>
+
+<body>
+<div class="bgpic">
+      <div class="banner">
+        <div id="logo"></div>
+        <div class="banner_r">
+          <div class="quicknav"><a href="/zt/default.htm" id="tc">繁体中文</a> │ <a href="http://www.abchina.com/en/default.htm">English</a> │ <a href="http://www.abchina.com/cn/EBanking/CustomerServiceCenter/CustomerServiceCenter/default.htm">客服热线：95599</a> │ <a href="http://weibo.com/abchina" target="_blank">官方微博</a></div>
+          <div class=search>
+<form action="http://query.abchina.com/search/cn.jsp" method="post" target="_self" id="searchForm">
+             <span class="searchcon" ><input name="keyword" type="text" /></span>
+            <span class="searchbut" ><button name="SearchBtn" type="button" value="&nbsp;" onclick="searchForm.submit();"></button></span>
+</form>
+          </div>
+        </div>
+        <div class="clear"></div>
+      </div>
+         <div class="bgcol">
+            <div class="V3_FstMenu">
+              <div id="FstMenu" class="V3_FstMenu_L">
+                <ul class="V3_Menu f14 bold">
+                  <li id="Menu_0" class="V3_FstMenu_on" onMouseOver="MMOver('0',menuid)" onmouseout="MMOut('0',menuid)" onClick="MMClick('Menu_0')"><a href="/cn/default.htm">首页</a></li>
+                  <li id="Menu_1" onMouseOver="MMOver('1',menuid)" onmouseout="MMOut('1',menuid)" onClick="MMClick('Menu_1')"><a href="/cn/AboutABC/default.htm">农行风貌</a></li>
+                  <li id="Menu_2" onMouseOver="MMOver('2',menuid)" onmouseout="MMOut('2',menuid)" onClick="MMClick('Menu_2')"><a href="/cn/investor-relations/default.htm">投资者关系</a></li>
+                  <li id="Menu_3" onMouseOver="MMOver('3',menuid)" onmouseout="MMOut('3',menuid)" onClick="MMClick('Menu_3')"><a href="/cn/PersonalServices/default.htm">个人服务</a></li>
+                  <li id="Menu_4" onMouseOver="MMOver('4',menuid)" onmouseout="MMOut('4',menuid)" onClick="MMClick('Menu_4')"><a href="/cn/Businesses/default.htm">企业服务</a></li>
+                  <li id="Menu_5" onMouseOver="MMOver('5',menuid)" onmouseout="MMOut('5',menuid)" onClick="MMClick('Menu_5')"><a href="/cn/RuralSvc/default.htm">三农服务</a></li>
+                  <li id="Menu_6" onMouseOver="MMOver('6',menuid)" onmouseout="MMOut('6',menuid)" onClick="MMClick('Menu_6')"><a href="/cn/EBanking/default.htm">电子银行</a></li>
+                  <li id="Menu_7" onMouseOver="MMOver('7',menuid)" onmouseout="MMOut('7',menuid)" onClick="MMClick('Menu_7')"><a href="/cn/FinancialService/default.htm">理财e站</a></li>
+                  <li id="Menu_8" onMouseOver="MMOver('8',menuid)" onmouseout="MMOut('8',menuid)" onClick="MMClick('Menu_8')"><a href="/cn/CreditCard/default.htm">信用卡</a></li>
+                </ul>
+              </div>
+              <div class="V3_FstMenu_R" ></div>
+            </div>
+
+            <div id="SecMenu0" class="V3_SecMenu">
+              热门栏目： 
+                        <a href="https://app.abchina.com/PersonalLoan/Index/Index" target="_self">个贷在线申请</a>
+            &nbsp;|&nbsp;
+                        <a href="/cn/EBanking/EPersonalBanking/default.htm" target="_self">个人网银</a>
+            &nbsp;|&nbsp;
+                        <a href="/cn/FinancialService/ABCWealth/default.htm" target="_self">银行理财</a>
+            &nbsp;|&nbsp;
+                        <a href="/cn/FinancialService/fund/" target="_self">基金</a>
+            &nbsp;|&nbsp;
+                        <a href="http://www.abchina.com/cn/CreditCard/RewardsProgram/default.htm" target="_self">积分计划</a>
+            &nbsp;|&nbsp;
+                        <a href="/cn/homepage/LifeE/RechangePayment/default.htm" target="_self">充值缴费</a>
+            &nbsp;|&nbsp;
+                        <a href="/cn/homepage/LifeE/TicketsTravelling/default.htm" target="_self">机票旅游</a>
+            &nbsp;|&nbsp;
+                        <a href="/cn/CreditCard/Installment/" target="_self">分期付款</a>
+            &nbsp;|&nbsp;
+                        <a href="/cn/EBanking/zsyh/default.htm" target="_self">掌上银行</a>
+            &nbsp;|&nbsp;
+                        <a href="http://job.abchina.com/" target="_self">人才招聘</a>
+            &nbsp;|&nbsp;
+                        <a href="https://sns.abchina.com" target="_self">互动e站</a>
+            
+            </div>
+
+            <div class="cont1">
+              <div class="cont1_l" style="height:212px;overflow:hidden">
+                <div class="loginbg">
+                  <h1>网上银行登录</h1>
+				  <div class="loginOff" onmouseover="LogOnOver(this)" onmouseout="LogOnOut(this)" onclick="window.open('/cn/EBanking/Ebanklogin/PCustomerLogin/default.htm')">
+							个人网上银行登录
+							</div>
+                  <div class="loginOff" onmouseover="LogOnOver(this)" onmouseout="LogOnOut(this)" onclick="window.open('/cn/EBanking/Ebanklogin/CCustomerLogin/default.htm')">
+								企业网上银行登录
+							</div>
+                  <div class="loginOff" onmouseover="LogOnOver(this)" onmouseout="LogOnOut(this)" onclick="window.open('/cn/EBanking/Ebanklogin/ECustomerLogin/default.htm')">
+							电子商务登录
+							</div>
+                  <div class="navigator">
+                    <div class=Icon1>
+							    <a href="/cn/EBanking/Safety/Authentication/default.htm">证书向导</a> 
+						        </div>
+                    <div class=Icon2>
+							   <a href="/cn/EBanking/Safety/default.htm" target="_blank">安全专区</a> 
+						        </div>
+                  </div>
+                </div>
+              </div>
+              <div class="cont1_r">
+			  
+
+<div name="adArea" id="adArea" adareaid="76674c62-6d04-43a9-82ff-b17269abfe72" style="width: 752px;height: 205px"></div>
+			  </div>
+              
+            </div>
+         </div>
+   
+         <div class="bgcol2">
+          <div class="cont2">
+                <div class="cont1_l">
+
+                  <div class="bjfw margintop10">
+                    <h1 class="f14 bold">便捷服务</h1>
+                    <div class="bjfwSlot">
+	                    <div class="fwitem">
+	                    <ul id="NoticText1">
+	                      <li class="item1"><a href="./homepage/LifeE/RechangePayment/" target="_blank">充值缴费</a></li>
+<li class="item10"><a href="https://easyabc.95599.cn/b2c/NotCheckStatus/KPayRegisterInitAct.ebf" target="_blank">K码签约</a></li>
+	                      <li class="item2"><a href="http://www.abchina.com/cn/PublicPlate/Quotation/bwbll/200909/t20090924_1639.htm" target="_blank">利率查询</a></li>
+	                      <li class="item3"><a href="http://www.abchina.com/cn/PublicPlate/Quotation/whhq/200911/t20091125_14291.htm" target="_blank">外汇牌价</a></li>
+	                      <li class="item5"><a href="http://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/" target="_blank">服务价格</a></li>
+	                      <li class="item6"><a href="http://www.abchina.com/cn/EBanking/zsyh/default.htm" target="_blank">快捷注册</a></li>
+	                    </ul>
+	                    <ul id="NoticText2">
+<li class="item8" ><a href="./businesses/DisposalOfAssets/"  target="_blank">资产处置</a></li>
+<li class="item4"><a href="http://www.abchina.com/cn/PublicPlate/Calculator/" target="_blank">理财计算器</a></li>
+	                      <li class="item7" style="width:120px"><a href="http://fas.abchina.com/" target="_blank">常年财务顾问</a></li>
+	                      <li class="item9" style="width:120px"><a href="http://media.abchina.com/virtualbranchv2/" target="_blank">网上营业厅</a></li>
+	                    </ul>
+	                    </div>
+                    </div>
+                    <div class="pagechange">
+                    <img src="./images/pagel.gif" width="12" height="12" onclick="movebjfw(1)" style="cursor:pointer;padding-right:20px;" />
+                    <img src="./images/pager.gif" width="12" height="12" onclick="movebjfw(2)" style="cursor:pointer;" />
+                    </div>
+                  </div>
+
+                  <div class="margintop10">
+				  
+<div name="adArea" id="adArea" adareaid="32fba42c-84c7-4dc8-8450-4c6b1363739f" style="width: 210px;height: 90px"></div>
+				  </div>
+                  <div class="margintop10">
+				  
+<div name="adArea" id="adArea" adareaid="3c340fac-0324-4ed8-a46b-08c76b542706" style="width: 210px;height: 90px"></div>
+				  </div>
+
+                 <div class="fzjg margintop10">
+                    <h1 class="f14 bold"><span>分支机构</span></h1>
+					<div class="Fdiv">
+                    <ul class="fzitem">
+                      <li onmouseover="ShowDiv(this,'g1')" onmouseout="HideDiv('g1')" style="border-bottom:1px #c0cdd5 dotted;"><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/jingneifenzhijigou/">境内分支机构</a> </li>
+						<li  onmouseover="ShowDiv(this,'g2')" onmouseout="HideDiv('g2')" style="border-bottom:1px #c0cdd5 dotted;"><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/jingwaifenzhijigou/">海外分支机构</a> </li>
+						<li  onmouseover="ShowDiv(this,'g3')" onmouseout="HideDiv('g3')"><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/zhuyaokonggugongsi/">主要控股企业</a> </li>
+                    </ul>
+					<div id="g1" class="OrgMap" onmouseover="ShowDiv(this,'');" onmouseout="HideDiv('g1')">
+						<ul>
+						<li><a href="http://www.abchina.com/cn/branch/bj/" target="_blank">北京</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/tj/" target="_blank">天津</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/he" target="_blank">河北</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/sx" target="_blank">山西</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/nm" target="_blank">内蒙古</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/ln" target="_blank">辽宁</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/jl" target="_blank">吉林</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/hl" target="_blank">黑龙江</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/sh" target="_blank">上海</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/js" target="_blank">江苏</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/zj/" target="_blank">浙江</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/ah" target="_blank">安徽</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/fj" target="_blank">福建</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/jx" target="_blank">江西</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/sd" target="_blank">山东</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/ha" target="_blank">河南</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/hb" target="_blank">湖北</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/hn" target="_blank">湖南</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/gd/" target="_blank">广东</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/gx" target="_blank">广西</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/hi" target="_blank">海南</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/sc/" target="_blank">四川</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/cq/" target="_blank">重庆</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/yn/" target="_blank">云南</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/gz" target="_blank">贵州</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/xz" target="_blank">西藏</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/sn" target="_blank">陕西</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/gs" target="_blank">甘肃</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/qh" target="_blank">青海</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/nx" target="_blank">宁夏</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/xj" target="_blank">新疆</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/xjbt" target="_blank">新疆兵团</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/dlc" target="_blank">大连</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/tao" target="_blank">青岛</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/ngb" target="_blank">宁波</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/xmn" target="_blank">厦门</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/szx" target="_blank">深圳</a></li>						
+							<li><a href="http://www.abchina.com/cn/branch/szh" target="_blank">苏州</a></li>	
+						</ul>
+					</div>
+					<div id="g2" class="OrgMap1" onmouseover="ShowDiv(this,'');" onmouseout="HideDiv('g2')" style="width:215px;height:354px;">
+						<ul>
+						
+							<li><a href="http://www.sg.abchina.com/cn/default.htm" target="_blank">新加坡分行</a></li>
+						
+							<li><a href="http://www.hk.abchina.com" target="_blank">香港分行</a></li>
+						
+							<li><a href="http://www.kr.abchina.com/cn/default.htm" target="_blank">首尔分行</a></li>
+						
+							<li><a href="http://www.us.abchina.com/cn/default.htm" target="_blank">纽约分行</a></li>
+						
+							<li><a href="http://www.ae.abchina.com/cn/default.htm" target="_blank">迪拜分行</a></li>
+						
+							<li><a href="http://www.jp.abchina.com/cn/default.htm" target="_blank">东京分行</a></li>
+						
+							<li><a href="http://www.uk.abchina.com/cn/default.htm" target="_blank">中国农业银行（英国）有限公司</a></li>
+						
+							<li><a href="http://www.abci.com.hk" target="_blank">农银国际控股有限公司</a></li>
+						
+							<li><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/jingwaifenzhijigou/" target="_blank">农银财务有限公司</a></li>
+						
+							<li><a href="http://www.abchina.com/frankfurt/cn/" target="_blank">法兰克福代表处</a></li>
+						
+							<li><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/jingwaifenzhijigou/201010/t20101019_42675.htm" target="_blank">悉尼代表处</a></li>
+						
+							<li><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/jingwaifenzhijigou/201207/t20120706_245466.htm" target="_blank">温哥华代表处</a></li>
+						
+							<li><a href="http://www.abchina.com/hanoi/cn/" target="_blank">河内代表处</a></li>
+											
+						</ul>
+					</div>
+					<div id="g3" class="OrgMap2" onmouseover="ShowDiv(this,'');" onmouseout="HideDiv('g3')">
+						<ul>
+						
+							<li><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/zhuyaokonggugongsi/" target="_blank">农银汇理基金管理有限公司</a></li>
+						
+							<li><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/zhuyaokonggugongsi/" target="_blank">农银金融租赁有限公司</a></li>
+						
+							<li><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/zhuyaokonggugongsi/" target="_blank">农银人寿保险股份有限公司</a></li>
+						
+							<li><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/zhuyaokonggugongsi/" target="_blank">湖北汉川农银村镇银行有限责任公司</a></li>
+						
+							<li><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/zhuyaokonggugongsi/" target="_blank">克什克腾农银村镇银行有限责任公司</a></li>
+						
+							<li><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/zhuyaokonggugongsi/" target="_blank">安塞农银村镇银行有限责任公司</a></li>
+						
+							<li><a href="http://www.abchina.com/cn/AboutABC/ABCInformation/Branch/zhuyaokonggugongsi/" target="_blank">绩溪农银村镇银行有限责任公司</a></li>
+						
+						</ul>
+					</div>
+					</div>
+                  </div>
+
+                  <div class="yyjg margintop10">
+                    <div class="branchmap">
+                      <h1>营业机构查询</h1>
+                      <a href="http://app.abchina.com/branch" target="_blank" ><img src="./images/map.jpg" width="171" height="63" /></a> 
+                    </div>
+                    <div class="smallad"><a href="http://app.abchina.com/kb" target="_blank" ><img src="./images/zdx.jpg" width="190" height="70" /></a></div>
+                    <div class="yqlink"><select id="FriendLink" onChange="ABC_jMenu_blank(this)">
+                      <option value="" selected="selected">友情链接</option>
+                      
+							<option value='http://www.zgcxjrb.com/'>
+								中国城乡金融报
+							</option>
+							
+							<option value='http://www.abci.com.hk'>
+								农银国际控股有限公司
+							</option>
+							
+							<option value='http://www.abc-ca.com/welcome/index.htm'>
+								农银汇理基金公司
+							</option>
+							
+							<option value='http://www.abcleasing.cc'>
+								农银金融租赁有限公司
+							</option>
+							
+							<option value='http://www.abchinalife.cn'>
+								农银人寿保险股份有限公司
+							</option>
+							
+                    </select></div>
+                  </div>
+
+                </div>
+                <div class="cont1_r">
+
+                  <div class="margintop10" style="height:130px;">
+                  <div class="newconl">
+                    <div class="newsmol">
+                     <ul class="newsitem"  style="width:310px;float:left">
+                        <li id="t1" class="tabOn" onmouseover="ShowTab(this,'tabOn','1')" style="width:96px;"><a href='./AboutABC/NewsCenter/'>新闻快递</a></li>
+                        <li><img src="./images/line1.gif" width="2" height="25" /></li>
+                        <li id="t2" class="tabOff" onmouseover="ShowTab(this,'tabOn','2')" style="width:96px;"><a href='./RuralSvc/News/'>汇利三农</a></li>
+                      </ul>
+					  <span class="more1"><a href='./AboutABC/NewsCenter/'>更多</a></span >
+					  <span class="more1" style="display:none;"><a href='./RuralSvc/News/'>更多</a></span >
+                      <div class="clear"></div>
+                    </div>
+                    <div id="Bulletin_list1">
+                    <ul class="newslist1">
+                    
+                      <li><span class="news1"><a href='./AboutABC/NewsCenter/201309/t20130924_389916.htm' title='农行强化对基层员工人文关怀工作　[2013-09-24]' target='_blank' >农行强化对基层员工人文关怀工作</a></span></li>
+                     
+                      <li><span class="news1"><a href='./AboutABC/NewsCenter/201309/t20130917_388125.htm' title='中国农业银行“母亲邮包”捐赠仪式在京举行　[2013-09-17]' target='_blank' >中国农业银行“母亲邮包”捐赠仪式在京举行</a></span></li>
+                     
+                      <li><span class="news1"><a href='./AboutABC/NewsCenter/201309/t20130916_387609.htm' title='农业银行加强县域青年人才培养　[2013-09-16]' target='_blank' >农业银行加强县域青年人才培养</a></span></li>
+                     
+                    </ul>
+                    </div>
+                    <div id="Bulletin_list2" style="display:none;">
+                    <ul class="newslist1">
+                    
+                      <li><span class="news1"><a href='./RuralSvc/News/201308/t20130829_381373.htm' title='浙江分行支持城镇化建设成效显著　[2013-08-29]' target='_blank' >浙江分行支持城镇化建设成效显著</a></span></li>
+                     
+                      <li><span class="news1"><a href='./RuralSvc/News/201308/t20130829_381372.htm' title='甘肃分行“三农”金融辅导制度 为甘肃扶贫攻坚再添活力　[2013-08-29]' target='_blank' >甘肃分行“三农”金融辅导制度 为甘肃扶贫攻坚再...</a></span></li>
+                     
+                      <li><span class="news1"><a href='./RuralSvc/News/201308/t20130829_381374.htm' title='青海分行二十三亿贷款助推农牧民脱贫致富　[2013-08-29]' target='_blank' >青海分行二十三亿贷款助推农牧民脱贫致富</a></span></li>
+                     
+                    </ul>
+					</div>
+                  </div>
+                  <div class="newcon2">
+                    <div class="newsmol">
+                      <ul class="newsitem"  style="width:310px;float:left">
+                        <li id="t3" class="tabOn" onmouseover="ShowTab(this,'tabOn','1')" style="width:96px;"><a href='./PublicPlate/ServiceNotice/'>服务公告</a></li>
+                        <li><img src="./images/line1.gif" width="2" height="25" /></li>
+                        <li id="t4" class="tabOff" onmouseover="ShowTab(this,'tabOn','2')" style="width:96px;"><a href='./PublicPlate/ABCPromotion/National/'>优惠活动</a></li>
+                      </ul>
+					  <span class="more1"><a href='./PublicPlate/ServiceNotice/'>更多</a></span >
+					  <span class="more1" style="display:none;"><a href='./PublicPlate/ABCPromotion/National/'>更多</a></span >
+                      <div class="clear"></div>
+                    </div>
+					<div id="Bulletin_list3">
+                    <ul class="newslist1">
+                    
+                      <li><span class="news1"><a href='./PublicPlate/ServiceNotice/201306/t20130621_354985.htm' title='关于对零余额长期不动账户进行集中清理的公告　[2013-06-21]' target='_blank' >关于对零余额长期不动账户进行集中清理的公告</a></span></li>
+                     
+                      <li><span class="news1"><a href='./PublicPlate/ServiceNotice/201309/t20130923_389695.htm' title='农行托管主代销景顺长城沪深300指数增强型证券投资基金　[2013-09-23]' target='_blank' >农行托管主代销景顺长城沪深300指数增强型证券投...</a></span></li>
+                     
+                      <li><span class="news1"><a href='./EBanking/Bulletin/201309/t20130922_389466.htm' title='关于湖北分行暂停部分电子银行服务的公告（9月28日）　[2013-09-22]' target='_blank' >关于湖北分行暂停部分电子银行服务的公告（9月28...</a></span></li>
+                     
+                    </ul>
+                    </div>
+                    <div id="Bulletin_list4" style="display:none;">
+                    <ul class="newslist1">
+                    
+                      <li><span class="news1"><a href='./FinancialService/Gold/Information/Announcement/201309/t20130922_389376.htm' title='首届金市通-金交所代理业务交易大赛4至6月份获奖名单　[2013-09-22]' target='_blank' >首届金市通-金交所代理业务交易大赛4至6月份获奖...</a></span></li>
+                     
+                      <li><span class="news1"><a href='./CreditCard/Promotions/GreditCardActivity/201309/t20130918_388707.htm' title='焦作地区——金穗惠生活 礼享常相伴　[2013-09-18]' target='_blank' >焦作地区——金穗惠生活 礼享常相伴</a></span></li>
+                     
+                      <li><span class="news1"><a href='./CreditCard/Promotions/GreditCardActivity/201309/t20130918_388706.htm' title='焦作地区——迎中秋 贺国庆 农行分期礼相伴　[2013-09-18]' target='_blank' >焦作地区——迎中秋 贺国庆 农行分期礼相伴</a></span></li>
+                     
+                    </ul>
+					</div>
+					
+                  </div>
+                <div class="clear"></div>
+                </div>
+
+                  <div class="margintop10" style="height:121px; overflow:hidden">
+                    <div class="newsmol">
+                      <ul class="newsitem">
+                        <li id="t5" onmouseover="ShowTab(this,'tabOn','1')" class="tabOn" style=" width:96px;cursor:pointer;"><a href="./EBanking/">电子银行</a></li>
+                        <li><img src="./images/line1.gif" width="2" height="25" /></li>
+                        <li id="t6" onmouseover="ShowTab(this,'tabOn','2')" class="tabOff" style=" width:96px;cursor:pointer;"><a href="./CreditCard/">银行卡</a></li>
+                        <li><img src="./images/line1.gif" width="2" height="25" /></li>
+                        <li id="t7" onmouseover="ShowTab(this,'tabOn','3')" class="tabOff" style=" width:96px;cursor:pointer;"><a href="./PersonalServices/">个人服务</a></li>
+                        <li><img src="./images/line1.gif" width="2" height="25" /></li>
+                        <li id="t8" onmouseover="ShowTab(this,'tabOn','4')" class="tabOff" style=" width:96px;cursor:pointer;"><a href="./businesses/">企业服务</a></li>
+                        <li><img src="./images/line1.gif" width="2" height="25" /></li>
+                        <li id="t9" onmouseover="ShowTab(this,'tabOn','5')" class="tabOff" style=" width:96px;cursor:pointer;"><a href="./RuralSvc/">三农服务</a></li>
+                      </ul>
+                      <div class="clear"></div>
+                    </div>
+                    <div class="Function" id="Bulletin_list5">
+                       <div class="FunctionLeft"><a href='./EBanking/'><b class="gold1"></b></a></div>
+                       <div class="FunctionCenter">
+                         <ul class="l24">
+							
+									<li>&gt;
+										<a href="http://www.abchina.com/cn/EBanking/Safety/SafetyBox/default.htm" target="_blank" title="K宝">K宝</a>
+									</li>
+							
+									<li>&gt;
+										<a href="http://www.abchina.com/cn/EBanking/InstallationSteps/PersonalInternetBankingInstallationSteps/default.htm" target="_blank" title="网银安装">网银安装</a>
+									</li>
+							
+									<li>&gt;
+										<a href="http://www.abchina.com/cn/EBanking/EPersonalBanking/Overview/default.htm" target="_blank" title="个人网银功能">个人网银功能</a>
+									</li>
+							
+									<li>&gt;
+										<a href="/cn/EBanking/zsyh/default.htm" target="_blank" title="掌上银行">掌上银行</a>
+									</li>
+							
+									<li>&gt;
+										<a href="/cn/EBanking/SelfSBanking/default.htm" target="_blank" title="自助银行">自助银行</a>
+									</li>
+							
+									<li>&gt;
+										<a href="/cn/EBanking/ECommerce/default.htm" target="_blank" title="电子商务">电子商务</a>
+									</li>
+							
+						</ul>
+                       </div>
+                       <div class="FunctionRight Icon1">
+                         <ul class="l24">
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/3930?m=1" target="_blank" title="二代K宝与无驱型K宝区别是什么？">二代K宝与无驱型K宝区别是什么？</a></span>
+									</li>
+									
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/3240?m=1" target="_blank" title="电子回单打印是什么功能，可以打印哪些业务的回单？">电子回单打印是什么功能，可以打印哪些业务的回单？</a></span>
+									</li>
+									
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/4508?m=1" target="_blank" title="掌上银行（Android版）提供了哪些功能？">掌上银行（Android版）提供了哪些功能？</a></span>
+									</li>
+									
+						 </ul>
+                       </div>
+                       <div class="clear"></div>
+                    </div>
+					
+					<div class="Function" id="Bulletin_list6" style="display:none;">
+                       <div class="FunctionLeft"><a href='./CreditCard/'><b class="gold2"></b></a></div>
+                       <div class="FunctionCenter">
+                         <ul class="l24">
+							
+									<li>&gt;
+										<a href="/cn/PersonalServices/DebitCard/VIPCard/default.htm" target="_blank" title="贵宾卡">贵宾卡</a>
+									</li>
+									
+									
+									<li>&gt;
+										<a href="http://www.abchina.com/cn/CreditCard/ProductsRec/default.htm" target="_blank" title="信用卡产品">信用卡产品</a>
+									</li>
+									
+									
+									<li>&gt;
+										<a href="/cn/PersonalServices/DebitCard/lmkxl/default.htm" target="_blank" title="联名卡系列">联名卡系列</a>
+									</li>
+									
+									
+									<li>&gt;
+										<a href="http://www.abchina.com/cn/CreditCard/RewardsProgram/default.htm" target="_blank" title="积分计划">积分计划</a>
+									</li>
+									
+									
+									<li>&gt;
+										<a href="/cn/PersonalServices/DebitCard/ztkxl/default.htm" target="_blank" title="主题卡系列">主题卡系列</a>
+									</li>
+									
+									
+									<li>&gt;
+										<a href="http://www.abchina.com/cn/CreditCard/Installment/StagingMall/" target="_blank" title="分期商城">分期商城</a>
+									</li>
+							 
+						</ul>
+                       </div>
+                       <div class="FunctionRight Icon2">
+                         <ul class="l24">
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/4526?m=2" target="_blank" title="我有一些信用卡的术语看不懂，请问是什么意思？">我有一些信用卡的术语看不懂，请问是什么意思？</a></span>
+									</li>
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/4524?m=2" target="_blank" title="信用卡种类很多，我该申请什么种类呢，有没有相应介绍？">信用卡种类很多，我该申请什么种类呢，有没有相应...</a></span>
+									</li>
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/4717?m=2" target="_blank" title="信用卡第三方还款的渠道有哪些？">信用卡第三方还款的渠道有哪些？</a></span>
+									</li>
+								
+						 </ul>
+                       </div>
+                       <div class="clear"></div>
+                    </div>
+					
+					<div class="Function" id="Bulletin_list7" style="display:none;">
+                       <div class="FunctionLeft"><a href='./PersonalServices/'><b class="gold3"></b></a></div>
+                       <div class="FunctionCenter">
+                         <ul class="l24">
+							
+									<li>&gt;
+										<a href="/cn/PersonalServices/Deposit/DepositProducts/200909/t20090914_1065.htm" target="_blank" title="“双利丰”">“双利丰”</a>
+									</li>
+							
+									<li>&gt;
+										<a href="http://www.abchina.com/cn/PersonalServices/Deposit/DepositProducts/200909/t20090914_1049.htm" target="_blank" title="教育储蓄">教育储蓄</a>
+									</li>
+							
+									<li>&gt;
+										<a href="/cn/PersonalServices/Loans/HomeLoans/default.htm" target="_blank" title="住房贷款">住房贷款</a>
+									</li>
+							
+									<li>&gt;
+										<a href="http://www.abchina.com/cn/PersonalServices/PrivateBanking/default.htm" target="_blank" title="私人银行">私人银行</a>
+									</li>
+							
+									<li>&gt;
+										<a href="http://www.abchina.com/cn/PersonalServices/lxjrfw/default.htm" target="_blank" title="留学金融">留学金融</a>
+									</li>
+							
+									<li>&gt;
+										<a href="/cn/PersonalServices/Deposit/default.htm" target="_blank" title="存款服务">存款服务</a>
+									</li>
+							
+						</ul>
+                       </div>
+                       <div class="FunctionRight Icon3">
+                         <ul class="l24">
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/2394?m=3" target="_blank" title="代收代缴有哪些方式？">代收代缴有哪些方式？</a></span>
+									</li>
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/2417?m=3" target="_blank" title="办理汇出汇款需要遵守哪些国家外汇管理规定？">办理汇出汇款需要遵守哪些国家外汇管理规定？</a></span>
+									</li>
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/4454?m=3" target="_blank" title="办理小额保证保险消费贷款（“保捷贷”）需要哪些条件？">办理小额保证保险消费贷款（“保捷贷”）需要哪些...</a></span>
+									</li>
+								
+						 </ul>
+                       </div>
+                       <div class="clear"></div>
+                    </div>
+
+					<div class="Function" id="Bulletin_list8" style="display:none;">
+                       <div class="FunctionLeft"><a href='./businesses/'><b class="gold4"></b></a></div>
+                       <div class="FunctionCenter">
+                         <ul class="l24">
+							
+									<li>&gt;
+										<a href="/cn/Businesses/Financing/IntTradeFinace/default.htm" target="_blank" title="国际贸易融资">国际贸易融资</a>
+
+									</li>
+							
+									<li>&gt;
+										<a href="/cn/Businesses/Financing/DstTradeFinace/default.htm" target="_blank" title="国内贸易融资">国内贸易融资</a>
+
+									</li>
+							
+									<li>&gt;
+										<a href="/cn/Businesses/SME/default.htm" target="_blank" title="中小企业">中小企业</a>
+
+									</li>
+							
+									<li>&gt;
+										<a href="/cn/Businesses/CashMgmt/default.htm" target="_blank" title="现金管理">现金管理</a>
+
+									</li>
+							
+									<li>&gt;
+										<a href="/cn/Businesses/Payment/default.htm" target="_blank" title="支付结算">支付结算</a>
+
+									</li>
+							
+									<li>&gt;
+										<a href="/cn/businesses/bankingsector/default.htm" target="_blank" title="金融同业">金融同业</a>
+
+									</li>
+							
+						</ul>
+                       </div>
+                       <div class="FunctionRight Icon4">
+                         <ul class="l24">
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/4476?m=4" target="_blank" title="农业银行提供的托管服务有哪些？">农业银行提供的托管服务有哪些？</a></span>
+									</li>
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/3437?m=4" target="_blank" title="券商定向资产管理计划采用什么托管模式？">券商定向资产管理计划采用什么托管模式？</a></span>
+									</li>
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/2605?m=4" target="_blank" title="农业银行的财务顾问服务有哪些形式？">农业银行的财务顾问服务有哪些形式？</a></span>
+									</li>
+								
+						 </ul>
+                       </div>
+                       <div class="clear"></div>
+                    </div>
+
+					<div class="Function" id="Bulletin_list9" style="display:none;">
+                       <div class="FunctionLeft"><a href='./RuralSvc/'><b class="gold5"></b></a></div>
+                       <div class="FunctionCenter">
+                         <ul class="l24">
+							
+								<li>&gt;
+									<a href="/cn/RuralSvc/Businesses/General/200909/t20090914_995.htm" target="_blank" title="循环额度授信">循环额度授信</a>
+								</li>
+							
+								<li>&gt;
+									<a href="/cn/RuralSvc/Individuals/HuinongCreditcard/" target="_blank" title="惠农信用卡">惠农信用卡</a>
+								</li>
+							
+								<li>&gt;
+									<a href="/cn/RuralSvc/Individuals/MicroCredit/" target="_blank" title="农户小额贷款">农户小额贷款</a>
+								</li>
+							
+								<li>&gt;
+									<a href="/cn/RuralSvc/Businesses/Features/200909/t20090914_997.htm" target="_blank" title="农村城镇化贷款">农村城镇化...</a>
+								</li>
+							
+							
+								<li style="width:180px;">&gt;
+									<a href="/cn/RuralSvc/Businesses/Features/200909/t20090914_996.htm" target="_blank" title="农村基础设施建设贷款">农村基础设施建设贷款</a>
+								</li>
+							
+						</ul>
+                       </div>
+                       <div class="FunctionRight Icon5">
+                         <ul class="l24">
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/3399?m=5" target="_blank" title="小企业多户联保贷款的还款方式是什么？">小企业多户联保贷款的还款方式是什么？</a></span>
+									</li>
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/3638?m=5" target="_blank" title="怎样取得农户小额贷款？">怎样取得农户小额贷款？</a></span>
+									</li>
+								
+									<li>
+										<span><a href="http://app.abchina.com/Kb/Knowledge/3326?m=5" target="_blank" title="农村城镇化贷款的期限分为哪几种？">农村城镇化贷款的期限分为哪几种？</a></span>
+									</li>
+								
+						 </ul>
+                       </div>
+                       <div class="clear"></div>
+                    </div>
+                  </div>
+
+                  <div class="margintop10" style="height:162px; overflow:hidden">
+                    <div class="newsmol2">
+                      <span><a href="./FinancialService/">理财e站</a></span>
+                      <ul class="newsitem2">
+						
+							<li><a href="/cn/FinancialService/ABCWealth/default.htm" target="_blank" title="银行理财">银行理财</a></li>
+						
+						
+							<li>│</li>
+							<li><a href="/cn/FinancialService/fund/" target="_blank" title="基金">基金</a></li>
+						
+							<li>│</li>
+							<li><a href="/cn/FinancialService/Gold/" target="_blank" title="贵金属">贵金属</a></li>
+						
+							<li>│</li>
+							<li><a href="/cn/FinancialService/Bonds/default.htm" target="_blank" title="债券">债券</a></li>
+						
+							<li>│</li>
+							<li><a href="/cn/FinancialService/ForeignExchange/default.htm" target="_blank" title="外汇">外汇</a></li>
+						
+							<li>│</li>
+							<li><a href="/cn/FinancialService/Insurance/default.htm" target="_blank" title="保险">保险</a></li>
+						
+                      </ul>
+                      <div class="clear"></div>
+                    </div>
+                    <DIV class=Function>
+                       <DIV class=FunctionLeft2><a href='./FinancialService/Information/lcqk/201307/t20130725_369228.htm' target="_blank"><img src='./FinancialService/Information/lcqk/201307/W020130725357611172905.jpg' width="83" height="107" /></a></DIV>
+                       <DIV class=FunctionCenter>
+                         <ul class="l28">
+						 
+							<li>&gt;<a href="http://www.abchina.com/cn/FinancialService/ABCWealth/Products/AllProdcts/?t=本利丰" target="_blank" title="本利丰">本利丰</a></li>
+						
+							<li>&gt;<a href="http://www.abchina.com/cn/FinancialService/ABCWealth/Products/AllProdcts/?t=汇利丰" target="_blank" title="汇利丰">汇利丰</a></li>
+						
+							<li>&gt;<a href="http://www.abchina.com/cn/FinancialService/ABCWealth/Products/AllProdcts/?t=安心得利" target="_blank" title="安心得利">安心得利</a></li>
+						
+							<li>&gt;<a href="http://www.abchina.com/cn/FinancialService/ABCWealth/Products/AllProdcts/?t=安心快线" target="_blank" title="安心快线">安心快线</a></li>
+						
+							<li>&gt;<a href="http://www.abchina.com/cn/FinancialService/ABCWealth/Products/AllProdcts/?t=境外宝" target="_blank" title="境外宝">境外宝</a></li>
+						
+							<li>&gt;<a href="http://www.abchina.com/cn/FinancialService/fund/choiceproduct/LookTopChoiceFund/" target="_blank" title="基金排行">基金排行</a></li>
+						
+							<li>&gt;<a href="/cn/FinancialService/Gold/Products/EntityGold/" target="_blank" title="实物黄金">实物黄金</a></li>
+						
+							<li>&gt;<a href="/cn/FinancialService/ForeignExchange/Products/StudyAbroadTreasure/" target="_blank" title="留学宝">留学宝</a></li>
+						
+  </ul>
+                       </div>
+                     <div class=FunctionRight2>
+                         <div class="sfcp"><span class="xf">新发产品</span><span class="more2"><a href="http://www.abchina.com/cn/FinancialService/ABCWealth/Products/OnPurchasingProduct/">更多</a></span><div class="clear"></div></div>
+                         <ul class="l30" id="top4Products">
+  </ul>
+                       </div>
+                       <div class="clear"></div>
+                    </div>
+                  </div>
+                  <div class="margintop10">				  
+				  
+<div name="adArea" id="adArea" adareaid="a9147f12-b4de-4644-b6b1-ab18ecf9c73d" style="width: 752px;height: 120px"></div></div>
+                    <div class="cont4 margintop10">
+                      <div class="cont4l">
+                        <div class="hditem">
+                          <span class="hdtp"><a href="https://sns.abchina.com/"><img src="./images/hdez_log.gif" width="86" height="26" /></a></span>
+                          <span class="more3"><a href="https://sns.abchina.com/">更多</a></span>
+                          <div class="clear"></div>
+                        </div>
+                        <ul class="hdlm">
+                          <li><a href="https://sns.abchina.com/FinancialPlanner"><img src="./images/hdez_log_1.jpg" width="54" height="50" /></a><p><a href="https://sns.abchina.com/FinancialPlanner">线上理财师</a></p></li>
+                          <li><a href="https://sns.abchina.com/blog"><img src="./images/hdez_log_2.jpg" width="54" height="50" /></a><p><a href="https://sns.abchina.com/blog">专家视点</a></p></li>
+                          <li><a href="https://sns.abchina.com/group"><img src="./images/hdez_log_3.jpg" width="54" height="50" /></a><p><a href="https://sns.abchina.com/group">会员圈子</a></p></li>
+                          <li><a href="https://sns.abchina.com/Forum"><img src="./images/hdez_log_4.jpg" width="54" height="50" /></a><p><a href="https://sns.abchina.com/Forum">讨论话题</a></p></li>
+                        </ul>
+                      </div>
+                      <div class="cont4c">&nbsp;</div>
+                      <div class="cont4l">
+                        <div class="hditem">
+                          <span class="hdtp"><a href="http://www.abchina.com/cn/homepage/LifeE/"><img src="./images/life_log.gif" width="86" height="26" /></a></span>
+                          <span class="more3"><a href="http://www.abchina.com/cn/homepage/LifeE/">更多</a></span>
+                          <div class="clear"></div>
+                        </div>
+                        <ul class="hdlm">
+                          <li><a href="./homepage/LifeE/RechangePayment/"><img src="./images/life_log_1.jpg" width="54" height="50" /></a><p><a href="./homepage/LifeE/RechangePayment/">充值缴费</a></p></li>
+                          <li><a href="./homepage/LifeE/TicketsTravelling/"><img src="./images/life_log_2.jpg" width="54" height="50" /></a><p><a href="./homepage/LifeE/TicketsTravelling/">机票旅游</a></p></li>
+                          <li><a href="./homepage/LifeE/ShoppingOnline/"><img src="./images/life_log_3.jpg" width="54" height="50" /></a><p><a href="./homepage/LifeE/ShoppingOnline/">网上购物</a></p></li>
+                          <li><a href="./homepage/LifeE/MovieTickets/"><img src="./images/life_log_4.jpg" width="54" height="50" /></a><p><a href="./homepage/LifeE/MovieTickets/">电影票</a></p></li>
+                        </ul>
+                      </div>
+                    </div>
+                  
+                </div>
+              <div class="clear"></div>
+          </div>
+         </div>
+
+      <div class="foot">
+<script type="text/javascript" src="./images/ad.js"></script>
+<SCRIPT SRC="./images/dcs_tag.js" TYPE="text/javascript"></SCRIPT> 
+<div class="V3_Foot MarginTop10">
+        <div class="footl"><a href="./PublicPlate/documents/200911/t20091130_16583.htm" target="_blank">网站声明</a>  |  <a href="http://app.abchina.com/branch" target="_blank">服务网点</a>  | <a href="./PublicPlate/WebLink/websitemap/" target="_blank">网站地图</a>  | <a href="./AboutABC/ContactUs/" target="_blank">联系我们</a>  | <a href="/cn/EBanking/CustomerServiceCenter/CustomerServiceCenter/default.htm" target="_blank" >客服热线：<font style="color:#ff9600;">95599</font></a><br /> 中国农业银行版权所有 | <a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备05049539</a>
+        </div>
+        <div class="footr"><a id='___szfw_logo___' href='https://search.szfw.org/cert/l/CX20120927001787002018' target='_blank'><img src="./images/index_V3_cxwz.jpg" width="90" height="32" /></a>
+<script type='text/javascript'>(function(){document.getElementById('___szfw_logo___').oncontextmenu = function(){return false;}})();</script>
+</div>
+        <div class="clear"></div>
+      </div>
+
+    </div>
+
+</div>
+<!--ABCPORTAL VER3.0-->
+</body>
+</html>

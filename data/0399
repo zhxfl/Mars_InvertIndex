@@ -1,0 +1,47 @@
+<html>
+<head>
+    <title>京东网上商城</title>
+</head>
+<body>
+<form method="post" action="http://click.union.jd.com/statistic/redirectPage.action">
+    <input type="hidden" name="unionid" value="75"/>
+    <input type="hidden" name="t" value=""/>
+    <input type="hidden" name="to" value="http://www.jd.com/?juc=emp1&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_75_&utm_term=bc5161f5b3d44e53a3bd75f95b251f74"/>
+    <input type="hidden" name="keyword" value=""/>
+    <input type="hidden" name="siteid" value=""/>
+    <input type="hidden" name="edmkey" value=""/>
+    <input type="hidden" name="euid" value=""/>
+
+    <input type="hidden" name="domain" value=".jd.com"/>
+    <input type="hidden" name="strefer" value=""/>
+    <input type="hidden" name="uuid" value="a09f12b8-3266-4805-a1dc-a0cb0e757eb8"/>
+    <input type="hidden" name="pin" value=""/>
+
+    <input type="hidden" name="randomkey" value="8B6697227CBCA902B1A0925D40FAA00B353F2DF4359D2099"/>
+    <input type="hidden" name="ft" value="0"/>
+    <input type="hidden" name="wuid" value="a09f12b8-3266-4805-a1dc-a0cb0e757eb8"/>
+    <input type="hidden" name="adp" value=""/>
+
+    <input type="hidden" name="unt" value="2013-09-24 23:11:44"/>
+    <input type="hidden" name="isEnableClickUID" value="true"/>
+    <input type="hidden" name="clickUUID" value="9444501029526233a09f12b8-3266-4805-a1dc-a0cb0e757eb8"/>
+</form>
+
+<script type="text/javascript" src="http://autorank.jd.com/auto.php?service=union&unionId=75&ucid=bc5161f5b3d44e53a3bd75f95b251f74&referResource="></script>
+<script type="text/javascript">
+        
+
+    if (self.location != top.location) {
+        location.href = 'http://www.360buy.com/?juc=cht1';
+    } else if (1==1
+    )
+    {
+        document.forms[0].submit();
+    }
+    else
+    {
+        
+    }
+</script>
+</body>
+</html>
